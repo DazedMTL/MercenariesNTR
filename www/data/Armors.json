@@ -1,0 +1,9315 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 4,
+        "description": "装備LV.1 スロット数:2 防御力+3 魔力防御+3 最大HP+8",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "傭兵の服",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:1>\n<装備スロット:5+2>",
+        "params": [
+            8,
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 2,
+        "atypeId": 2,
+        "description": "装備LV.1 スロット数:1 防御力+6 魔力防御+3 最大HP+15",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "傭兵の鎧",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<装備スロット:5+1>",
+        "params": [
+            15,
+            0,
+            0,
+            6,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 3,
+        "atypeId": 3,
+        "description": "装備LV.1 スロット数:1 防御力+3 魔力防御+6 最大HP+11 最大MP+4",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "傭兵の法衣",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<装備スロット:5+1>",
+        "params": [
+            11,
+            4,
+            0,
+            3,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 4,
+        "atypeId": 4,
+        "description": "装備LV.4 スロット数:1 防御力+12 魔力防御+12 最大HP+20",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "強化ベスト",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:4>\n<装備スロット:5+1>",
+        "params": [
+            20,
+            0,
+            0,
+            12,
+            0,
+            12,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 5,
+        "atypeId": 4,
+        "description": "装備LV.6 スロット数:2 防御力+9 魔力防御+9 最大HP+15",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "特殊作業衣",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:6>\n<装備スロット:5+2>",
+        "params": [
+            15,
+            0,
+            0,
+            9,
+            0,
+            9,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 6,
+        "atypeId": 2,
+        "description": "装備LV.6 スロット数:1 防御力+18 魔力防御+9 最大HP+30",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "アイアンメイル",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<装備スロット:5+1>",
+        "params": [
+            30,
+            0,
+            0,
+            18,
+            0,
+            9,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 7,
+        "atypeId": 3,
+        "description": "装備LV.6 スロット数:1 防御力+9 魔力防御+18 最大HP+23 最大MP+12",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "魔術士の法衣",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<装備スロット:5+1>",
+        "params": [
+            23,
+            12,
+            0,
+            9,
+            0,
+            18,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 8,
+        "atypeId": 2,
+        "description": "装備LV.6 スロット数:2 防御力+20 魔力防御+10 最大HP+35",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ラケルタメイル",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:6>\n<装備スロット:5+2>",
+        "params": [
+            35,
+            0,
+            0,
+            20,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 9,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 10,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 11,
+        "atypeId": 4,
+        "description": "装備LV.9 スロット数:1 防御力+27 魔力防御+27 最大HP+40",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "鎖帷子",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:9>\n<装備スロット:5+1>",
+        "params": [
+            40,
+            0,
+            0,
+            27,
+            0,
+            27,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 12,
+        "atypeId": 4,
+        "description": "装備LV.11 スロット数3 防御力+21 魔力防御+21 最大HP+30",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "コットンタブレット",
+        "note": "<kms_orbslot: 3, 0>\n<requiredLevel:11>\n<装備スロット:5+3>",
+        "params": [
+            30,
+            0,
+            0,
+            21,
+            0,
+            21,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 13,
+        "atypeId": 2,
+        "description": "装備LV.11 スロット数:1 防御力+42 魔力防御+21 最大HP+60",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "バンデッドメイル",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<装備スロット:5+1>",
+        "params": [
+            60,
+            0,
+            0,
+            42,
+            0,
+            21,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 14,
+        "atypeId": 3,
+        "description": "装備LV.11 スロット数:1 防御力+21 魔力防御+42 最大HP+45 最大MP+24",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "ウールローブ",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<装備スロット:5+1>",
+        "params": [
+            45,
+            24,
+            0,
+            21,
+            0,
+            42,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 15,
+        "atypeId": 3,
+        "description": "装備LV.11 スロット数:3 防御力+24 魔力防御+48 最大HP+50 最大MP+29",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "シュバルツローブ",
+        "note": "<kms_orbslot: 3, 0>\n<requiredLevel:11>\n<装備スロット:5+3>",
+        "params": [
+            50,
+            29,
+            0,
+            24,
+            0,
+            48,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 16,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 17,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 18,
+        "atypeId": 4,
+        "description": "装備LV.14 スロット数:1 防御力+48 魔力防御+48 最大HP+70",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "シャインベスト",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:14>\n<装備スロット:5+1>",
+        "params": [
+            70,
+            0,
+            0,
+            48,
+            0,
+            48,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 19,
+        "atypeId": 4,
+        "description": "装備LV.16 スロット数:4 防御力+36 魔力防御+36 最大HP+53",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "クールコート",
+        "note": "<kms_orbslot: 4, 0>\n<requiredLevel:16>\n<装備スロット:5+4>",
+        "params": [
+            53,
+            0,
+            0,
+            36,
+            0,
+            36,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 20,
+        "atypeId": 2,
+        "description": "装備LV.16 スロット数:2 防御力+72 魔力防御+36 最大HP+105",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ヘヴィメイル",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<装備スロット:5+2>",
+        "params": [
+            105,
+            0,
+            0,
+            72,
+            0,
+            36,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 21,
+        "atypeId": 3,
+        "description": "装備LV.16 スロット数:2 防御力+36 魔力防御+72 最大HP+79 最大MP+40",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "神秘の法衣",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<装備スロット:5+2>",
+        "params": [
+            79,
+            40,
+            0,
+            36,
+            0,
+            72,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 22,
+        "atypeId": 4,
+        "description": "装備LV.16 スロット数:5 防御力+50 魔力防御+50 最大HP+77",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "ホワイトコート",
+        "note": "<kms_orbslot: 5, 0>\n<requiredLevel:16>\n<装備スロット:5+5>",
+        "params": [
+            77,
+            0,
+            0,
+            50,
+            0,
+            50,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 23,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 24,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 25,
+        "atypeId": 4,
+        "description": "装備LV.19 スロット数:1 防御力+80 魔力防御+80 最大HP+135",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "フラワーシャツ",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:19>\n<装備スロット:5+1>",
+        "params": [
+            135,
+            0,
+            0,
+            80,
+            0,
+            80,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 26,
+        "atypeId": 4,
+        "description": "装備LV.21 スロット数:4 防御力+60 魔力防御+60 最大HP+98",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "ブラックコート",
+        "note": "<kms_orbslot: 4, 0>\n<requiredLevel:21>\n<装備スロット:5+4>",
+        "params": [
+            98,
+            0,
+            0,
+            60,
+            0,
+            60,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 27,
+        "atypeId": 2,
+        "description": "装備LV.21 スロット数:2 防御力+120 魔力防御+60 最大HP+195",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ドラゴンメイル",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<装備スロット:5+2>",
+        "params": [
+            195,
+            0,
+            0,
+            120,
+            0,
+            60,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 28,
+        "atypeId": 3,
+        "description": "装備LV.21 スロット数:2 防御力+60 魔力防御+120 最大HP+149 最大MP+60",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "クリムゾンローブ",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<装備スロット:5+2>",
+        "params": [
+            149,
+            60,
+            0,
+            60,
+            0,
+            120,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 29,
+        "atypeId": 2,
+        "description": "装備LV.21 スロット数:4 防御力+150 魔力防御+75 最大HP+270",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ドレイクメイル",
+        "note": "<kms_orbslot: 4, 0>\n<requiredLevel:21>\n<装備スロット:5+4>",
+        "params": [
+            270,
+            0,
+            0,
+            150,
+            0,
+            75,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 30,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 31,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 32,
+        "atypeId": 4,
+        "description": "装備LV.24 スロット数:1 防御力+120 魔力防御+120 最大HP+250",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "神秘の戦闘服",
+        "note": "<kms_orbslot: 1, 0>\n<requiredLevel:24>\n<装備スロット:5+1>",
+        "params": [
+            250,
+            0,
+            0,
+            120,
+            0,
+            120,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 33,
+        "atypeId": 4,
+        "description": "装備LV.26 スロット数:4 防御力+90 魔力防御+90 最大HP+188",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "カーボンスーツ",
+        "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
+        "params": [
+            188,
+            0,
+            0,
+            90,
+            0,
+            90,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 34,
+        "atypeId": 2,
+        "description": "装備LV.26 スロット数:2 防御力+180 魔力防御+90 最大HP+375",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ダマスカスメイル",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<装備スロット:5+2>",
+        "params": [
+            375,
+            0,
+            0,
+            180,
+            0,
+            90,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 35,
+        "atypeId": 3,
+        "description": "装備LV.26 スロット数:2 防御力+90 魔力防御+180 最大HP+281 最大MP+80",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "ミラクルローブ",
+        "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<装備スロット:5+2>",
+        "params": [
+            281,
+            80,
+            0,
+            90,
+            0,
+            180,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 36,
+        "atypeId": 2,
+        "description": "装備LV.26 スロット数:4 防御力+220 魔力防御+110 最大HP+487",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "ガイアアーマ",
+        "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
+        "params": [
+            487,
+            0,
+            0,
+            220,
+            0,
+            110,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 37,
+        "atypeId": 3,
+        "description": "装備LV.26 スロット数:4 防御力+110 魔力防御+220 最大HP+354 最大MP+93",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "ガイアローブ",
+        "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
+        "params": [
+            354,
+            93,
+            0,
+            110,
+            0,
+            220,
+            0,
+            0
+        ],
+        "price": 30000
+    },
+    {
+        "id": 38,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 39,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 40,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 41,
+        "atypeId": 2,
+        "description": "装備LV.1  防御力+2 魔力防御+2 最大HP+5",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "傭兵の兜",
+        "note": "<requiredLevel:1>",
+        "params": [
+            5,
+            0,
+            0,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 50
+    },
+    {
+        "id": 42,
+        "atypeId": 1,
+        "description": "装備LV.1  防御力+1 魔力防御+1 敏捷性+5 最大HP+3 回避率+2",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.02
+            }
+        ],
+        "iconIndex": 131,
+        "name": "傭兵のバンダナ",
+        "note": "<requiredLevel:1>",
+        "params": [
+            3,
+            0,
+            0,
+            1,
+            0,
+            1,
+            5,
+            0
+        ],
+        "price": 50
+    },
+    {
+        "id": 43,
+        "atypeId": 3,
+        "description": "装備LV.1  防御力+1 魔力攻撃+1 魔力防御+1 最大HP+3 最大MP+2",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "傭兵の帽子",
+        "note": "<requiredLevel:1>",
+        "params": [
+            3,
+            2,
+            0,
+            1,
+            2,
+            1,
+            0,
+            0
+        ],
+        "price": 50
+    },
+    {
+        "id": 44,
+        "atypeId": 4,
+        "description": "装備LV.4  防御力+4 魔力防御+4 最大HP+8",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "ヘッドギア",
+        "note": "<requiredLevel:4>",
+        "params": [
+            8,
+            0,
+            0,
+            4,
+            0,
+            4,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 45,
+        "atypeId": 2,
+        "description": "装備LV.6  防御力+6 魔力防御+6 最大HP+10",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "アイアンヘルム",
+        "note": "<requiredLevel:6>",
+        "params": [
+            10,
+            0,
+            0,
+            6,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 46,
+        "atypeId": 1,
+        "description": "装備LV.6  防御力+3 魔力防御+3 敏捷性+10 最大HP+5 回避率+4",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 131,
+        "name": "鉄の額当て",
+        "note": "<requiredLevel:6>",
+        "params": [
+            5,
+            0,
+            0,
+            3,
+            0,
+            3,
+            10,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 47,
+        "atypeId": 3,
+        "description": "装備LV.6  防御力+3 魔力攻撃+6 魔力防御+4 最大HP+5 最大MP+6",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "魔術士の帽子",
+        "note": "<requiredLevel:6>",
+        "params": [
+            5,
+            6,
+            0,
+            3,
+            6,
+            3,
+            0,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 48,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 49,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 50,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 51,
+        "atypeId": 4,
+        "description": "装備LV.9  防御力+10 魔力防御+10 最大HP+15",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "カウボーイハット",
+        "note": "<requiredLevel:9>",
+        "params": [
+            15,
+            0,
+            0,
+            10,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 250
+    },
+    {
+        "id": 52,
+        "atypeId": 2,
+        "description": "装備LV.11 防御力+14 魔力防御+14 最大HP+20",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "バンデッドヘルム",
+        "note": "<requiredLevel:11>",
+        "params": [
+            20,
+            0,
+            0,
+            14,
+            0,
+            14,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 53,
+        "atypeId": 1,
+        "description": "装備LV.11 防御力+7 魔力防御+7 敏捷性+15 最大HP+10 回避率+7",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.07
+            }
+        ],
+        "iconIndex": 131,
+        "name": "パープルバンダナ",
+        "note": "<requiredLevel:11>",
+        "params": [
+            10,
+            0,
+            0,
+            7,
+            0,
+            7,
+            15,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 54,
+        "atypeId": 3,
+        "description": "装備LV.11 防御力+7 魔力攻撃+12 魔力防御+7 最大HP+10 最大MP+12",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "銀の髪飾り",
+        "note": "<requiredLevel:11>",
+        "params": [
+            10,
+            12,
+            0,
+            7,
+            12,
+            7,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 55,
+        "atypeId": 4,
+        "description": "装備LV.11  防御力+13 魔力防御+13 最大HP+28",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "テンガロンハット",
+        "note": "<requiredLevel:11>",
+        "params": [
+            28,
+            0,
+            0,
+            13,
+            0,
+            13,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 56,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 57,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 58,
+        "atypeId": 4,
+        "description": "装備LV.14 防御力+18 魔力防御+18 最大HP+28",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "レッドキャップ",
+        "note": "<requiredLevel:14>",
+        "params": [
+            28,
+            0,
+            0,
+            18,
+            0,
+            18,
+            0,
+            0
+        ],
+        "price": 750
+    },
+    {
+        "id": 59,
+        "atypeId": 2,
+        "description": "装備LV.16 防御力+24 魔力防御+24 最大HP+35",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ヘヴィヘルム",
+        "note": "<requiredLevel:16>",
+        "params": [
+            35,
+            0,
+            0,
+            24,
+            0,
+            24,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 60,
+        "atypeId": 1,
+        "description": "装備LV.16 防御力+12 魔力防御+12 敏捷性+20 最大HP+18 回避率+11",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.11
+            }
+        ],
+        "iconIndex": 131,
+        "name": "疾風の鉢巻き",
+        "note": "<requiredLevel:16>",
+        "params": [
+            18,
+            0,
+            0,
+            12,
+            0,
+            12,
+            20,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 61,
+        "atypeId": 3,
+        "description": "装備LV.16 防御力+12 魔力攻撃+21 魔力防御+12 最大HP+18 最大MP+20",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "金の髪飾り",
+        "note": "<requiredLevel:16>",
+        "params": [
+            18,
+            20,
+            0,
+            12,
+            21,
+            12,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 62,
+        "atypeId": 2,
+        "description": "装備LV.16 防御力+30 魔力防御+30 最大HP+44",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ハードヘルム",
+        "note": "<requiredLevel:16>",
+        "params": [
+            44,
+            0,
+            0,
+            30,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 63,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 64,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 65,
+        "atypeId": 4,
+        "description": "装備LV.19 防御力+30 魔力防御+30 最大HP+50",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "レアークラウン",
+        "note": "<requiredLevel:19>",
+        "params": [
+            50,
+            0,
+            0,
+            30,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 2500
+    },
+    {
+        "id": 66,
+        "atypeId": 2,
+        "description": "装備LV.21 防御力+40 魔力防御+40 最大HP+65",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ドラゴンヘルム",
+        "note": "<requiredLevel:21>",
+        "params": [
+            65,
+            0,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 67,
+        "atypeId": 1,
+        "description": "装備LV.21 防御力+20 魔力防御+20 敏捷性+25 最大HP+33 回避率+15",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.15
+            }
+        ],
+        "iconIndex": 131,
+        "name": "イーグルバンダナ",
+        "note": "<requiredLevel:21>",
+        "params": [
+            33,
+            0,
+            0,
+            20,
+            0,
+            20,
+            25,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 68,
+        "atypeId": 3,
+        "description": "装備LV.21 防御力+20 魔力攻撃+33 魔力防御+20 最大HP+33 最大MP+30",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "水晶の髪飾り",
+        "note": "<requiredLevel:21>",
+        "params": [
+            33,
+            30,
+            0,
+            20,
+            33,
+            20,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 69,
+        "atypeId": 3,
+        "description": "装備LV.21 防御力+25 魔力攻撃+40 魔力防御+25 最大HP+48 最大MP+35",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "瑪瑙の髪飾り",
+        "note": "<requiredLevel:21>",
+        "params": [
+            48,
+            35,
+            0,
+            25,
+            40,
+            25,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 70,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 71,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 72,
+        "atypeId": 4,
+        "description": "装備LV.24 防御力+45 魔力防御+45 最大HP+95",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "ダマスカスヘッド",
+        "note": "<requiredLevel:24>",
+        "params": [
+            95,
+            0,
+            0,
+            45,
+            0,
+            45,
+            0,
+            0
+        ],
+        "price": 7500
+    },
+    {
+        "id": 73,
+        "atypeId": 2,
+        "description": "装備LV.26 防御力+60 魔力防御+60 最大HP+125",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ダマスカスヘルム",
+        "note": "<requiredLevel:26>",
+        "params": [
+            125,
+            0,
+            0,
+            60,
+            0,
+            60,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 74,
+        "atypeId": 1,
+        "description": "装備LV.26 防御力+30 魔力防御+30 敏捷性+30 最大HP+63 回避率+19",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.19
+            }
+        ],
+        "iconIndex": 131,
+        "name": "ダマスカスバイザー",
+        "note": "<requiredLevel:26>",
+        "params": [
+            63,
+            0,
+            0,
+            30,
+            0,
+            30,
+            30,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 75,
+        "atypeId": 3,
+        "description": "装備LV.26 防御力+30 魔力攻撃+46 魔力防御+30 最大HP+63 最大MP+40",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "聖魔の帽子",
+        "note": "<requiredLevel:26>",
+        "params": [
+            63,
+            40,
+            0,
+            30,
+            46,
+            30,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 76,
+        "atypeId": 2,
+        "description": "装備LV.26 防御力+72 魔力防御+72 最大HP+153",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ガイアヘルム",
+        "note": "<requiredLevel:26>",
+        "params": [
+            153,
+            0,
+            0,
+            72,
+            0,
+            72,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 77,
+        "atypeId": 3,
+        "description": "装備LV.26 防御力+36 魔力攻撃+54 魔力防御+36 最大HP+76 最大MP+46",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 133,
+        "name": "ガイアフード",
+        "note": "<requiredLevel:26>",
+        "params": [
+            76,
+            46,
+            0,
+            36,
+            54,
+            36,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 78,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 79,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 80,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 81,
+        "atypeId": 2,
+        "description": "装備LV.1  防御力+2 魔力防御+2 最大HP+5",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "アームガード",
+        "note": "<requiredLevel:1>",
+        "params": [
+            5,
+            0,
+            0,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 50
+    },
+    {
+        "id": 82,
+        "atypeId": 1,
+        "description": "装備LV.1  攻撃力+2 防御力+1 魔力防御+1 最大HP+3",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "ブロンズバングル",
+        "note": "<requiredLevel:1>",
+        "params": [
+            3,
+            0,
+            2,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 50
+    },
+    {
+        "id": 83,
+        "atypeId": 1,
+        "description": "装備LV.1  防御力+1 魔力防御+1 最大HP+3 命中率+2",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.02
+            }
+        ],
+        "iconIndex": 142,
+        "name": "レザーグローブ",
+        "note": "<requiredLevel:1>",
+        "params": [
+            3,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "price": 50
+    },
+    {
+        "id": 84,
+        "atypeId": 4,
+        "description": "装備LV.4  防御力+4 魔力防御+4 最大HP+8",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "レザーハンド",
+        "note": "<requiredLevel:4>",
+        "params": [
+            8,
+            0,
+            0,
+            4,
+            0,
+            4,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 85,
+        "atypeId": 2,
+        "description": "装備LV.6  防御力+6 魔力防御+6 最大HP+10",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "ガントレット",
+        "note": "<requiredLevel:6>",
+        "params": [
+            10,
+            0,
+            0,
+            6,
+            0,
+            6,
+            0,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 86,
+        "atypeId": 1,
+        "description": "装備LV.6  攻撃力+6 防御力+3 魔力防御+3 最大HP+5",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "アイアンバングル",
+        "note": "<requiredLevel:6>",
+        "params": [
+            5,
+            0,
+            6,
+            3,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 87,
+        "atypeId": 1,
+        "description": "装備LV.6  防御力+3 魔力防御+3 最大HP+5 命中率+5",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.05
+            }
+        ],
+        "iconIndex": 142,
+        "name": "ハンターグローブ",
+        "note": "<requiredLevel:6>",
+        "params": [
+            5,
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 88,
+        "atypeId": 3,
+        "description": "装備LV.6  魔力攻撃+5 魔力防御+3 最大MP+5",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "マジックグローブ",
+        "note": "<requiredLevel:6>",
+        "params": [
+            0,
+            5,
+            0,
+            0,
+            5,
+            3,
+            0,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 89,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 90,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 91,
+        "atypeId": 4,
+        "description": "装備LV.9  防御力+10 魔力防御+10 最大HP+15",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "ウォーハンド",
+        "note": "<requiredLevel:9>",
+        "params": [
+            15,
+            0,
+            0,
+            10,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 250
+    },
+    {
+        "id": 92,
+        "atypeId": 2,
+        "description": "装備LV.11  防御力+14 魔力防御+14 最大HP+20",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "バンデッドガード",
+        "note": "<requiredLevel:11>",
+        "params": [
+            20,
+            0,
+            0,
+            14,
+            0,
+            14,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 93,
+        "atypeId": 1,
+        "description": "装備LV.11  攻撃力+12 防御力+7 魔力防御+7 最大HP+10",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "シルバーバングル",
+        "note": "<requiredLevel:11>",
+        "params": [
+            10,
+            0,
+            12,
+            7,
+            0,
+            7,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 94,
+        "atypeId": 1,
+        "description": "装備LV.11  防御力+7 魔力防御+7 最大HP+10 命中率+12",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.12
+            }
+        ],
+        "iconIndex": 142,
+        "name": "レンジャーグローブ",
+        "note": "<requiredLevel:11>",
+        "params": [
+            10,
+            0,
+            0,
+            7,
+            0,
+            7,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 95,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 96,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 97,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 98,
+        "atypeId": 4,
+        "description": "装備LV.14 防御力+18 魔力防御+18 最大HP+28",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "シャドウハンド",
+        "note": "<requiredLevel:14>",
+        "params": [
+            28,
+            0,
+            0,
+            18,
+            0,
+            18,
+            0,
+            0
+        ],
+        "price": 750
+    },
+    {
+        "id": 99,
+        "atypeId": 2,
+        "description": "装備LV.16  防御力+24 魔力防御+24 最大HP+35",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "ヘヴィガントレット",
+        "note": "<requiredLevel:16>",
+        "params": [
+            35,
+            0,
+            0,
+            24,
+            0,
+            24,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 100,
+        "atypeId": 1,
+        "description": "装備LV.16  攻撃力+21 防御力+12 魔力防御+12 最大HP+18",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "力の腕輪",
+        "note": "<requiredLevel:16>",
+        "params": [
+            18,
+            0,
+            21,
+            12,
+            0,
+            12,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 101,
+        "atypeId": 1,
+        "description": "装備LV.16  防御力+12 魔力防御+12 最大HP+18 命中率+18",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.18
+            }
+        ],
+        "iconIndex": 142,
+        "name": "器用さの手袋",
+        "note": "<requiredLevel:16>",
+        "params": [
+            18,
+            0,
+            0,
+            12,
+            0,
+            12,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 102,
+        "atypeId": 1,
+        "description": "装備LV.16  防御力+17 魔力防御+17 最大HP+25 回避率+18",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.18
+            }
+        ],
+        "iconIndex": 142,
+        "name": "ラビッドハンド",
+        "note": "<requiredLevel:16>",
+        "params": [
+            25,
+            0,
+            0,
+            17,
+            0,
+            17,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 103,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 104,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 105,
+        "atypeId": 4,
+        "description": "装備LV.19 防御力+30 魔力防御+30 最大HP+50",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "グローハンド",
+        "note": "<requiredLevel:19>",
+        "params": [
+            50,
+            0,
+            0,
+            30,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 2500
+    },
+    {
+        "id": 106,
+        "atypeId": 2,
+        "description": "装備LV.21  防御力+40 魔力防御+40 最大HP+65",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "ドラゴンガード",
+        "note": "<requiredLevel:21>",
+        "params": [
+            65,
+            0,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 107,
+        "atypeId": 1,
+        "description": "装備LV.21  攻撃力+33 防御力+20 魔力防御+20 最大HP+33",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "パワーバングル",
+        "note": "<requiredLevel:21>",
+        "params": [
+            33,
+            0,
+            33,
+            20,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 108,
+        "atypeId": 1,
+        "description": "装備LV.21  防御力+20 魔力防御+20 最大HP+33 命中率+25",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.25
+            }
+        ],
+        "iconIndex": 142,
+        "name": "シューグローブ",
+        "note": "<requiredLevel:21>",
+        "params": [
+            33,
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 109,
+        "atypeId": 1,
+        "description": "装備LV.21  攻撃力+40 防御力+25 魔力防御+25 最大HP+48",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "ドレイクバングル",
+        "note": "<requiredLevel:21>",
+        "params": [
+            48,
+            0,
+            40,
+            25,
+            0,
+            25,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 110,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 111,
+        "atypeId": 4,
+        "description": "装備LV.24 防御力+45 魔力防御+45 最大HP+95",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "ダマスカスハンド",
+        "note": "<requiredLevel:24>",
+        "params": [
+            95,
+            0,
+            0,
+            45,
+            0,
+            45,
+            0,
+            0
+        ],
+        "price": 7500
+    },
+    {
+        "id": 112,
+        "atypeId": 2,
+        "description": "装備LV.26  防御力+60 魔力防御+60 最大HP+125",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 143,
+        "name": "ダマスカスアーム",
+        "note": "<requiredLevel:26>",
+        "params": [
+            125,
+            0,
+            0,
+            60,
+            0,
+            60,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 113,
+        "atypeId": 1,
+        "description": "装備LV.26  攻撃力+46 防御力+30 魔力防御+30 最大HP+63",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "ダマスカスバングル",
+        "note": "<requiredLevel:26>",
+        "params": [
+            63,
+            0,
+            46,
+            30,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 114,
+        "atypeId": 1,
+        "description": "装備LV.26  防御力+30 魔力防御+30 最大HP+63 命中率+32",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.32
+            }
+        ],
+        "iconIndex": 142,
+        "name": "カーボングローブ",
+        "note": "<requiredLevel:26>",
+        "params": [
+            63,
+            0,
+            0,
+            30,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 115,
+        "atypeId": 1,
+        "description": "装備LV.26  攻撃力+54 防御力+36 魔力防御+36 最大HP+76",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "ガイアバングル",
+        "note": "<requiredLevel:26>",
+        "params": [
+            76,
+            0,
+            54,
+            36,
+            0,
+            36,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 116,
+        "atypeId": 1,
+        "description": "装備LV.26  防御力+36 魔力防御+36 最大HP+76 命中率+37",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.37
+            }
+        ],
+        "iconIndex": 142,
+        "name": "ガイアグローブ",
+        "note": "<requiredLevel:26>",
+        "params": [
+            76,
+            0,
+            0,
+            36,
+            0,
+            36,
+            0,
+            0
+        ],
+        "price": 15000
+    },
+    {
+        "id": 117,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 118,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 119,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 120,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 121,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 122,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 123,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 124,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 125,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 126,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 127,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 128,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 129,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 130,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 131,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 132,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 133,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 134,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 135,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 136,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 137,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 138,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 139,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 140,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 141,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 142,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 143,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 144,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 145,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 146,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 147,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 148,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 149,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 150,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 151,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 152,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 153,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 154,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 155,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 156,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 157,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 158,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 159,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 160,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 161,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 162,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 163,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 164,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 165,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 166,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 167,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 168,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 169,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 170,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 171,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 172,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 173,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 174,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 175,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 176,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 177,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 178,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 179,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 180,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 181,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 182,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 183,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 184,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 185,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 186,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 187,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 188,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 189,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 190,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 191,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 192,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 193,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 194,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 195,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 196,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 197,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 198,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 199,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 200,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 201,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 202,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 203,
+        "atypeId": 6,
+        "description": "ヒールが使えるようになる\n効果：味方単体のHP回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 53,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ヒール",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 204,
+        "atypeId": 6,
+        "description": "ヒールⅡが使えるようになる\n効果：味方単体のHP回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 54,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ヒールⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 205,
+        "atypeId": 6,
+        "description": "ヒールⅢが使えるようになる\n効果：味方単体のHP回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 55,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ヒールⅢ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 206,
+        "atypeId": 6,
+        "description": "ヒールレインが使えるようになる\n効果：味方全体のHP回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 56,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ヒールレイン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 207,
+        "atypeId": 6,
+        "description": "ヒールレインⅡが使えるようになる\n効果：味方全体のHP回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 57,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ヒールレインⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 208,
+        "atypeId": 6,
+        "description": "キュアが使えるようになる\n効果：味方単体の一部の状態異常を回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 58,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "キュア",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 209,
+        "atypeId": 6,
+        "description": "キュアレインが使えるようになる\n効果：味方全体の一部の状態異常を回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 59,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "キュアレイン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 210,
+        "atypeId": 6,
+        "description": "レイズが使えるようになる\n効果：味方単体の戦闘不能を回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 60,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "レイズ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 211,
+        "atypeId": 6,
+        "description": "レイズⅡが使えるようになる\n効果：味方単体の戦闘不能を回復",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 61,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "レイズⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 212,
+        "atypeId": 6,
+        "description": "ヒールオールが使えるようになる\n効果：味方全体の戦闘不能を解除し、HPを全快する。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 62,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ヒールオール",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 213,
+        "atypeId": 6,
+        "description": "リジェネが使えるようになる\n効果：味方単体にHP再生の効果",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 63,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "リジェネ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 214,
+        "atypeId": 6,
+        "description": "リジェネⅡが使えるようになる\n効果：味方単体にHP再生の効果",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 64,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "リジェネⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2500
+    },
+    {
+        "id": 215,
+        "atypeId": 6,
+        "description": "リジェネレインが使えるようになる\n効果：味方全体にHP再生の効果",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 65,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "リジェネレイン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 216,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 217,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 218,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 219,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 220,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 221,
+        "atypeId": 6,
+        "description": "パワーブーストが使えるようになる\n効果：味方全体の攻撃力を上げる",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 71,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "パワーブースト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 222,
+        "atypeId": 6,
+        "description": "ガードブーストが使えるようになる\n効果：味方全体の防御力を上げる",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 72,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ガードブースト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 223,
+        "atypeId": 6,
+        "description": "マジックブーストが使えるようになる\n効果：味方全体の魔力攻撃を上げる",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 73,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "マジックブースト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 224,
+        "atypeId": 6,
+        "description": "バリアブーストが使えるようになる\n効果：味方全体の魔力防御を上げる",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 74,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "バリアブースト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 225,
+        "atypeId": 6,
+        "description": "スピードブーストが使えるようになる\n効果：味方全体の敏捷性と回避を上げる",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 75,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "スピードブースト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 226,
+        "atypeId": 6,
+        "description": "ヒットブーストが使えるようになる\n効果：味方全体の命中を上げる",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 76,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ヒットブースト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 227,
+        "atypeId": 6,
+        "description": "ライフブーストが使えるようになる\n効果：味方全体の最大HPを上げる",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 77,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ライフブースト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 228,
+        "atypeId": 6,
+        "description": "レジストファイアが使えるようになる\n効果：味方全体の火耐性を上げ、麻痺に耐性をつける",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 78,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "レジストファイア",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 229,
+        "atypeId": 6,
+        "description": "レジストウォータが使えるようになる\n効果：味方全体の水耐性を上げ、毒に耐性をつける",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 79,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "レジストウォータ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 230,
+        "atypeId": 6,
+        "description": "レジストアースが使えるようになる\n効果：味方全体の土耐性を上げ、スタンに耐性をつける",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 80,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "レジストアース",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 231,
+        "atypeId": 6,
+        "description": "レジストウィンドが使えるようになる\n効果：味方全体の風耐性を上げ、封印に耐性をつける",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 81,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "レジストウィンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 232,
+        "atypeId": 6,
+        "description": "レジストライトが使えるようになる\n効果：味方全体の光耐性を上げ、暗闇、睡眠に耐性をつける",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 82,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "レジストライト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 233,
+        "atypeId": 6,
+        "description": "レジストダークが使えるようになる\n効果：味方全体の闇耐性を上げ、混乱、魅了、激昂に耐性をつける",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 83,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "レジストダーク",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 234,
+        "atypeId": 6,
+        "description": "ためるが使えるようになる\n効果：自身の攻撃力と魔力攻撃を上げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 84,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ためる",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 235,
+        "atypeId": 6,
+        "description": "挑発が使えるようになる\n効果：自身が狙われやすくなる注目状態になる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 85,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "挑発",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 236,
+        "atypeId": 6,
+        "description": "かくれるが使えるようになる\n効果：自身が狙われにくくなる隠微状態になる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 86,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "かくれる",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 237,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 238,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 239,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 240,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 241,
+        "atypeId": 6,
+        "description": "シールが使えるようになる\n効果：敵全体を封印状態にする。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 91,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "シール",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 242,
+        "atypeId": 6,
+        "description": "ブラインドが使えるようになる\n効果：敵全体を暗闇状態にする。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 92,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ブラインド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 243,
+        "atypeId": 6,
+        "description": "スリープが使えるようになる\n効果：敵全体を睡眠状態にする。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 93,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "スリープ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 244,
+        "atypeId": 6,
+        "description": "ポイズンが使えるようになる\n効果：敵全体を毒状態にする。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 94,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ポイズン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 245,
+        "atypeId": 6,
+        "description": "グラビディが使えるようになる\n効果：敵全体の回避を下げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 95,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "グラビディ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 246,
+        "atypeId": 6,
+        "description": "イラエールが使えるようになる\n効果：敵全体を激昂状態にする。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 96,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "イラエール",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 247,
+        "atypeId": 6,
+        "description": "テンプテーションが使えるようになる\n効果：敵全体を魅了状態にする。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 97,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "テンプテーション",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 248,
+        "atypeId": 6,
+        "description": "ファシオンが使えるようになる\n効果：敵全体を混乱状態にする。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 98,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ファシオン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 249,
+        "atypeId": 6,
+        "description": "ブレイクファイアが使えるようになる\n効果：敵全体の火耐性を下げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 99,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ブレイクファイア",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 250,
+        "atypeId": 6,
+        "description": "ブレイクウォータが使えるようになる\n効果：敵全体の水耐性を下げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 100,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ブレイクウォータ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 251,
+        "atypeId": 6,
+        "description": "ブレイクアースが使えるようになる\n効果：敵全体の土耐性を下げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 101,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ブレイクアース",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 252,
+        "atypeId": 6,
+        "description": "ブレイクウィンドが使えるようになる\n効果：敵全体の風耐性を下げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 102,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ブレイクウィンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 253,
+        "atypeId": 6,
+        "description": "ブレイクライトが使えるようになる\n効果：敵全体の光耐性を下げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 103,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ブレイクライト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 254,
+        "atypeId": 6,
+        "description": "ブレイクダークが使えるようになる\n効果：敵全体の闇耐性を下げる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 104,
+                "value": 1
+            }
+        ],
+        "iconIndex": 165,
+        "name": "ブレイクダーク",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 255,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 256,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 257,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 258,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 259,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 260,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 261,
+        "atypeId": 6,
+        "description": "ファイアが使えるようになる\n効果：敵単体に火属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 111,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ファイア",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 262,
+        "atypeId": 6,
+        "description": "ファイアⅡが使えるようになる\n効果：敵単体に火属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 112,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ファイアⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 263,
+        "atypeId": 6,
+        "description": "ファイアクラスターが使えるようになる\n効果：ランダムで３回敵単体に火属性の魔力ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 113,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ファイアクラスター",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 264,
+        "atypeId": 6,
+        "description": "フレイムが使えるようになる\n効果：敵全体に火属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 114,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "フレイム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 265,
+        "atypeId": 6,
+        "description": "イグニスが使えるようになる\n効果：敵全体に火属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 115,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "イグニス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 266,
+        "atypeId": 6,
+        "description": "アイスが使えるようになる\n効果：敵単体に水属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 116,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "アイス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 267,
+        "atypeId": 6,
+        "description": "アイスⅡが使えるようになる\n効果：敵単体に水属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 117,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "アイスⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 268,
+        "atypeId": 6,
+        "description": "アイスクラスターが使えるようになる\n効果：ランダムで３回敵単体に水属性の魔力ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 118,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "アイスクラスター",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 269,
+        "atypeId": 6,
+        "description": "ブリザードが使えるようになる\n効果：敵全体に水属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 119,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ブリザード",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 270,
+        "atypeId": 6,
+        "description": "アックアが使えるようになる\n効果：敵全体に水属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 120,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "アックア",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 271,
+        "atypeId": 6,
+        "description": "ストーンが使えるようになる\n効果：敵単体に土属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 121,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ストーン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 272,
+        "atypeId": 6,
+        "description": "ストーンⅡが使えるようになる\n効果：敵単体に土属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 122,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ストーンⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 273,
+        "atypeId": 6,
+        "description": "ストーンクラスターが使えるようになる\n効果：ランダムで３回敵単体に土属性の魔力ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 123,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ストーンクラスター",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 274,
+        "atypeId": 6,
+        "description": "クエイクが使えるようになる\n効果：敵全体に土属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 124,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "クエイク",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 275,
+        "atypeId": 6,
+        "description": "テッラが使えるようになる\n効果：敵全体に土属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 125,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "テッラ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 276,
+        "atypeId": 6,
+        "description": "ウィンドが使えるようになる\n効果：敵単体に風属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 126,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ウィンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 277,
+        "atypeId": 6,
+        "description": "ウィンドⅡが使えるようになる\n効果：敵単体に風属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 127,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ウィンドⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 278,
+        "atypeId": 6,
+        "description": "ウィンドクラスターが使えるようになる\n効果：ランダムで３回敵単体に風属性の魔力ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 128,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ウィンドクラスター",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 279,
+        "atypeId": 6,
+        "description": "ストームが使えるようになる\n効果：敵全体に風属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 129,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ストーム",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 280,
+        "atypeId": 6,
+        "description": "ヴェントスが使えるようになる\n効果：敵全体に風属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 130,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ヴェントス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 281,
+        "atypeId": 6,
+        "description": "シャインが使えるようになる\n効果：敵単体に光属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 131,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "シャイン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 282,
+        "atypeId": 6,
+        "description": "シャインⅡが使えるようになる\n効果：敵単体に光属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 132,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "シャインⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 283,
+        "atypeId": 6,
+        "description": "シャインクラスターが使えるようになる\n効果：ランダムで３回敵単体に光属性の魔力ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 133,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "シャインクラスター",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 284,
+        "atypeId": 6,
+        "description": "セイントが使えるようになる\n効果：敵全体に光属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 134,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "セイント",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 285,
+        "atypeId": 6,
+        "description": "ルクスが使えるようになる\n効果：敵全体に光属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 135,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ルクス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 286,
+        "atypeId": 6,
+        "description": "ダークが使えるようになる\n効果：敵単体に闇属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 136,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ダーク",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 287,
+        "atypeId": 6,
+        "description": "ダークⅡが使えるようになる\n効果：敵単体に闇属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 137,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ダークⅡ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 288,
+        "atypeId": 6,
+        "description": "ダーククラスターが使えるようになる\n効果：ランダムで３回敵単体に闇属性の魔力ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 138,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ダーククラスター",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 289,
+        "atypeId": 6,
+        "description": "ケイオスが使えるようになる\n効果：敵全体に闇属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 139,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ケイオス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 290,
+        "atypeId": 6,
+        "description": "テネブラエが使えるようになる\n効果：敵全体に闇属性の魔力ダメージを与える",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 140,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "テネブラエ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 291,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 292,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 293,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 294,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 295,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 296,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 297,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 298,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 299,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 300,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 301,
+        "atypeId": 6,
+        "description": "ハードアタックが使えるようになる\n効果：敵単体に物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 151,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ハードアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 302,
+        "atypeId": 6,
+        "description": "ヘルクレインが使えるようになる\n効果：敵単体に物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 152,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ヘルクレイン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 303,
+        "atypeId": 6,
+        "description": "ワイドアタックが使えるようになる\n効果：敵全体に物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 153,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ワイドアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 304,
+        "atypeId": 6,
+        "description": "グロリアスが使えるようになる\n効果：敵全体に物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 154,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "グロリアス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 8000
+    },
+    {
+        "id": 305,
+        "atypeId": 6,
+        "description": "デュアルアタックが使えるようになる\n効果：敵単体に２回物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 155,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "デュアルアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 306,
+        "atypeId": 6,
+        "description": "ラークラッシュが使えるようになる\n効果：敵ランダムに４回物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 156,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ラークラッシュ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 12000
+    },
+    {
+        "id": 307,
+        "atypeId": 6,
+        "description": "ファイアアタックが使えるようになる\n効果：敵単体に火属性の物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 157,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ファイアアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 308,
+        "atypeId": 6,
+        "description": "ウォータアタックが使えるようになる\n効果：敵単体に水属性の物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 158,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ウォータアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 309,
+        "atypeId": 6,
+        "description": "アースアタックが使えるようになる\n効果：敵単体に土属性の物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 159,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "アースアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 310,
+        "atypeId": 6,
+        "description": "ウィンドアタックが使えるようになる\n効果：敵単体に風属性の物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 160,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ウィンドアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 311,
+        "atypeId": 6,
+        "description": "ライトアタックが使えるようになる\n効果：敵単体に光属性の物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 161,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ライトアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 312,
+        "atypeId": 6,
+        "description": "ダークアタックが使えるようになる\n効果：敵単体に闇属性の物理ダメージを与える。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 162,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ダークアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 313,
+        "atypeId": 6,
+        "description": "ドレインアタックが使えるようになる\n敵単体に物理ダメージを与え、一部ダメージを吸収する。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 163,
+                "value": 1
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ドレインアタック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 314,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 315,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 316,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 317,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 318,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 319,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 320,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 321,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 322,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 323,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 324,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 325,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 326,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 327,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 328,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 329,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 330,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 331,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 332,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 333,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 334,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 335,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 336,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 337,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 338,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 339,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 340,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 341,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 342,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 343,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 344,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 345,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 346,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 347,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 348,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 349,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 350,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    }
+]

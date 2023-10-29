@@ -1,0 +1,2511 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "kuno_001",
+        "classId": 1,
+        "equips": [
+            1,
+            1,
+            42,
+            81,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "kuno_001",
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "クノ",
+        "nickname": "ヒュマ(淫魔)",
+        "note": "<face_picture:tati_saria_a001>\n<stand_picture:menu_kuno_001>\n<装備スロット:5-1>",
+        "profile": "傭兵としてそこそこの経験を積んだ女性。太郎の幼馴染でもある。\n装備武器：剣、拳、鞭、杖　防具：重装"
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "uka_001",
+        "classId": 2,
+        "equips": [
+            21,
+            1,
+            41,
+            81,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "uka_001",
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ウカ",
+        "nickname": "フェレクス",
+        "note": "<stand_picture:menu_uka_001>\n<装備スロット:5-1>",
+        "profile": "幼少期に傭兵に拾われて傭兵をしてきた女性。夜の経験も豊富。\n装備武器：剣、短剣、斧、杖　防具：ALL"
+    },
+    {
+        "id": 3,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "non_001",
+        "classId": 3,
+        "equips": [
+            101,
+            1,
+            42,
+            82,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "non_001",
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "initialLevel": 6,
+        "maxLevel": 99,
+        "name": "ノンナ",
+        "nickname": "エルフ(淫魔)",
+        "note": "<stand_picture:menu_non_001>\n<装備スロット:5-1>",
+        "profile": "クノと太郎の育ての親。傭兵としての経験は長く、実力もある。\n装備武器：剣、弓、メイス、杖　防具：魔術"
+    },
+    {
+        "id": 4,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "pura_001",
+        "classId": 4,
+        "equips": [
+            4,
+            0,
+            2,
+            3,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "pura_001",
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "プラエ",
+        "nickname": "淫魔",
+        "note": "<stand_picture:menu_pura_001>\n<装備スロット:5-1>",
+        "profile": "淫魔の女性。かなり長生きらしいがどれくらいかは謎"
+    },
+    {
+        "id": 5,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "huro_001",
+        "classId": 5,
+        "equips": [
+            142,
+            4,
+            47,
+            87,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "huro_001",
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "initialLevel": 6,
+        "maxLevel": 99,
+        "name": "フロス",
+        "nickname": "アクィス(淫魔)",
+        "note": "<stand_picture:menu_huro_001>\n<装備スロット:5-1>",
+        "profile": "街で治癒術士をしている女性。物腰が柔らかで親しまれている。\n装備武器：鞭、弓、メイス、杖　防具：魔術"
+    },
+    {
+        "id": 6,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "sia_001",
+        "classId": 6,
+        "equips": [
+            85,
+            11,
+            53,
+            93,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "sia_001",
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 41,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "initialLevel": 11,
+        "maxLevel": 99,
+        "name": "シア",
+        "nickname": "ヒュマ(淫魔)",
+        "note": "<stand_picture:menu_sia_001>\n<装備スロット:5-1>",
+        "profile": "蒼の歌姫と呼ばれるとても有名な女性。その歌声は多くの人を魅了する。\n装備武器：斧、鞭、弓、杖　防具：魔術"
+    },
+    {
+        "id": 7,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "saria_001",
+        "classId": 7,
+        "equips": [
+            36,
+            27,
+            66,
+            106,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "sari_001",
+        "traits": [],
+        "initialLevel": 30,
+        "maxLevel": 99,
+        "name": "サリア",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_sari_001>\n<装備スロット:5-1>",
+        "profile": "とある街で兵隊長をしている女騎士。"
+    },
+    {
+        "id": 8,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "sana_001",
+        "classId": 6,
+        "equips": [
+            85,
+            11,
+            53,
+            93,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "sana_001",
+        "traits": [],
+        "initialLevel": 11,
+        "maxLevel": 99,
+        "name": "サナ",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_sia_001>\n<装備スロット:5-1>",
+        "profile": "何でも屋メニミスを家族で経営している錬金術師。"
+    },
+    {
+        "id": 9,
+        "battlerName": "",
+        "characterIndex": 1,
+        "characterName": "jini_001",
+        "classId": 6,
+        "equips": [
+            85,
+            11,
+            53,
+            93,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "jini_001",
+        "traits": [],
+        "initialLevel": 11,
+        "maxLevel": 99,
+        "name": "ジニー",
+        "nickname": "淫魔",
+        "note": "<stand_picture:menu_sia_001>\n<装備スロット:5-1>",
+        "profile": "謎の淫魔"
+    },
+    {
+        "id": 10,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 11,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 12,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 13,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 14,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 15,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 16,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 17,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 18,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 19,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 20,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 21,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "land_001",
+        "classId": 21,
+        "equips": [
+            1,
+            2,
+            41,
+            81,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ランド",
+        "nickname": "ヒュマ(淫魔)",
+        "note": "<stand_picture:menu_man_001>\n<magicSlot:1>\n<装備スロット:5-1>",
+        "profile": "幼い頃から傭兵をしていた。良くも悪くも普通の腕前である。\n装備武器：剣、斧、拳、杖　防具：重装"
+    },
+    {
+        "id": 22,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "thor_001",
+        "classId": 22,
+        "equips": [
+            121,
+            3,
+            43,
+            83,
+            4
+        ],
+        "faceIndex": 1,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 6,
+        "maxLevel": 99,
+        "name": "トールズ",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_002>\n<装備スロット:5-1>",
+        "profile": "眠りの魔術士としてそこそこ名の知られた傭兵。\n装備武器：剣、短剣、鞭、杖　防具：魔術"
+    },
+    {
+        "id": 23,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "doru_001",
+        "classId": 23,
+        "equips": [
+            61,
+            1,
+            41,
+            82,
+            4
+        ],
+        "faceIndex": 4,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 6,
+        "maxLevel": 99,
+        "name": "ドルトン",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_005>\n<装備スロット:5-1>",
+        "profile": "老練な傭兵。長年の経験による確かな技術を持つ。性欲は強い。\n装備武器：斧、拳、弓、杖　防具：重装"
+    },
+    {
+        "id": 24,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "yell_001",
+        "classId": 24,
+        "equips": [
+            1,
+            1,
+            41,
+            82,
+            4
+        ],
+        "faceIndex": 2,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 6,
+        "maxLevel": 99,
+        "name": "イエロー",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_004>\n<装備スロット:5-1>",
+        "profile": "ちゃらい傭兵。女遊びが好きで風俗店によく入り浸っている。\n装備武器：剣、短剣、弓、杖　防具：重装"
+    },
+    {
+        "id": 25,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "rodo_001",
+        "classId": 25,
+        "equips": [
+            4,
+            6,
+            45,
+            85,
+            4
+        ],
+        "faceIndex": 3,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 8,
+        "maxLevel": 99,
+        "name": "ロドリゴ",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
+        "profile": "冒険者として長い経験を持つ二メートルを超える巨漢。\n装備武器：剣、斧、メイス、杖　防具：重装"
+    },
+    {
+        "id": 26,
+        "battlerName": "",
+        "characterIndex": 5,
+        "characterName": "empire01",
+        "classId": 26,
+        "equips": [
+            71,
+            27,
+            66,
+            107,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 35,
+        "maxLevel": 99,
+        "name": "グランド",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
+        "profile": "隣国ディオスの諜報員。高い戦闘力を持つ。"
+    },
+    {
+        "id": 27,
+        "battlerName": "",
+        "characterIndex": 3,
+        "characterName": "empire01",
+        "classId": 27,
+        "equips": [
+            151,
+            28,
+            68,
+            105,
+            4
+        ],
+        "faceIndex": 3,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 28,
+        "maxLevel": 99,
+        "name": "ルーグ",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
+        "profile": "隣国ディオスの諜報員。魔術が得意。"
+    },
+    {
+        "id": 28,
+        "battlerName": "",
+        "characterIndex": 3,
+        "characterName": "Armor01",
+        "classId": 28,
+        "equips": [
+            11,
+            27,
+            66,
+            106,
+            4
+        ],
+        "faceIndex": 3,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 28,
+        "maxLevel": 99,
+        "name": "ゲロルド",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
+        "profile": "隣国ディオスの諜報員。防御が強い。"
+    },
+    {
+        "id": 29,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "kai_001",
+        "classId": 25,
+        "equips": [
+            4,
+            6,
+            45,
+            85,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 35,
+        "maxLevel": 99,
+        "name": "カイ",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
+        "profile": "元冒険者の何でも屋。\nハーレムを作りたいと考えている"
+    },
+    {
+        "id": 30,
+        "battlerName": "",
+        "characterIndex": 2,
+        "characterName": "Armor01",
+        "classId": 25,
+        "equips": [
+            4,
+            6,
+            45,
+            85,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "man_001",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 25,
+                "value": 1
+            }
+        ],
+        "initialLevel": 35,
+        "maxLevel": 99,
+        "name": "イケス",
+        "nickname": "ヒュマ",
+        "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
+        "profile": "生真面目な冒険者\nとてもイケメンで実力も高い"
+    },
+    {
+        "id": 31,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "teiru_001",
+        "classId": 25,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "man_001",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "テイル",
+        "nickname": "",
+        "note": "",
+        "profile": "冒険者の男。\n寝取らせ趣味"
+    },
+    {
+        "id": 32,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 33,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 34,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 35,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 36,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 37,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 38,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 39,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 40,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 41,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 21,
+        "equips": [
+            1,
+            2,
+            41,
+            81,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ウラ",
+        "nickname": "なし",
+        "note": "<stand_picture:menu_man_001>\n<magicSlot:1>",
+        "profile": "子供"
+    },
+    {
+        "id": 42,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 43,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 44,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 45,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 46,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 47,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 48,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 49,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 50,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 51,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 21,
+        "equips": [
+            1,
+            2,
+            41,
+            81,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "スペード",
+        "nickname": "なし",
+        "note": "<stand_picture:menu_man_001>\n名前変更男１（クノの相手",
+        "profile": ""
+    },
+    {
+        "id": 52,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 21,
+        "equips": [
+            1,
+            2,
+            41,
+            81,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "グランド",
+        "nickname": "なし",
+        "note": "<stand_picture:menu_man_001>\n名前変更男２ウカの相手？",
+        "profile": ""
+    },
+    {
+        "id": 53,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 21,
+        "equips": [
+            1,
+            2,
+            41,
+            81,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "クラブ",
+        "nickname": "なし",
+        "note": "<stand_picture:menu_man_001>\n名前変更男３ノンナの相手",
+        "profile": ""
+    },
+    {
+        "id": 54,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 21,
+        "equips": [
+            1,
+            2,
+            41,
+            81,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "クール",
+        "nickname": "なし",
+        "note": "<stand_picture:menu_man_001>\n名前変更男４プラエの相手？",
+        "profile": ""
+    },
+    {
+        "id": 55,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 21,
+        "equips": [
+            1,
+            2,
+            41,
+            81,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ダイヤ",
+        "nickname": "なし",
+        "note": "<stand_picture:menu_man_001>\n名前変更男５フロスの相手",
+        "profile": ""
+    },
+    {
+        "id": 56,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 21,
+        "equips": [
+            1,
+            2,
+            41,
+            81,
+            4
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 16,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 17,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 18,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 19,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 20,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 21,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 22,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ハート",
+        "nickname": "なし",
+        "note": "<stand_picture:menu_man_001>\n名前変更男６シアの相手",
+        "profile": ""
+    },
+    {
+        "id": 57,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 58,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 59,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 60,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]

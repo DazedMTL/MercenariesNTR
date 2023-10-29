@@ -1,0 +1,76 @@
+{
+    "Scene_Battle": {
+        "WindowLayer": {
+            "3,Window_ActorCommand": {
+                "x": 0,
+                "y": 552,
+                "width": 192,
+                "height": 216,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        }
+    },
+    "Scene_Title": {
+        "WindowLayer": {
+            "0,Window_TitleCommand": {
+                "x": 90,
+                "y": 552,
+                "width": 300,
+                "height": 136,
+                "opacity": 0,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": "50",
+                "_customBackOpacity": 192,
+                "_customBackFileName": "title_back_001",
+                "_customFontFace": ""
+            }
+        },
+        "Scene_Title": {
+            "0,Sprite": {
+                "x": 512,
+                "y": 384
+            }
+        }
+    },
+    "Scene_Menu": {
+        "WindowLayer": {
+            "2,Window_MenuStatus": {
+                "x": 0,
+                "y": 108,
+                "width": 1024,
+                "height": 552,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            },
+            "3,Window_MenuLabel": {
+                "x": 0,
+                "y": 660,
+                "width": 320,
+                "height": 108,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        }
+    }
+}
