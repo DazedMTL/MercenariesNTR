@@ -8027,14 +8027,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（クノの声が聞こえる……"
+                                "\\nw[Taro](I can hear Kuno's voice... Should I eavesdrop?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "聞き耳を立てようか？）"
+                                ""
                             ]
                         },
                         {
@@ -8042,8 +8042,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "聞き耳を立てる",
-                                    "立ち去る"
+                                    "Listen in",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -8073,7 +8073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（ふむ、聞いてみるか……）"
+                                "\\nw[Taro](Hmm, should I listen...)"
                             ]
                         },
                         {
@@ -8118,7 +8118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]神父さん、アタシ経験があまりないので……"
+                                "\\nw[Kuno]Father, I don't have much experience, so..."
                             ]
                         },
                         {
@@ -8135,52 +8135,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]安心しなさい。"
+                                "\\nw[Priest]Don't worry. The more pleasure you feel, the more\nmagic power you can obtain. In the prayers of the\nAmor religion, unsatisfying sexual acts are not\nrecommended."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔力とは快感が強ければ強いほど多く得られるもの。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アモル教の祈りでは満足感の少ない性行為は推奨されていないのです。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[神父]そのためには相互理解が必要不可欠です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頭に浮かんだことはなるべく口に出しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが近道です。"
+                                ""
                             ]
                         },
                         {
@@ -8197,7 +8166,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]わ、わかったわ。"
+                                "\\nw[Priest]In order to achieve that, mutual understanding is\nessential. Speak out what comes to your mind as\nmuch as possible. That is the shortcut."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8214,14 +8197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]体の準備は整えましたからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "始めるとしましょう。"
+                                "\\nw[Kuno]W-Wakatta wa."
                             ]
                         },
                         {
@@ -8238,7 +8214,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]お、お願いします。"
+                                "\\nw[Priest]Since your body is prepared, let's begin."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]P-Please, I beg you."
                             ]
                         },
                         {
@@ -8368,7 +8368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]あぁぁ……入って……"
+                                "\\nw[Kuno]Ahhh... Enter..."
                             ]
                         },
                         {
@@ -8385,7 +8385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]これは……なるほど、ここまでわかりやすいのも珍しい。"
+                                "\\nw[Priest]This... I see, it's rare to see something so easy\nto understand."
                             ]
                         },
                         {
@@ -8402,7 +8402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んっ……何を言ってるの？"
+                                "\\nw[Kuno]Nn... What are you saying?"
                             ]
                         },
                         {
@@ -8419,38 +8419,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]貴女の方から言うべきだとは思うが、"
+                                "\\nw[Priest]I think you should be the one to say it, but since\nyou asked first, I'll answer. Your c*ck feels so\ngood, doesn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "先に聞かれたから答えましょう。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ち〇ぽが気持ちよくて仕方ないでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]えっ……な、何でそう思うのよ……？"
+                                ""
                             ]
                         },
                         {
@@ -8467,21 +8450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]私は毎日何人もの女性と祈りを捧げています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その経験からわかるのですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴女の膣の動きや熱さ、体の動きや熱などを見ればね。"
+                                "\\nw[Kuno]Eh... W-Why do you think that...?"
                             ]
                         },
                         {
@@ -8498,31 +8467,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]貴女の身体の反応はち〇ぽを挿入れられるのが好きな女のものです。"
+                                "\\nw[Priest]I offer prayers to many women every day. I can\nunderstand from that experience. By observing the\nmovement and warmth of your vagina, as well as the\nmovement and heat of your body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "熱心な信者に多い。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]そんなことは……"
+                                ""
                             ]
                         },
                         {
@@ -8539,14 +8498,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]本気で戸惑っているようですね。"
+                                "\\nw[Priest]The reaction of your body indicates that you are a\nwoman who enjoys being penetrated by a c*ck. It is\ncommon among devoted believers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "経験が少ないというのは本当なのですか。"
+                                ""
                             ]
                         },
                         {
@@ -8563,21 +8522,62 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]安心しなさい。"
+                                "\\nw[Kuno]That's not..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "自身の身体を理解することは強い快楽を得るのに重要なこと。"
+                                "\\nw[Priest]You seem genuinely confused. Is it true that you\nhave little experience?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アモル教の神父として必ず貴女を導いて見せよう。"
+                                "\\nw[Priest]Don't worry. Understanding your own body is\nimportant to experience intense pleasure. As a\npriest of the Amor religion, I will definitely\nguide you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8664,7 +8664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]やっ、動くとこすれて……"
+                                "\\nw[Kuno]Ahh, it's rubbing against a sensitive spot..."
                             ]
                         },
                         {
@@ -8681,14 +8681,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]じっくりと時間をかけて戸惑いを解消していく。"
+                                "\\nw[Priest]Take your time and gradually resolve your\nconfusion. Feel my c*ck firmly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私のち〇ぽをしっかりと感じなさい。"
+                                ""
                             ]
                         },
                         {
@@ -8705,7 +8705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]わ、わかりました……"
+                                "\\nw[Kuno]Y-Yes, I understand..."
                             ]
                         },
                         {
@@ -8752,7 +8752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（クノが神父と……くっ、興奮しすぎる……！）"
+                                "\\nw[Taro](Kuno with the priest... Ah, I'm getting too\nexcited...!)"
                             ]
                         },
                         {
@@ -8798,7 +8798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（やめておくか……）"
+                                "\\nw[Taro](I guess I'll leave them be...)"
                             ]
                         },
                         {
@@ -8876,14 +8876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（じっくりヤってるから時間がかかりそうだ。"
+                                "\\nw[Taro](It seems like it will take a while since we're\ndoing it slowly. Let's go somewhere else.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他に行こう）"
+                                ""
                             ]
                         },
                         {
@@ -8960,14 +8960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（クノの声が聞こえる……"
+                                "\\nw[Taro](I can hear Kuno's voice... Should I eavesdrop?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "聞き耳を立てようか？）"
+                                ""
                             ]
                         },
                         {
@@ -8975,8 +8975,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "聞き耳を立てる",
-                                    "立ち去る"
+                                    "Listen in",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -9006,7 +9006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（これは……）"
+                                "\\nw[Taro](This is...)"
                             ]
                         },
                         {
@@ -9051,31 +9051,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]ふむ、愛液が溢れていますよ。"
+                                "\\nw[Priest]Hmmm, your love juices are overflowing. Were you\nexpecting that much?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんなに期待していたのですか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]期待していたわけではないんですけど……んんっ……"
+                                ""
                             ]
                         },
                         {
@@ -9092,14 +9075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]まだ素直にはなれませんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "祈り捧げましょう。心構えは覚えていますか？"
+                                "\\nw[Kuno]It's not like I was expecting it... mmm..."
                             ]
                         },
                         {
@@ -9116,38 +9092,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]えっと……はい、神父様。"
+                                "\\nw[Priest]Can't you still be obedient? Let us offer a\nprayer. Do you remember the preparations?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アモル神への祈りですから、心から妊娠したいと願うことですよね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[神父]ええ、その通りです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "では、いつも通りにおねだりをしてしなさい。"
+                                ""
                             ]
                         },
                         {
@@ -9164,7 +9116,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]はい……\\|えっと……"
+                                "\\nw[Kuno]Um... Yes, Father. It's a prayer to Amor, right?\nTo sincerely wish for a pregnancy from the bottom\nof my heart, correct?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9181,7 +9140,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……\\|ア、アタシをは、はら……\\|……"
+                                "\\nw[Priest]Yes, that's right. Now, as usual, beg and plead\nfor it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9198,7 +9164,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]また羞恥心で言えなくなってますか。"
+                                "\\nw[Kuno]Yes... um..."
                             ]
                         },
                         {
@@ -9215,14 +9181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]うう、ごめんなさい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっきまで太郎と一緒に居たので、顔が浮かんで……"
+                                "\\nw[Kuno]......I-I'm... pregnant............"
                             ]
                         },
                         {
@@ -9239,14 +9198,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]羞恥心があるのは悪いことではありません。"
+                                "\\nw[Priest]Are you feeling embarrassed again and unable to\nsay it?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だが……"
+                                "\\nw[Kuno]Uu, I'm sorry... I was just with Taro until\nearlier, so his face came to mind..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Priest]It's not a bad thing to have a sense of shame.\nHowever..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9343,7 +9343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]あっ……神父様、入ってきて……！？"
+                                "\\nw[Kuno]Ah... Father, come in...!?"
                             ]
                         },
                         {
@@ -9360,31 +9360,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]クノの身体がち〇ぽ好きであることは教えました。"
+                                "\\nw[Priest]I have taught Kuno that she loves c*cks. Even if\nshe tries to hide it, her true nature will be\nrevealed as soon as she is penetrated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "表面を取り繕っても挿入れてしまえばすぐに本性が出てしまいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]あっ……駄目っ、これじゃ体がすぐに……んああぁっ！"
+                                ""
                             ]
                         },
                         {
@@ -9401,7 +9384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]体、熱くなって……んっ、んああっ……"
+                                "\\nw[Kuno]Ah... no... like this, my body will... ah, aahh!"
                             ]
                         },
                         {
@@ -9418,14 +9401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]やはり膣の具合がいいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "体は淫乱なのだから心もそれに従いなさいと教えたでしょう。"
+                                "\\nw[Kuno]My body is getting hot... Mmm, ah..."
                             ]
                         },
                         {
@@ -9442,38 +9418,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]今日の祈りで以前の教えを思い出しなさい。"
+                                "\\nw[Priest]As expected, your vagina is in good condition.\nSince your body is lewd, I have taught you to\nfollow suit with your heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私もできうる限り手伝いましょう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]わかり……ましたっ、んんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んっ、あっ、あっ、これすごい……！"
+                                ""
                             ]
                         },
                         {
@@ -9490,7 +9442,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]気持ちいいと素直に言いなさい。"
+                                "\\nw[Priest]Remember the teachings from before during today's\nprayer. I will also help as much as I can."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9507,14 +9466,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]は、はい、気持ち……いいですっ、ああんっ！"
+                                "\\nw[Kuno]I understand... Ahh! Ah, ah, this is amazing...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おくにっ、あっ、あっ、気持ちいいっ、あんっ！"
+                                "\\nw[Priest]Say it honestly if it feels good."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Y-Yes, it feels... good! Ahh! Deeper, ah, ah, it\nfeels so good, ahh!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9554,7 +9554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（クノが神父が神父に犯されて気持ちよくなって……）"
+                                "\\nw[Taro](Kuno being raped by the priest and enjoying\nit...)"
                             ]
                         },
                         {
@@ -9600,7 +9600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（やめておくか……）"
+                                "\\nw[Taro](I guess I'll leave...)"
                             ]
                         },
                         {
@@ -9678,14 +9678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（じっくりヤってるから時間がかかりそうだ。"
+                                "\\nw[Taro](It seems like it will take a while since we're\ndoing it slowly. Let's go somewhere else.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他に行こう）"
+                                ""
                             ]
                         },
                         {
@@ -9762,14 +9762,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（女の甘い声が聞こえる……"
+                                "\\nw[Taro](I can hear a sweet female voice... Should I\nlisten carefully?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "聞き耳を立てようか？）"
+                                ""
                             ]
                         },
                         {
@@ -9777,8 +9777,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "聞き耳を立てる",
-                                    "立ち去る"
+                                    "Listen carefully",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -9836,38 +9836,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]おほっ、おっ、おっ、おおおぉぉ♥"
+                                "\\nw[Nonna]Oh, oh, oh, oooohh♥ Father, ohhh♥ Ohh♥ Ohhh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "神父様ぁっ、おおぉぉっ♥おほっ♥おっおおぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[神父]欲望を解放しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "興奮することが大事ですよ。"
+                                ""
                             ]
                         },
                         {
@@ -9884,21 +9860,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]おほっ、おぉぉ♥"
+                                "\\nw[Priest]Release your desires. It's important to be\nexcited."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おち〇ぽしゅきぃぃ♥しんぷさまのおち〇ぽしゅきっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おっ、おっ、おおぉぉ♥"
+                                ""
                             ]
                         },
                         {
@@ -9915,45 +9884,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]私も貴女ののま〇こが好きですよ。"
+                                "\\nw[Nonna]Ohh, ohh♥ I love your c*ck♥ I love Master's c*ck♥\nOhh, ohh, ohh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そして、貴女の事を愛しています。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Nonna]おほっ、おっ、はいぃ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私もしんぷさまっ、おっ、ぉぉぉおぉっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "愛してますっ♥おっ、おおぉぉ♥"
+                                ""
                             ]
                         },
                         {
@@ -9970,14 +9915,69 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]はらませてくださいっ、しんぷさまっ、おおぉぉ♥"
+                                "\\nw[Priest]I also love your pussy. And I love you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しんぷさまっ、しんぷさまぁぁ♥"
+                                "\\nw[Nonna]Ohh, ohh, yes♥ I also love you, Master, ohh,\noooohh♥ I love you♥ Ohh, ohh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Nonna]Please impregnate me, Lord Shimp, ohhh♥ Lord\nShimp, Lord Shimp♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10024,14 +10024,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（女の方の声がよくわからないな。"
+                                "\\nw[Taro](I can't quite make out the voice of the woman. Is\nshe excited? It sounds different from her usual\ntone...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "興奮してるのか、普段とは違う声色なんだろうな……）"
+                                ""
                             ]
                         },
                         {
@@ -10077,7 +10077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（やめておくか……）"
+                                "\\nw[Taro](I'll leave it alone...)"
                             ]
                         },
                         {
@@ -10155,7 +10155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（ここで聞き耳をたてても仕方がないな）"
+                                "\\nw[Taro](There's no point in eavesdropping here.)"
                             ]
                         },
                         {
@@ -10548,14 +10548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]ようこそいらっしゃいました。"
+                                "\\nw[Priest]Welcome. Let us offer our prayers to the god Amor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アモル神へと祈りを捧げましょう。"
+                                ""
                             ]
                         },
                         {
@@ -10623,14 +10623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]ようこそいらっしゃいました。"
+                                "\\nw[Priest]Welcome. Let us offer our prayers to the god Amor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アモル神へと祈りを捧げましょう。"
+                                ""
                             ]
                         },
                         {
@@ -10676,7 +10676,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[神父]体験入信いたしますか？"
+                                "\\nw[Priest]Would you like to experience joining our faith?"
                             ]
                         },
                         {
@@ -10684,8 +10684,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "体験入信する",
-                                    "やめておく"
+                                    "Join the faith",
+                                    "I'll pass"
                                 ],
                                 1,
                                 0,
@@ -10756,7 +10756,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]えっ"
+                                "\\nw[Kuno]Huh?"
                             ]
                         },
                         {
@@ -10773,14 +10773,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]それは何よりです。"
+                                "\\nw[Priest]That is wonderful. Shall we change the location\nthen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "では、場所を変えましょうか。"
+                                ""
                             ]
                         },
                         {
@@ -10797,7 +10797,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]クノだけ体験させてくれ。"
+                                "\\nw[Taro]Let Kuno have the experience alone."
                             ]
                         },
                         {
@@ -10843,38 +10843,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]って、何でアタシだけ？"
+                                "\\nw[Kuno]Why only me? I'll do my best for NTR, but Taro\nshould be with me too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "寝取られは頑張るけど、太郎も一緒でも……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nw[Taro]悪い、団長の仕事で色々覚えないといけなくて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "風俗店の方もあるし、やることが多いんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -10891,7 +10867,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]……確かにプラエから色々と教わってるわね……"
+                                "\\nw[Taro]Sorry, I have to learn a lot for my role as the\nguild leader... There's also the matter of the\nadult entertainment establishment, so I have a lot\nto do."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10908,14 +10891,31 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]……\\|わかったわよ。"
+                                "\\nw[Kuno]...Indeed, I have learned various things from\nPrae..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "行ってくるわね。"
+                                "\\nw[Kuno]...Fine, I got it. I'll be going then."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10983,7 +10983,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]（この建物のどこかに行ったみたいだな……）"
+                                "\\nw[Taro](It seems like she went somewhere in this\nbuilding...)"
                             ]
                         },
                         {
@@ -11025,7 +11025,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]そうですか、気が変わったら言ってください"
+                                "\\nw[Priest]I see. Please let me know if you change your mind."
                             ]
                         },
                         {
@@ -11069,7 +11069,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[神父]もしともに祈りをささげたいのであれば、夜にお越しください。"
+                                "\\nw[Priest]If you would like to offer prayers together,\nplease come at night."
                             ]
                         },
                         {
@@ -11113,7 +11113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]お二人とも何か悩みがあるようですね。"
+                                "\\nw[Priest]It seems like both of you have some worries."
                             ]
                         },
                         {
@@ -11159,7 +11159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]えっ、わかるの？"
+                                "\\nw[Kuno]Eh, you understand?"
                             ]
                         },
                         {
@@ -11176,7 +11176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]これでも長年人々の悩みを聞いてきましたので、ある程度は。"
+                                "\\nw[Priest]I have been listening to people's worries for many\nyears, so to some extent..."
                             ]
                         },
                         {
@@ -11193,7 +11193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そうなのか……さすが神父というべきなのか？"
+                                "\\nw[Taro]Is that so... I guess you could say that's to be\nexpected of a priest?"
                             ]
                         },
                         {
@@ -11210,14 +11210,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]よろしければお聞かせ願えませんか？"
+                                "\\nw[Priest]If you don't mind, could you please tell me? If\nit's alright with me, I'll do my best to help you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私でよろしければ力になりますよ。"
+                                ""
                             ]
                         },
                         {
@@ -11241,14 +11241,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（悩みはオレの性癖のことなんだよな……"
+                                "\\nw[Taro](My worry is about my sexual fetish... What should\nI do?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうするか）"
+                                ""
                             ]
                         },
                         {
@@ -11256,8 +11256,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "相談する",
-                                    "やめておく"
+                                    "Seek advice",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -11316,7 +11316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]えっ、話すの？"
+                                "\\nw[Kuno]Huh, are you going to talk?"
                             ]
                         },
                         {
@@ -11333,31 +11333,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ああ、アモル教は性関連について強いみたいだし、"
+                                "\\nw[Taro]Ah, since the Amor religion seems to have a strong\nstance on matters of sexuality, wouldn't it be\ngood to talk to a priest as a confidant? They seem\nlike they would keep secrets."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "相談相手として神父ならいいだろ？秘密は守りそうだし。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]わ、わかったわよ。"
+                                ""
                             ]
                         },
                         {
@@ -11374,7 +11357,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]実は……"
+                                "\\nw[Kuno]F-Fine, I understand."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Actually..."
                             ]
                         },
                         {
@@ -11407,7 +11407,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]と言うわけなんだ。"
+                                "\\nw[Taro]So, that's the reason."
                             ]
                         },
                         {
@@ -11424,38 +11424,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]淫魔になったことなど色々ありますが……"
+                                "\\nw[Priest]I have had various experiences with becoming a\nsuccubus... but my biggest worry is not knowing\nhow to get my girlfriend to indulge in my NTR\nfetish."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "NTR趣味なのに彼女にどうしてもらえばいいかわからないということが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一番の悩みですね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[神父]では、アモル教に体験入信してみませんか？"
+                                ""
                             ]
                         },
                         {
@@ -11472,7 +11455,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]体験入信？なんだそれ？"
+                                "\\nw[Priest]Well then, why don't you try joining the Amor\nreligion and experiencing it for yourself?"
                             ]
                         },
                         {
@@ -11489,14 +11472,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]アモル神への祈りを体験することができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気に入ったのならアモル教に入ることも考えてくれればと。"
+                                "\\nw[Taro]Trial membership? What's that?"
                             ]
                         },
                         {
@@ -11513,7 +11489,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（宗教はあんまりわかんないんだよな……）"
+                                "\\nw[Priest]You can experience the prayer to the Amor God. If\nyou like it, please consider joining the Amor\nreligion."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro](I don't really understand religion...)"
                             ]
                         },
                         {
@@ -11559,7 +11559,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]祈りって？"
+                                "\\nw[Kuno]Prayer?"
                             ]
                         },
                         {
@@ -11576,7 +11576,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]性行為です。"
+                                "\\nw[Priest]It's sexual intercourse."
                             ]
                         },
                         {
@@ -11629,7 +11629,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……\\|マジで？"
+                                "\\nw[Taro]...Seriously?"
                             ]
                         },
                         {
@@ -11646,14 +11646,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]具体的には子作りです。"
+                                "\\nw[Priest]Specifically, it's about procreation. The Amor God\nis the god of fertility."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "アモル神は生殖を魔力の神です。"
+                                ""
                             ]
                         },
                         {
@@ -11670,14 +11670,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]性行為は当然生殖する上で必須ですし、"
+                                "\\nw[Priest]Sexual intercourse is naturally essential for\nreproduction, and it can also grant a lot of\nmagical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "性行為は多くの魔力を得ることができますから。"
+                                ""
                             ]
                         },
                         {
@@ -11723,7 +11723,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]そ、そうなのね……"
+                                "\\nw[Kuno]S-So, is that so..."
                             ]
                         },
                         {
@@ -11740,7 +11740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]NTR趣味で悩んでいるのならちょうどいいでしょう。"
+                                "\\nw[Priest]If you're troubled by your NTR fetish, it might be\njust right for you."
                             ]
                         },
                         {
@@ -11757,7 +11757,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]そうなの？"
+                                "\\nw[Kuno]Is that so?"
                             ]
                         },
                         {
@@ -11774,7 +11774,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]いやまぁ……"
+                                "\\nw[Taro]Well, um..."
                             ]
                         },
                         {
@@ -11791,14 +11791,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]もし祈りを共に捧げたいというのであれば夜に来てください。"
+                                "\\nw[Priest]If you want to offer your prayers together, please\ncome at night. I want to be of help to those in\ndistress."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "悩める者の力になりたいですから。"
+                                ""
                             ]
                         },
                         {
@@ -11815,7 +11815,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]あ、ああ、わかった。"
+                                "\\nw[Taro]Ah, ah, I understand."
                             ]
                         },
                         {
@@ -11848,14 +11848,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（神父なら身元も確かだし信頼できるはず。"
+                                "\\nw[Taro](If it's the priest, then he should be trustworthy\nwith a reliable background. In that case, maybe it\nwouldn't be a bad idea to have him embrace\nKuno...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "だったらクノを抱いてもらうのも手か……？）"
+                                ""
                             ]
                         },
                         {
@@ -11896,7 +11896,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]わかりました。気が変わったらお声がけください。"
+                                "\\nw[Priest]Understood. Please let me know if you change your\nmind."
                             ]
                         },
                         {
@@ -11998,14 +11998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]ようこそいらっしゃいました。"
+                                "\\nw[Priest]Welcome. Let us offer our prayers to the god Amor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アモル神へと祈りを捧げましょう。"
+                                ""
                             ]
                         },
                         {
@@ -12060,14 +12060,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]クノ、どうですか？"
+                                "\\nw[Priest]Kuno, how about it? Would you like to try it\nagain?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "また体験してみませんか？"
+                                ""
                             ]
                         },
                         {
@@ -12113,7 +12113,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]えっと……祈りの体験ですか？"
+                                "\\nw[Kuno]Um... Is it an experience of prayer?"
                             ]
                         },
                         {
@@ -12130,38 +12130,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]２度目の体験入信となると以前と同じ扱いはではありません。"
+                                "\\nw[Priest]When it comes to the second experience of joining\nthe faith, it's not the same treatment as before.\nYou will not only pray with me, but also help with\nthe church's work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "私以外と祈ることもありますし、教会の仕事も手伝ってもらいます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nw[神父]アモル教に興味を持っていましたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "アモル教についてもお教えしますよ。"
+                                ""
                             ]
                         },
                         {
@@ -12178,7 +12154,31 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]う～ん……どうしよう。太郎？"
+                                "\\nw[Priest]You were interested in the Amor religion, so I\nwill teach you about the Amor religion."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\nw[Kuno]Hmm... What should I do, Taro?"
                             ]
                         },
                         {
@@ -12186,8 +12186,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "行ってこい",
-                                    "駄目だ"
+                                    "Go and come back",
+                                    "No way"
                                 ],
                                 1,
                                 0,
@@ -12258,7 +12258,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[Kuno]う、うん、わかった……"
+                                "\\nw[Kuno]U-uh, okay..."
                             ]
                         },
                         {
@@ -12275,7 +12275,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[Taro]まぁ、体調には気をつけろよ。"
+                                "\\nw[Taro]Well, take care of your health, okay?"
                             ]
                         },
                         {
@@ -12292,7 +12292,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[Kuno]うん。"
+                                "\\nw[Kuno]Yeah."
                             ]
                         },
                         {
@@ -12309,14 +12309,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]では、場所を変えましょうか。"
+                                "\\nw[Priest]Well then, shall we change the location? I will\nconfirm once again if you are able to pray."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "祈りができているか、再確認させてもらいます。"
+                                ""
                             ]
                         },
                         {
@@ -12333,7 +12333,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[Kuno]わかりました……"
+                                "\\nw[Kuno]Understood..."
                             ]
                         },
                         {
@@ -12423,7 +12423,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[Taro]（この建物のどこかに行ったみたいだな……）"
+                                "\\nw[Taro](It seems like she went somewhere in this\nbuilding...)"
                             ]
                         },
                         {
@@ -12494,7 +12494,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[Kuno]えっと、そういうことなのでまたの機会で。"
+                                "\\nw[Kuno]Um, well, in that case, maybe another time."
                             ]
                         },
                         {
@@ -12538,7 +12538,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]（寝取らせのために、また相談してみてもいいか……）"
+                                "\\nw[Taro](Maybe I should consult with her again for the\npurpose of NTR...)"
                             ]
                         },
                         {
@@ -12674,14 +12674,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]ようこそいらっしゃいました。"
+                                "\\nw[Priest]Welcome. Let us offer our prayers to the god Amor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アモル神へと祈りを捧げましょう。"
+                                ""
                             ]
                         },
                         {
@@ -12862,7 +12862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]と言うわけなんです。"
+                                "\\nw[Kuno]So, that's the situation."
                             ]
                         },
                         {
@@ -12879,31 +12879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]わかりました。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今アタシはアモル教の教会にいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プラエの事を神父様に相談しに来たのだ。"
+                                "\\nw[Priest]Understood."
                             ]
                         },
                         {
@@ -12920,14 +12896,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アモル神は繁殖と魔力の神だ。"
+                                "Right now, I am at the Amor Church. I came here to\nconsult with the priest about Prae."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力の神の信者なら何か魔術に詳しいのかもしれないと思ったのだ。"
+                                "The Amor God is the god of reproduction and magic.\nI thought that if someone is a follower of the god\nof magic, they might be knowledgeable about magic."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12944,21 +12944,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]期待して頂いたのに申し訳ないのですが、"
+                                "\\nw[Priest]I apologize for not meeting your expectations, but\nI also do not know the solution. The Amor God is a\ngod of magical power, not a god of magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私にも解決方法はわかりません。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アモル神は魔力の神であって、魔術の神ではないのです。"
+                                ""
                             ]
                         },
                         {
@@ -13004,7 +13004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そうですか……"
+                                "\\nw[Kuno]Is that so..."
                             ]
                         },
                         {
@@ -13021,38 +13021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ある程度予想していたことだけど落胆してしまう。"
+                                "I'm disappointed, although I had anticipated it to\nsome extent. It's because there was a glimmer of\nhope that maybe, just maybe, it could have been\ndifferent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたらと言う希望があったのは確かだからだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[神父]ですが魔力を送ると言う部分に関しては力になれるかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アモル神は生殖と魔力の神ですから。"
+                                ""
                             ]
                         },
                         {
@@ -13069,31 +13045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]アモル教の信者は、長年信仰心の強い者ほど"
+                                "\\nw[Priest]However, I might be able to help with the part\nabout sending magical power. The Amor God is the\ngod of reproduction and magic, after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アモル様の加護により強い生殖能力と魔力を持っています。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[神父]そのことはクノも実感できたでしょう？"
+                                ""
                             ]
                         },
                         {
@@ -13110,7 +13069,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はい、それは理解してます。"
+                                "\\nw[Priest]The followers of the Amor religion, especially\nthose with strong faith, have strong reproductive\nabilities and magical powers thanks to the\nblessings of Amor-sama."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13119,7 +13085,7 @@
                             "parameters": [
                                 "",
                                 0,
-                                1,
+                                0,
                                 2
                             ]
                         },
@@ -13127,21 +13093,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神父様はかなりの高齢だが激しい祈りも難なくこなしていた。"
+                                "\\nw[Priest]Kuno, you must have also felt that, right?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "更に精液の量も多く、濃度の濃さも普通に男とは比べ物にならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも何回出しても量も濃度も落ちないのだ。"
+                                "\\nw[Kuno]Yes, I understand."
                             ]
                         },
                         {
@@ -13158,21 +13127,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朝昼夜の食事で神父様の精液を飲まされた時は驚いた。"
+                                "The priest, despite being quite elderly,\neffortlessly performed intense prayers.\nFurthermore, his semen volume was abundant, and\nthe concentration was incomparable to that of an\naverage man. Moreover, no matter how many times he\nejaculated, neither the volume nor the\nconcentration decreased."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頭を掴まれ喉奥にペニスを押し付けられて居の中に精液を流し込まれ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それがお腹が一杯なるまで続けられたのだ。"
+                                ""
                             ]
                         },
                         {
@@ -13189,14 +13158,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それだけ出しても神父様は他の信者とお祈りをしていたのだ。"
+                                "I was surprised when I was made to drink the\npriest's semen during breakfast, lunch, and\ndinner. My head was held and his penis was pushed\ninto the back of my throat, and his semen was\npoured into my stomach until it was full."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アモル神の加護が強いとそれだけ生殖力が高くなるのだろう。"
+                                "Even though he released that much, the priest was\nstill praying with other followers. It seems that\nthe stronger the blessing of the Amor God, the\nhigher the reproductive power becomes."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13213,14 +13213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]プラエさんには支援もして頂いています、"
+                                "\\nw[Priest]Prae-san has also been supporting me, even though\nI am a busy person. But if it's for Prae-san's\nsake, I will cooperate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私も忙しい身ですが、プラエさんのためならば協力しましょう。"
+                                ""
                             ]
                         },
                         {
@@ -13266,7 +13266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あ、ありがとうございます！"
+                                "\\nw[Kuno]Ah, thank you very much!"
                             ]
                         },
                         {
@@ -13283,7 +13283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]アモル教の信者に協力するように頼んでおきます。"
+                                "\\nw[Priest]I will ask the followers of the Amor religion for\ntheir cooperation."
                             ]
                         },
                         {
@@ -13300,14 +13300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]何か要望はありますか？"
+                                "\\nw[Priest]Do you have any requests? Even if I make a\nsuggestion, it might be something you've already\ntried."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私から提案しても、既に試したことかもしれませんので。"
+                                ""
                             ]
                         },
                         {
@@ -13353,7 +13353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はい、でしたらお願いしたいんですけど……"
+                                "\\nw[Kuno]Yes, if that's the case, there's something I would\nlike to ask..."
                             ]
                         },
                         {
@@ -13445,14 +13445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クノが教会で神父に協力してもらうと言って三日。"
+                                "Kuno decided to go and see how things were after\nasking the priest for cooperation at the church\nfor three days."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "様子を見に行くことにした。"
+                                ""
                             ]
                         },
                         {
@@ -13493,7 +13493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]さて、クノはどこにいるんだろうな……"
+                                "\\nw[Taro]Now, I wonder where Kuno is..."
                             ]
                         },
                         {
@@ -13510,31 +13510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（教会に泊まり込みだから、"
+                                "\\nw[Taro](Since I'm staying overnight at the church, maybe\nthey've been continuously making babies...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたらずっと子作りしてたりするんじゃ……）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[女の声]おひぃっ♥おぉっ♥……神父様、すごぉぉ♥おぉぉっ♥"
+                                ""
                             ]
                         },
                         {
@@ -13551,7 +13534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]近くの部屋から声が……"
+                                "\\nw[Female voice]Ohh... Father, amazing...♥"
                             ]
                         },
                         {
@@ -13568,7 +13551,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（聞き覚えのある声な気がする、近づいて聞いてみるか……）"
+                                "\\nw[Taro]I hear voices from a nearby room..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](I feel like I recognize that voice, should I get\ncloser and listen...)"
                             ]
                         },
                         {
@@ -13618,45 +13618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女の声]おほぉぉっ♥おっ♥おおっ♥おおっ♥おほぉぉ♥"
+                                "\\nw[Female voice]Ohhh♥ Ahh♥ Oohh♥ Oohh♥ Ohhh♥ Father♥ Amazing,\nohhh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "神父さまぁ♥すごぉっ、おほぉぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（男の声は小さくて聞こえないな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の声はクノとは違うか……？でも、喘ぎ声は普段の声と違うから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくわからないんだよな……）"
+                                ""
                             ]
                         },
                         {
@@ -13673,38 +13642,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女の声]神父様っ、おほぉっ♥おおぉぉ♥"
+                                "\\nw[Taro](I can't hear the man's voice very well... The\nwoman's voice doesn't sound like Kuno...? But the\nmoans don't sound like their usual voices, so I'm\nnot sure...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はいっ、幸せですぅ♥♥おほぉぉ♥おっ♥おぉぉぉ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（……何か聞き覚えがあるし、クノなのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クノが神父に犯されて……神父と愛し合ってあんなことを……）"
+                                ""
                             ]
                         },
                         {
@@ -13721,31 +13673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女の声]はいっ、出してくださいぃ……♥♥"
+                                "\\nw[Female voice]Father... ohh♥ oohh♥ Yes, I'm so happy♥♥ Ohh♥\noohh♥ ohh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "神父さまの子供を、孕ませてください……♥♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（……！！）"
+                                ""
                             ]
                         },
                         {
@@ -13762,7 +13697,72 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（クノが……神父に子供を懇願するなんて……）"
+                                "\\nw[Taro](......I feel like I recognize that voice, is it\nKuno? Is Kuno being violated by the priest... and\nengaging in such acts of love with him...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Female voice]Yes, please release it...♥♥ Please impregnate me\nwith the priest's child...♥♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](......!!)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](Kuno... begging the priest for a child...)"
                             ]
                         },
                         {
@@ -13844,38 +13844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あれ、太郎？"
+                                "\\nw[Kuno]Oh, Taro? What's wrong? Why are you here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの、こんなところで。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（このまま神父に犯された後のクノは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと幸せそうな顔をしてお腹を撫でて……）"
+                                ""
                             ]
                         },
                         {
@@ -13892,7 +13868,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]太郎？聞いてる？"
+                                "\\nw[Taro](After being violated by the priest like this,\nKuno must have a happy expression as she caresses\nher belly...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13909,7 +13892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ん……？"
+                                "\\nw[Kuno]Taro? Are you listening?"
                             ]
                         },
                         {
@@ -13926,7 +13909,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（クノの姿が見えるような……）"
+                                "\\nw[Taro]Huh...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](I can see Kuno's figure...)"
                             ]
                         },
                         {
@@ -13957,7 +13957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]って、前もあったなこんなこと……"
+                                "\\nw[Taro]Ah, there was something like this before..."
                             ]
                         },
                         {
@@ -14003,7 +14003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]何言ってんのよ？"
+                                "\\nw[Kuno]What are you talking about?"
                             ]
                         },
                         {
@@ -14020,14 +14020,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、何でもない……"
+                                "\\nw[Taro]No, it's nothing... I just came to check on you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "単に様子を見に来ただけだ。"
+                                ""
                             ]
                         },
                         {
@@ -14044,7 +14044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]何してるんだ？"
+                                "\\nw[Taro]What are you doing?"
                             ]
                         },
                         {
@@ -14090,31 +14090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]何って、今は信者に連絡をしているところよ。"
+                                "\\nw[Kuno]What do you mean? Right now, I'm contacting the\nbelievers. There are a lot of people asking for\nvarious things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色々と頼む人が多くって。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]そうか。"
+                                ""
                             ]
                         },
                         {
@@ -14131,14 +14114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（まあ、いつも交わってるわけじゃないよな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと期待してたんだが……）"
+                                "\\nw[Taro]I see."
                             ]
                         },
                         {
@@ -14155,7 +14131,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]神父って声が聞こえたから、てっきりな。"
+                                "\\nw[Taro](Well, it's not like we do it all the time... I\nwas kind of hoping for it though...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]I heard a priest's voice, so I thought it was you."
                             ]
                         },
                         {
@@ -14201,31 +14201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]神父様はアモル様の加護を強く受けてるすごい人なのよ。"
+                                "\\nw[Kuno]The priest is an amazing person who receives a\nstrong blessing from Amor-sama. So when you see\nhim, you might lose confidence, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから見ると自信を失うかもしれないわよ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]自信って……別にオレ性に自信あるわけじゃないけど……"
+                                ""
                             ]
                         },
                         {
@@ -14242,14 +14225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]自信持ちなさいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔になったんだから下手なままじゃ駄目でしょ。"
+                                "\\nw[Taro]Confidence... It's not like I have confidence in\nmy own abilities or anything..."
                             ]
                         },
                         {
@@ -14266,38 +14242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]すぐに上手くなるわけじゃないだろう。"
+                                "\\nw[Kuno]Have some confidence. Since you've become a\nsuccubus, it's no good to stay inexperienced like\nthis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とは言え、いざヤるとなると興奮してしまってな……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]今の状況だと焦った方がいい気がするけど……、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも焦ってもうまくいくわけじゃないわね。"
+                                ""
                             ]
                         },
                         {
@@ -14314,14 +14266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]忙しいし、行くわね。"
+                                "\\nw[Taro]It's not like I'll become skilled right away. But\nwhen it comes to actually doing it, I get\nexcited..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ。"
+                                ""
                             ]
                         },
                         {
@@ -14338,7 +14290,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]おう、わかった。"
+                                "\\nw[Kuno]Given the current situation, I feel like it's\nbetter to be anxious... but even if you're\nanxious, it doesn't mean things will go well."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]I'm busy, so I'll be going. Well then."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Alright, I got it."
                             ]
                         },
                         {
@@ -14417,38 +14417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（見に来ると抱かれてるところが見れないな、"
+                                "\\nw[Taro](It's unfortunate that you can't see me being\nembraced when you come to visit, it's bad timing.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "間の悪いことだ）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（……\\|そう言えば、神父に抱かれてる女の声、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかで聞き覚えがあった気がしたんだが……）"
+                                ""
                             ]
                         },
                         {
@@ -14465,14 +14441,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（まあ、同じ町に住んでるんだから聞き覚えのある声は"
+                                "\\nw[Taro](...Come to think of it, the voice of the woman\nbeing embraced by the priest, it felt like I've\nheard it somewhere before...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "沢山あるか）"
+                                "\\nw[Taro](Well, since we live in the same town, there are\nplenty of familiar voices.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14752,7 +14752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[シスター]何か聞きたいことはありますか？"
+                                "\\nw[Sister]Do you have something you want to ask?"
                             ]
                         },
                         {
@@ -14760,9 +14760,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この教会について",
-                                    "アモル教について",
-                                    "特にない"
+                                    "About this church?",
+                                    "About the Amor religion",
+                                    "Nothing in particular"
                                 ],
                                 1,
                                 0,
@@ -14792,14 +14792,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[シスター]この教会はアモル教の教会です。"
+                                "\\nw[Sister]This church is an Amor religion church. It is\nwidely practiced in this city."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この都市では広く信仰されている宗教です。"
+                                ""
                             ]
                         },
                         {
@@ -14829,52 +14829,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[シスター]生殖と魔力の神であるアモルを信仰しています。"
+                                "\\nw[Sister]We worship Amor, the god of reproduction and\nmagic. Sexual intercourse with various partners is\npart of our doctrine. It is also acceptable to\npractice other religions simultaneously."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "様々な相手との性行為が教義となっています。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "他の宗教を同時に信仰してもかまいません。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[シスター]性行為では魔力が得られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "多くの相手と交わるほど多くの魔力が得られます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その為戦闘能力者の多くが信仰しています。"
+                                ""
                             ]
                         },
                         {
@@ -14891,21 +14860,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[シスター]子作りはアモルへの祈りです。"
+                                "\\nw[Sister]Sexual intercourse grants magical power, and the\nmore partners you engage with, the more magical\npower you obtain. That's why many combatants in\nthis world believe in it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "多くの魔力を得る不特定多数との性行為は"
+                                "\\nw[Sister]Procreation is a prayer to Amor. Engaging in\nsexual intercourse with multiple partners to\nobtain a greater amount of magical power is\nconsidered an even stronger prayer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "更に強い祈りとなります。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14935,7 +14935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[シスター]神のご加護があらんことを。"
+                                "\\nw[Sister]May the blessings of the gods be upon you."
                             ]
                         },
                         {
@@ -15022,7 +15022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]今日はどの娘と祈りを捧げようか……"
+                                "\\nw[Millionaire]Which girl shall I offer my prayers to today..."
                             ]
                         },
                         {
@@ -15150,14 +15150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[学生]彼氏のアレがちょっと小さくてね。"
+                                "\\nw[Student]My boyfriend's thing was a little small, so I was\nworried. But when I consulted with the priest, he\nhelped me solve it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "困ってたんだけど、神父様に相談したら解決してくれたの。"
+                                ""
                             ]
                         },
                         {
@@ -15174,7 +15174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[学生]今日も神父様と……（照れ"
+                                "\\nw[Student]Today, too, with the priest... (blushes)"
                             ]
                         },
                         {
@@ -15302,7 +15302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[シスター]楽しみを見つけるが大切です。"
+                                "\\nw[Sister]It's important to find joy."
                             ]
                         },
                         {
@@ -15370,7 +15370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[シスター]ふふ、楽しみにしていますね。"
+                                "\\nw[Sister]Hehe, I'm looking forward to it."
                             ]
                         },
                         {
@@ -15447,14 +15447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[シスター]この都市は戦う人が多くて怪我人が多いのよね。"
+                                "\\nw[Sister]This city has a lot of people fighting, so there\nare many injured people. We need to prepare some\nmedicinal herbs here too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こちらでも薬草を用意しておかないと……"
+                                ""
                             ]
                         },
                         {
@@ -15531,7 +15531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]どうだ、今夜はいいだろう？"
+                                "\\nw[Dalton]How about tonight?"
                             ]
                         },
                         {
@@ -15652,7 +15652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]さて、今度はちゃんと探さないとな……"
+                                "\\nw[Taro]Well, now I have to search properly..."
                             ]
                         },
                         {
@@ -15669,7 +15669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（クノがいるとしたら右の廊下の方か？）"
+                                "\\nw[Taro](If Kuno is here, she might be in the hallway to\nthe right?)"
                             ]
                         },
                         {
@@ -15844,7 +15844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（お、いた）"
+                                "\\nw[Taro](Oh, there you are)"
                             ]
                         },
                         {
@@ -15861,7 +15861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（神父以外の男といるのか……）"
+                                "\\nw[Taro](Is she with another man besides the priest...?)"
                             ]
                         },
                         {
@@ -16303,14 +16303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（って、気づかれなかったか。"
+                                "\\nw[Taro](I hope she didn't notice. I have to chase after\nher.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "追いかけないとな）"
+                                ""
                             ]
                         },
                         {
@@ -17224,7 +17224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（いないな……どこかの部屋に入ったのか？）"
+                                "\\nw[Taro](She's not here... Did she enter one of the\nrooms?)"
                             ]
                         },
                         {
@@ -17380,7 +17380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]んちゅっ……れろ……れろ……"
+                                "\\nw[Kuno's voice]Nchu... Lero... Lero...*"
                             ]
                         },
                         {
@@ -17397,14 +17397,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（この声は……クノの声？"
+                                "\\nw[Taro](Is this voice... Kuno's voice? No, it's not\nreally a voice...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、声って言うか……）"
+                                ""
                             ]
                         },
                         {
@@ -17421,7 +17421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]んんんっ……ちゅるっ、んちゅっ、んんっ……"
+                                "\\nw[Kuno's voice]Mmm... slurp, nchu, mmm...*"
                             ]
                         },
                         {
@@ -17488,38 +17488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（肌のぶつかる音まで……！"
+                                "\\nw[Taro](Even the sound of skin touching...! Could it be\nthat they're doing it!?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさかヤってるのか！？）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[男の声１]そうそう、ちゃんと舐めるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舌を使って味わうんだ。"
+                                ""
                             ]
                         },
                         {
@@ -17536,7 +17512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]うん……ちゅるっ、れろ、れろ、んむぅ……"
+                                "\\nw[Man's Voice 1]Yeah, that's right. Make sure to lick it properly.\nUse your tongue to savor the taste."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17553,14 +17536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声２]ほぉ、いい具合だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備は整えてきたようだね。"
+                                "\\nw[Kuno's voice]Mmm... slurp, lero, lero, mmm..."
                             ]
                         },
                         {
@@ -17577,7 +17553,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]神父様に朝に……はむっ、んむっ、れろれろ……んむっ……"
+                                "\\nw[Man's Voice 2]Oh, it's coming along nicely. It seems like the\npreparations have been made."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17594,14 +17577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声１]始めたばかりでこの舌使いか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "将来が楽しみだよ。"
+                                "\\nw[Kuno's voice]To the priest in the morning... mmm, nmm, lero\nlero... nmm..."
                             ]
                         },
                         {
@@ -17618,21 +17594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声２]この子は風俗店で働いてるし、"
+                                "\\nw[Man's Voice 1]She's just started and already using her tongue\nlike that. I'm looking forward to the future."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここで住み込みで働くことはできないんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけは残念だよな。"
+                                ""
                             ]
                         },
                         {
@@ -17649,31 +17618,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声１]残念だけど、信者になれば何度も来てくれるだろう。"
+                                "\\nw[Man's Voice 2]This girl is working at a brothel, so she can't\nwork and live here, right? That's just too bad,\nisn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽しみにしているよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[クノの声]ふぁい……んむっ、れろれろ……"
+                                ""
                             ]
                         },
                         {
@@ -17690,14 +17649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声１]雑談はこれくらいにして、性の勉強をしながら"
+                                "\\nw[Man's Voice 1]It's a shame, but if she becomes a believer,\nshe'll come back many times. I'm looking forward\nto it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アモル教についても教えていこうか。"
+                                ""
                             ]
                         },
                         {
@@ -17714,7 +17673,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声１]生殖と魔力の神でアモル神は……"
+                                "\\nw[Kuno's voice]Fai... mmm, lero lero..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Man's Voice 1]Let's wrap up the small talk and start learning\nabout sex while also teaching about the Amor\nreligion."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Man's Voice 1]The god of reproduction and magic, the Amor god..."
                             ]
                         },
                         {
@@ -17747,14 +17747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（間違いなくやってる……！"
+                                "\\nw[Taro](She's definitely doing it...! Damn, it's getting\nme excited...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くそ、興奮してしまう……！）"
+                                ""
                             ]
                         },
                         {
@@ -17952,7 +17952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（はぁ、はぁ……何回やるつもりなんだ……）"
+                                "\\nw[Taro](Haa, haa... How many times are you planning to do\nthis...)"
                             ]
                         },
                         {
@@ -17969,14 +17969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男３]すまないがそこに用があってね。"
+                                "\\nw[Man 3]Sorry, but I have some business there. Could you\nmove aside?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どいてくれるかな？"
+                                ""
                             ]
                         },
                         {
@@ -18033,7 +18033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あ、ああ、すまない……"
+                                "\\nw[Taro]Ah, ah, I'm sorry..."
                             ]
                         },
                         {
@@ -18684,7 +18684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]まさか……連続で？"
+                                "\\nw[Taro]No way... in succession?"
                             ]
                         },
                         {
@@ -19088,7 +19088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]はぁ、はぁ、はぁ……！"
+                                "\\nw[Taro]Haa, haa, haa...!"
                             ]
                         },
                         {
@@ -19348,7 +19348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]はぁ、はぁ、はぁ……クノ、クノ……！"
+                                "\\nw[Taro]Haa, haa, haa... Kuno, Kuno...!"
                             ]
                         },
                         {
@@ -19365,7 +19365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]んひっ、あっ、あひっ、んほぉぉ！"
+                                "\\nw[Kuno's voice]Nhi, ah, ahi, nhoohh!"
                             ]
                         },
                         {
@@ -19382,38 +19382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声４]おら、気持ちいいか？"
+                                "\\nw[Man's Voice 4]Hey, feels good, doesn't it? It feels really good!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ちいいだろ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[クノの声]ひもちいいっ！んひっ、んほぉぉっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひもちいいよっ、おひっ、おっ、おおぉ♥"
+                                ""
                             ]
                         },
                         {
@@ -19430,38 +19406,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声４]だったらおねだりだ！"
+                                "\\nw[Kuno's voice]It feels so good! Ah, ah, ohh! It feels so good,\nah, ah, ohh, ohh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほら、言うんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[クノの声]はひっ、あっ、あひぃぃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たねづけしてくらはいっ、んひっ、んほぉぉ♥"
+                                ""
                             ]
                         },
                         {
@@ -19478,21 +19430,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]あたひのおま〇こにっ、んひっ、あひぃっ、"
+                                "\\nw[Man's Voice 4]Then ask for it! Come on, say it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "のーこうザーメン一杯注いで、んひっ、んほっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はらませてくらはいっ、んひぃぃ♥"
+                                ""
                             ]
                         },
                         {
@@ -19509,7 +19454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声４]ほら、もっとだもっと！"
+                                "\\nw[Kuno's voice]Hahi, ah, ahi~! Please give me your seed, nhii~,\nnhooohh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19526,38 +19478,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]はらませて、んひっ、んほぉぉ♥"
+                                "\\nw[Kuno's voice]Pour your semen into my pussy, ah, ah, ohh, fill\nit up with lots of it, ah, ah, ohh, make me\npregnant, ah, ah♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はらませてくだはいっ♥あっ、あひっ、あああっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（ずっとオレ以外の男におねだりして……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ、むかつくのに興奮する……！）"
+                                ""
                             ]
                         },
                         {
@@ -19574,7 +19509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声４]望み通り出すぞ……出してやるからな……！"
+                                "\\nw[Man's Voice 4]Come on, more, more!"
                             ]
                         },
                         {
@@ -19591,14 +19526,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]はひっ、ざーめんそそいでっ♥"
+                                "\\nw[Kuno's voice]Fill me up, nhi~, nhoohh♥ Please fill me up♥ Ah,\nahi~, aaaaahh!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああっ、あひっ、あっ、ああああぁぁぁっ♥"
+                                "\\nw[Taro](Always begging other men... damn it, it's\nirritating but it turns me on...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Man's Voice 4]I'll give you what you want... I'll make you\ncum...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno's voice]Hahi, pour the semen♥ Ahh, ahi, ah, aaaaahhh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19743,14 +19743,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]あぁぁ……すごぉぉい……"
+                                "\\nw[Kuno's voice]Ahhh... amazing... it's so hot... fill me up... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "熱いのでいっぱい……♥"
+                                ""
                             ]
                         },
                         {
@@ -19767,14 +19767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男の声４]はぁ……はぁ……さすがにいい体だな。"
+                                "\\nw[Man's Voice 4]Haa... haa... You really do have a great body.\nBut, you're still not enough...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが、まだまだ……！"
+                                ""
                             ]
                         },
                         {
@@ -19841,31 +19841,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]んひぃぃ♥"
+                                "\\nw[Kuno's voice]Nhi~, nhi~, aahh~! Even though I'm in the middle\nof cumming, nhi~, nhaaahh~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イってるところなのにっ、んひっ、んああぁぁ～！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[男の声４]おら、ちゃんとおねだりだ！"
+                                ""
                             ]
                         },
                         {
@@ -19882,7 +19865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]はひっ、はらませてくだひゃっ、んひっ、あひぃぃ♥"
+                                "\\nw[Man's Voice 4]Beg properly!"
                             ]
                         },
                         {
@@ -19899,7 +19882,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（はぁ……はぁ……！）"
+                                "\\nw[Kuno's voice]Hahi~, please impregnate me, nhi~, ahiiii♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](Haa... haa...!)"
                             ]
                         },
                         {
@@ -20108,7 +20108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[クノの声]あひっ……あぁ……あぁぁ……"
+                                "\\nw[Kuno's voice]Ahh... ahh... aahhh..."
                             ]
                         },
                         {
@@ -20125,7 +20125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ふぅふぅ……興奮が鎮まらない……！"
+                                "\\nw[Taro]*huff* *huff*... I can't calm down...!"
                             ]
                         },
                         {
@@ -20142,7 +20142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]楽しんでいるようで何よりです"
+                                "\\nw[Priest]I'm glad to see you enjoying yourself."
                             ]
                         },
                         {
@@ -20199,7 +20199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]うおっ、神父か……"
+                                "\\nw[Taro]Whoa, it's the priest..."
                             ]
                         },
                         {
@@ -20216,31 +20216,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]間男でもクノは性行為を楽しめてるようですが、"
+                                "\\nw[Priest]Even though Taro is a virgin, it seems like he's\nenjoying the sexual activity just like Kuno is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "太郎も楽しめているようですね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]あ、ああ……そう言えば寝取られの相談をしたんだったな。"
+                                ""
                             ]
                         },
                         {
@@ -20257,14 +20240,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]しかしもう夜ですよ。"
+                                "\\nw[Taro]Ah, ah... come to think of it, I did ask for\nadvice about NTR (cuckolding)."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "忙しいのではなかったのですか？"
+                                "\\nw[Priest]But it's already night. Weren't you busy?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20290,45 +20290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]い、いつの間にそんな時間が……"
+                                "\\nw[Taro]W-When did it become so late... Oh no, it looks\nlike my work has piled up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずい、仕事が溜まってそうだ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[神父]残念ではありますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理性が溶けきっているクノならおねだりをして恋人以外とでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラブラブな状態がお見せできるのですが。"
+                                ""
                             ]
                         },
                         {
@@ -20345,14 +20314,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]くっ……\\|しかし……\\|"
+                                "\\nw[Priest]It's unfortunate. If Kuno, who has completely lost\nher reason, were to ask for it, I could show you a\nlovey-dovey state with someone other than her\nlover."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜になると店も開くから急がないとな。"
+                                "\\nw[Taro]Hmph... However... The shop opens at night, so I\nneed to hurry."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20427,7 +20427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]店に戻らなくていいのですか？"
+                                "\\nw[Priest]Do you not need to return to the shop?"
                             ]
                         },
                         {
@@ -20444,14 +20444,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あ、ああ……\\|戻るよ。"
+                                "\\nw[Taro]Ah, ah... I'm going back. I'll go back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戻るさ。"
+                                ""
                             ]
                         },
                         {
@@ -20486,7 +20486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]太郎？"
+                                "\\nw[Priest]Taro?"
                             ]
                         },
                         {
@@ -20543,7 +20543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]くっ……\\|戻るさ……\\|はぁ……"
+                                "\\nw[Taro]*huff*... I'm going back... *sigh*"
                             ]
                         },
                         {
@@ -20715,7 +20715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]今日もアモル様のおかげで何とか無事に過ごせましたよっと……"
+                                "\\nw[Mercenary]Thanks to Lord Amor, I was able to get through\ntoday safely..."
                             ]
                         },
                         {
@@ -20792,7 +20792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[冒険者]んふふ～、楽しみ～♪"
+                                "\\nw[Adventurer]Hehe, I'm looking forward to it~♪"
                             ]
                         },
                         {
@@ -22179,7 +22179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あれ、教会に用があるの？"
+                                "\\nw[Kuno]Oh, do you have something to do at the church?"
                             ]
                         },
                         {
@@ -22187,9 +22187,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "何してんだ？",
-                                    "性情報を見る",
-                                    "このまま立ち去る"
+                                    "What are you doing?",
+                                    "Check sexual information",
+                                    "Leave as is"
                                 ],
                                 2,
                                 0,
@@ -22219,14 +22219,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]相談に乗ってもらったからお返しに手伝いをしてるのよ。"
+                                "\\nw[Kuno]I'm helping out as a return favor for the advice I\nreceived. It seems like there are various things\nto do at the church, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "教会も色々することがあるみたいね。"
+                                ""
                             ]
                         },
                         {
@@ -22283,7 +22283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]うん、またね。"
+                                "\\nw[Kuno]Yeah, see you later."
                             ]
                         },
                         {

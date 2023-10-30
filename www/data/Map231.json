@@ -2095,14 +2095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]あの人のところの傭兵さんですか。"
+                                "\\nw[Receptionist]Are you the mercenary from over there? This is the\nAdventurer's Guild, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは冒険者ギルドですよ。"
+                                ""
                             ]
                         },
                         {
@@ -2179,7 +2179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[冒険者]ここはいい街だな。"
+                                "\\nw[Adventurer]This is a nice town."
                             ]
                         },
                         {
@@ -2307,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[冒険者]今日はどの娘にするか、今から楽しみだな。"
+                                "\\nw[Adventurer]I'm looking forward to which girl I'll choose\ntoday."
                             ]
                         },
                         {
@@ -2649,21 +2649,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ここはあまり傭兵には用がない場所だから、"
+                                "\\nw[Kuno]This place isn't really frequented by mercenaries,\nso I haven't come here often. Is there something\ngoing on?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あまり来たことがないわね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かあるの？"
+                                ""
                             ]
                         },
                         {
@@ -2680,7 +2680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]ああ、こっちだ"
+                                "\\nw[Rodrigo]Ah, it's this way."
                             ]
                         },
                         {
@@ -3490,14 +3490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ここ？"
+                                "\\nw[Kuno]Here? I don't see anything happening though..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かあるようには見えないけど……"
+                                ""
                             ]
                         },
                         {
@@ -3514,14 +3514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]もうちょっとこっちだ。"
+                                "\\nw[Rodrigo]It's a little further this way. This wall here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この壁な。"
+                                ""
                             ]
                         },
                         {
@@ -3663,7 +3663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]やっぱり何も……"
+                                "\\nw[Kuno]Still, nothing..."
                             ]
                         },
                         {
@@ -3718,45 +3718,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]って、何いきなり抱きついてきてるのよ！？"
+                                "\\nw[Kuno]W-Why are you suddenly hugging me like this!? Let\ngo of me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "離れなさいよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]まぁ落ち着けって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い場所だと思わないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が近くにいるけど視線は通らないんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -3773,7 +3742,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……？"
+                                "\\nw[Rodrigo]Well, calm down. Don't you think it's a nice\nplace? There are people nearby, but their gaze\ndoesn't reach here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3790,14 +3773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]お気に入りでな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新人冒険者を連れ込んだりして結構使ったんだぜ。"
+                                "\\nw[Kuno]Haa...?"
                             ]
                         },
                         {
@@ -3814,31 +3790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]何やってんのよアンタは……"
+                                "\\nw[Rodrigo]It's not my favorite. I've used it quite a bit,\nlike bringing in rookie adventurers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "って言うか本当に離れて、まずいから……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]まずいって何が……お？"
+                                ""
                             ]
                         },
                         {
@@ -3855,38 +3814,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]頬が赤くなってきて、身体も熱くなってきてるな。"
+                                "\\nw[Kuno]What are you doing... I mean, seriously, back off,\nit's not good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "期待してるんじゃないか"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]ちっ、違うわよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタに近づかれると身体が勝手に熱くなっちゃうようになったのよ！"
+                                ""
                             ]
                         },
                         {
@@ -3903,7 +3838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]だから今日も近寄らないようにしてたのに……！"
+                                "\\nw[Rodrigo]What's wrong... Oh?"
                             ]
                         },
                         {
@@ -3920,38 +3855,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]それ期待してるであってるだろ？"
+                                "\\nw[Rodrigo]Your cheeks are turning red and your body is\ngetting hot. Are you expecting something?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、ま〇こも濡れてきてるな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]い、いいから離れなさいよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな場所でアタシは……"
+                                ""
                             ]
                         },
                         {
@@ -3968,31 +3879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]口でそう言ってても抵抗が弱いんだよな。"
+                                "\\nw[Kuno]Tch, that's not it! Whenever you get close to me,\nmy body starts getting hot on its own!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当は期待してるんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]そんなわけ……"
+                                ""
                             ]
                         },
                         {
@@ -4009,7 +3903,113 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]ほいっと……"
+                                "\\nw[Kuno]That's why I've been trying to avoid getting close\ntoday too...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]You're expecting it, right? Oh, your pussy is\ngetting wet too."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]L-Let go of me... I mean, seriously, in a place\nlike this..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]Even if you say that with your mouth, your\nresistance is weak. Deep down, you're actually\nexpecting it, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]That's not the case..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]Hoi..."
                             ]
                         },
                         {
@@ -4115,7 +4115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ちょ……何してくれてるの……！？"
+                                "\\nw[Kuno]Hey... What are you doing to me...!?"
                             ]
                         },
                         {
@@ -4132,38 +4132,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]セックスに決まってるだろ？"
+                                "\\nw[Rodrigo]It's obviously going to be sex, right? But more\nimportantly, if you make noise, people might\ngather around. I don't mind that though."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それより声出すと人が集まってくるかもしれないぞ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オレはそれでも構わないけどな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]……！"
+                                ""
                             ]
                         },
                         {
@@ -4180,7 +4163,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]それに……よっと"
+                                "\\nw[Kuno]......!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]And... there we go."
                             ]
                         },
                         {
@@ -4240,7 +4240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]んんっ♥"
+                                "\\nw[Kuno]Nnnn♥"
                             ]
                         },
                         {
@@ -4257,7 +4257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]ここ突かれるの好きだろ？"
+                                "\\nw[Rodrigo]You like being penetrated here, don't you?"
                             ]
                         },
                         {
@@ -4274,7 +4274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ちょ……そこはだめ……んっ♥"
+                                "\\nw[Kuno]Hey... that place is off-limits... ngh♥"
                             ]
                         },
                         {
@@ -4291,38 +4291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]ほら、こうしてグリグリしてるだけで力が抜けてくるな。"
+                                "\\nw[Rodrigo]Look, just by doing this and rubbing, your\nstrength is leaving you. Come on, come on, it\nfeels good, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、気持ちいいだろ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]ほんと……だめなの……あぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこは……力抜けちゃうから……ふあっ♥"
+                                ""
                             ]
                         },
                         {
@@ -4339,21 +4315,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……はぁ……♥"
+                                "\\nw[Kuno]Seriously... I can't... Ahh♥ That place... it\nweakens me... fuahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だめぇ……んあっ♥ああっ♥"
+                                "\\nw[Kuno]Haa... haa... ♥ No... nghh♥ Aahh♥ It's too much...\ndon't rub it like that♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぐりぐりはだめぇっ♥"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4377,7 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あんっ♥ロドリゴ、もうやめ……ああんっ♥"
+                                "\\nw[Kuno]Ahh♥ Rodrigo, please stop... aahh♥"
                             ]
                         },
                         {
@@ -4394,38 +4394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]すっかり力が抜けてきたな。"
+                                "\\nw[Rodrigo]You've completely lost your strength. You've\nbecome weak to my c*ck, haven't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オレのち〇ぽに弱くなったなもんだな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]いや、近寄った時点で結構期待してたしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ち〇ぽだけじゃないか"
+                                ""
                             ]
                         },
                         {
@@ -4442,38 +4418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]好き勝手言わないで……んっ、あんっ♥"
+                                "\\nw[Rodrigo]Well, I had high expectations from the moment I\napproached. It's not just about the c*ck."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別に弱くなんか……あんっ♥ないんだからぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]ふーん、嘘は良くないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当のことを言えばやめてもいいぞ？"
+                                ""
                             ]
                         },
                         {
@@ -4490,7 +4442,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]別に嘘なんて……んんっ♥"
+                                "\\nw[Kuno]Don't say whatever you want... ngh, ahn♥ It's not\nlike I'm weak... ahn♥ at all♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4507,31 +4466,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]気づいてないだろうけど、"
+                                "\\nw[Rodrigo]Hmmm, lying is not good. If you tell me the truth,\nI can stop, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クノは自分で腰動かしてるぞ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]はっ……？そんなわけ……！？"
+                                ""
                             ]
                         },
                         {
@@ -4548,7 +4490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]……\\|嘘、ほんとに動かして……！？"
+                                "\\nw[Kuno]It's not like it's a lie... nnn♥"
                             ]
                         },
                         {
@@ -4565,38 +4507,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]お前の大好きな膣奥を少し突いてたら動き出したぞ。"
+                                "\\nw[Rodrigo]You might not realize it, but Kuno is moving her\nhips on her own, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "タイミングを合わせるようにな"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]そ、そんな……んっ、ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも止まらない……あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -4613,14 +4531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]オレのち〇ぽの虜なのはわかってるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直に答えてみろよ？"
+                                "\\nw[Kuno]Huh...? Is that really the case...!?"
                             ]
                         },
                         {
@@ -4637,7 +4548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]くっ……それは……あんっ♥"
+                                "\\nw[Kuno]...Lies, really move it...!?"
                             ]
                         },
                         {
@@ -4654,38 +4565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……あんっ♥"
+                                "\\nw[Rodrigo]When I lightly thrust into your beloved depths,\nyou started moving. Let's synchronize our timing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ……うぅぅ……わかったわよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]ロドリゴのおち〇ぽが気持ちいいの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちよすぎて身体も頭も熱くなってるの！"
+                                ""
                             ]
                         },
                         {
@@ -4702,14 +4589,127 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]こんなところで恥ずかしいから……んっ♥"
+                                "\\nw[Kuno]Th-That... ngh, aahh♥ But it won't stop... ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お願いだから二人きりになれる場所にして、あんっ♥"
+                                "\\nw[Rodrigo]I know you're captivated by my c*ck. Answer me\nhonestly, okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Ku... That... Ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Haa... Ahn♥ Kuh... Uu... I got it!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Rodrigo's c*ck feels so good! It feels so good\nthat my body and mind are getting hot!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]It's embarrassing to do it in a place like this...\nngh♥ Please, let's find a place where we can be\nalone, ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4857,7 +4857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]へ～、そんなにオレのち〇ぽが気持ちいいんだ？"
+                                "\\nw[Rodrigo]Heh, my c*ck feels that good, huh?"
                             ]
                         },
                         {
@@ -4874,7 +4874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そ、そうよ！"
+                                "\\nw[Kuno]Y-Yes, that's right!"
                             ]
                         },
                         {
@@ -4891,7 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]こうして子宮口をぐりぐりされるのが好きなんだ？"
+                                "\\nw[Rodrigo]Do you like having your cervix rubbed like this?"
                             ]
                         },
                         {
@@ -4908,7 +4908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]うっ……す、好きよ！"
+                                "\\nw[Kuno]Ugh... I-I love it!"
                             ]
                         },
                         {
@@ -4925,14 +4925,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]このままセックスしてると子宮に子種を注がれたくて"
+                                "\\nw[Rodrigo]Are you getting so desperate that you want me to\nfill your womb with my seed while we continue\nhaving sex like this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕方なくなっちゃいそうなんだ？"
+                                ""
                             ]
                         },
                         {
@@ -4949,14 +4949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]うっ……くっ……そ、そうなのよ！"
+                                "\\nw[Kuno]Ugh... Kuh... Y-Yes, that's right! I-I told you\nhonestly, so please stop... Ahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほら、正直に言ったんだから、やめてよね……あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5029,14 +5029,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あっ、ふあっ、あんっ♥"
+                                "\\nw[Kuno]Ah, fuah, ahh♥ Why are you rushing, hmm, ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何で早くしてるのよっ、んっ、あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5053,14 +5053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]いやいや、ここでやめたらむしろまずいだろ。"
+                                "\\nw[Rodrigo]No, no, it would be bad to stop here. Your pussy\nis tightening so much and your love juices are\ndripping."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま〇こがすげえ締め付けてきてるし、愛液もだらだらだぜ。"
+                                ""
                             ]
                         },
                         {
@@ -5635,31 +5635,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]今やめたら欲求不満で帰ることになるぞ。"
+                                "\\nw[Rodrigo]If we stop now, you'll go home feeling sexually\nfrustrated. That would be tough, wouldn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それはつらいだろ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]それは……んっ♥あっ♥あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5676,7 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]確かに、このまま戻るのは……んっ♥"
+                                "\\nw[Kuno]That is... ngh♥ ah♥ ahh♥"
                             ]
                         },
                         {
@@ -5693,14 +5676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]クノの大好きなオレのち〇ぽで気持ちよくなって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満足してから戻ったほうがいいんじゃないか？"
+                                "\\nw[Kuno]Indeed, going back like this... mmm♥"
                             ]
                         },
                         {
@@ -5717,21 +5693,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]ほら、本当はもう種付けされたくて仕方ないんだろ？"
+                                "\\nw[Rodrigo]Wouldn't it be better to return after making Kuno\nfeel good with my beloved c*ck and satisfying her?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下の口は欲しがってるぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからクノが望むならこのまま続けてやろうと思ってるんだ"
+                                ""
                             ]
                         },
                         {
@@ -5748,14 +5717,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あんっ、ふあっ、ああっ♥"
+                                "\\nw[Rodrigo]Look, deep down you really want to be impregnated,\ndon't you? Your pussy is craving it, right? That's\nwhy if Kuno desires it, I'm thinking of continuing\nlike this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっと……んあっ、あんっ♥"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5772,21 +5748,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あんっ、あんっ♥"
+                                "\\nw[Kuno]Ahh, fuah, ahh♥ Umm... nghh, ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だめっ、このままじゃアタシイっちゃっ♥あんっ♥"
+                                "\\nw[Kuno]Ahh, ahh♥ No, it's no good, if we keep going like\nthis, I'm going to cum♥ Ahh♥ Ahh♥ Ahh♥ Ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんっ♥あっ♥ああっ♥"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5853,7 +5853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]えっ……何でまたゆっくりに……んっ♥"
+                                "\\nw[Kuno]Huh... Why are you taking it slow again... ngh♥"
                             ]
                         },
                         {
@@ -5870,38 +5870,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]と思ったけど、やっぱりやめておくか。"
+                                "\\nw[Rodrigo]I was thinking about it, but I'll stop after all.\nNo, sorry. I got excited and selfishly started\nwithout thinking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、悪かったよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "興奮して自分勝手に始めちまってな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]何よ、突然……"
+                                ""
                             ]
                         },
                         {
@@ -5918,14 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]いや、クノに喜んでもらおうと思ったんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クノ好きだろ、こ～んな風に子宮口をペニスで突かれるの。"
+                                "\\nw[Kuno]What is it, all of a sudden..."
                             ]
                         },
                         {
@@ -5942,7 +5918,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ふあっ♥あっ♥それは……"
+                                "\\nw[Rodrigo]No, I thought I would make Kuno happy. You like\nit, right? Being penetrated in your cervix like\nthis with a penis."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5959,7 +5942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]こんな感じか？それともこ～んな風に長くぐりぐりするとか？"
+                                "\\nw[Kuno]Fuah♥ Ahh♥ That is..."
                             ]
                         },
                         {
@@ -5976,14 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あんっ♥あんっ♥あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこばっかり責めて……んあっ♥あんっ♥"
+                                "\\nw[Rodrigo]Is this kind of feeling good? Or should I go like\nthis, long and grinding?"
                             ]
                         },
                         {
@@ -6000,38 +5976,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]でもクノはやめてほしいみたいだし、"
+                                "\\nw[Kuno]Ahh♥ Ahh♥ Ahh♥ You're only focusing on that...\nnghh♥ Ahh♥ Ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そろそろやめるかな"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]っ……意地悪なことばかり言って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなにしたら我慢できないってわかってて……"
+                                ""
                             ]
                         },
                         {
@@ -6048,38 +6000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]……わかったわよ、一回だけ……ここで、あんっ♥"
+                                "\\nw[Rodrigo]But it seems like Kuno wants me to stop, so maybe\nI should stop soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "していいから、だから、激しくしていいわよ……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]そんなこと言われてもな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレもやめようと思って気分が下がっちまったし。"
+                                ""
                             ]
                         },
                         {
@@ -6096,7 +6024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ？何言ってんのよ！？"
+                                "\\nw[Kuno]You... always say such mean things... knowing that\nI can't resist when you do this..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6113,7 +6048,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]おねだりでもしてくれればやる気になるかもな。"
+                                "\\nw[Kuno]...I understand. Just once... here, you can...\nahn♥, so, you can do it vigorously...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6130,38 +6072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]っ……！趣味悪いわね……アンタは……"
+                                "\\nw[Rodrigo]Even if you say that, I also lost the mood to\nstop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんっ♥そう言いながらもグリグリ押し付けてきて……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]何言ってるかわからないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレはお前の要望に応えて気分を抑えただけだぞ？"
+                                ""
                             ]
                         },
                         {
@@ -6178,14 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]で、どうするんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねだりするのか？"
+                                "\\nw[Kuno]Huh? What are you saying!?"
                             ]
                         },
                         {
@@ -6202,14 +6113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……んぁ……♥……くっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったら、やめなさいよ！"
+                                "\\nw[Rodrigo]If you beg me, I might get motivated to do it."
                             ]
                         },
                         {
@@ -6226,7 +6130,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]お？"
+                                "\\nw[Kuno]Tsk...! Your taste is so bad... You... Ahn♥ Even\nthough you say that, you keep thrusting and\ngrinding against me..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6243,38 +6154,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]アンタの思い通りになるのは何かむかつくのよ！"
+                                "\\nw[Rodrigo]I don't know what you're saying. I just restrained\nmyself and responded to your request, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だからやめてさっさと離れて！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]ああ、わかったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ希望通りに……"
+                                ""
                             ]
                         },
                         {
@@ -6291,7 +6178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……はぁ……"
+                                "\\nw[Rodrigo]So, what are you going to do? Are you going to\nbeg?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6308,7 +6202,113 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]おっと、足が滑った"
+                                "\\nw[Kuno]Haa...ngh...♥...ku! If that's the case, then stop\nit!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]Oh?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]It's annoying how things always go your way! So\nstop it and get away from me!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]Ah, I understand. Then, as you wish..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Haa... haa..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]Oops, I slipped."
                             ]
                         },
                         {
@@ -6381,7 +6381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]おひぃぃっ♥"
+                                "\\nw[Kuno]Ohhhhh♥"
                             ]
                         },
                         {
@@ -6398,38 +6398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]悪い悪い、抜くつもりが足が滑って奥まで入っちまった。"
+                                "\\nw[Rodrigo]My bad, my bad. I was planning to pull out, but my\nfoot slipped and I ended up going all the way in.\nIt's tight like this, so I'll move my hips a bit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このままじゃきつくて抜けないからちょっと腰を振るぞ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]ちょっ、抜けないわけないでしょ、あっ、ふああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はげしっ、あっ、あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -6446,14 +6422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]やっ、あっ、あんっ♥"
+                                "\\nw[Kuno]There's no way you won't pull out, ah, fuuahh♥\nIt's intense, ah, ahhn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イきそうになってたからまたっ♥あんっ♥あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -6470,14 +6446,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]イくっ♥ふあっ♥あっ♥ああっ♥"
+                                "\\nw[Kuno]Ah, ah, ahn♥ I-I was about to cum, so again♥ Ahn♥\nAhn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ♥あっ♥ああああぁっ♥"
+                                "\\nw[Kuno]I'm cumming! Fuahh! Ahh! Aahh! Ahh! Ahh! Ahhhhhhh!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6544,31 +6544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]こんなものかな。"
+                                "\\nw[Rodrigo]Is this good enough? My apologies, I can pull out\nanytime with this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "悪かったな、これでいつでも抜けるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]えっ……また……イく寸前で……"
+                                ""
                             ]
                         },
                         {
@@ -6585,14 +6568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]で、どうするんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねだりするのか、それとも……"
+                                "\\nw[Kuno]Eh... again... right before I cum..."
                             ]
                         },
                         {
@@ -6609,38 +6585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ロドリゴ……アンタこれアタシがおねだりするまで"
+                                "\\nw[Rodrigo]So, what are you going to do? Are you going to beg\nfor it, or..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "続ける気でしょ……んんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]そんなわけないだろ、疑いすぎだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バランス崩したり足が滑ったりはするかもな。"
+                                ""
                             ]
                         },
                         {
@@ -6657,7 +6609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]最低ね……ほんと……んっ♥"
+                                "\\nw[Kuno]Rodrigo... You plan to continue until I beg for\nit, don't you... nnn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6674,31 +6633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]わかったわよ、そうしないと終わりそうもないし、"
+                                "\\nw[Rodrigo]There's no way that's true, you're doubting too\nmuch. It's possible for me to lose balance or\nslip."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言ってあげるわよ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]んん？別に何も強制するつもりはないんだがな"
+                                ""
                             ]
                         },
                         {
@@ -6715,7 +6657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]っ……おねだりだから……言い方は……"
+                                "\\nw[Kuno]You're the worst... seriously... ngh♥"
                             ]
                         },
                         {
@@ -6732,45 +6674,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ロドリゴの極太ち〇ぽで、あ、アタシの……"
+                                "\\nw[Kuno]Alright, I understand. If we don't do it like\nthat, it doesn't seem like it will end. I'll tell\nyou..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "い、淫乱おま〇こをかき混ぜてください……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]ああ、いいおねだりだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし困ったな、さんざん文句を言われたせいか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのくらいじゃまだやる気が蘇らないな。"
+                                ""
                             ]
                         },
                         {
@@ -6787,7 +6698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ？？"
+                                "\\nw[Rodrigo]Hm? I don't have any intention to force anything,\nyou know."
                             ]
                         },
                         {
@@ -6804,14 +6715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]もう何度かおねだりしてもらえれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やる気になるかもなぁ。"
+                                "\\nw[Kuno]Umm... since it's a request... the way you say\nit..."
                             ]
                         },
                         {
@@ -6828,31 +6732,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]時間がたったら気分が盛り下がるのは仕方ないだろ？"
+                                "\\nw[Kuno]Please stir up my lewd pussy with Rodrigo's thick\nc*ck... Ah, my... lewd pussy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほら、もう一回"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]くっ……もう体が熱くて仕方ないって言うのに……"
+                                ""
                             ]
                         },
                         {
@@ -6869,31 +6756,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]お……おま〇こが熱くてもう限界なの！"
+                                "\\nw[Rodrigo]Ah, that's a good request. But it's troublesome.\nMaybe because I've been criticized so much, that\nalone isn't enough to revive my motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早くおち〇ぽで激しく突いてください！"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]へ～、そんなに欲しいんだ？"
+                                ""
                             ]
                         },
                         {
@@ -6910,14 +6787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ほ、欲しいわよ、だからお願い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おち〇ぽで可愛がってよ！"
+                                "\\nw[Kuno]Haa??"
                             ]
                         },
                         {
@@ -6934,7 +6804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]そうかそうか、でもち〇ぽで可愛がるだけでいいのか？"
+                                "\\nw[Rodrigo]If you beg me a few more times, I might get\nmotivated to do it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6951,14 +6828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……はぁ……アタシの子宮に一杯精液注いで！"
+                                "\\nw[Rodrigo]It's inevitable for the mood to drop after some\ntime has passed, right? Come on, one more time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "濃厚ザーメンで子宮の中を満たして！"
+                                ""
                             ]
                         },
                         {
@@ -6975,14 +6852,137 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]そこまで言われたら仕方ないな。"
+                                "\\nw[Kuno]Ugh... even though I'm saying that my body is\nburning up..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ望み通りに……！"
+                                "\\nw[Kuno]My... my pussy is so hot, I can't take it anymore!\nPlease thrust your c*ck inside me vigorously!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]Oh, you want it that badly?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]I-I want it, so please, take care of me with your\nc*ck!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]I see, I see. But is it enough to just pamper you\nwith my c*ck?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Haa... haa... Fill my womb with your semen! Fill\nmy uterus with thick, creamy cum!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]If you're going to say it like that, I have no\nchoice. Then, as you wish...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7055,38 +7055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あひぃぃ♥"
+                                "\\nw[Kuno]Ahiiii♥ Please, ahh, aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しゅごっ、あっ、ああぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]イく寸前だったからっ♥もうっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "げんかっ、あっ♥あっ♥ああっ♥ああぁぁっ♥"
+                                ""
                             ]
                         },
                         {
@@ -7103,38 +7079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]くくっ、オレもそろそろ出そうだからな。"
+                                "\\nw[Kuno]I was about to cum♥ Already♥ Almost there, ahh♥\nAhh♥ Aahh♥ Aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おねだりしたら出してやるぞ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]あんっ♥あんっ♥出してっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシの子宮に、精液たっぷり注いでっ、あっ、ああっ♥"
+                                ""
                             ]
                         },
                         {
@@ -7151,7 +7103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]わかったよ、それじゃあ……"
+                                "\\nw[Rodrigo]Hehe, I'm about to cum soon too. If you beg for\nit, I'll let it out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7168,14 +7127,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ああっ♥くるっ♥あっ♥あっ♥ああっ♥"
+                                "\\nw[Kuno]Ahn♥ Ahn♥ Release it♥ Fill my uterus with plenty\nof semen, ahh, aahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あああぁぁっ♥きちゃうぅぅ♥♥"
+                                "\\nw[Rodrigo]I understand, well then..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Ahh♥ I'm cumming♥ Ahh♥ Ahh♥ Ahhh♥ Ahhhhh♥ I'm\nabout to cum♥♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7773,7 +7773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あああぁぁぁ～～～～～♥♥♥"
+                                "\\nw[Kuno]Ahhhhhhhhhhhhhhhhhhhh~♥♥♥"
                             ]
                         },
                         {
@@ -7790,38 +7790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]ふぅ～……いい締りだ。"
+                                "\\nw[Rodrigo]*sigh*... You have such a tight grip. I came a\nlot."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "沢山出たぞ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]はぁ……はぁ……やっぱりこれだめぇ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちよすぎて、頭へんになる……♥"
+                                ""
                             ]
                         },
                         {
@@ -7838,7 +7814,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]って、えっ……人が……いる……んんっ♥"
+                                "\\nw[Kuno]Haa... haa... This is no good...♥ It feels too\ngood, it's making me go crazy...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7855,7 +7838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]あれだけ大声上げれば仕方ないだろ？"
+                                "\\nw[Kuno]Eh... there's... someone... nnn♥"
                             ]
                         },
                         {
@@ -7872,14 +7855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……はぁ……そんなぁ……あっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は、はなれなさいよ……こんなところ見られて……"
+                                "\\nw[Rodrigo]If you scream that loudly, it can't be helped,\nright?"
                             ]
                         },
                         {
@@ -7896,21 +7872,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]全然力が入ってないぞ？"
+                                "\\nw[Kuno]Haa... haa... No way... Ahh♥ Please, stay away...\nDon't look at me in a place like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっぱり膣イキで中出しもしてやると気持ちよすぎて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰が抜けるみたいだな。"
+                                ""
                             ]
                         },
                         {
@@ -7927,14 +7896,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]こいつらはみんなオレの知り合いだから安心しろ。"
+                                "\\nw[Rodrigo]You're not putting any effort into it at all, huh?\nIt seems like your hips go weak from the\noverwhelming pleasure when I make you cum inside\nwith a vaginal orgasm."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日は見てるだけだからな。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7951,14 +7927,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……はぁ……だから、そもそも見られたくないのに……"
+                                "\\nw[Rodrigo]Don't worry, these guys are all acquaintances of\nmine. I'm just watching today, that's all."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、離れなさいって……んんっ♥"
+                                "\\nw[Kuno]Haa... haa... That's why, I didn't want to be seen\nin the first place... Please, stay away... nngh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8025,38 +8025,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]んああぁ♥"
+                                "\\nw[Kuno]Naaahh♥ Why are you moving again... Ahhh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何でまた動いて……あぁんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]濃厚ザーメンで子宮を満たしてって言っただろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一発じゃ満たせないからな、もっと注いでやらないとな。"
+                                ""
                             ]
                         },
                         {
@@ -8073,38 +8049,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]それはおねだりさせられたから……あんっ♥あんっ♥"
+                                "\\nw[Rodrigo]Didn't I tell you to fill your womb with thick\nsemen? One shot won't be enough, I have to pour\nmore inside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動いちゃだめっ♥よすぎるからっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]男たちに見られながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子宮が一杯になるまで気持ちよくしてやるからな。"
+                                ""
                             ]
                         },
                         {
@@ -8121,14 +8073,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そん、あっ♥あんっ♥あんっ♥あああっ♥"
+                                "\\nw[Kuno]That's because I was made to beg... Ahh♥ Ahh♥\nDon't move♥ It's too much♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんっ♥あんっ♥あんっ♥"
+                                "\\nw[Rodrigo]I'll make you feel good until your womb is filled\nwhile being watched by these men."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]So... ah♥ Ahn♥ Ahn♥ Aaahh♥ Ahn♥ Ahn♥ Ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8368,7 +8368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[冒険者]興味ないね"
+                                "\\nw[Adventurer]Not interested, huh."
                             ]
                         },
                         {
@@ -8496,7 +8496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[冒険者]もう少しギルドも書物を揃えてほしいものだ"
+                                "\\nw[Adventurer]I wish the guild would have more books available."
                             ]
                         },
                         {
@@ -8624,14 +8624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]おう団長。"
+                                "\\nw[Rodrigo]Oh, Captain. That guild with many beautiful women\nis amazing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いい女が多くていいなあの団は"
+                                ""
                             ]
                         },
                         {
@@ -8759,31 +8759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]あれほど巨大な魔物が相手とはな。"
+                                "\\nw[Rodrigo]It's been a while since I had a chance to face\nsuch a huge monster."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは久しぶりにチャンスだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]チャンス？ピンチじゃないのか？"
+                                ""
                             ]
                         },
                         {
@@ -8800,21 +8783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]あの魔物を倒せば今まで股を開かなかった女も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "股を開かせることができるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレの経験がそう言ってる。"
+                                "\\nw[Taro]Chance? Isn't it a pinch?"
                             ]
                         },
                         {
@@ -8831,7 +8800,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……前向きな奴だな。"
+                                "\\nw[Rodrigo]If we defeat that monster, even women who have\nnever spread their legs before will be able to\nspread them. That's what my experience tells me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]......You're an optimistic one, huh."
                             ]
                         },
                         {
@@ -8920,14 +8920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（クノの声がするような……"
+                                "\\nw[Taro](I hear Kuno's voice... Should I take a peek?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "覗いてみるか？）"
+                                ""
                             ]
                         },
                         {
@@ -8935,8 +8935,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "やめておく"
+                                    "Peek",
+                                    "I'll refrain"
                                 ],
                                 1,
                                 0,
@@ -8966,7 +8966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（どれどれ……）"
+                                "\\nw[Taro](Let's see...)"
                             ]
                         },
                         {
@@ -9026,7 +9026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ちゅぱっ、んんっ、ちゅるっ、ちゅるっ、んむっ……"
+                                "\\nw[Kuno]*sucking sounds*"
                             ]
                         },
                         {
@@ -9043,7 +9043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[冒険者１]淫魔だけあって上手だね。"
+                                "\\nw[Adventurer 1]As a succubus, you're skilled, aren't you?"
                             ]
                         },
                         {
@@ -9060,31 +9060,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[冒険者２]こっちもいい具合だよ。"
+                                "\\nw[Adventurer 2]This side is also going well. As expected of\nRodrigo's woman."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さすがロドリゴの女だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]……！"
+                                ""
                             ]
                         },
                         {
@@ -9101,7 +9084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（何で冒険者ギルドにクノが……）"
+                                "\\nw[Taro]......!"
                             ]
                         },
                         {
@@ -9118,7 +9101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（って、ロドリゴ？）"
+                                "\\nw[Taro](Why is Kuno at the Adventurer's Guild...)"
                             ]
                         },
                         {
@@ -9135,14 +9118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]そうだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クノは素質もあったから早かったけどな。"
+                                "\\nw[Taro](Wait, Rodrigo?)"
                             ]
                         },
                         {
@@ -9159,7 +9135,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んぶっ、んっ、んんっ……"
+                                "\\nw[Rodrigo]Isn't that right? Kuno had talent, so she\nprogressed quickly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9176,7 +9159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]じゅるるっ、ちゅるっ、んんっ……！"
+                                "\\nw[Kuno]Mmm, ah, nngh..."
                             ]
                         },
                         {
@@ -9193,7 +9176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（これは助けた方がいいんじゃ……）"
+                                "\\nw[Kuno]*sucking sounds*, *licking sounds*, mmm...!"
                             ]
                         },
                         {
@@ -9210,7 +9193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]どうだクノ、気に入ったか？"
+                                "\\nw[Taro](I should probably help with this...)"
                             ]
                         },
                         {
@@ -9227,7 +9210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ちゅぱっ……うん、楽しいわ！"
+                                "\\nw[Rodrigo]How about it, Kuno? Do you like it?"
                             ]
                         },
                         {
@@ -9244,7 +9227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……\\|えっ？"
+                                "\\nw[Kuno]*sucking sounds*... Mmm, yes, it's enjoyable!"
                             ]
                         },
                         {
@@ -9261,21 +9244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]じゅるっ、ちゅる……おち〇ぽ同時に沢山相手できるの好きかも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おち〇ぽの味や臭いを感じながらおま〇こでも感じられるって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すごく贅沢よね。"
+                                "\\nw[Taro]......Huh?"
                             ]
                         },
                         {
@@ -9292,7 +9261,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[冒険者１]へえ、そんなに美味しいんだ？"
+                                "\\nw[Kuno]*sucking sounds*, *licking sounds*... I might\nactually like being able to handle multiple c*cks\nat the same time... It's so luxurious to be able\nto feel pleasure both in my pussy while sensing\nthe taste and smell of c*ck."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9309,14 +9292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]じゅるるっ、ちゅぱっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うん、美味しい……！"
+                                "\\nw[Adventurer 1]Oh, is it that delicious?"
                             ]
                         },
                         {
@@ -9333,31 +9309,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]それに……"
+                                "\\nw[Kuno]*sucking sounds*, *licking sounds*... Mmm, yes,\nit's delicious...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "男の人を射精させるって楽しいわね♪"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[冒険者２]へえ、そんなに楽しいのか？"
+                                ""
                             ]
                         },
                         {
@@ -9374,31 +9333,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]性欲を満たすと嬉しそうにするのよ。"
+                                "\\nw[Kuno]And besides... it's fun to make men ejaculate, you\nknow? ♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それに射精するためにどんどん興奮する様子もいいわよね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Rodrigo]淫魔らしくていいじゃないか。"
+                                ""
                             ]
                         },
                         {
@@ -9415,7 +9357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そうね、成長したってことよね……ちゅるる……♥"
+                                "\\nw[Adventurer 2]Oh, is it that enjoyable?"
                             ]
                         },
                         {
@@ -9432,7 +9374,65 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Kuno]It makes me happy when my sexual desires are\nfulfilled. And it's also nice to see how excited I\nget in order to ejaculate."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Rodrigo]It's nice to be like a succubus, isn't it?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Yes, that's right... *sucking sounds*... ♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -9456,7 +9456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（寝取らせしなくてもこうなるとは……）"
+                                "\\nw[Taro](I didn't even have to let someone steal her\naway... and yet...)"
                             ]
                         },
                         {
@@ -9473,14 +9473,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（見ていたいが……プラエのこともあるし、"
+                                "\\nw[Taro](I want to keep watching... but I also have Prae\nto think about, so I don't have that kind of free\ntime...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんな暇はないよな……）"
+                                ""
                             ]
                         },
                         {
@@ -9522,7 +9522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]今は忙しいしやめておくか。"
+                                "\\nw[Taro]I'm busy right now, so I'll stop."
                             ]
                         },
                         {
@@ -9614,14 +9614,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]おう団長。"
+                                "\\nw[Rodrigo]Oh, Captain. That guild with many beautiful women\nis amazing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いい女が多くていいなあの団は"
+                                ""
                             ]
                         },
                         {
@@ -9981,14 +9981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（クノの声がするような……"
+                                "\\nw[Taro](I hear Kuno's voice... There seems to be a gap,\nshould I take a peek?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隙間があるし、覗いてみるか？）"
+                                ""
                             ]
                         },
                         {
@@ -9996,8 +9996,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "やめておく"
+                                    "Peek",
+                                    "I'll refrain"
                                 ],
                                 1,
                                 0,
@@ -10027,7 +10027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（どれどれ……）"
+                                "\\nw[Taro](Let's see...)"
                             ]
                         },
                         {
@@ -10084,7 +10084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ちゅぱっ、んんっ、ちゅるっ、ちゅるっ、んむっ……"
+                                "\\nw[Kuno]*sucking sounds*"
                             ]
                         },
                         {
@@ -10101,7 +10101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[冒険者１]淫魔だけあって上手だね。"
+                                "\\nw[Adventurer 1]As a succubus, you're skilled, aren't you?"
                             ]
                         },
                         {
@@ -10118,31 +10118,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[冒険者２]こっちもいい具合だよ。"
+                                "\\nw[Adventurer 2]This side is also in good shape. As expected of\nRodrigo's woman."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さすがロドリゴの女だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]……！"
+                                ""
                             ]
                         },
                         {
@@ -10159,7 +10142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（何で冒険者ギルドにクノが……）"
+                                "\\nw[Taro]......!"
                             ]
                         },
                         {
@@ -10176,7 +10159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（って、ロドリゴ？）"
+                                "\\nw[Taro](Why is Kuno at the Adventurer's Guild...)"
                             ]
                         },
                         {
@@ -10193,14 +10176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]そうだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クノは素質もあったから早かったけどな。"
+                                "\\nw[Taro](Wait, Rodrigo?)"
                             ]
                         },
                         {
@@ -10217,7 +10193,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んぶっ、んっ、んんっ……"
+                                "\\nw[Rodrigo]Isn't that right? Kuno had talent, so she\nprogressed quickly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10234,7 +10217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]じゅるるっ、ちゅるっ、んんっ……！"
+                                "\\nw[Kuno]Mmm, ah, nngh..."
                             ]
                         },
                         {
@@ -10251,7 +10234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（これは助けた方がいいんじゃ……）"
+                                "\\nw[Kuno]*sucking sounds*, *licking sounds*, mmm...!"
                             ]
                         },
                         {
@@ -10268,7 +10251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]どうだクノ、気に入ったか？"
+                                "\\nw[Taro](I should probably help with this...)"
                             ]
                         },
                         {
@@ -10285,7 +10268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ちゅぱっ……うん、楽しいわ！"
+                                "\\nw[Rodrigo]So, Kuno, do you like it?"
                             ]
                         },
                         {
@@ -10302,7 +10285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……\\|えっ？"
+                                "\\nw[Kuno]*suck*... Mmm, yes, it's enjoyable!"
                             ]
                         },
                         {
@@ -10319,21 +10302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]じゅるっ、ちゅる……おち〇ぽ同時に沢山相手できるの好きかも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おち〇ぽの味や臭いを感じながらおま〇こでも感じられるって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すごく贅沢よね。"
+                                "\\nw[Taro]......Huh?"
                             ]
                         },
                         {
@@ -10350,7 +10319,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[冒険者１]へえ、そんなに美味しいんだ？"
+                                "\\nw[Kuno]*suck*, *lick*... I might actually like being able\nto handle multiple c*cks at the same time... It's\nso luxurious to be able to feel pleasure both in\nmy pussy while sensing the taste and smell of\nc*ck."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10367,14 +10350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]じゅるるっ、ちゅぱっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うん、美味しい……！"
+                                "\\nw[Adventurer 1]Oh, is it that delicious?"
                             ]
                         },
                         {
@@ -10391,31 +10367,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]それに……"
+                                "\\nw[Kuno]*suck*, *lick*... Mmm, it's delicious...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "男の人を射精させるって楽しいわね♪"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[冒険者２]へえ、そんなに楽しいのか？"
+                                ""
                             ]
                         },
                         {
@@ -10432,31 +10391,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]性欲を満たすと嬉しそうにするのよ。"
+                                "\\nw[Kuno]And... it's fun to make men ejaculate, you know? ♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それに射精するためにどんどん興奮する様子もいいわよね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Rodrigo]淫魔らしくていいじゃないか。"
+                                ""
                             ]
                         },
                         {
@@ -10473,7 +10415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そうね、成長したってことよね……ちゅるる……♥"
+                                "\\nw[Adventurer 2]Oh, is it that enjoyable?"
                             ]
                         },
                         {
@@ -10490,7 +10432,65 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Kuno]It makes me happy to satisfy my sexual desires.\nAnd it's also nice to see myself getting more and\nmore excited in order to ejaculate."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Rodrigo]It's nice to be like a succubus, isn't it?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Yeah, I guess you could say I've grown...\n*suck*... ♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -10521,7 +10521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（寝取らせしなくてもこうなるとは……）"
+                                "\\nw[Taro](I didn't even have to make her cheat on me for it\nto turn out like this...)"
                             ]
                         },
                         {
@@ -10538,14 +10538,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（見ていたいが……プラエのこともあるし、"
+                                "\\nw[Taro](I want to keep watching... but I also have Prae\nto think about, so I don't have that kind of\ntime...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんな暇はないよな……）"
+                                ""
                             ]
                         },
                         {
@@ -10597,7 +10597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]今は忙しいしやめておくか。"
+                                "\\nw[Taro]I'm busy right now, so let's stop."
                             ]
                         },
                         {
@@ -10689,7 +10689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（今は見るのをやめておくか……）"
+                                "\\nw[Taro](I guess I'll stop watching for now...)"
                             ]
                         },
                         {

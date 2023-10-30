@@ -10304,7 +10304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]確かこの先の洞窟に魔物の巣があるのよね。"
+                                "\\nw[Kuno]I'm pretty sure there's a monster's nest in the\ncave ahead."
                             ]
                         },
                         {
@@ -10321,7 +10321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]よし、みんな気合入れていくわよ。"
+                                "\\nw[Kuno]Alright, everyone, let's go in with full\ndetermination."
                             ]
                         },
                         {
@@ -10408,14 +10408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【魔物の巣の破壊】"
+                                "Destroy the monster's nest in the depths of the\ncave for the quest Destruction of the Monster's\nNest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "洞窟の奥にある魔物の巣を破壊せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10566,14 +10566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【魔物の巣の破壊】"
+                                "Quest [DestroyingtheMonster'sNest] failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10616,7 +10616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -10718,7 +10718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[506]]が魔物に捕まって苗床にされた。"
+                                "\\N[\\V[506]] was captured by the monster and turned\ninto a breeding ground."
                             ]
                         },
                         {
@@ -12011,7 +12011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はこの洞窟から出るわけにはいかない。"
+                                "I can't leave this cave right now."
                             ]
                         },
                         {

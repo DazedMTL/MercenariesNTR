@@ -4051,14 +4051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵団長]またよく来てくれたな。"
+                                "\\nw[Mercenary Captain]Welcome back. Your sparring partner is in the\ntraining ground behind you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "模擬戦の相手は君たちの後ろの訓練場にいる。"
+                                ""
                             ]
                         },
                         {
@@ -4075,7 +4075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵団長]準備ができたら模擬戦を始めてくれ。"
+                                "\\nw[Mercenary Captain]Once you're ready, please start the mock battle."
                             ]
                         },
                         {
@@ -4099,14 +4099,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【模擬戦の申し込み２】"
+                                "Complete Quest [MockBattleApplication2]: Engage in\na mock battle with the mercenaries!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "傭兵と模擬戦を行え！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -4204,14 +4204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵団長]前回と同じで君たちと模擬戦をする傭兵は訓練場にいる。"
+                                "\\nw[Mercenary Captain]The mercenaries who will have a mock battle with\nyou are in the training grounds, just like last\ntime. When you're ready, please talk to the\nmercenaries over there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "準備ができたらそこの傭兵と話してくれ。"
+                                ""
                             ]
                         },
                         {
@@ -4288,14 +4288,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]模擬戦に来てくれたのかい。"
+                                "\\nw[Mercenary]Did you come for a mock battle? I don't often have\nthe opportunity to fight against people, since I\nmostly deal with monsters. I appreciate your help."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物相手ばかりで人を相手することが少ないからね。助かるよ。"
+                                ""
                             ]
                         },
                         {
@@ -4363,14 +4363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]また模擬戦に来てくれたのかい。"
+                                "\\nw[Mercenary]Oh, you've come for another mock battle, huh? I\nhope we can build a good relationship for the\nfuture."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今後のためにも良好な関係を築いていきたいものだね。"
+                                ""
                             ]
                         },
                         {
@@ -4447,7 +4447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]装備の手入れはこまめに行わなくてはな。"
+                                "\\nw[Mercenary]You must perform regular equipment maintenance."
                             ]
                         },
                         {
@@ -4515,14 +4515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]また来てくれたか。"
+                                "\\nw[Mercenary]Oh, you've come again. I'll be counting on you\nfrom now on too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これからもよろしく頼むよ。"
+                                ""
                             ]
                         },
                         {
@@ -4599,14 +4599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]あの店に可愛い子が入ったんだよ。"
+                                "\\nw[Mercenary]A cute girl entered that shop. You'll definitely\nlike her too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前も絶対気に入るぜ。"
+                                ""
                             ]
                         },
                         {
@@ -4674,14 +4674,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]可愛い子もいる傭兵団があるなんてな……"
+                                "\\nw[Mercenary]There's even a mercenary group with cute girls...\nI'm so jealous...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "羨ましすぎる……！"
+                                ""
                             ]
                         },
                         {
@@ -4758,14 +4758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]あの店はすげえいい体の子が入ったんだよ。"
+                                "\\nw[Mercenary]That shop has a really hot girl with a great body.\nYou should check it out next time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今度行ってみろよ。"
+                                ""
                             ]
                         },
                         {
@@ -4833,7 +4833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]ほほう、前回来た傭兵団の……"
+                                "\\nw[Mercenary]Oh, so you're from the mercenary group that came\nlast time..."
                             ]
                         },
                         {
@@ -4910,14 +4910,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]また来てくれたようだな。"
+                                "\\nw[Mercenary]It seems you've come again. Are you ready for the\nmock battle?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "模擬戦の準備はいいか？"
+                                ""
                             ]
                         },
                         {
@@ -4925,8 +4925,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "準備出来てる",
-                                    "まだ"
+                                    "Ready?",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,
@@ -4956,7 +4956,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[傭兵]では、中央に来てくれ。"
+                                "\\nw[Mercenary]Please come to the center."
                             ]
                         },
                         {
@@ -5070,7 +5070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[傭兵]では、始めるぞ！"
+                                "\\nw[Mercenary]Alright, let's begin!"
                             ]
                         },
                         {
@@ -5133,7 +5133,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[傭兵]くっ……見事だ……"
+                                "\\nw[Mercenary]Hmph... Impressive..."
                             ]
                         },
                         {
@@ -5176,14 +5176,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト【模擬戦の申し込み２】"
+                                "Quest [MockBattleApplication2] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -5229,7 +5229,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[傭兵]よし、オレ達の勝ちだ！"
+                                "\\nw[Mercenary]Alright, we won!"
                             ]
                         },
                         {
@@ -5265,14 +5265,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト【模擬戦の申し込み２】"
+                                "Quest [MockBattleApplication2] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -5319,7 +5319,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[傭兵]よし、あとは……"
+                                "\\nw[Mercenary]Alright, now..."
                             ]
                         },
                         {
@@ -5355,14 +5355,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[傭兵]発動したな。"
+                                "\\nw[Mercenary]You've activated it. Hehe, with this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "くくっ、これで……"
+                                ""
                             ]
                         },
                         {
@@ -5455,7 +5455,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Uka]痛い……"
+                                "\\nw[Uka]It hurts..."
                             ]
                         },
                         {
@@ -5472,31 +5472,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[傭兵]ん……？"
+                                "\\nw[Mercenary]Huh...? Wait, are you awake?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "あれ、起きてるのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nw[Uka]うん……"
+                                ""
                             ]
                         },
                         {
@@ -5513,14 +5496,31 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[傭兵]……\\|……\\|そうか……\\|"
+                                "\\nw[Uka]Yes..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "効きにくいやつもいるよな……"
+                                "\\nw[Mercenary]I see... Some are harder to affect..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5769,7 +5769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "報酬 2000EXP 2000G 4名声を手に入れた。"
+                                "Obtained a reward of 2000 EXP, 2000G, and 4 fame."
                             ]
                         },
                         {
@@ -5949,14 +5949,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[傭兵]そうか。"
+                                "\\nw[Mercenary]I see. Let me know when you're ready."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "準備ができたら声をかけてくれ。"
+                                ""
                             ]
                         },
                         {
@@ -6043,7 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]ふむ、お前らが相手か……"
+                                "\\nw[Mercenary]Hmm, so you guys are my opponents..."
                             ]
                         },
                         {
@@ -6111,7 +6111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]手加減するつもりはない。"
+                                "\\nw[Mercenary]I have no intention of holding back."
                             ]
                         },
                         {
@@ -6188,7 +6188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]お手柔らかにお願いするよ。"
+                                "\\nw[Mercenary]Please go easy on me."
                             ]
                         },
                         {
@@ -6256,7 +6256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]準備はしっかり整えたからね。"
+                                "\\nw[Mercenary]I've prepared everything properly, you know."
                             ]
                         },
                         {
@@ -6333,7 +6333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はここから出る必要はない"
+                                "There is no need to leave from here now."
                             ]
                         },
                         {
@@ -6441,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]ふむ、お前らが相手か……"
+                                "\\nw[Mercenary]Hmm, so you guys are my opponents..."
                             ]
                         },
                         {
@@ -6509,7 +6509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]正々堂々いくぞ。"
+                                "\\nw[Mercenary]Let's go fair and square."
                             ]
                         },
                         {

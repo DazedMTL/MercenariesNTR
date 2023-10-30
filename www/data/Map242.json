@@ -2368,7 +2368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ちょっ、何してんのよ！？"
+                                "\\nw[Kuno]Hey, what are you doing!?"
                             ]
                         },
                         {
@@ -2434,7 +2434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]あっ、クノさん……あっ♥"
+                                "\\nw[Saria]Ah, Kuno-san... Ah ♥"
                             ]
                         },
                         {
@@ -2451,14 +2451,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]って、交わってるの違うじゃん！？"
+                                "\\nw[Kuno]Wait, this is different from what I thought! It's\nnot Saria's husband, it's Sana's husband, right!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サリアの夫じゃなくてサナの夫の方じゃん！？"
+                                ""
                             ]
                         },
                         {
@@ -2475,14 +2475,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[カイ]ああ、来たか。"
+                                "\\nw[Kai]Ah, you're here. It's because Tail has a fetish\nfor cuckolding."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "テイルは寝取らせ趣味だからだぞ。"
+                                ""
                             ]
                         },
                         {
@@ -2528,7 +2528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あっ、そうなんだ……"
+                                "\\nw[Kuno]Ah, is that so..."
                             ]
                         },
                         {
@@ -2581,7 +2581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]って、そんなことより何でえっちしてるのよ！？"
+                                "\\nw[Kuno]Hey, why are you doing something naughty instead\nof focusing on the task at hand!?"
                             ]
                         },
                         {
@@ -2641,14 +2641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[カイ]素材採取のためだぞ？"
+                                "\\nw[Kai]It's for gathering materials, you know? Didn't you\nhear?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "聞いてないのか？"
+                                ""
                             ]
                         },
                         {
@@ -2665,14 +2665,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]えっと、性行為で魔力を発生させて、"
+                                "\\nw[Saria]Um, we generate magical power through sexual\nactivity and collect that power in a special way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その魔力を特殊な方法で集めるんです。"
+                                ""
                             ]
                         },
                         {
@@ -2718,7 +2718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そうなの！？"
+                                "\\nw[Kuno]Is that so!?"
                             ]
                         },
                         {
@@ -2735,7 +2735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]依頼に書いたはずですけど……"
+                                "\\nw[Saria]It should have been written in the request..."
                             ]
                         },
                         {
@@ -2781,7 +2781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]……聞いてない……"
+                                "\\nw[Kuno]......I wasn't listening......"
                             ]
                         },
                         {
@@ -2827,38 +2827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]……プラエが意図的に隠したのかもしれないわね。"
+                                "\\nw[Nonna]......Maybe Prae intentionally hid it. She does\nhave a mischievous side..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お茶目なところある人だし……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]……その可能性が高そうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイはそう言うことしなさそうだし……"
+                                ""
                             ]
                         },
                         {
@@ -2875,7 +2851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[カイ]何だ聞いてなかったのか。"
+                                "\\nw[Kuno]...That seems highly possible. Louis doesn't seem\nlike the type to do something like that..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2892,21 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]えっと、この遺跡は元々淫魔の力が溢れる遺跡でして……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はコアがないので外部には魔力は漏れませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも淫魔の魔力が内部に溜まったままなんです。"
+                                "\\nw[Kai]What, didn't you hear?"
                             ]
                         },
                         {
@@ -2923,38 +2892,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]なのでこの中で性行為をすると魔力の発生量が多くなるんです。"
+                                "\\nw[Saria]Um, this ruins originally overflow with the power\nof succubi... Currently, since there is no core,\nmagic power does not leak outside, but the\nsuccubus magic power still accumulates inside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だからここで性行為をすることになってるんですけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Saria]どうしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伝達ミスがあったようなので、嫌なら遠慮なく断ってください"
+                                ""
                             ]
                         },
                         {
@@ -2971,14 +2923,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]いや、ミスと言うよりもこちらの不手際よ。"
+                                "\\nw[Saria]So, if we engage in sexual activity here, the\namount of magical power generated will increase.\nThat's why we're supposed to have sex here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに……"
+                                ""
                             ]
                         },
                         {
@@ -2995,14 +2947,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]まぁ突然の事だから驚いたけど、"
+                                "\\nw[Saria]What will you do? It seems there was a\ncommunication error, so if you don't want to,\nplease feel free to decline."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "性行為するってだけなら断る理由はないわよ。"
+                                "\\nw[Nonna]No, it's not a mistake on your part. And\nbesides..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Well, it was a sudden thing, so I was surprised,\nbut if it's just about having sexual activity,\nthere's no reason for me to refuse."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3048,14 +3048,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]普段より魔力が多く発生するってことは、"
+                                "\\nw[Kuno]If more magical power is generated than usual,\nthen the pleasure will also become stronger."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それだけ快感も強くなるんだろうしね。"
+                                ""
                             ]
                         },
                         {
@@ -3072,7 +3072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]よかった、それじゃあ……"
+                                "\\nw[Saria]Thank goodness, in that case..."
                             ]
                         },
                         {

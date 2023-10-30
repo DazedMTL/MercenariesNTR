@@ -11542,14 +11542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治３】"
+                                "Complete the quest [MonsterExtermination3:Elimina\nte5groupsofmonsterherdsinthevicinityoftheneighbori\nngtown]!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物の群れを５グループ討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11711,14 +11711,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治３】"
+                                "Quest [ExterminationofMonstersintheNearbyTown3]\nComplete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11844,7 +11844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 2000EXP 2000G 3名声を手に入れた。"
+                                "Obtained a reward of 2000 EXP, 2000G, and 3 fame."
                             ]
                         },
                         {
@@ -12193,7 +12193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒールレインを手に入れた！"
+                                "I obtained the Heal Rain!"
                             ]
                         },
                         {
@@ -12356,14 +12356,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治３】"
+                                "Quest [DefeattheMonstersintheNearbyTown3] Failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -12480,7 +12480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 500EXP を手に入れた。"
+                                "Obtained a reward of 500 EXP."
                             ]
                         },
                         {

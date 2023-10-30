@@ -10776,14 +10776,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]魔物の群れがいるのはこの先ね。"
+                                "\\nw[Nonna]The group of monsters is up ahead. It would be\nnice if they're not gathered too much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あまり集まってないといいわね。"
+                                ""
                             ]
                         },
                         {
@@ -10870,14 +10870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【魔物の群れの討伐】"
+                                "Quest [DefeattheGroupofMonsters] Defeat the group\nof monsters that are deep in the forest!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "森の奥にいる魔物の群れを討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11028,14 +11028,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【魔物の群れの討伐】"
+                                "Failed to complete the quest Defeat the Horde of\nMonsters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11078,7 +11078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 500EXP を手に入れた。"
+                                "I obtained a reward of 500 EXP."
                             ]
                         },
                         {
@@ -11384,7 +11384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はこの森から出るわけにはいかない。"
+                                "I can't leave this forest right now."
                             ]
                         },
                         {
@@ -11696,7 +11696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブリザードを手に入れた！"
+                                "I obtained Blizzard!"
                             ]
                         },
                         {

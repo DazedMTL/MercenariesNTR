@@ -10661,14 +10661,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に魔物の群れがいるようだ。"
+                                "It seems that there is a horde of monsters up\nahead. Shall we fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦おうか？"
+                                ""
                             ]
                         },
                         {
@@ -10676,8 +10676,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "準備する"
+                                    "Fight",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -11094,14 +11094,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "クエスト【魔物の群れの討伐】"
+                                "Quest [DefeattheHordeofMonsters] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11153,7 +11153,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "報酬 3000EXP 3000G 5名声を手に入れた。"
+                                "Obtained a reward of 3000 EXP, 3000G, and 5 fame."
                             ]
                         },
                         {
@@ -11566,14 +11566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【魔物の群れの討伐】"
+                                "Failed to complete the quest Defeat the Horde of\nMonsters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11616,7 +11616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 500EXP を手に入れた。"
+                                "I obtained a reward of 500 EXP."
                             ]
                         },
                         {
@@ -12209,7 +12209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナボトルを手に入れた！"
+                                "I obtained a mana bottle!"
                             ]
                         },
                         {

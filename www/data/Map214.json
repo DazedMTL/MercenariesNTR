@@ -10210,14 +10210,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【洞窟の盗賊退治】"
+                                "Quest [CaveBanditExtermination] failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10260,7 +10260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -11791,14 +11791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に盗賊がいるようだ。"
+                                "It seems there are thieves ahead. Shall we fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦おうか？"
+                                ""
                             ]
                         },
                         {
@@ -11806,8 +11806,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "準備する"
+                                    "Proceed",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -12063,14 +12063,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト【洞窟の盗賊退治】"
+                                "Quest [CaveBanditExtermination] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -12122,7 +12122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "報酬 1500EXP 1500G 3名声を手に入れた。"
+                                "Obtained a reward of 1500 EXP, 1500G, and 3 fame."
                             ]
                         },
                         {
@@ -12565,7 +12565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナボトルを手に入れた！"
+                                "I obtained a mana bottle!"
                             ]
                         },
                         {

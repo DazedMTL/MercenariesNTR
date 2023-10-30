@@ -10304,21 +10304,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]随分とたけえところを拠点にしてるんだな。"
+                                "\\nw[Shia]You're using quite a conspicuous place as your\nbase, huh? What are you thinking, living in such\nan isolated area when stealing is your livelihood?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "盗みを生業にしてる癖に人の通らないところに住んでるなんて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何考えてんだ？"
+                                ""
                             ]
                         },
                         {
@@ -10335,7 +10335,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]山賊たって山にいるだけでただの盗賊だろうに……"
+                                "\\nw[Shia]Just because you're a bandit living in the\nmountains doesn't make you anything more than a\nthief..."
                             ]
                         },
                         {
@@ -10429,14 +10429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【山賊の制圧】"
+                                "Complete the quest [SuppressingtheBandits] by\ndefeating the bandits deep in the mountains!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "奥にいる山賊達を討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10587,14 +10587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【山賊の制圧】"
+                                "Failed Quest [BanditSuppression]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10637,7 +10637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 1500EXP を手に入れた。"
+                                "I obtained a reward of 1500 EXP."
                             ]
                         },
                         {
@@ -10739,7 +10739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[506]]が山賊に捕まって調教された。"
+                                "\\N[\\V[506]] was captured by bandits and trained."
                             ]
                         },
                         {
@@ -12032,7 +12032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はこの山から出るわけにはいかない。"
+                                "I can't leave this mountain right now."
                             ]
                         },
                         {

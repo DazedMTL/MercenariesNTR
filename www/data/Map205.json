@@ -10201,14 +10201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]\\N[\\V[506]]が捕まってるのはこの先か……"
+                                "\\nw[Taro]I wonder if \\N[\\V[506]] is captured up ahead... I\nhave to find a way to rescue them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何とかして助け出さないとな。"
+                                ""
                             ]
                         },
                         {
@@ -10232,14 +10232,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【仲間の救出】"
+                                "Quest [RescuetheComrades]: Rescue the captured\ncomrades in the depths of the cave!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "洞窟の奥に捕らえられた仲間を救出せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10390,14 +10390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【仲間の救出】"
+                                "Quest [RescueofComrades] Failed"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10440,7 +10440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -10487,7 +10487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後しばらくした後、プラエの雇った冒険者が救助してくれた。"
+                                "After a while, the adventurers hired by Prae came\nto rescue us."
                             ]
                         },
                         {
@@ -11871,7 +11871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はこの洞窟から出るわけにはいかない。"
+                                "I can't leave this cave right now."
                             ]
                         },
                         {

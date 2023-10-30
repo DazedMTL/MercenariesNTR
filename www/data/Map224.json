@@ -10565,7 +10565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬草を採取した。"
+                                "I collected some medicinal herbs."
                             ]
                         },
                         {
@@ -10747,14 +10747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【西の森の薬草採取２】"
+                                "Quest\n[CollectingMedicinalHerbsintheWesternForest2]\nComplete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10817,7 +10817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 7500EXP 7500G ６名声を手に入れた。"
+                                "Reward: 7500 EXP, 7500G, and obtained 6 fame."
                             ]
                         },
                         {
@@ -11256,14 +11256,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【西の森の薬草採取２】"
+                                "Quest [GatheringMedicinalHerbsintheWesternForest2]\nfailed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11317,7 +11317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 1500EXP を手に入れた。"
+                                "Obtained a reward of 1500 EXP."
                             ]
                         },
                         {
@@ -11696,7 +11696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬草を採取した。"
+                                "I collected some medicinal herbs."
                             ]
                         },
                         {
@@ -11897,7 +11897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬草を採取した。"
+                                "I collected some medicinal herbs."
                             ]
                         },
                         {
@@ -12098,7 +12098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬草を採取した。"
+                                "I collected some medicinal herbs."
                             ]
                         },
                         {

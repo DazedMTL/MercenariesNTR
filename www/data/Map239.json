@@ -11542,14 +11542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【遺跡での素材採取】"
+                                "Reach the depths of the ruins in the quest\nMaterial Collection in the Ruins!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "遺跡の奥に到達せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11665,7 +11665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はこの遺跡から出るわけにはいかない。"
+                                "I can't leave this ruins right now."
                             ]
                         },
                         {
@@ -11892,14 +11892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【遺跡での素材採取】"
+                                "Quest [MaterialCollectionintheRuins] Failed"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -12005,7 +12005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 3000EXP を手に入れた。"
+                                "Obtained a reward of 3000 EXP."
                             ]
                         },
                         {
@@ -13174,7 +13174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリクサーを手に入れた！"
+                                "I obtained an Elixir!"
                             ]
                         },
                         {

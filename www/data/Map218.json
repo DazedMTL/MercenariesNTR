@@ -9716,14 +9716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【村の警護２】"
+                                "Complete the quest [VillageGuard2] by defeating\nthree groups of monsters!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物の群れを３グループ討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10701,14 +10701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【村の警護２】"
+                                "Quest [VillageGuard2] completed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10834,7 +10834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 2500EXP 2500G 4名声を手に入れた。"
+                                "Obtained a reward of 2500 EXP, 2500G, and 4 fame."
                             ]
                         },
                         {
@@ -11091,14 +11091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【村の警護２】"
+                                "Quest [VillageGuard2] failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11215,7 +11215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 500EXP を手に入れた。"
+                                "I obtained a reward of 500 EXP."
                             ]
                         },
                         {
@@ -11562,7 +11562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イラエールを手に入れた！"
+                                "I obtained the Illaer!"
                             ]
                         },
                         {

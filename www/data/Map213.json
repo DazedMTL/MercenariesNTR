@@ -10281,14 +10281,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]盗賊はこの奥ですか。"
+                                "\\nw[Fross]Is the thief in this direction? I haven't become a\nguide, so I'll follow along."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "わたしは先導にはなれてないので、ついていきます。"
+                                ""
                             ]
                         },
                         {
@@ -10363,14 +10363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【洞窟の盗賊退治】"
+                                "Quest [CaveThiefExtermination]: Exterminate the\nthief in the depths of the cave!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "洞窟の奥にいる盗賊を退治せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10521,14 +10521,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【洞窟の盗賊退治】"
+                                "Quest [CaveBanditExtermination] failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10571,7 +10571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -11913,7 +11913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はこの洞窟から出るわけにはいかない。"
+                                "I can't leave this cave right now."
                             ]
                         },
                         {
@@ -12141,7 +12141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイズを手に入れた！"
+                                "I obtained the Raise!"
                             ]
                         },
                         {

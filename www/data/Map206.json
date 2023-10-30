@@ -4480,14 +4480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]\\N[\\V[506]]が捕まってるのはこの先か……"
+                                "\\nw[Taro]Is \\N[\\V[506]] captured up ahead...? But that\nmonster looks strong. Can we fight it right\naway...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だがあの魔物は強そうだ。すぐに戦えるか……？"
+                                ""
                             ]
                         },
                         {
@@ -4495,8 +4495,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "すぐに戦う",
-                                    "準備を整える"
+                                    "Fight right away",
+                                    "Prepare yourself"
                                 ],
                                 1,
                                 0,
@@ -4526,7 +4526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]よし、行くぞ"
+                                "\\nw[Taro]Alright, let's go."
                             ]
                         },
                         {
@@ -4653,14 +4653,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]何とか倒せたか。"
+                                "\\nw[Taro]Did we manage to defeat it somehow? \\N[\\V[506]]\nshould be up ahead..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "奥に\\N[\\V[506]]がいるはず……"
+                                ""
                             ]
                         },
                         {
@@ -4726,7 +4726,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]……他に魔物がいなければ……"
+                                "\\nw[Taro]...If there are no other monsters..."
                             ]
                         },
                         {
@@ -4743,7 +4743,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]ん、あれは……！"
+                                "\\nw[Taro]Huh, what's that...!"
                             ]
                         },
                         {
@@ -4804,7 +4804,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]んっ……ふあ……"
+                                "\\nw[Kuno]Nn... Fuah..."
                             ]
                         },
                         {
@@ -4821,7 +4821,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]！"
+                                "\\nw[Taro]!"
                             ]
                         },
                         {
@@ -4838,31 +4838,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]（っと、あわてて駆け寄ったらだめだ……"
+                                "\\nw[Taro](Hmm, rushing in hastily is not a good idea...\nThere might be hidden ambushes...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "伏兵が潜んでる可能性もあるからな……）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\nw[Taro]……\\|……\\|……"
+                                ""
                             ]
                         },
                         {
@@ -4879,14 +4862,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]さっきのがここらのボスだったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "というか触手も動いてないな……"
+                                "\\nw[Taro].................."
                             ]
                         },
                         {
@@ -4903,7 +4879,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]他に本体が動かなくなったってところか？"
+                                "\\nw[Taro]Was that earlier the boss around here? Or rather,\nthe tentacles aren't moving..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4920,7 +4903,24 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]周囲は問題なさそうだな……助け出すか。"
+                                "\\nw[Taro]So the main body stopped moving, huh?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\nw[Taro]The surroundings seem fine... Shall we rescue\n[Char_0]?"
                             ]
                         },
                         {
@@ -4980,7 +4980,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]おい、大丈夫か？"
+                                "\\nw[Taro]Hey, are you okay?"
                             ]
                         },
                         {
@@ -4997,7 +4997,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]んあ……ふえ……"
+                                "\\nw[Kuno]Nn... Ahh..."
                             ]
                         },
                         {
@@ -5014,14 +5014,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]……\\|意識ははっきりしてないけど、見た感じ傷はないな。"
+                                "\\nw[Taro]...I'm not fully conscious, but it doesn't seem\nlike I'm injured. I should go back and get checked\njust in case..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "帰って検査してもらわないとな……。"
+                                ""
                             ]
                         },
                         {
@@ -5038,7 +5038,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]急いで戻らないとな……"
+                                "\\nw[Taro]I need to hurry back..."
                             ]
                         },
                         {
@@ -5088,7 +5088,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "帰ってから検査をしたが、健康状態には問題がないようだった。"
+                                "After returning and getting checked, there doesn't\nseem to be any issues with my health."
                             ]
                         },
                         {
@@ -5122,14 +5122,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "その後奥で触手に拘束されていた\\N[\\V[506]]を発見した。"
+                                "Afterwards, I discovered that \\N[\\V[506]] was\nrestrained by tentacles deep inside. However, they\nweren't strong and I was able to rescue them\nwithout any difficulty."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "しかし強くもなく、苦も無く助け出すことができた。"
+                                ""
                             ]
                         },
                         {
@@ -5146,7 +5146,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "帰ってから検査をしたが、健康状態には問題がないようだった。"
+                                "After returning and getting checked, there didn't\nseem to be any issues with my health."
                             ]
                         },
                         {
@@ -5192,14 +5192,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト【仲間の救出】"
+                                "Quest [RescueofComrades] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -5242,7 +5242,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "報酬 500EXP を手に入れた。"
+                                "Obtained a reward of 500 EXP."
                             ]
                         },
                         {
@@ -5445,7 +5445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]もう少し準備をするか。"
+                                "\\nw[Taro]Shall we prepare a little more?"
                             ]
                         },
                         {
@@ -5605,14 +5605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【仲間の救出】"
+                                "Quest [RescueofComrades] Failed"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -5655,7 +5655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -5702,7 +5702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後しばらくした後、プラエの雇った冒険者が救助してくれた。"
+                                "After a while, the adventurers hired by Prae came\nto rescue us."
                             ]
                         },
                         {

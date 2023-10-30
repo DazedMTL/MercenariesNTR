@@ -11542,14 +11542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治５】"
+                                "Complete the quest Exterminate 5 Groups of\nMonsters in the Surrounding Area of the Next Town!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物の群れを５グループ討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11711,14 +11711,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治５】"
+                                "Quest [DefeattheMonstersintheSurroundingTown5]\nComplete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11844,7 +11844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 12000EXP 12000G 7名声を手に入れた。"
+                                "Received a reward of 12000 EXP, 12000G, and 7\nreputation."
                             ]
                         },
                         {
@@ -12193,7 +12193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブレイクダークを手に入れた！"
+                                "I obtained the Break Dark!"
                             ]
                         },
                         {
@@ -12356,14 +12356,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治５】"
+                                "Quest [Defeat5MonstersintheNearbyTown] Failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -12480,7 +12480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 3000EXP を手に入れた。"
+                                "I obtained a reward of 3000 EXP."
                             ]
                         },
                         {

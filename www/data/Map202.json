@@ -10189,14 +10189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に魔物の巣がありそうだ。"
+                                "There seems to be a monster's nest ahead. It looks\nlike we'll have to engage in consecutive battles\nwith the monsters. Shall we fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物との連続戦闘になりそうだが、戦おうか？"
+                                ""
                             ]
                         },
                         {
@@ -10204,8 +10204,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "準備する"
+                                    "Proceed",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -10570,14 +10570,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "クエスト【魔物の巣の破壊】"
+                                "Quest [DestroyingtheMonster'sNest] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10629,7 +10629,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "報酬 700EXP 500G 2名声を手に入れた。"
+                                "Obtained a reward of 700 EXP, 500G, and 2 fame."
                             ]
                         },
                         {
@@ -12354,7 +12354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バリアブーストを手に入れた！"
+                                "I obtained Barrier Boost!"
                             ]
                         },
                         {
@@ -12601,7 +12601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナボトルを手に入れた！"
+                                "I obtained a mana bottle!"
                             ]
                         },
                         {
@@ -12764,14 +12764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【魔物の巣の破壊】"
+                                "Quest [DestroyingtheMonster'sNest] failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -12814,7 +12814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -12916,7 +12916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[506]]が魔物に捕まって苗床にされた。"
+                                "\\N[\\V[506]] was captured by the monster and turned\ninto a breeding ground."
                             ]
                         },
                         {

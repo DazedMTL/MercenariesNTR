@@ -2339,52 +2339,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この場所は所謂ハプニングバーみたいなものだ。"
+                                "This place is what you would call a happening bar.\nThe main idea is for the customers to have fun\ntogether, but if you pay, you can request a staff\nmember to accompany you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "客同士で楽しむのが主だが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お金を払えば指名して店員に相手をしてもらうことができる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金を払っても時間を買えるだけであって、性行為は同意が必要だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこから肉体関係を持てるかはまた交渉なり金を追加で払うなり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必要になってくるのだが。"
+                                ""
                             ]
                         },
                         {
@@ -2401,14 +2370,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして今クノが指名されている。"
+                                "Paying money only buys you time, and sexual\nactivity requires consent. Whether or not you can\nhave a physical relationship depends on\nnegotiation or additional payment."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気になるので様子を見ることにした。"
+                                "And now Kuno has been requested. Curious, I\ndecided to observe the situation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2540,21 +2540,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一緒にお酒を飲んで話してるだけのようだ。"
+                                "It seems like they're just drinking and talking\ntogether. Prae said that it's better not to have a\nrelationship on the first request because the\nvalue of suddenly being embraced would decrease."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いきなり抱かせるの価値が落ちるので、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "初指名ではなるべく関係を持たないようにしろとプラエが言ってたか。"
+                                ""
                             ]
                         },
                         {
@@ -2571,14 +2571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この店の形式だとそれもどうかと思うが、"
+                                "I think it's questionable whether this format of\nthe bar would work, but it might be because the\ncustomers are mostly men."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "客は男が主だから成り立つのかもしれない。"
+                                ""
                             ]
                         },
                         {
@@ -2643,7 +2643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後も見ていたが、一緒にお酒を飲んだだけで終わったようだ。"
+                                "I continued watching afterwards, but it seems like\nthey just ended up drinking together."
                             ]
                         },
                         {
@@ -2688,7 +2688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]どうだった、働いてみて平気そうか？"
+                                "\\nw[Taro]How was it? Does it seem like you're okay working\nhere?"
                             ]
                         },
                         {
@@ -2734,7 +2734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]大丈夫よ、話してるだけで終わったしね。"
+                                "\\nw[Kuno]It's okay, we just talked and that was it."
                             ]
                         },
                         {
@@ -2751,7 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]指名してきた相手はどうだったんだ？"
+                                "\\nw[Taro]How was the person you were requested by?"
                             ]
                         },
                         {
@@ -2768,45 +2768,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あれは結構大きな商会の人間みたいね。"
+                                "\\nw[Kuno]That person seemed like someone from a pretty big\ntrading company. They said they liked it here and\nthat they would come again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気に入ったからまた来てくれるって言ってたわよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]まだ一回会っただけだからわからないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構紳士的な人だったわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと香水の匂いが強いけど。"
+                                ""
                             ]
                         },
                         {
@@ -2823,7 +2792,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうか、それならいい客になるかもな"
+                                "\\nw[Kuno]I've only met them once, so I'm not sure yet, but\nthey seemed quite gentlemanly. Though their\nperfume scent was a bit strong."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2840,14 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（でもいい客になるのならクノが抱かれることになるんだよな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうなったらオレは興奮するのか……？）"
+                                "\\nw[Taro]I see, in that case, they might become a good\ncustomer."
                             ]
                         },
                         {
@@ -2864,7 +2840,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（……）"
+                                "\\nw[Taro](But if it means Kuno will be embraced by a good\ncustomer, I wonder if I'll get excited...?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](......)"
                             ]
                         },
                         {
@@ -2893,7 +2893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結局その週は毎日のように商人はクノを指名してきた。"
+                                "In the end, that week, the merchant requested Kuno\nalmost every day."
                             ]
                         },
                         {
@@ -2917,7 +2917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人の名前を決めてください。"
+                                "Please decide on the name of the merchant."
                             ]
                         },
                         {
@@ -2947,14 +2947,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "スペードでよろしいですか？"
+                                "Is Spade okay? (You can also change your name with\nthe crystal on the 2nd floor of the shop later)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この後も店の２Fにある水晶で名前を変更することができます）"
+                                ""
                             ]
                         },
                         {
@@ -2962,8 +2962,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

@@ -2532,31 +2532,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[店主]よくきてくれたわね。"
+                                "\\nw[Shopkeeper]Welcome, it's nice to see you. You must be from\nPrae-san's group."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プラエさんの団の方ね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[店主]ここではスキルが使えるようになる魔導具を取り扱っているわ。"
+                                ""
                             ]
                         },
                         {
@@ -2573,14 +2556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[店主]でも魔導具は希少な物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからお金で売ることはできないの。"
+                                "\\nw[Shopkeeper]Here, we handle magical tools that allow you to\nuse skills."
                             ]
                         },
                         {
@@ -2597,14 +2573,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[店主]でも淫魔の能力で手に入れた魔力の籠った精液となら交換できるわ。"
+                                "\\nw[Shopkeeper]But magical tools are rare items. So I can't sell\nthem for money."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "用意ができたらよろしく頼むわね。"
+                                ""
                             ]
                         },
                         {
@@ -2621,21 +2597,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[店主]それと、交換に使った精液量が増えると商品も増やしてあげる。"
+                                "\\nw[Shopkeeper]But if you have semen filled with magical power\nthat you obtained through the abilities of\nsuccubi, I can exchange it. Please let me know if\nyou're prepared."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いくらあっても足りないから、"
+                                "\\nw[Shopkeeper]Also, if the amount of semen used for exchange\nincreases, I will increase the number of items\navailable. No matter how much I have, it's never\nenough, so I would appreciate it if you could\nprepare a lot of semen for me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "精液をたくさん用意してくれると助かるわ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2689,7 +2689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[店主]いらっしゃい、交換したいものはある？"
+                                "\\nw[Shopkeeper]Welcome, do you have something you want to\nexchange?"
                             ]
                         },
                         {
@@ -2708,12 +2708,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（魔術強）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系"
+                                    "Healing-type",
+                                    "Attack Type (Magic)",
+                                    "Attack Type (Magic Strong)",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weaker system"
                                 ],
                                 -1,
                                 0,
@@ -3627,7 +3627,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "やっぱり買わない"
+                                    "No, I won't buy it after all"
                                 ],
                                 0,
                                 -1,
@@ -3686,12 +3686,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系",
-                                    "やっぱりいらない"
+                                    "Healing-type",
+                                    "Attack Type (Magic)",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weaker system",
+                                    "No, I don't need anything after all"
                                 ],
                                 5,
                                 0,
@@ -4455,12 +4455,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系",
-                                    "やっぱりいらない"
+                                    "Healing-type",
+                                    "Attack Type (Magic)",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weaker system",
+                                    "No, I don't need anything after all"
                                 ],
                                 5,
                                 0,
@@ -5047,7 +5047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[店主]ありがとう、また来てくれると嬉しいわ。"
+                                "\\nw[Shopkeeper]Thank you, I would be happy if you come again."
                             ]
                         },
                         {
@@ -5119,7 +5119,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Shopkeeper]Oh, it seems the amount of semen for exchange has\nreached a certain number."
                             ]
                         },
                         {
@@ -5136,7 +5136,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]今度からより良いものが交換できるようにしておくわ。"
+                                "\\nw[Shopkeeper]I'll make sure to have even better items available\nfor exchange next time."
                             ]
                         },
                         {
@@ -5206,7 +5206,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Shopkeeper]Oh, it seems the amount of semen for exchange has\nreached a certain number."
                             ]
                         },
                         {
@@ -5223,7 +5223,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]今度からより良いものが交換できるようにしておくわ。"
+                                "\\nw[Shopkeeper]I'll make sure to have even better items available\nfor exchange next time."
                             ]
                         },
                         {
@@ -5293,7 +5293,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Shopkeeper]Oh, it seems the amount of semen for exchange has\nreached a certain number."
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]今度からこの店にあるもの全部と交換できるようにしておくわ。"
+                                "\\nw[Shopkeeper]I'll make sure that everything in this shop can be\nexchanged from now on."
                             ]
                         },
                         {

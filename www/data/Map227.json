@@ -10226,14 +10226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]\\N[\\V[506]]が捕まってるのはこの先か……"
+                                "\\nw[Taro]I wonder if \\N[\\V[506]] is captured up ahead... I\nhave to find a way to rescue them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何とかして助け出さないとな。"
+                                ""
                             ]
                         },
                         {
@@ -10257,14 +10257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【仲間の救出２】"
+                                "Quest [RescuetheCapturedCompanions2]: Rescue the\ncaptured companions in the depths of the cave!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "洞窟の奥に捕らえられた仲間を救出せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10415,14 +10415,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【仲間の救出】"
+                                "Quest [RescueofComrades] Failed"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10465,7 +10465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 1500EXP を手に入れた。"
+                                "I obtained a reward of 1500 EXP."
                             ]
                         },
                         {
@@ -10519,14 +10519,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "山賊達は\\N[\\V[506]]を目の前で犯した後"
+                                "The bandits moved to another location after\nviolating \\N[\\V[506]] in front of me, so they were\nlet go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "別の場所へ移動したため見逃された。"
+                                ""
                             ]
                         },
                         {
@@ -10881,7 +10881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はこの洞窟から出るわけにはいかない。"
+                                "I can't leave this cave right now."
                             ]
                         },
                         {

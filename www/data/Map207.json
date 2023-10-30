@@ -3826,7 +3826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はこの森から出るわけにはいかない。"
+                                "I can't leave this forest right now."
                             ]
                         },
                         {
@@ -3963,14 +3963,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐】"
+                                "Defeat the new species of monster that is just\nahead in the quest Hunting the New Species of\nMonster!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すぐ先にいる新種の魔物を討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -4106,14 +4106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐２】"
+                                "Defeat the new species of monster that is right\nahead in the quest\n[NewSpeciesMonsterSubjugation2]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すぐ先にいる新種の魔物を討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -4249,14 +4249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐３】"
+                                "Defeat the new species of monster that is right\nahead in the quest\n[HuntingtheNewSpeciesofMonster3]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すぐ先にいる新種の魔物を討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -4392,14 +4392,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐４】"
+                                "Defeat the new species of monster that is right\nahead in the quest\n[NewSpeciesMonsterSubjugation4]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すぐ先にいる新種の魔物を討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -4535,14 +4535,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐５】"
+                                "Defeat the new species of monster that is right\nahead in Quest [NewSpeciesMonsterSubjugation5]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すぐ先にいる新種の魔物を討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -4931,14 +4931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に討伐対象の魔物がいるようだ。"
+                                "It seems that there are monsters to be defeated\nahead. Shall we fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦おうか？"
+                                ""
                             ]
                         },
                         {
@@ -4946,8 +4946,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "準備する"
+                                    "Proceed",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -5160,14 +5160,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト【新種の魔物討伐】"
+                                "Quest [DefeattheNewSpeciesofMonsters] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -5219,7 +5219,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "報酬 1000EXP 800G 3名声を手に入れた。"
+                                "I obtained a reward of 1000 EXP, 800G, and 3 fame."
                             ]
                         },
                         {
@@ -5268,7 +5268,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "強敵撃破初回クリアボーナスで「プルプレメイス」を手に入れた。"
+                                "I obtained the Purple Maze as a first-time clear\nbonus for defeating a formidable enemy."
                             ]
                         },
                         {
@@ -5604,14 +5604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に討伐対象の魔物がいるようだ。"
+                                "It seems that there are monsters to be defeated\nahead. Shall we fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦おうか？"
+                                ""
                             ]
                         },
                         {
@@ -5619,8 +5619,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "準備する"
+                                    "Proceed",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -5833,14 +5833,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト【新種の魔物討伐２】"
+                                "Quest [DefeattheNewSpeciesofMonsters2] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -5892,7 +5892,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "報酬 2000EXP 1500G 4名声を手に入れた。"
+                                "I obtained a reward of 2000 EXP, 1500G, and 4\nfame."
                             ]
                         },
                         {
@@ -5941,7 +5941,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "強敵撃破初回クリアボーナスで「ストルティオクロー」を手に入れた。"
+                                "I obtained the Stultioclaw as a first-time clear\nbonus for defeating a formidable enemy."
                             ]
                         },
                         {
@@ -6277,14 +6277,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に討伐対象の魔物がいるようだ。"
+                                "It seems that there are monsters to be defeated\nahead. Shall we fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦おうか？"
+                                ""
                             ]
                         },
                         {
@@ -6292,8 +6292,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "準備する"
+                                    "Proceed",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -6506,14 +6506,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト【新種の魔物討伐３】"
+                                "Quest [DefeattheNewSpeciesofMonsters3] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -6565,7 +6565,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "報酬 5000EXP 3000G 6名声を手に入れた。"
+                                "I obtained a reward of 5000 EXP, 3000G, and 6\nfame."
                             ]
                         },
                         {
@@ -6614,7 +6614,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "強敵撃破初回クリアボーナスで「ゴブリンハンマー」を手に入れた。"
+                                "I obtained the Goblin Hammer as a first-time clear\nbonus for defeating a formidable enemy."
                             ]
                         },
                         {
@@ -6950,14 +6950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に討伐対象の魔物がいるようだ。"
+                                "It seems that there are monsters to be defeated\nahead. Shall we fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦おうか？"
+                                ""
                             ]
                         },
                         {
@@ -6965,8 +6965,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "準備する"
+                                    "Proceed",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -7225,14 +7225,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "クエスト【新種の魔物討伐４】"
+                                "Quest [DefeattheNewSpeciesofMonsters4] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -7284,7 +7284,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "報酬 10000EXP 5000G 8名声を手に入れた。"
+                                "Obtained a reward of 10000 EXP, 5000G, and 8 fame."
                             ]
                         },
                         {
@@ -7333,7 +7333,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "強敵撃破初回クリアボーナスで「ラミアンソード」を手に入れた。"
+                                "I obtained the Lamia Sword as a first-time clear\nbonus for defeating a formidable enemy."
                             ]
                         },
                         {
@@ -7708,14 +7708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に討伐対象の魔物がいるようだ。"
+                                "It seems that there are monsters to be defeated\nahead. Shall we fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦おうか？"
+                                ""
                             ]
                         },
                         {
@@ -7723,8 +7723,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "準備する"
+                                    "Proceed",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -8029,14 +8029,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "クエスト【新種の魔物討伐５】"
+                                "Quest [DefeattheNewSpeciesofMonsters5] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -8088,7 +8088,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "報酬 20000EXP 10000G 10名声を手に入れた。"
+                                "Obtained a reward of 20,000 EXP, 10,000G, and 10\nfame."
                             ]
                         },
                         {
@@ -8137,7 +8137,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "強敵撃破初回クリアボーナスで「テッラボウ」を手に入れた。"
+                                "I obtained the Terra Bow as a first-time clear\nbonus for defeating a formidable enemy."
                             ]
                         },
                         {
@@ -8586,14 +8586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐】"
+                                "Failed quest [Defeatofanewspeciesofmonster]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -8699,7 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "I obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -8966,14 +8966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐２】"
+                                "Quest [DefeatofaNewTypeofMonster2] Failed"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -9079,7 +9079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -9346,14 +9346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐３】"
+                                "Quest [DefeatofaNewTypeofMonster3] Failed"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -9459,7 +9459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 500EXP を手に入れた。"
+                                "Obtained 500 EXP as a reward."
                             ]
                         },
                         {
@@ -9726,14 +9726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐４】"
+                                "Quest [DefeatofaNewTypeofMonster4] Failed"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -9839,7 +9839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 1500EXP を手に入れた。"
+                                "Obtained a reward of 1500 EXP."
                             ]
                         },
                         {
@@ -10106,14 +10106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【新種の魔物討伐５】"
+                                "Quest [DefeatofaNewTypeofMonster5] Failed"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10219,7 +10219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 1500EXP を手に入れた。"
+                                "I obtained a reward of 1500 EXP."
                             ]
                         },
                         {

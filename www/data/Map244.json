@@ -6463,7 +6463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（話声が聞こえるな……）"
+                                "\\nw[Taro](I can hear voices...)"
                             ]
                         },
                         {
@@ -6579,14 +6579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]淫魔の事を聞きたいのだけど、"
+                                "\\nw[Kuno]I want to ask about succubi, but are there any\nefficient ways to gather magical power?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔力を効率よく集める方法とかあるの？"
+                                ""
                             ]
                         },
                         {
@@ -6632,31 +6632,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]随分と唐突じゃな。"
+                                "\\nw[Prae]It's quite sudden, isn't it? But the best way is\nto try and experiment on your own, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃがそう言ったことは自ら試行錯誤して試すのが一番じゃぞ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]それじゃ効率悪そうだから聞いてるんだけど。"
+                                ""
                             ]
                         },
                         {
@@ -6673,14 +6656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]ふむ、一応言っておくか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ある程度共通する可能性もあるが、人それぞれじゃよ。"
+                                "\\nw[Kuno]Well, it seems inefficient, so I'm asking."
                             ]
                         },
                         {
@@ -6697,14 +6673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]もちろん契約者である太郎の嗜好に影響されるが、"
+                                "\\nw[Prae]Hmm, I'll say it just in case. There is a\npossibility that there are some commonalities to a\ncertain extent, but it varies from person to\nperson."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それ以外にも眷属であるお主の嗜好も影響する。"
+                                ""
                             ]
                         },
                         {
@@ -6721,14 +6697,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]異性と交わらねば魔力は得られぬが、"
+                                "\\nw[Prae]Of course, Taro's preferences as a contractor will\nhave an influence, but the preferences of the\nmaster, who is also a servant, will also have an\nimpact."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それ以外は個人によって効率のいい方法は変わると言うことじゃ。"
+                                "\\nw[Prae]It is said that one cannot obtain magical power\nwithout engaging with the opposite sex, but other\nthan that, the efficient methods vary from person\nto person."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6774,7 +6774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そっか、プラエもわからないのかぁ……。"
+                                "\\nw[Kuno]I see, Prae doesn't know either, huh..."
                             ]
                         },
                         {
@@ -6791,45 +6791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]何故そんなにことを聞くのじゃ？"
+                                "\\nw[Prae]Why are you asking such things? It's not like I'm\nin a hurry to receive magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別にわしは急いで魔力を送ってもらわなくても構わんのじゃが。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]前聞いたけど、淫魔の能力で魔力を集めてれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "肉体的な年齢取らないんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノンナと一緒に生きていきたいから、なるべく早い方がいいのよ。"
+                                ""
                             ]
                         },
                         {
@@ -6846,14 +6815,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]さよか。"
+                                "\\nw[Kuno]I heard before that if you gather magical power\nwith the abilities of a succubus, you won't age\nphysically, right? I want to live together with\nNonna, so it would be better to do it as soon as\npossible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かにずっと魔力を得なければ淫魔の能力が働かないからのぅ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6870,14 +6846,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]ふむ、そうじゃな……"
+                                "\\nw[Prae]I see. Indeed, if you don't continuously gain\nmagical power, the abilities of a succubus won't\nwork."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なら一つだけアドバイスをやるかのう。"
+                                "\\nw[Prae]Hmm, if that's the case... then I'll give you just\none piece of advice."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6923,14 +6923,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]えっ、あるんだ。"
+                                "\\nw[Kuno]Huh, really? Yeah, tell me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん、聞かせて。"
+                                ""
                             ]
                         },
                         {
@@ -6947,7 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]恋人は沢山作っておくのじゃな。"
+                                "\\nw[Prae]It's not like you have to have a lot of lovers."
                             ]
                         },
                         {
@@ -6993,45 +6993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]えっ……？"
+                                "\\nw[Kuno]Eh...? W-Why?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "な、何で？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Prae]もちろん太郎がＮＴＲ趣味だからというのはあるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔は長寿だし魅了の力がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "惚れられることはヒュマだった頃とは比べ物になるまい。"
+                                ""
                             ]
                         },
                         {
@@ -7048,38 +7017,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]なのに恋人を作らないで肉体関係を持つ相手が増えると、"
+                                "\\nw[Prae]Of course, Taro's NTR fetish is a factor, but\nsuccubi are long-lived and possess the power of\nenchantment. Being adored by others is\nincomparable to when they were human."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その者たちはただの魔力タンクの様に思ってしまいかねん。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Prae]そうなれば上から目線で人を対等に扱えない……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わしのような人格になってしまうんじゃよ。"
+                                ""
                             ]
                         },
                         {
@@ -7096,38 +7048,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]えっと……確かにプラエは尊大な態度だけど、"
+                                "\\nw[Prae]However, when someone increases the number of\nphysical relationships without having a romantic\npartner, they may come to be seen as nothing more\nthan a magical power tank."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "優しいと思うけど……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Prae]まぁ聞け。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その点恋人になると言うことは相手と対等の関係になると言うことじゃ。"
+                                ""
                             ]
                         },
                         {
@@ -7144,21 +7072,93 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]身体だけの関係でなく、相手のことも気にして"
+                                "\\nw[Prae]If that happens, I won't be able to treat people\nas equals with a condescending attitude... I would\nbecome someone with a personality like mine."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相手に好かれようと努力もするじゃろう？"
+                                "\\nw[Kuno]Um... Prae may have an arrogant attitude, but I\nthink she's kind..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎にはしてるじゃろう？"
+                                "\\nw[Prae]Well, listen. The point is that becoming lovers\nmeans having an equal relationship with the other\nperson."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Prae]You make an effort to care about the other person\nand try to be liked by them, not just in a\nphysical relationship, right? You do that with\nTaro, don't you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7204,7 +7204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]うん、そりゃしてるわよ。"
+                                "\\nw[Kuno]Yeah, I'm doing that."
                             ]
                         },
                         {
@@ -7221,7 +7221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]ま、そう言った相手を増やせと言うことじゃ。"
+                                "\\nw[Prae]Well, I'm not saying you should increase the\nnumber of those kinds of partners."
                             ]
                         },
                         {
@@ -7238,14 +7238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]体の関係は持たないといけないと思ってたけど、"
+                                "\\nw[Kuno]I used to think that we had to have a physical\nrelationship, but becoming lovers... it means that\nother people also think like Taro, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "恋人になるって……他の人も太郎みたいに考えるってことよね。"
+                                ""
                             ]
                         },
                         {
@@ -7262,7 +7262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]それは……"
+                                "\\nw[Kuno]That is..."
                             ]
                         },
                         {
@@ -7308,38 +7308,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]さよか。"
+                                "\\nw[Prae]Sayoka, this is just advice. It's up to you\nwhether you listen or not."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これはただのアドバイスじゃ。聞くも聞かぬも自由じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Prae]じゃが太郎はわしの見立てでは寝取られで一番興奮すると思うぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝取らせや寝取りも趣味だし相当魔力が得られるじゃろうがな。"
+                                ""
                             ]
                         },
                         {
@@ -7356,7 +7332,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]魔力の面でも他に恋人を作るのは良いじゃろう。"
+                                "\\nw[Prae]According to my estimation, Taro would be the most\nexcited about being cuckolded. Cuckolding and\nbeing the one who cuckolds are both hobbies, and\nit would surely provide a considerable amount of\nmagical power."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7373,7 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]う～ん……効率大切よね……"
+                                "\\nw[Prae]It would be good to have another lover even in\nterms of magical power."
                             ]
                         },
                         {
@@ -7390,14 +7373,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]あくまで年寄りの戯言じゃ。"
+                                "\\nw[Kuno]Hmm... Efficiency is important, right..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最初に言った通り自ら考えて試行錯誤するのが良いからのう。"
+                                "\\nw[Prae]It's just the ramblings of an old person. As I\nsaid before, it's best to think for yourself and\nexperiment."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7443,7 +7443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]わかったわよ、相談に乗ってくれてありがとうね。"
+                                "\\nw[Kuno]I understand, thank you for listening to my\nconcerns."
                             ]
                         },
                         {
@@ -7515,14 +7515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（声は聞こえなくなったな。"
+                                "\\nw[Taro](I can't hear her voice anymore. I couldn't hear\nit well, but it seems like she's already inside.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良く聞こえなかったが、もう入って良さそうか）"
+                                ""
                             ]
                         },
                         {
@@ -8472,7 +8472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](今は客に貸し出してるから入ってはいけないな……)"
+                                "\\nw[Taro](You can't enter right now because I'm lending it\nto a customer...)"
                             ]
                         },
                         {
@@ -8540,7 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](今は客に貸し出してるから入ってはいけないな……)"
+                                "\\nw[Taro](You can't enter right now because I'm lending it\nto a customer...)"
                             ]
                         },
                         {
@@ -9888,14 +9888,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[店員]店長さん、こんばんは。"
+                                "\\nw[Shopkeeper]Good evening, store manager. Please make our\nbusiness prosperous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "繁盛させてくださいね。"
+                                ""
                             ]
                         },
                         {
@@ -9974,14 +9974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風俗店に来る特定の女性キャラの常連の名前を変えることができます。"
+                                "You can change the name of a specific female\ncharacter who is a regular at the adult\nentertainment establishment. Would you like to\nchange someone's name?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰かの名前を変えますか？"
+                                ""
                             ]
                         },
                         {
@@ -9998,11 +9998,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "クノの常連",
-                                    "ノンナの常連",
-                                    "フロスの常連",
-                                    "シアの常連",
-                                    "変えない"
+                                    "Kuno's regular",
+                                    "Regular customer of Nonna",
+                                    "Fross' regular customer",
+                                    "Shia's regular customer",
+                                    "No, I won't change it"
                                 ],
                                 4,
                                 -1,
@@ -10136,10 +10136,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "クノの常連",
-                                    "ノンナの常連",
-                                    "フロスの常連",
-                                    "変えない"
+                                    "Kuno's regular",
+                                    "Regular customer of Nonna",
+                                    "Fross' regular",
+                                    "No, I won't change it"
                                 ],
                                 3,
                                 -1,
@@ -10243,9 +10243,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "クノの常連",
-                                    "ノンナの常連",
-                                    "変えない"
+                                    "Kuno's regular",
+                                    "Regular customer of Nonna",
+                                    "No, I won't change it"
                                 ],
                                 2,
                                 -1,
@@ -10838,21 +10838,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[客]う～ん、女は無料で入れるのはいいけど、"
+                                "\\nw[Customer]Hmm, it's nice that women can enter for free, but\nI wonder if it's safe to go in. But I'm also\ncurious, you know~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入っても大丈夫かなぁ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも興味もあるのよね～。"
+                                ""
                             ]
                         },
                         {
@@ -11467,14 +11467,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]あっ、あんっ♥"
+                                "\\nw[Sana]Ah, ah♥ Yes, ah, aah♥ Yes♥ Aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっ、あっ、ああっ♥あんっ♥ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -11491,14 +11491,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男１]おっ、おおおっ……！"
+                                "\\nw[Man 1]Oh, ohh...! Amazing, amazing, Sana-chan...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごい、すごいよサナちゃん……！"
+                                ""
                             ]
                         },
                         {
@@ -11522,7 +11522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]サナさんも夫以外を相手するようになったんですね。"
+                                "\\nw[Saria]So Sana-san has started being with someone other\nthan her husband, huh?"
                             ]
                         },
                         {
@@ -11539,7 +11539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、良い傾向だろう？"
+                                "\\nw[Taro]Ah, isn't it a good trend?"
                             ]
                         },
                         {
@@ -11556,14 +11556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]価値観は人それぞれですから、"
+                                "\\nw[Saria]Everyone has their own values, so I can't really\nsay anything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何とも言えませんけど……"
+                                ""
                             ]
                         },
                         {
@@ -11587,31 +11587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]頑張ってサナを感じさせてくれよ。"
+                                "\\nw[Taro]Do your best to make Sana feel it. The person who\ncan create the most magic stones can take Sana\nhome for a day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一番魔力玉を作れた相手はサナを一日持ち帰りできるからな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[男１]はぁはぁはぁ……絶対に持ち帰って一日中楽しむ……！"
+                                ""
                             ]
                         },
                         {
@@ -11628,14 +11611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男２]お前は奥さんがいるだろうが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ家に持ち帰れないんだから諦めろ！"
+                                "\\nw[Man 1]Haa haa haa... I'll definitely take her home and\nhave fun all day...!"
                             ]
                         },
                         {
@@ -11652,38 +11628,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男１]宿に連れ込むさ！"
+                                "\\nw[Man 2]You have a wife, don't you?! You can't take her\nhome anyway, so give up!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そこで一日中サナちゃんと愛し合うんだ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Sana]勝手に決めないで……ひあぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ♥あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -11700,31 +11652,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]素直になれって。"
+                                "\\nw[Man 1]I'll take her to the inn! We'll spend the whole\nday making love with Sana-chan!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このお客さん達の事は気に入ってるだろ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]せっかくの機会だから仲を深めてもらってくれ。"
+                                ""
                             ]
                         },
                         {
@@ -11741,14 +11676,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]それは……んっ、あっ、ああんっ♥"
+                                "\\nw[Sana]Don't decide things on your own... hiaah♥ aahh♥\nahh, aahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっ♥あっ、あっ、ああんっ♥"
+                                "\\nw[Taro]Be honest. You like these customers, don't you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Since it's a precious opportunity, please deepen\nyour relationship."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Sana]That is... ngh, ah, aahh♥ Y-yes♥ Ah, ah, aaahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11772,38 +11772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（やっぱり寝取らせプレイをすると興奮するな……"
+                                "\\nw[Taro](I do get excited when I engage in cuckold play...\nIn this state of excitement, I might even be able\nto corrupt her...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この興奮状態なら堕とすことも……！）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Saria]あ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎さんのおち〇ぽが元気になってますね……ふあっ、あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -11820,38 +11796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]サナさんの姿を見て興奮してるんですか？"
+                                "\\nw[Saria]Ah, ahn♥ Taro-san's c*ck is getting hard... fuah,\nahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、やっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]興奮しないわけがないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サリアも気持ちよくなってくれよ！"
+                                ""
                             ]
                         },
                         {
@@ -11868,7 +11820,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]あんっ♥はい、頑張りますねっ♥あんっ♥あんっ♥"
+                                "\\nw[Saria]Are you getting excited from seeing Sana-san? Ah,\ny-yes, aahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]There's no way I wouldn't be excited, right?\nSaria, please enjoy yourself too!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Saria]Ahn♥ Yes, I'll do my best, okay? Ahn♥ Ahn♥"
                             ]
                         },
                         {
@@ -12182,7 +12182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]あぁっ♥ああっ♥あおっ♥おおっ♥おおおっ♥おおっ♥"
+                                "\\nw[Sana]Ahh♥ Ahh♥ Aahh♥ Oohh♥ Ooohhh♥ Oohh♥"
                             ]
                         },
                         {
@@ -12199,14 +12199,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男２]はぁはぁはぁ、サナ、オレの方が良いだろう？"
+                                "\\nw[Man 2]Haa haa haa, Sana, wouldn't I be better? Look,\nlook, wouldn't this be good?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、これがいいだろう？"
+                                ""
                             ]
                         },
                         {
@@ -12223,14 +12223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]きもちいっ♥おおっ♥おほっ♥おおおっ♥おほっ♥"
+                                "\\nw[Sana]Feels good♥ Ohh♥ Oohh♥ Ooohhh♥ Oohh♥ Oohhii♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おひぃぃ♥"
+                                ""
                             ]
                         },
                         {
@@ -12254,14 +12254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]ああっ、あんっ、あんっ♥"
+                                "\\nw[Saria]Ahh, ahn, ahn♥ Amazing, you're full of energy...\nngh, aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごい、元気ですね……、んっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -12278,7 +12278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]はぁはぁはぁ……サリア、サナ……！！"
+                                "\\nw[Taro]Haa haa haa... Saria, Sana...!!"
                             ]
                         },
                         {
@@ -12585,7 +12585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]んぶっ♥んんっ♥じゅるっ♥ちゅるっ♥んんんっ♥"
+                                "\\nw[Sana]Mmm♥ Nnnn♥ Slurp♥ Suck♥ Nnnnn♥"
                             ]
                         },
                         {
@@ -12602,31 +12602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男３]おっ、おおおぉぉ……！"
+                                "\\nw[Man 3]Oh, ohhh...! Is this place good? Is this the right\nspot!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここが良いのか、ここがいいのか！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Sana]んむぅぅ♥んんっ、んむっ、んんんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -12643,14 +12626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男３]おっ、ここが気持ちいいんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、突いてやるからもっと締め付けるんだ……！"
+                                "\\nw[Sana]Mmm♥ Nnnn♥ Slurp♥ Suck♥ Nnnnn♥"
                             ]
                         },
                         {
@@ -12667,14 +12643,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男４]おおっ、感じるとすごい吸い付いてくるね。"
+                                "\\nw[Man 3]Oh, this feels good. Look, I'll thrust harder so\ntighten up...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、大好きな精液飲むためにもっと舐めないと。"
+                                ""
                             ]
                         },
                         {
@@ -12691,7 +12667,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]んぐっ、じゅるっ、んんっ♥"
+                                "\\nw[Male 4]Oh, when you feel it, it really clings on, huh.\nCome on, come on, if you want to drink my beloved\nsemen, you have to lick more."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Sana]Ngh, slurp, mmm♥"
                             ]
                         },
                         {
@@ -12715,7 +12715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]んんっ、んちゅっ、んんっ、ちゅっ、んんっ♥"
+                                "\\nw[Saria]Nnn, nchu, nn, chu, nn♥"
                             ]
                         },
                         {
@@ -12732,7 +12732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]また孕ませてやる……！"
+                                "\\nw[Taro]I'll impregnate you again...!"
                             ]
                         },
                         {
@@ -12749,7 +12749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]孕めっ！孕めっ！孕めっ……！"
+                                "\\nw[Taro]Impregnate! Impregnate! Impregnate...!"
                             ]
                         },
                         {

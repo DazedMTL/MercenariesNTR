@@ -2228,21 +2228,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「クノ×村人、魔術で寝かされて」"
+                                "Kuno x Villager, put to sleep with magic is an\nevent that I have seen before. Would you like to\nskip the event?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一度見たことのあるイベントです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -2250,8 +2250,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -2406,38 +2406,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ここの収穫も終わったわよ。"
+                                "\\nw[Kuno]We're done with the harvest here. What should we\ndo next?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "次はどうするの？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[新婚男]今日はここまででいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この後は……"
+                                ""
                             ]
                         },
                         {
@@ -2454,7 +2430,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[村人子供男]お姉ちゃん～、外の話聞かせて～"
+                                "\\nw[Newlywed Man]It's fine until here for today. After this..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2471,7 +2454,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[村人子供女]私も私も～、聞きたい聞きたい～"
+                                "\\nw[Village Child Boy]Onee-chan~, tell me about what's happening\noutside~"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Village Child Girl]I want to hear it too~! I want to hear it~!"
                             ]
                         },
                         {
@@ -2517,31 +2517,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]あら、でももう夕方よ？"
+                                "\\nw[Kuno]Oh, but it's already evening? Aren't your parents\nworried?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ご両親が心配しない？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[村人子供男]え～、お姉ちゃんの話聞きたい～"
+                                ""
                             ]
                         },
                         {
@@ -2558,7 +2541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]え～っと……"
+                                "\\nw[Village Child Boy]Eh~, I want to hear Onee-chan's story~"
                             ]
                         },
                         {
@@ -2575,14 +2558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]今日はもう帰りなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "明日も彼女は手伝ってくれてるから。"
+                                "\\nw[Kuno]Well..."
                             ]
                         },
                         {
@@ -2599,7 +2575,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[村人子供男]う～、わかったよ～"
+                                "\\nw[Newlywed Man]Go home for today. She will help tomorrow too."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2616,7 +2599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[村人子供女]お姉ちゃん、またね～"
+                                "\\nw[Village Child Boy]Ugh, I got it~"
                             ]
                         },
                         {
@@ -2633,7 +2616,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]うん、また明日。"
+                                "\\nw[Village Child Girl]See you later, Onee-chan~"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Yes, see you tomorrow."
                             ]
                         },
                         {
@@ -2669,14 +2669,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]子供達もすっかり懐いてるね。"
+                                "\\nw[Newlywed Man]The children have really grown fond of you. It\nwould be helpful if Kuno could live in the\nvillage."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "クノが村に住んでくれたら助かるのにね。"
+                                ""
                             ]
                         },
                         {
@@ -2722,7 +2722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]あはは、そうなったらもう少し畑を増やせそうね。"
+                                "\\nw[Kuno]Ahaha, if that happens, it seems like we can\nexpand the fields a little more."
                             ]
                         },
                         {
@@ -2739,7 +2739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]そうだね。さすがに傭兵さんは力が違うね。"
+                                "\\nw[Newlywed Man]That's right. Mercenaries are indeed strong."
                             ]
                         },
                         {
@@ -2756,38 +2756,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]それじゃあ家に行こうか。"
+                                "\\nw[Newlywed Man]Well then, shall we go home? The wives should have\nprepared a meal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "奥さん達が食事を用意してくれてるはずだよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[新婚男]この村は宿がないから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "泊まる場所家になってしまってすまないね。"
+                                ""
                             ]
                         },
                         {
@@ -2804,14 +2780,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]屋根があるだけで十分よ。"
+                                "\\nw[Newlywed Man]This village doesn't have an inn, so our house has\nbecome a place to stay. I'm sorry about that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "傭兵だから野宿なんて慣れてるしね。"
+                                ""
                             ]
                         },
                         {
@@ -2828,7 +2804,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]それじゃあ後片付けをしたら行こうか。"
+                                "\\nw[Kuno]Just having a roof is enough. As a mercenary, I'm\nused to camping out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Newlywed Man]Well then, let's clean up and go."
                             ]
                         },
                         {
@@ -2953,31 +2953,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ごちそうさまでした。"
+                                "\\nw[Kuno]Thank you for the meal. It was really delicious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "とっても美味しかった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[新婚女]口に合ったのなら良かった。"
+                                ""
                             ]
                         },
                         {
@@ -2994,14 +2977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[未婚女]手伝いに来たのに泊まる場所が全然ないのがありえね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何でこんなに一緒なの。"
+                                "\\nw[Newlywed Woman]If it suited your taste, then that's good."
                             ]
                         },
                         {
@@ -3018,38 +2994,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚女]ごめんね、肥料の袋が破れた影響で匂いがきつくて"
+                                "\\nw[Unmarried woman]I came to help, but it's impossible to find a\nplace to stay. Why are we together like this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "寝れない家があるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[未婚女]はぁ……くるんじゃなかったかな～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何かすごく眠いし"
+                                ""
                             ]
                         },
                         {
@@ -3066,7 +3018,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[既婚女]本当に？私もなんだかすごく眠くって……"
+                                "\\nw[Newlywed Woman]I'm sorry, there's a house where we can't sleep\nbecause the smell is strong due to a torn bag of\nfertilizer."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3083,7 +3042,48 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[未婚男]マジか？オレも……"
+                                "\\nw[Unmarried woman]*sigh*... I wish I had stayed home~ I'm so sleepy\nfor some reason."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Married woman]Really? I'm feeling really sleepy too..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Unmarried Man]Seriously? Me too..."
                             ]
                         },
                         {
@@ -3138,7 +3138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]……ふん、全員眠ったようだな。"
+                                "\\nw[Thorz]...Hmph, it seems like everyone is asleep."
                             ]
                         },
                         {
@@ -3155,14 +3155,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]さて、それじゃあ遊ばせてもらうか。"
+                                "\\nw[Thorz]Well then, I guess I'll let you entertain me.\nThere's no way a mere villager can resist the\nallure of a succubus."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ただの村人が淫魔の魅了に勝てるわけはないがな。"
+                                ""
                             ]
                         },
                         {
@@ -3423,7 +3423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]壁に穴も開いてて見えるな、これなら平気そうか。"
+                                "\\nw[Thorz]There are even holes in the wall, and I can see\nthrough them. It seems like it'll be fine like\nthis."
                             ]
                         },
                         {
@@ -3449,14 +3449,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]そろそろか……"
+                                "\\nw[Thorz]It's about time... We have a three-night plan, so\nfirst..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "三泊の予定だし、まずは……"
+                                ""
                             ]
                         },
                         {
@@ -3491,38 +3491,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]は、裸に！？"
+                                "\\nw[Newlywed Man]Naked!? W-Why!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "な、なんで！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[新婚男]うっ……やっぱりエロい身体をしてる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仕事してる時からエロいとは思っていたが……"
+                                ""
                             ]
                         },
                         {
@@ -3539,7 +3515,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]って、こんなところ見られたら……！？"
+                                "\\nw[Newlywed Man]Ugh... I knew it, you have a sexy body... I've\nalways thought you were sexy even when you were\nworking..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Newlywed Man]If I'm seen in a place like this...!?"
                             ]
                         },
                         {
@@ -3718,7 +3718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]男は寝てるし、女連中もいないな……"
+                                "\\nw[Newlywed Man]The men are asleep and there are no women\naround..."
                             ]
                         },
                         {
@@ -3735,49 +3735,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]今ならしてもばれないんじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 213,
-                            "indent": 1,
-                            "parameters": [
-                                8,
-                                8,
-                                true
-                            ]
-                        },
-                        {
-                            "code": 213,
-                            "indent": 1,
-                            "parameters": [
-                                8,
-                                8,
-                                true
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[新婚男]な、何を考えてるんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレは結婚して、あいつと幸せな生活を送るんだから……"
+                                "\\nw[Newlywed Man]If we do it now, they won't find out..."
                             ]
                         },
                         {
@@ -3812,14 +3770,56 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]そ、そうだ……しちゃいけない……\\|"
+                                "\\nw[Newlywed Man]W-What are you thinking... I'm married and I'm\nsupposed to live a happy life with her..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 1,
+                            "parameters": [
+                                8,
+                                8,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 1,
+                            "parameters": [
+                                8,
+                                8,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "するわけにはいかないんだ……"
+                                "\\nw[Newlywed Man]R-Right... I can't... I can't do it..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3948,7 +3948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]ううっ……なんだこれ、妻とは違いすぎる！"
+                                "\\nw[Newlywed Man]Ugh... What is this? It's so different from my\nwife!"
                             ]
                         },
                         {
@@ -4035,7 +4035,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]ふぅふぅ……気持ちよすぎる……！"
+                                "\\nw[Newlywed Man]Hoo...hoo... It feels too good...!"
                             ]
                         },
                         {
@@ -4068,7 +4068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]やれやれ、結婚したばかりなのに妻に可哀そうことするな。"
+                                "\\nw[Thorz]Geez, even though you just got married, don't do\nsomething pitiful to your wife."
                             ]
                         },
                         {
@@ -4085,14 +4085,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]ま、仕方ないからおれが妻を慰めてやらないとな。"
+                                "\\nw[Thorz]Well, I guess there's no helping it. I'll have to\ncomfort your wife for you. Be grateful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ありがたく思えよ。"
+                                ""
                             ]
                         },
                         {
@@ -4263,7 +4263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚女]んっ……"
+                                "\\nw[Newlywed Woman]Mmm..."
                             ]
                         },
                         {
@@ -4280,14 +4280,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]おっと、新婚だからさすがに締りがいいな。"
+                                "\\nw[Thorz]Oh, well, since you just got married, it's no\nwonder it's tight. I prefer it to be looser\nthough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もっと緩い方が好みなんだがな。"
+                                ""
                             ]
                         },
                         {
@@ -4304,14 +4304,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]まっ、おれの感想はどうでもいいな。"
+                                "\\nw[Thorz]Well, my opinion doesn't really matter. I'll make\nsure to comfort her properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しっかり慰めてやるよ"
+                                ""
                             ]
                         },
                         {
@@ -4386,7 +4386,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚女]んっ……すぅ……"
+                                "\\nw[Newlywed Woman]Mmm... Suu..."
                             ]
                         },
                         {
@@ -4403,14 +4403,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]夫がいなくても寂しくないように、"
+                                "\\nw[Thorz]Even if you don't have a husband, I'll make sure\nyou won't feel lonely by impregnating you with my\nchild!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "子供を孕ませてやるからな！"
+                                ""
                             ]
                         },
                         {
@@ -4443,14 +4443,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]気持ちよすぎる……！"
+                                "\\nw[Newlywed Man]It feels too good...! I can't take it anymore...\nI'm gonna... I'm gonna...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんなのもうもたない……出る……出る……！"
+                                ""
                             ]
                         },
                         {
@@ -4583,31 +4583,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]搾り取られる……うぅぅ……！"
+                                "\\nw[Newlywed Man]I'm being squeezed... Ugh...! It feels so good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何て気持ちいいんだ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]んっ……すぅ……"
+                                ""
                             ]
                         },
                         {
@@ -4624,14 +4607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]はぁ……はぁ……はぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ寝てるのか……"
+                                "\\nw[Kuno]Nn... Suu..."
                             ]
                         },
                         {
@@ -4648,7 +4624,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]くっ……"
+                                "\\nw[Newlywed Man]Haa... haa... haa... Are you still sleeping..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Newlywed Man]Ku..."
                             ]
                         },
                         {
@@ -4715,7 +4715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んんっ……ふあ……"
+                                "\\nw[Kuno]Nnn... Fuu..."
                             ]
                         },
                         {
@@ -4732,14 +4732,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚男]こんなの我慢できるか！"
+                                "\\nw[Newlywed Man]Can I endure this kind of thing?! Damn it, damn\nit...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "くそっ、くそ……！"
+                                ""
                             ]
                         },
                         {
@@ -4772,21 +4772,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]全く、こらえ性のない奴だ。"
+                                "\\nw[Thorz]Geez, you have no self-control. I'll take my time\nto make you feel good and then impregnate you, so\nlook forward to it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こっちはしっかりと時間をかけて気持ちよくしたうえで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "孕ませてやるから、楽しみにしてろよ。"
+                                ""
                             ]
                         },
                         {
@@ -4803,7 +4803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[新婚女]ふあっ……んんっ……"
+                                "\\nw[Newlywed Woman]Ah...nnn..."
                             ]
                         },
                         {
@@ -4846,14 +4846,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この語３泊の間一人づつ男をクノに襲わせ、"
+                                "During these three nights, each person was made to\nbe attacked by a man and impregnated their partner\nwoman."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その間にパートナーの女を種付けした。"
+                                ""
                             ]
                         },
                         {

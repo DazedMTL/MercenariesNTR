@@ -12276,14 +12276,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【遺跡での素材採取】"
+                                "Quest [MaterialCollectionintheRuins] Failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -12389,7 +12389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 3000EXP を手に入れた。"
+                                "Obtained a reward of 3000 EXP."
                             ]
                         },
                         {
@@ -13998,7 +13998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイレイズボトルを手に入れた！"
+                                "I obtained the High-Rise Bottle!"
                             ]
                         },
                         {

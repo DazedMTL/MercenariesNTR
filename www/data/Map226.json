@@ -10179,7 +10179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に山賊がいそうだ戦おうか？"
+                                "There seems to be bandits up ahead. Shall we\nfight?"
                             ]
                         },
                         {
@@ -10187,8 +10187,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "準備する"
+                                    "Proceed",
+                                    "Prepare"
                                 ],
                                 1,
                                 0,
@@ -10537,14 +10537,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト【山賊の制圧】"
+                                "Quest [BanditSuppression] Complete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10596,7 +10596,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "報酬 9000EXP 10000G 7名声を手に入れた。"
+                                "I obtained a reward of 9000 EXP, 10000G, and 7\nreputation."
                             ]
                         },
                         {
@@ -12251,7 +12251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナボトルを手に入れた！"
+                                "I obtained a mana bottle!"
                             ]
                         },
                         {
@@ -12499,7 +12499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヘルクレインを手に入れた！"
+                                "I obtained the Hellcrane!"
                             ]
                         },
                         {
@@ -12662,14 +12662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【山賊の制圧】"
+                                "Failed Quest [BanditSuppression]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -12712,7 +12712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 1500EXP を手に入れた。"
+                                "I obtained a reward of 1500 EXP."
                             ]
                         },
                         {
@@ -12814,7 +12814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[506]]が山賊に捕まって調教された。"
+                                "\\N[\\V[506]] was captured by bandits and trained."
                             ]
                         },
                         {
