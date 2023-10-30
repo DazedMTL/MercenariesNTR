@@ -132,7 +132,7 @@
         "pitch": 100,
         "volume": 90
     },
-    "locale": "ja_JP",
+    "locale": "en_US",
     "magicSkills": [
         1
     ],
@@ -1775,8 +1775,8 @@
             "Max MP",
             "Attack",
             "Defense",
-            "Magic Attack",
-            "Magic Defense",
+            "M. Attack",
+            "M. Defense",
             "Agility",
             "Luck",
             "Accuracy",
@@ -1821,8 +1821,8 @@
             "magicEvasion": " %1 dodged the magic!",
             "magicReflection": " %1 reflected the magic!",
             "meVolume": " ME Volume",
-            "obtainExp": " Acquired %2 of %1!",
-            "obtainGold": " Obtained %1\\G of money!",
+            "obtainExp": "Gained %1 %2!",
+            "obtainGold": " Obtained %1\\G!",
             "obtainItem": " Obtained %1!",
             "obtainSkill": " Learned %1!",
             "partyName": " %1s",
