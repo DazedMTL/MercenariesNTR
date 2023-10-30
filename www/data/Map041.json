@@ -5087,7 +5087,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[兵士]き、君は……！"
+                                "\\nw[Soldier]Y-You...!"
                             ]
                         },
                         {
@@ -5133,7 +5133,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]こんばんは、良い夜よね"
+                                "\\nw[Kuno]Good evening, it's a lovely night, isn't it?"
                             ]
                         },
                         {
@@ -5150,7 +5150,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro](さて、どうするか)"
+                                "\\nw[Taro](Well, what should I do?)"
                             ]
                         },
                         {
@@ -5184,7 +5184,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[兵士]歓楽都市だけあって無法者が多くて困るよ。"
+                                "\\nw[Soldier]There are so many outlaws in this pleasure city,\nit's troublesome."
                             ]
                         },
                         {
@@ -5230,14 +5230,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]確かに治安があまりよくないけど、"
+                                "\\nw[Kuno]It's true that the public safety isn't great, but\nit's better than right after the war, isn't it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "戦争の直後よりはマシよね……"
+                                ""
                             ]
                         },
                         {
@@ -5254,7 +5254,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro](ここの兵士たちに寝取らせてみようか……？)"
+                                "\\nw[Taro](Should I let these soldiers get cuckolded...?)"
                             ]
                         },
                         {
@@ -5272,8 +5272,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "寝取らせる",
-                                    "やめておく"
+                                    "Let them get cuckolded",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -5321,7 +5321,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]クノ、今日も交流してきてくれ。"
+                                "\\nw[Taro]Kuno, please come and interact with me today."
                             ]
                         },
                         {
@@ -5367,14 +5367,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]わかったわ。"
+                                "\\nw[Kuno]Alright, everyone, let's get along today too,\nokay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "みんな、今日も仲良くしましょ？"
+                                ""
                             ]
                         },
                         {
@@ -5391,7 +5391,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[兵士]ごくり……！"
+                                "\\nw[Soldier]*gulp*...!"
                             ]
                         },
                         {
@@ -5425,14 +5425,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]なぁクノ、街のために戦う者同士"
+                                "\\nw[Taro]Hey Kuno, don't you think it's necessary for those\nwho fight for the city to deepen their\ninteractions with each other?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "交流を深める必要があると思わないか？"
+                                ""
                             ]
                         },
                         {
@@ -5478,7 +5478,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]それはそうだと思うけど？"
+                                "\\nw[Kuno]I think that's true, but don't you think so too?"
                             ]
                         },
                         {
@@ -5495,7 +5495,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]じゃあ下半身で交流して来てくれ"
+                                "\\nw[Taro]Well then, please come and interact with me using\nour lower bodies."
                             ]
                         },
                         {
@@ -5548,7 +5548,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]わかったわ、行ってくるわね。"
+                                "\\nw[Kuno]Alright, I got it. I'll go now."
                             ]
                         },
                         {
@@ -5682,7 +5682,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]別の場所に行くか。"
+                                "\\nw[Taro]Shall we go to a different place?"
                             ]
                         },
                         {
@@ -5728,7 +5728,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]うん、またね、兵士のみんな。"
+                                "\\nw[Kuno]Yeah, see you later, everyone."
                             ]
                         },
                         {
@@ -5762,7 +5762,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro](やめておこう)"
+                                "\\nw[Taro](Let's stop.)"
                             ]
                         },
                         {
@@ -5816,7 +5816,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]歓楽都市だけあって無法者が多くて困るよ。"
+                                "\\nw[Soldier]It's a pleasure city after all, so there are a lot\nof lawless people causing trouble."
                             ]
                         },
                         {
@@ -5862,14 +5862,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]確かに治安があまりよくないけど、"
+                                "\\nw[Kuno]It's true that the public order isn't great, but\nit's better than right after the war..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "戦争の直後よりはマシよね……"
+                                ""
                             ]
                         },
                         {
@@ -5931,7 +5931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[兵士]今日はクノちゃんは一緒じゃないのか……"
+                                "\\nw[Soldier]Kuno-chan, aren't you with us today...?"
                             ]
                         },
                         {
@@ -5965,7 +5965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]歓楽都市だけあって無法者が多くて困るよ。"
+                                "\\nw[Soldier]It's a pleasure city after all, so there are a lot\nof lawless people causing trouble."
                             ]
                         },
                         {
@@ -6178,14 +6178,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]クノ……！"
+                                "\\nw[Soldier]Kuno...! Today, I will devour a woman...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "今日は女を喰う……！"
+                                ""
                             ]
                         },
                         {
@@ -6231,14 +6231,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]え～、食べられちゃうの？"
+                                "\\nw[Kuno]Eh, I'm going to be eaten? That's troublesome..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それは困るわ～"
+                                ""
                             ]
                         },
                         {
@@ -6272,7 +6272,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]殺伐とした生活では肉と女が癒しだな。"
+                                "\\nw[Soldier]In this grim and harsh life, meat and women are\nthe only solace."
                             ]
                         },
                         {
@@ -6316,7 +6316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]今日こそ肉を食う……！"
+                                "\\nw[Soldier]Today, I will devour meat...!"
                             ]
                         },
                         {
@@ -6513,14 +6513,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[兵士長]君たちの働きに信頼している。"
+                                "\\nw[Captain]I trust in your work. I'll continue to rely on you\nfrom now on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これからも頼んだよ。"
+                                ""
                             ]
                         },
                         {
@@ -6554,7 +6554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士長]町の外の魔物退治は任せたよ。"
+                                "\\nw[Captain]I'll leave the extermination of monsters outside\nthe town to you."
                             ]
                         },
                         {
@@ -6672,14 +6672,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[兵士長]やあ、わたしも忙しい身なんだけどね。"
+                                "\\nw[Captain]Hey, I'm a busy person too, you know. Do you have\nsomething you need?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "何か用事があるんじゃないかな？"
+                                ""
                             ]
                         },
                         {
@@ -6725,7 +6725,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]わかりやすいわねこいつ……"
+                                "\\nw[Kuno]This one is easy to understand..."
                             ]
                         },
                         {
@@ -6742,7 +6742,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]ふむ"
+                                "\\nw[Taro]Hmmm."
                             ]
                         },
                         {
@@ -6776,7 +6776,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[兵士長]町の外の魔物退治は任せたよ。"
+                                "\\nw[Captain]I left the extermination of monsters outside the\ntown to you."
                             ]
                         },
                         {
@@ -6822,7 +6822,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]それなりに頑張るわよ。"
+                                "\\nw[Kuno]I'll do my best in my own way."
                             ]
                         },
                         {
@@ -6839,14 +6839,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro](イケメンっぽいな……"
+                                "\\nw[Taro](He looks handsome... Should I let him be\nseduced...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "寝取らせてみようか……？)"
+                                ""
                             ]
                         },
                         {
@@ -6864,8 +6864,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "寝取らせる",
-                                    "やめておく"
+                                    "Let him be seduced",
+                                    "I'll refrain"
                                 ],
                                 1,
                                 0,
@@ -6913,7 +6913,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]クノはいいなら頼むか？"
+                                "\\nw[Taro]If it's okay with Kuno, can I ask for a favor?"
                             ]
                         },
                         {
@@ -6959,14 +6959,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]いいわよ。"
+                                "\\nw[Kuno]That's fine. As the captain of the soldiers, it\nseems like my magical power is high."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "兵士長してるだけあって魔力は高いみたいだし。"
+                                ""
                             ]
                         },
                         {
@@ -6983,14 +6983,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[兵士長]伴侶がいるから乗り気ではないのだけどね。"
+                                "\\nw[Captain]I'm not really enthusiastic about it because I\nhave a partner, but if you insist, I guess I can't\nhelp it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "どうしてもと言うのなら仕方がないな。"
+                                ""
                             ]
                         },
                         {
@@ -7036,7 +7036,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]はいはいどうしてもどうしても"
+                                "\\nw[Kuno]Yes, yes, whatever it is, whatever it is."
                             ]
                         },
                         {
@@ -7053,7 +7053,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[兵士長]仕方がないね、こっちに来なさい"
+                                "\\nw[Captain]I guess there's no helping it, come over here."
                             ]
                         },
                         {
@@ -7087,7 +7087,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]なあ、クノを相手してくれないか？"
+                                "\\nw[Taro]Hey, would you be my partner, Kuno?"
                             ]
                         },
                         {
@@ -7140,14 +7140,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[兵士長]何？"
+                                "\\nw[Captain]What? I understand your business, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "君たちの商売は理解しているが……"
+                                ""
                             ]
                         },
                         {
@@ -7164,7 +7164,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[兵士長]生憎私には伴侶がいてね。"
+                                "\\nw[Captain]Unfortunately, I already have a partner."
                             ]
                         },
                         {
@@ -7210,7 +7210,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]そう、残念ね。"
+                                "\\nw[Kuno]Yes, it's unfortunate."
                             ]
                         },
                         {
@@ -7227,7 +7227,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]まぁ、無理に頼むことでもないか。"
+                                "\\nw[Taro]Well, I guess there's no need to force you to do\nit."
                             ]
                         },
                         {
@@ -7244,7 +7244,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[兵士長]ああ、こっちに来なさい"
+                                "\\nw[Captain]Ah, come over here."
                             ]
                         },
                         {
@@ -7261,7 +7261,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]アタシ？"
+                                "\\nw[Kuno]Me?"
                             ]
                         },
                         {
@@ -7283,7 +7283,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]って、ちょ……！？"
+                                "\\nw[Kuno]Wait, hold on...!?"
                             ]
                         },
                         {
@@ -7448,7 +7448,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]今回はやめとくか"
+                                "\\nw[Taro]I'll pass on this one."
                             ]
                         },
                         {
@@ -7465,7 +7465,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[兵士長]なん……だと……！？"
+                                "\\nw[Captain]What... did you say...!?"
                             ]
                         },
                         {
@@ -7511,7 +7511,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]それじゃね"
+                                "\\nw[Kuno]Well then, see you later."
                             ]
                         },
                         {
@@ -7545,7 +7545,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro](やめておくか)"
+                                "\\nw[Taro](I'll pass on this one.)"
                             ]
                         },
                         {
@@ -7599,7 +7599,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士長]町の外の魔物退治は任せたよ。"
+                                "\\nw[Captain]I'll leave the extermination of the monsters\noutside the town to you."
                             ]
                         },
                         {
@@ -7645,7 +7645,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]それなりに頑張るわよ。"
+                                "\\nw[Kuno]I'll do my best to some extent."
                             ]
                         },
                         {
@@ -7707,14 +7707,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[兵士長]君たちの働きに信頼している。"
+                                "\\nw[Captain]I trust in your work. I'll count on you from now\non."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これからも頼んだよ。"
+                                ""
                             ]
                         },
                         {
@@ -7748,7 +7748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士長]町の外の魔物退治は任せたよ。"
+                                "\\nw[Captain]I'll leave the extermination of the monsters\noutside the town to you."
                             ]
                         },
                         {
@@ -7868,38 +7868,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士長]ふぅふぅ……妻よりもずっといいな……"
+                                "\\nw[Captain]Hoo... It feels even better than my wife... Kuh,\nuuuh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ、ううぅ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]ちょっ、強引すぎ……んっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兵士だから力が……あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -7916,7 +7892,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士長]逃がしはしないよ、おぉぉ……！"
+                                "\\nw[Kuno]W-Wait, this is too forceful... Ngh, ah, aahh♥ As\na soldier, your strength... aahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Captain]I won't let you escape, ohhh...!"
                             ]
                         },
                         {
@@ -7942,7 +7942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](さすが兵士長だけあって腕力があるな)"
+                                "\\nw[Taro](As expected of the Captain, you have quite the\nstrength.)"
                             ]
                         },
                         {
@@ -8022,14 +8022,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士長]ああ、君か。"
+                                "\\nw[Captain]Ah, it's you. If you have something to talk about,\nlet's do it another time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "話しがあるならまた今度にしてくれ。"
+                                ""
                             ]
                         },
                         {
@@ -8097,14 +8097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士長]ああ、君か。"
+                                "\\nw[Captain]Ah, it's you. If you have something to talk about,\nlet's do it another time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "話しがあるならまた今度にしてくれ。"
+                                ""
                             ]
                         },
                         {
@@ -8201,7 +8201,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]ふふふ……良い身体だよね……"
+                                "\\nw[Soldier]Hehehe... What a nice body you have..."
                             ]
                         },
                         {
@@ -8247,14 +8247,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]アンタも鍛えるわよね。"
+                                "\\nw[Kuno]You're training too, right? I'm looking forward to\nit♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "楽しみにしてるわ♪"
+                                ""
                             ]
                         },
                         {
@@ -8288,14 +8288,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]いや～、兵と傭兵の連携は大切だよね。"
+                                "\\nw[Soldier]Oh~ The cooperation between soldiers and\nmercenaries is important, isn't it? It would be\ngreat if we could have joint training sessions."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "合同訓練とかできたらいいよね"
+                                ""
                             ]
                         },
                         {
@@ -8339,14 +8339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]イージスは強くて憧れるよな。"
+                                "\\nw[Soldier]Aegis is strong and admirable, isn't she? I've\nalways wanted to become like her someday, but it's\nimpossible, huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつかはなりたいと思ってたけど、無理だよなぁ……。"
+                                ""
                             ]
                         },
                         {
@@ -8552,21 +8552,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]やぁクノちゃん。"
+                                "\\nw[Soldier]Hey Kuno-chan. If you ever have any troubles, feel\nfree to tell me. I'll be there to help you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "困ったことがあったらいつでも私に言いなさい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "力になろう。"
+                                ""
                             ]
                         },
                         {
@@ -8612,7 +8612,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]ええ、その時は頼むわ"
+                                "\\nw[Kuno]Yes, I'll rely on you at that time."
                             ]
                         },
                         {
@@ -8629,7 +8629,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]むふふ……好感度は稼がないとね"
+                                "\\nw[Soldier]Hehehe... I need to earn some favorability points,\ndon't I?"
                             ]
                         },
                         {
@@ -8663,14 +8663,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]何か困ったことがあったら何でも言いなさい"
+                                "\\nw[Soldier]If you ever have any troubles, feel free to tell\nme. I'll do my best to help you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "なるべく力になろう"
+                                ""
                             ]
                         },
                         {
@@ -8714,14 +8714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]近頃\\rb[<喰らうモノ>,イーター]がディオスの軍を止めたらしいな。"
+                                "\\nw[Soldier]I heard that the Eaters have been stopping Dios'\narmy recently. It's good that they're strong, but\ntheir appearance is scary..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "強いのはいいけど、あの姿は怖いな……"
+                                ""
                             ]
                         },
                         {
@@ -8927,7 +8927,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]クノちゃん……！"
+                                "\\nw[Soldier]Kuno-chan...!"
                             ]
                         },
                         {
@@ -8973,7 +8973,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]こんばんは、仲良くしようね？"
+                                "\\nw[Kuno]Good evening, let's get along, okay?"
                             ]
                         },
                         {
@@ -9007,14 +9007,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]蒼の歌姫はもちろんいいけど、"
+                                "\\nw[Soldier]Of course, having a blue songstress is great, but\nit's also nice to have a woman close by."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "身近な女性と言うのもいいものだね。"
+                                ""
                             ]
                         },
                         {
@@ -9058,21 +9058,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]蒼の歌姫って知ってるかい？"
+                                "\\nw[Soldier]Do you know about the Azure Songstress? She's one\nof the top songstresses on this continent. She's\npowerful and cute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この大陸でも有数の歌姫なんだよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "力強くて可愛いんだ。"
+                                ""
                             ]
                         },
                         {
@@ -9349,14 +9349,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]すまぬが今忙しい。"
+                                "\\nw[Prae]I apologize, but I'm busy right now. If there's\nsomething, please wait until later."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かあるなら後にしてくれ。"
+                                ""
                             ]
                         },
                         {
@@ -9563,14 +9563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]すまぬが今忙しい。"
+                                "\\nw[Prae]I apologize, but I'm busy right now. If there's\nsomething, please wait until later."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かあるなら後にしてくれ。"
+                                ""
                             ]
                         },
                         {
@@ -9784,7 +9784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]ああ、こんなに上手だなんて……！"
+                                "\\nw[Soldier]Ah, I can't believe you're this skilled...!"
                             ]
                         },
                         {
@@ -9801,14 +9801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あんっ♥二人とも素敵よっ♥"
+                                "\\nw[Kuno]Ahh♥ Both of you are amazing♥ This c*ck is\ndelicious... ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おち〇ぽ美味し……あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -9825,14 +9825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]すごい締め付けだな……！"
+                                "\\nw[Soldier]Such a tight grip...! Ugh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くぅ！"
+                                ""
                             ]
                         },
                         {
@@ -9858,7 +9858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](さすがに複数相手だと、どうなることか……)"
+                                "\\nw[Taro](I wonder what will happen when dealing with\nmultiple opponents...)"
                             ]
                         },
                         {
@@ -9976,31 +9976,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]お～、最高だよ最高だよクノ。"
+                                "\\nw[Soldier]Oh~ It's the best, the best, Kuno. It makes my\nwork worthwhile."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕事のし甲斐があるってもんだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]おほっ♥しゅごいでしゅ……おっ、おほぉ♥"
+                                ""
                             ]
                         },
                         {
@@ -10017,7 +10000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]すきにしてくださっ、おほっ♥おおっ♥"
+                                "\\nw[Kuno]Oh~ It's amazing, so amazing... Oh, ohh♥"
                             ]
                         },
                         {
@@ -10034,7 +10017,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]おらっ、イっちまえ！"
+                                "\\nw[Kuno]Please do as you like, ohh♥ Ohh♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Soldier]Get ready to cum!"
                             ]
                         },
                         {
@@ -10060,7 +10060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](さすがに複数に犯され続けたら屈服するか……)"
+                                "\\nw[Taro](If you continue to be violated by multiple\npeople, it's only natural to surrender...)"
                             ]
                         },
                         {
@@ -10149,7 +10149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]はぁはぁ……！"
+                                "\\nw[Soldier]*panting*...!"
                             ]
                         },
                         {
@@ -10217,14 +10217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]今日の夕方までか……"
+                                "\\nw[Soldier]Until this evening, huh... Too bad... If it were\ncovered by expenses, we could have interacted as\nmuch as we wanted..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "惜しいなぁ……経費で落ちればいくらでも交流できるのに……"
+                                ""
                             ]
                         },
                         {
@@ -10301,7 +10301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]順番が待ち遠しいな。"
+                                "\\nw[Soldier]I can't wait for my turn."
                             ]
                         },
                         {
@@ -10369,7 +10369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]ふう……すっきりした"
+                                "\\nw[Soldier]Phew... I feel refreshed."
                             ]
                         },
                         {
@@ -10446,7 +10446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]たっぷりと種付けしてやる！"
+                                "\\nw[Soldier]I'll impregnate you thoroughly!"
                             ]
                         },
                         {
@@ -10643,14 +10643,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]ああ店長さん。"
+                                "\\nw[Soldier]Ah, Manager-san. I'll pay the overtime fee, so\nplease let me borrow it until daytime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "延長料金払うから昼間までかしてくれ。"
+                                ""
                             ]
                         },
                         {

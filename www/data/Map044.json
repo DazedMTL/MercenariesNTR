@@ -3177,7 +3177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町長]ふぅ、忙しくてかなわんよ。"
+                                "\\nw[Town Mayor]Phew, I can't keep up with how busy I am."
                             ]
                         },
                         {
@@ -3245,14 +3245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町長]他の町への連絡か"
+                                "\\nw[Town Mayor]If it's a message to another town or a request\nfrom Prae, there's no helping it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "プラエの頼みであれば仕方ないが"
+                                ""
                             ]
                         },
                         {
@@ -3369,14 +3369,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae]こ奴に用事があるのじゃ"
+                                "\\nw[Prae]I have business with this person, so I'll ask you\ntwo to explain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お主は二人に説明を頼むぞ"
+                                ""
                             ]
                         },
                         {
@@ -3592,14 +3592,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ルイ]おや、太郎様。"
+                                "\\nw[Louis]Oh, Taro-sama. What seems to be the matter?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "如何なさいましたか？"
+                                ""
                             ]
                         },
                         {
@@ -3607,8 +3607,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "用はない"
+                                    "Let's talk",
+                                    "No need"
                                 ],
                                 1,
                                 0,
@@ -3638,7 +3638,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]あれ、受付に居なかったか？"
+                                "\\nw[Taro]Huh, wasn't she at the reception?"
                             ]
                         },
                         {
@@ -3655,38 +3655,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]ええ、先ほどまでは。"
+                                "\\nw[Louis]Yes, until just now. But I'm not constantly\nwatching, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ですが常に見張ってるわけでもないでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]ああ、それもそうだな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それより、何か話し方とか変わってない？"
+                                ""
                             ]
                         },
                         {
@@ -3703,31 +3679,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]受付の時と変わってると言うことですか？"
+                                "\\nw[Taro]Ah, that's right... But more importantly, has\nanything changed about the way you speak?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ボクはメイドですので、当然では？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]当たり前みたいに言われても困るんだが……"
+                                ""
                             ]
                         },
                         {
@@ -3744,7 +3703,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（何か声とか体格も変わってる気がするんだよな……）"
+                                "\\nw[Louis]Are you saying that I've changed since the\nreception? I am a maid, so it's only natural,\nisn't it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3761,7 +3727,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そう言えばルミって呼ばれてなかったか？"
+                                "\\nw[Taro]It's troublesome to be told as if it's natural..."
                             ]
                         },
                         {
@@ -3778,7 +3744,41 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]水の神殿の事については話しませんよ？"
+                                "\\nw[Taro](I feel like your voice and physique have changed\nsomehow...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Come to think of it, haven't you been called Rumi?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Louis]I won't talk about the Water Temple, you know?"
                             ]
                         },
                         {
@@ -3811,7 +3811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]いいだろ、呼び方くらい。"
+                                "\\nw[Taro]It's fine, just the way you address me."
                             ]
                         },
                         {
@@ -3868,21 +3868,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]そうですね。"
+                                "\\nw[Louis]Yes, that's right. However, I can see that there\nis something else you want to ask. Shall we get to\nthe main point?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ですが他に聞きたいことがあるようにお見受けいたします。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本題に入って頂いてよろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -3899,14 +3899,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……お前は色々お見通しだな……"
+                                "\\nw[Taro]......You seem to see through a lot of\nthings......Well, I guess it's good that you get\nto the point quickly......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まぁ、話が早くていいのかもしれないが……"
+                                ""
                             ]
                         },
                         {
@@ -3930,31 +3930,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]\\rb[<魔女>,ウィッチ]にプラエを診てもらいたいんだが、"
+                                "\\nw[Taro]I want to have Prae examined by a witch. Is there\nany way to do that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何か方法はないか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[ルイ]ボク以外に頼ってください。"
+                                ""
                             ]
                         },
                         {
@@ -3971,7 +3954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……！"
+                                "\\nw[Louis]Please rely on someone other than me."
                             ]
                         },
                         {
@@ -3988,7 +3971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]それはないってことか？"
+                                "\\nw[Taro]......!"
                             ]
                         },
                         {
@@ -4005,7 +3988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]伝手はございませんので。"
+                                "\\nw[Taro]So, that means it's not possible?"
                             ]
                         },
                         {
@@ -4022,7 +4005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そうか……顔が広いしもしかしたらと思ったんだが……"
+                                "\\nw[Louis]I don't have any connections, so..."
                             ]
                         },
                         {
@@ -4039,14 +4022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]自分で情報屋を雇っては如何でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボク以外にちゃんとした伝手を作っておくのは今後に繋がるでしょう。"
+                                "\\nw[Taro]I see... You have a wide network, so I thought\nmaybe you could help..."
                             ]
                         },
                         {
@@ -4063,7 +4039,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そうだな……わかった、感謝する。"
+                                "\\nw[Louis]How about hiring an information broker yourself?\nIt would be beneficial for the future to have\nreliable connections other than me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Yeah... I understand. Thank you."
                             ]
                         },
                         {
@@ -4101,7 +4101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]左様でございますか。"
+                                "\\nw[Louis]Is that so?"
                             ]
                         },
                         {
@@ -4186,7 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そう言えばあのフィーって奴は学生なのか？"
+                                "\\nw[Taro]By the way, is that person Fee a student?"
                             ]
                         },
                         {
@@ -4243,14 +4243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ルイ]あの服はボクのコスプレ衣装の一つですよ。"
+                                "\\nw[Louis]That outfit is one of my cosplay costumes. Since\nFee often breaks clothes, I often give her clothes\nas presents."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フィーはすぐ服を壊すのでよく服のプレゼントしてるんです。"
+                                ""
                             ]
                         },
                         {

@@ -3785,7 +3785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[盗賊１]おら、もっと締め付けるんだよ！"
+                                "\\nw[Thief 1]Hey, tighten it more!"
                             ]
                         },
                         {
@@ -3802,7 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女性]んぶっ、んんっ、んんっ……"
+                                "\\nw[Female]Mmm, ah, ah..."
                             ]
                         },
                         {
@@ -3819,7 +3819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[盗賊２]いいぞ、喉にそのままぶつけてやるからな！"
+                                "\\nw[Thief 2]Good, I'll ram it straight into your throat!"
                             ]
                         },
                         {
@@ -3892,7 +3892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]っ……！"
+                                "\\nw[Kuno]*gasp*...!"
                             ]
                         },
                         {
@@ -3909,7 +3909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あれは……"
+                                "\\nw[Taro]That is..."
                             ]
                         },
                         {
@@ -3966,14 +3966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]気持ちはわかるけど、集中して。"
+                                "\\nw[Nonna]I understand how you feel, but if you want to help\nher, you need to stay calm."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女を助けたいなら落ち着かないと駄目よ。"
+                                ""
                             ]
                         },
                         {
@@ -3990,14 +3990,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]う、うん……そうよね。"
+                                "\\nw[Kuno]U-uh... Y-yeah, you're right. I understand, I'll\ndo my best."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わかった、頑張る。"
+                                ""
                             ]
                         },
                         {
@@ -4054,21 +4054,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]奇襲するなら今がチャンスよね。"
+                                "\\nw[Kuno]If we're going to launch a surprise attack, now is\nthe chance, right? Everyone is focused on her, and\nit seems like they're not paying attention to us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "みんな彼女に注目していて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こちらを警戒している様子はないわ。"
+                                ""
                             ]
                         },
                         {
@@ -4125,14 +4125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]そうね、彼女の救出は私に任せて。"
+                                "\\nw[Nonna]I see, leave the rescue of her to me. I have a\nplan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手段があるから。"
+                                ""
                             ]
                         },
                         {
@@ -4189,38 +4189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]わかった。まずは準備をしよう。"
+                                "\\nw[Kuno]Understood. First, let's prepare. Once we're\nready, we'll storm in, subdue them, and rescue\nher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "準備ができたら突入して制圧、救出を行うわよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]ええ、わかったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一旦準備をしましょう。"
+                                ""
                             ]
                         },
                         {
@@ -4237,7 +4213,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]了解だ。"
+                                "\\nw[Nonna]Yes, I understand. Let's prepare for now."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Understood."
                             ]
                         },
                         {
@@ -4391,7 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]準備はいい？"
+                                "\\nw[Nonna]Are you ready?"
                             ]
                         },
                         {
@@ -4399,8 +4399,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4430,7 +4430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]行くわよ！"
+                                "\\nw[Nonna]Let's go!"
                             ]
                         },
                         {
@@ -4736,7 +4736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[盗賊１]うお、なんだ……！？"
+                                "\\nw[Thief 1]Whoa, what...!?"
                             ]
                         },
                         {
@@ -4753,7 +4753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[盗賊２]ぐあっ、やめろ！"
+                                "\\nw[Thief 2]Guah, stop it!"
                             ]
                         },
                         {
@@ -4770,7 +4770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[女性]んむっ？"
+                                "\\nw[Female]Hm?"
                             ]
                         },
                         {
@@ -4810,14 +4810,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[盗賊１]な……敵襲か！？"
+                                "\\nw[Thief 1]Wha... an enemy attack!? What the hell were you\ndoing on watch duty!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "見張りは何してやがる！？"
+                                ""
                             ]
                         },
                         {
@@ -4874,14 +4874,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]残念だけど眠っているわ。"
+                                "\\nw[Nonna]Unfortunately, you'll be sleeping. I'll have you\nall sleep here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "貴方達もここで眠って貰います。"
+                                ""
                             ]
                         },
                         {
@@ -4898,14 +4898,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[盗賊１]ちっ、仕方ねえ。"
+                                "\\nw[Thief 1]Tch, no choice. There's nowhere to run, so I'll\ntake you down!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "逃げ場もねえし、やっちまうぞ！"
+                                ""
                             ]
                         },
                         {
@@ -5248,7 +5248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]無力化完了ね。"
+                                "\\nw[Nonna]Power nullification complete."
                             ]
                         },
                         {
@@ -5305,7 +5305,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]あまり強くなかったわね"
+                                "\\nw[Kuno]You weren't very strong, were you?"
                             ]
                         },
                         {
@@ -5322,7 +5322,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]そうね、それよりも……"
+                                "\\nw[Nonna]Yes, but more importantly..."
                             ]
                         },
                         {
@@ -5538,14 +5538,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]もう大丈夫よ。"
+                                "\\nw[Nonna]It's okay now. You did well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "よく頑張ったわね。"
+                                ""
                             ]
                         },
                         {
@@ -5571,7 +5571,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]……大丈夫？"
+                                "\\nw[???]???... Are you okay?"
                             ]
                         },
                         {
@@ -5701,7 +5701,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]って、アンタは見ちゃ駄目よ！"
+                                "\\nw[Kuno]You shouldn't be looking!"
                             ]
                         },
                         {
@@ -5718,7 +5718,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]お、おう……"
+                                "\\nw[Taro]O-Okay..."
                             ]
                         },
                         {
@@ -5813,7 +5813,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]……誰？"
+                                "\\nw[???]???... Who are you?"
                             ]
                         },
                         {
@@ -5870,31 +5870,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]えっと、私達は傭兵をしているの。"
+                                "\\nw[Nonna]Um, we are mercenaries. We received a request and\ncame here to exterminate the thieves."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "依頼があって、ここの盗賊の退治に来たの。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[？？？]傭兵……？\\|ウカと一緒？"
+                                ""
                             ]
                         },
                         {
@@ -5911,14 +5894,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]ウカ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それが貴女の名前？"
+                                "\\nw[???]Mercenaries...? Together with Uka?"
                             ]
                         },
                         {
@@ -5935,7 +5911,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]う……ん？\\|ウカはウカ……"
+                                "\\nw[Nonna]Uka? Is that your name?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[???]Hmm... Uka is Uka..."
                             ]
                         },
                         {
@@ -6039,14 +6039,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]この子の相手は私がするから、"
+                                "\\nw[Nonna]I will take care of this child, so could the two\nof you restrain the incapacitated thieves and\ncontact the soldiers?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "二人は無力化した盗賊を拘束して兵士に連絡してくれる？"
+                                ""
                             ]
                         },
                         {
@@ -6103,14 +6103,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]わかったわ。"
+                                "\\nw[Kuno]I understand. Taro, leave it to me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "太郎、やるわよ。"
+                                ""
                             ]
                         },
                         {
@@ -6158,7 +6158,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ああ、わかった。"
+                                "\\nw[Taro]Ah, I understand."
                             ]
                         },
                         {
@@ -6187,14 +6187,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "盗賊達を拘束して外に運び出し、"
+                                "We restrained the thieves, carried them outside,\nand contacted the soldiers to take them away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "兵士に連絡をして盗賊達を連れて行って貰った。"
+                                ""
                             ]
                         },
                         {
@@ -6279,7 +6279,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]まずい、一旦引くぞ！"
+                                "\\nw[Taro]Uh-oh, let's retreat for now!"
                             ]
                         },
                         {
@@ -6337,14 +6337,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]はぁ……危なかったな……"
+                                "\\nw[Taro]Whew... That was close... They weren't very\nstrong, so I need to fight properly next time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あまり強くなかったし、ちゃんと戦わないとな。"
+                                ""
                             ]
                         },
                         {
@@ -6391,7 +6391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]じゃあ、準備を整えましょう。"
+                                "\\nw[Nonna]Well then, let's get prepared."
                             ]
                         },
                         {

@@ -6786,7 +6786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]今回の仕事は盗賊団の捕縛補助ね。"
+                                "\\nw[Kuno]This time, I'll assist in capturing the thief\ngang."
                             ]
                         },
                         {
@@ -6803,38 +6803,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]大規模な捕縛作戦で、人数が必要らしいのよね。"
+                                "\\nw[Kuno]It seems that they need a large-scale capture\noperation and require a certain number of people.\nSince the other units will be conducting the raid,\nwe will be waiting at a specific location as part\nof the encirclement. When the thieves come\nrunning, we will capture them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "突入は他の部隊がするから、アタシ達は包囲網の一角として"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とある地点で待機して、盗賊が逃げてきたら捕縛すると。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ああ、待機地点はここの北だったな。"
+                                ""
                             ]
                         },
                         {
@@ -6851,14 +6834,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ええそうね。"
+                                "\\nw[Taro]Ah, the waiting point is to the north of here."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ行くわよ。"
+                                "\\nw[Kuno]Yes, that's right. Well then, let's go."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7051,7 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は北へと向かおう。"
+                                "Let's head north for now."
                             ]
                         },
                         {
@@ -7159,7 +7159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は北へと向かおう。"
+                                "Let's head north for now."
                             ]
                         },
                         {

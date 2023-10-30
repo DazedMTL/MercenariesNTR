@@ -3641,14 +3641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は戻っている場合ではない"
+                                "Now is not the time to go back, let's head east."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "東へいこう"
+                                ""
                             ]
                         },
                         {
@@ -3796,14 +3796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]この地点で待機ね。"
+                                "\\nw[Kuno]Wait at this point. We still have some time until\nthe scheduled time, but what should we do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "予定時刻まで時間があるけど、どうする？"
+                                ""
                             ]
                         },
                         {
@@ -3811,8 +3811,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ここで待つ",
-                                    "まだうろつく"
+                                    "Wait here",
+                                    "Let's wander around"
                                 ],
                                 1,
                                 0,
@@ -3842,7 +3842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]じゃあ、ゆっくりしよっか。"
+                                "\\nw[Kuno]Well then, let's take it easy."
                             ]
                         },
                         {
@@ -4002,31 +4002,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]結婚かぁ……"
+                                "\\nw[Kuno]Marriage, huh... Hehe, there have been various\nthings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふ、色々あったわね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]そんなに急がなくてもいいとは思うんだけどな。"
+                                ""
                             ]
                         },
                         {
@@ -4043,14 +4026,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ちゃんと話したでしょ。"
+                                "\\nw[Taro]I don't think we need to rush that much."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう決めたんだからそれは言わない約束。"
+                                "\\nw[Kuno]We talked about it properly, didn't we? We've\nalready made a decision, so let's not bring that\nup, okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4107,14 +4107,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]アタシの親や太郎の親みたいに、"
+                                "\\nw[Kuno]Just like my parents and Taro's parents, we don't\nknow what might happen..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何があるかわからないんだから……"
+                                ""
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そうだな……"
+                                "\\nw[Taro]Yeah..."
                             ]
                         },
                         {
@@ -4173,14 +4173,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（まだ時間もあるし、せっかくだから"
+                                "\\nw[Taro](We still have some time, so how about we do\nsomething romantic as a couple...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何か恋人らしいことでもしようか……？）"
+                                ""
                             ]
                         },
                         {
@@ -4188,8 +4188,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "キスをする",
-                                    "やめておく"
+                                    "Kiss",
+                                    "Let's not do it"
                                 ],
                                 1,
                                 0,
@@ -4250,7 +4250,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -4338,7 +4338,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]どうしたの？"
+                                "\\nw[Kuno]What's wrong?"
                             ]
                         },
                         {
@@ -4355,7 +4355,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ああ、えっとだな……"
+                                "\\nw[Taro]Ah, um..."
                             ]
                         },
                         {
@@ -4372,7 +4372,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]うん？"
+                                "\\nw[Kuno]Huh?"
                             ]
                         },
                         {
@@ -4389,7 +4389,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -4406,31 +4406,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（駄目だ、そんな雰囲気でもないし、"
+                                "\\nw[Taro](No, this isn't the right atmosphere, and it would\nbe weird to suddenly kiss...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "突然キスするのも変だろ……）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]いや……何でもない"
+                                ""
                             ]
                         },
                         {
@@ -4447,21 +4430,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]そう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "予定より早く始まるかもしれないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ちゃんと見張ってないとね。"
+                                "\\nw[Taro]No... It's nothing."
                             ]
                         },
                         {
@@ -4478,7 +4447,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ああ、そうだな。"
+                                "\\nw[Kuno]Is that so? It might start earlier than planned,\nso we have to keep a close watch."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Yeah, that's right."
                             ]
                         },
                         {
@@ -4577,14 +4577,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（そもそも今まで恋人らしいこと"
+                                "\\nw[Taro](To begin with, we've never really done anything\ncouple-like until now...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "したことないしな……）"
+                                ""
                             ]
                         },
                         {
@@ -4769,31 +4769,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]戦闘音がするわ……"
+                                "\\nw[Kuno]I hear the sounds of battle... It seems like it\nhas begun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "始まったようね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]ここに逃げてくる人がいないか見張るわよ。"
+                                ""
                             ]
                         },
                         {
@@ -4810,7 +4793,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ああ、わかった。"
+                                "\\nw[Kuno]I'll keep watch to see if anyone comes running\nhere."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Ah, I understand."
                             ]
                         },
                         {
@@ -5045,7 +5045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]何も来ないうちに音がしなくなったわね……"
+                                "\\nw[Kuno]The sounds stopped before anything came..."
                             ]
                         },
                         {
@@ -5062,14 +5062,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]まぁ、そういうこともあるだろう。"
+                                "\\nw[Taro]Well, I guess that's how it goes. We have to stay\nalert until we receive confirmation that the\noperation is over."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "作戦終了の連絡があるまでは気を抜かないようにしないとな。"
+                                ""
                             ]
                         },
                         {
@@ -5086,7 +5086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そうね、油断すると……"
+                                "\\nw[Kuno]Yes, if we let our guard down..."
                             ]
                         },
                         {
@@ -5180,7 +5180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]何、この大きな声は……"
+                                "\\nw[Kuno]What is this loud voice..."
                             ]
                         },
                         {
@@ -5197,7 +5197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]おい、アレみろ！"
+                                "\\nw[Taro]Hey, look at that!"
                             ]
                         },
                         {
@@ -5214,14 +5214,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]アレ？"
+                                "\\nw[Kuno]Huh?......!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……！？"
+                                ""
                             ]
                         },
                         {
@@ -5282,7 +5282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そう、わかったわ。"
+                                "\\nw[Kuno]Yes, I understand."
                             ]
                         },
                         {
@@ -5441,14 +5441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]何でこんな場所に……？"
+                                "\\nw[Taro]Why am I in a place like this...? Aegis refers to\nthe strongest ten soldiers of the Misura Kingdom,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イージスってのはミスラ国の最強の１０人の兵士のことだろ。"
+                                ""
                             ]
                         },
                         {
@@ -5465,14 +5465,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ここはディオスとミスラの国境近くとはいえ、"
+                                "\\nw[Taro]Even though we're near the border between Dios and\nMisura, there's no reason for thieves from the\nDios side to come out..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ディオス側の盗賊退治で出てくるわけがない……。"
+                                ""
                             ]
                         },
                         {
@@ -5538,14 +5538,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そんなことどうでもいいわよ！"
+                                "\\nw[Kuno]I don't care about that!... I will never forgive\nyou!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……絶対に許さない！"
+                                ""
                             ]
                         },
                         {
@@ -5578,7 +5578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、そうだな。"
+                                "\\nw[Taro]Ah, I see."
                             ]
                         },
                         {
@@ -5595,14 +5595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]行くぞ、クノ！"
+                                "\\nw[Taro]Let's go, Kuno! It seems like we can go from the\neast!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "東から行けそうだ！"
+                                ""
                             ]
                         },
                         {
@@ -5659,7 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ええ！"
+                                "\\nw[Kuno]Eh!"
                             ]
                         },
                         {
@@ -5782,14 +5782,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目的地はここだ、"
+                                "This is our destination. If we go further, we\nmight be found by thieves, so let's stop here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここより進むと盗賊に見つかるかもしれないのでやめておこう。"
+                                ""
                             ]
                         },
                         {

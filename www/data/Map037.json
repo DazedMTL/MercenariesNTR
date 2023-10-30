@@ -2364,7 +2364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]いないな……"
+                                "\\nw[Dalton]He's not here..."
                             ]
                         },
                         {
@@ -2381,38 +2381,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]そう言えば子供に気に入られてたな。"
+                                "\\nw[Huma]Come to think of it, I was quite popular with the\nchildren. Maybe they went to play at your house."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そっちの家に遊びに行ったのかもしれないな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]ふぅ……仕方ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "適当に女を探すしかないか。"
+                                ""
                             ]
                         },
                         {
@@ -2429,7 +2405,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]ああ、今から見つかればいいんだけどな～"
+                                "\\nw[Dalton]*sigh*... I guess I have no choice. I'll just have\nto find a woman randomly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Ah, I wish I could find them right now~"
                             ]
                         },
                         {
@@ -2505,7 +2505,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N[\\V[508]]が\\N[\\V[506]]と\\N[\\V[507]]に夜這いされた。"
+                                "Fross was snuck into by Kuno and Nonna at night."
                             ]
                         },
                         {
@@ -2532,7 +2532,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N[\\V[518]]が\\N[\\V[516]]と\\N[\\V[517]]に夜這いされた。"
+                                "\\N[\\V[518]] was snuck into by \\N[\\V[516]] and\n\\N[\\V[517]] at night."
                             ]
                         },
                         {
@@ -2665,21 +2665,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nabilities of a succubus. (This enhancement state\nwill be lifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -2747,14 +2747,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Huma]ほらほら、はやく着替えないと"
+                                "\\nw[Huma]Come on, come on, you need to change quickly or\nwe'll miss the optimal time for monster hunting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "魔物討伐に適した時間からずれちゃうよ。"
+                                ""
                             ]
                         },
                         {
@@ -2807,7 +2807,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]さっきまでアンタが押さえつけて中出ししてたからでしょ！"
+                                "\\nw[Kuno]You were holding me down and cumming inside me\njust a moment ago, weren't you!"
                             ]
                         },
                         {
@@ -2824,14 +2824,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Huma]魔物討伐前にいい準備運動になっただろ～？"
+                                "\\nw[Huma]It was a good warm-up exercise before monster\nhunting, right? And you were the one begging for a\ncreampie, weren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それに中出ししてッておねだりしてきたのはそっちだろ～"
+                                ""
                             ]
                         },
                         {
@@ -2877,14 +2877,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]言うまでずっと続けてくるからよ……"
+                                "\\nw[Kuno]I'll keep going until you say it... Wait, now is\nnot the time for that. We need to hurry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "って、言ってる場合じゃないわね。急がないと……"
+                                ""
                             ]
                         },
                         {
@@ -2901,7 +2901,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]う～……身体洗う時間もないじゃない"
+                                "\\nw[Kuno]Ugh... I don't even have time to wash my body."
                             ]
                         },
                         {
@@ -3091,7 +3091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[\\V[508]]が\\N[\\V[506]]と\\N[\\V[507]]に夜這いされた。"
+                                "Fross was snuck into by Kuno and Nonna at night."
                             ]
                         },
                         {
@@ -3186,21 +3186,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted by conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -3286,14 +3286,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Huma]すごく気持ちよさそうにしてたね～。"
+                                "\\nw[Huma]You looked really pleasured. Have you started to\nlike c*cks too?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ち〇ぽも好きになってきたんじゃない？"
+                                ""
                             ]
                         },
                         {
@@ -3346,7 +3346,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]バカ、わざわざ言わないでよ。"
+                                "\\nw[Kuno]Idiot, don't say unnecessary things."
                             ]
                         },
                         {
@@ -3363,14 +3363,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Huma]ナチュラルに中出しおねだりしてきたもんな～。"
+                                "\\nw[Huma]You naturally started begging for a creampie,\nhuh~. Did you realize the goodness of c*cks after\nbeing trained by Rodrigo~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ロドリゴに調教されてち〇ぽの良さに気づいちゃったか～"
+                                ""
                             ]
                         },
                         {
@@ -3416,38 +3416,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]べ、別にいいでしょ何でも。"
+                                "\\nw[Kuno]W-Well, it's not like I mind anything. I never\nsaid I didn't want to."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "嫌だなんて言ってないんだから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]まぁその……よかったわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "次も期待してるから……"
+                                ""
                             ]
                         },
                         {
@@ -3464,7 +3440,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Huma]わかったよ、きっちり次も浮気ち〇ぽで可愛がってあげるよ～。"
+                                "\\nw[Kuno]Well, um... thank goodness. I'm looking forward to\nthe next time too..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Huma]Alright, I got it. Next time, I'll take good care\nof you with my cheating c*ck~."
                             ]
                         },
                         {
@@ -3654,7 +3654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[\\V[509]]が\\N[\\V[506]]と\\N[\\V[507]]と\\N[\\V[508]]に夜這いされた。"
+                                "\\N[\\V[509]] was snuck into by \\N[\\V[506]],\n\\N[\\V[507]], and \\N[\\V[508]] at night."
                             ]
                         },
                         {
@@ -3749,21 +3749,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -3881,38 +3881,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ん～、すごく良かった♪"
+                                "\\nw[Kuno]Mmm, that was really good♪ Thank you, Dalton,\nYellow, Rodrigo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうね、ドルトン、イエロー、ロドリゴ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]いやいや、こっちも良かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すっかりえっちが好きになったね。"
+                                ""
                             ]
                         },
                         {
@@ -3929,38 +3905,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]来たばっかりの頃は嫌がってたのにな。"
+                                "\\nw[Huma]No, no, I enjoyed it too. I've completely come to\nlike ecchi things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もうすっかりハマってるな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]もう、当たり前でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "同じ傭兵団の仲間なんだから、嫌なわけないわよ。"
+                                ""
                             ]
                         },
                         {
@@ -3977,38 +3929,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]それに魔力も発生して一時的に強くなれるし、"
+                                "\\nw[Dalton]Even though you used to dislike it when you first\ncame, now you're completely hooked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいことしかないわよね？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]まぁね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもいいのかな？団長が気にしちゃうんじゃない？"
+                                ""
                             ]
                         },
                         {
@@ -4025,38 +3953,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]人選は太郎がしてるんだから望むところでしょ。"
+                                "\\nw[Kuno]Well, isn't it obvious? We're comrades in the same\nmercenary group, so there's no reason to dislike\neach other."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "きっとアタシが浮気えっちして来るのを楽しみにしてるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]だから３人とも、帰ったら妊娠報告できるように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "暇なときに一杯精液注いでね♪"
+                                ""
                             ]
                         },
                         {
@@ -4073,14 +3977,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]仕方がないな～。"
+                                "\\nw[Kuno]Besides, it generates magical power and\ntemporarily makes me stronger. There's nothing but\ngood things about it, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "クノが頼んできたから、仕方なく手伝ってあげるよ。"
+                                ""
                             ]
                         },
                         {
@@ -4097,7 +4001,103 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ふふっ、ありがと♪"
+                                "\\nw[Huma]Well, I guess so. But is it really okay? I'm\nworried that the captain might mind."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Since Taro is the one making the selection, it's\nonly natural to have high expectations. I'm sure\nhe's looking forward to me engaging in some\nnaughty affairs."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]So, make sure to fill me up with your semen\nwhenever you have free time, so that all three of\nus can announce our pregnancies when we go back\nhome♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Well, I guess there's no helping it. Since Kuno\nasked for my help, I'll reluctantly lend a hand."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Hehe, thank you♪"
                             ]
                         },
                         {
@@ -4307,7 +4307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[508]]が\\N[\\V[506]]と\\N[\\V[507]]に夜這いされた。"
+                                "Fross was snuck into by Kuno and Nonna at night."
                             ]
                         },
                         {
@@ -4402,21 +4402,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted by conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -4484,21 +4484,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「クノ×ドルトン+イエロー、派遣先で」"
+                                "This is an event that Kuno, Dalton, and Yellow\nhave seen before at their assignment location.\nWould you like to skip the event?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一度見たことのあるイベントです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -4506,8 +4506,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -4605,7 +4605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]やぁやぁ、抱きに来たよ我が妻よ～"
+                                "\\nw[Huma]Hey there, I've come to embrace you, my wife~"
                             ]
                         },
                         {
@@ -4622,31 +4622,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]すごい胡散臭い話し方よね。"
+                                "\\nw[Kuno]Your way of speaking is really suspicious. With\nthat, it's not going to be exciting, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それじゃあさすがに盛り上がらないんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]やれやれ、もうちょっと乗っかってくれてもいいのにね～"
+                                ""
                             ]
                         },
                         {
@@ -4663,14 +4646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]まぁいいや、クエストで出かけたんだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夫婦ってことにしたんだから、気持ちよくなろうか。"
+                                "\\nw[Huma]Oh my, it would be nice if you could ride a little\nlonger~"
                             ]
                         },
                         {
@@ -4687,14 +4663,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]わかってるわよ。"
+                                "\\nw[Huma]Well, since we went on a quest, let's just say\nwe're a married couple and enjoy ourselves."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちゃんと準備はしてたんだから。"
+                                ""
                             ]
                         },
                         {
@@ -4711,7 +4687,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]明日のためにも、今夜は寝かさないわよ"
+                                "\\nw[Kuno]I know, okay? I made sure to prepare properly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]I won't let you sleep tonight, even for the sake\nof tomorrow."
                             ]
                         },
                         {
@@ -4798,31 +4798,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クノは裸でドルトンとイエロー挟まれていた。"
+                                "Kuno was sandwiched between Dalton and Yellow\nwhile naked. The sound of skin against skin\nresonated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "肌と肌がぶつかり合う音が響いている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]あっ……二人がかりなんて……んんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -4839,14 +4822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]妻の好みに合わせただけだよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "複数のち〇ぽで犯されるのは好きだろ？"
+                                "\\nw[Kuno]Ah... Being ganged up on by two people... Mmmh♥"
                             ]
                         },
                         {
@@ -4863,7 +4839,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]好きだけど……んっ、んあっ♥"
+                                "\\nw[Huma]I just followed my wife's preferences~. You like\nbeing violated by multiple c*cks, don't you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4880,14 +4863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]協力するって言っただろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "快感に弱いのだから、このまま犯してやる。"
+                                "\\nw[Kuno]I like it but... ngh, ah♥"
                             ]
                         },
                         {
@@ -4904,31 +4880,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んんっ♥ふぁぁ……♥"
+                                "\\nw[Dalton]I told you to cooperate. Since you're weak to\npleasure, I'll just go ahead and violate you."
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イエローのペニスがクノの膣をゆっくりと出入りしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "更にドルトンのペニスもクノの顔の近くにある。"
+                                ""
                             ]
                         },
                         {
@@ -4945,31 +4904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]ほらほら、これが好きなんだろ～？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]うんっ、おち〇ぽ好きぃ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あっ……あんっ♥"
+                                "\\nw[Kuno]Nnn♥ Faaah......♥"
                             ]
                         },
                         {
@@ -4986,38 +4921,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クノはイエローの抽送でとろんとした表情になっている。"
+                                "Yellow's penis is slowly entering and exiting\nKuno's vagina. Additionally, Dalton's penis is\nnear Kuno's face."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ゆっくりした動きでも十分感じているのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]ホントち〇ぽ好きになったよな～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "来た当初の態度が懐かしいよ。"
+                                ""
                             ]
                         },
                         {
@@ -5034,14 +4945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]仕方ないでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここに来た時は経験なかったんだからっ、あっ、あんっ♥"
+                                "\\nw[Huma]Come on, come on, this is what you like, right~?"
                             ]
                         },
                         {
@@ -5058,89 +4962,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]それにみんながちゃんと教えてくれたからでしょ、んっ、あんっ♥"
+                                "\\nw[Kuno]Mmm, I love c*cks...♥ Ah... Ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おち〇ぽが気持ちいいって……あっ、あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]いやー、確かにオレ達の教育の成果でもあるか～"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]これも好きだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほら、咥えていいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]あっ……あむっ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]ちゅるっ、じゅるっ……んんっ♥ちゅぱっ……"
+                                ""
                             ]
                         },
                         {
@@ -5157,21 +4986,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クノは愛おしそうにドルトンのペニスを舐め始めた。"
+                                "Kuno's expression becomes soft and melted under\nYellow's thrusts. It seems that even with the slow\nmovements, she is feeling plenty."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "既にペニスが好きにあっているクノには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "舐めることもご褒美だ。"
+                                ""
                             ]
                         },
                         {
@@ -5188,7 +5010,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]美味し……んむっ、ちゅるっ、ちゅるる……"
+                                "\\nw[Huma]You've really become a fan of c*cks, huh~. I miss\nyour attitude when you first arrived."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5205,7 +5034,178 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]ほらほら、これから激しくしてくぞ～"
+                                "\\nw[Kuno]It can't be helped. I didn't have any experience\nwhen I came here, so... ah, ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]And everyone taught me properly, so... ngh, ah♥ It\nfeels good... ah, ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Well, it's definitely the result of our education~"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]You like this too, right? Come on, you can suck\nit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Ah... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]*sucking sounds* Mmm... *slurping sounds* Ahh♥\n*sucking sound*"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Kuno lovingly began to lick Dalton's penis. For\nKuno, who already loves penises, licking is also a\nreward."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Delicious... *munching sounds* slurp, slurp..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Here we go, it's going to get intense now~"
                             ]
                         },
                         {
@@ -5257,31 +5257,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んぶっ……！"
+                                "\\nw[Kuno]Mmm...! Nnn, ah, I love this♥ Ah, aah, ahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "んんっ、あっ、これ好きっ♥あっ、ああっ、あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]ほら、ちゃんと舐めないと駄目だろ"
+                                ""
                             ]
                         },
                         {
@@ -5298,14 +5281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ちゅるっ、ちゅるるっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んんっ♥んっ♥んむっ♥"
+                                "\\nw[Dalton]Come on, you have to lick it properly."
                             ]
                         },
                         {
@@ -5322,14 +5298,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]すごっ♥んんっ♥ちゅるっ♥んちゅっ♥"
+                                "\\nw[Kuno]*sucking sounds* Mmm... *slurping sounds* Ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちゅるる……♥んんっ♥んむっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5338,7 +5314,7 @@
                             "parameters": [
                                 "",
                                 0,
-                                1,
+                                0,
                                 2
                             ]
                         },
@@ -5346,14 +5322,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "激しい抽送にクノの快感がどんどん強くなっている。"
+                                "\\nw[Kuno]Wow♥nnn♥chuuru♥nchu♥chuururu......♥nnn♥ngu♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "声がどんどん甘く切羽詰まったものへと変わっているのだ。"
+                                ""
                             ]
                         },
                         {
@@ -5370,161 +5346,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その影響で膣の締りが良くなり、イエローもどんどん射精感が高まっていく。"
+                                "Kuno's pleasure is intensifying with each vigorous\nthrust. Her voice is gradually becoming sweeter\nand more desperate."
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]お～、やっぱり悦んでるね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ち〇ぽを刺激して、そんなに孕ませてほしいんだ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]んんっ♥うんっ♥好きっ♥あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中出ししてっ♥ちゅるっ、ちゅぱっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]アタシにイエローの子供を孕ませてっ♥あんっ♥ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アタシのおま〇こを満たしてっ♥ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]こっちはどうなんだ？んん？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]うんっ、出して……♥ちゅるっ、ちゅるる……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "濃厚ザーメンアタシに飲ませてっ♥ちゅるるっ、ちゅるるる……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]そうかそうか、そんなに欲しいか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それじゃあ望み通りにしてやらないとな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]ああ、こっちも激しくするぞ！"
+                                ""
                             ]
                         },
                         {
@@ -5541,14 +5370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "二人の腰の動きが更に力強くなった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激しい性交が大好きなクノの身体は更に高まっていく。"
+                                "As a result, her vaginal tightness improves, and\nYellow's sense of ejaculation also continues to\nincrease."
                             ]
                         },
                         {
@@ -5565,38 +5387,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]しゅごっ♥ちゅるるっ♥ちゅるっ♥ちゅぱっ♥"
+                                "\\nw[Huma]Oh~ You're really enjoying this, aren't you? Do\nyou want me to stimulate your c*ck and impregnate\nyou that much?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "じゅるるっ♥ちゅるる……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]イっちゃっ♥んんっ♥んむっ、ちゅむっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んんんっ♥んふっ♥んっ♥んんんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5613,38 +5411,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]あ～、いいよいいよ～！"
+                                "\\nw[Kuno]Nnn♥ Yes♥ I love it♥ Ah, aahn♥ Please cum inside\nme♥ *slurping sounds* Churu, chupa♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "腰もしっかりタイミングを合わせて、良い感じだ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]こっちもだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良い口の使い方だぞ。"
+                                ""
                             ]
                         },
                         {
@@ -5661,31 +5435,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んんっ♥んむっ♥んんっ♥んっ♥ちゅるるっ♥"
+                                "\\nw[Kuno]Impregnate me with Yellow's child♥ Ahn♥ Aahh♥ Fill\nmy pussy♥ Ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "きてっ♥アタシにたっぷり出して♥あっ♥んんんんんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]いいよ、望み通りに……！"
+                                ""
                             ]
                         },
                         {
@@ -5702,7 +5459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ああ、合わせるぞ……！"
+                                "\\nw[Dalton]How about this side? Hmmm?"
                             ]
                         },
                         {
@@ -5719,14 +5476,257 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んむぅぅ♥ちゅるる♥んちゅっ♥"
+                                "\\nw[Kuno]Yes, release it...♥ Slurp, slurp...♥ Give me your\nthick, creamy semen to drink♥ Slurp, slurp...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "んんっ♥んっ♥んんっ♥んんんんんんん～～～♥♥♥♥♥"
+                                "\\nw[Dalton]I see, I see. You want it that badly, huh? Well\nthen, I'll have to give you exactly what you\ndesire."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Ah, I'll intensify it on this side too!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "The movements of their hips became even stronger.\nKuno, who loves intense sexual intercourse, feels\nher body becoming even more heightened."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Shugo♥ Chururu♥ Chururu♥ Chupa♥ Jururu♥\nChururu......♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]I'm cumming♥ Ahh♥ Mmm, it feels so good♥ Ahh♥ Ahh♥\nAhh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Ah~ It's good, it's good~! Our hips are moving in\nsync, and it feels great!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Me too. You have a good way with your mouth."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Nnn♥ Nghh♥ Nnn♥ Nn♥ Slurp slurp♥ Come inside me♥\nAhh♥ Nnnnnn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Alright, just as you wish...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Ah, let's synchronize...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Nmmuuu♥ Chururu♥ Nchutt♥ Nnnn♥ Nn♥ Nnn♥\nNnnnnnnnnn～～～♥♥♥♥♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5863,38 +5863,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男達はクノに向かってたっぷりと精液を吐き出した。"
+                                "The men ejaculated plenty of semen towards Kuno.\nIn response, Kuno trembled and reached climax."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それを受けてクノはビクビクと震えて絶頂を迎えている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]んっ……………♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んむっ………………んんんっ………………♥"
+                                ""
                             ]
                         },
                         {
@@ -5911,7 +5887,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ほら、ちゃんと飲むんだ。"
+                                "\\nw[Kuno]Nn...............♥\nNmuhh..................Nnnnhh.................♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Come on, drink it properly."
                             ]
                         },
                         {
@@ -5928,31 +5928,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドルトンはクノの頭を掴んで喉奥にペニスを押し付けた状態にしている。"
+                                "Dalton is holding Kuno's head and pushing his\npenis deep into her throat. He continues to make\nher swallow his semen just like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そのまま精液を飲ませていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]んくっ……んぐっ、んくっ、んくっ、んくっ……♥"
+                                ""
                             ]
                         },
                         {
@@ -5969,7 +5952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]おお～、精液で感じるのか膣が良い感じに締め付けてくるな。"
+                                "\\nw[Kuno]Nnkuu... Nguu, nkuu, nkuu, nkuu...♥"
                             ]
                         },
                         {
@@ -5986,7 +5969,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]んっ、んくっ……んんっ……♥"
+                                "\\nw[Huma]Oh~ Your vagina tightens so nicely when it's\nfilled with semen and it feels good."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Nn... Nkuu... Nnn... ♥"
                             ]
                         },
                         {
@@ -6026,31 +6026,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クノが精液を飲み下したことでドルトンの手がクノの頭から離れる。"
+                                "Dalton's hand released from Kuno's head as she\nswallowed the semen. In response, Yellow also\nstopped moving."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それにイエローの方も動きを止めていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]はぁ……んんんっ……はぁ……♥"
+                                ""
                             ]
                         },
                         {
@@ -6067,7 +6050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]気持ちよかっただろ？"
+                                "\\nw[Kuno]Haa...nnn...haa...♥"
                             ]
                         },
                         {
@@ -6084,7 +6067,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]うん……よかった……んんっ♥"
+                                "\\nw[Huma]It felt good, didn't it?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Yes... thank goodness... mmmh♥"
                             ]
                         },
                         {
@@ -6106,31 +6106,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "３人とも力を抜いてまったりとし始めた。"
+                                "The three of them started to relax and unwind.\nThey must be taking a break after releasing once."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一回出したので休憩してるのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]しかし夫婦ってことになったのに、普段と変わらなすぎじゃね？"
+                                ""
                             ]
                         },
                         {
@@ -6147,21 +6130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そうは言っても……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう言うことにしようってだけの話で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か違和感あるからそういう態度になるのは難しいわよ。"
+                                "\\nw[Huma]But even though we became a married couple, isn't\nit too similar to how things usually are?"
                             ]
                         },
                         {
@@ -6178,7 +6147,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]困ったものだな～"
+                                "\\nw[Kuno]Even if you say that... It's difficult to adopt\nthat attitude just because we decide to. It feels\nstrange, so it's hard to act that way."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6195,14 +6178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]だったら普段から夫婦生活をしてみたらいいだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それで何か変わるかもしれないしな。"
+                                "\\nw[Huma]What a troublesome situation~"
                             ]
                         },
                         {
@@ -6219,7 +6195,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]それもそうだね、そうしようか。"
+                                "\\nw[Dalton]Well then, why don't you try living as a married\ncouple in your daily life? Maybe something might\nchange."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6236,7 +6219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]普段からって……？"
+                                "\\nw[Huma]That's true, let's do that."
                             ]
                         },
                         {
@@ -6253,7 +6236,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]じゃあ、帰ってからは……"
+                                "\\nw[Kuno]In our everyday lives...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Well then, after we go back home..."
                             ]
                         },
                         {
@@ -6415,21 +6415,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted under conditions such as being\nincapacitated in battle, fully recovering through\nrest, or the passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {

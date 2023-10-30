@@ -2203,21 +2203,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "序章、１章をスキップしますか？"
+                                "Do you want to skip the prologue and Chapter 1?\n(It is recommended to watch it at least once,\nincluding the tutorial. Also, there is an erotic\nevent at the end of Chapter 1)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（チュートリアルも含むため一度は見ておくことをお勧めします"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また、１章の終わりにエロイベントがあります）"
+                                ""
                             ]
                         },
                         {
@@ -2242,9 +2242,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "スキップしない",
-                                    "スキップする（クノを抱く）",
-                                    "スキップする（クノを抱かない）"
+                                    "Don't skip",
+                                    "Skip (Embrace Kuno)",
+                                    "Skip (Don't sleep with Kuno)"
                                 ],
                                 -1,
                                 0,

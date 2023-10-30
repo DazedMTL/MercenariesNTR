@@ -13248,7 +13248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]プロペ森林……場所はここであってるわ"
+                                "\\nw[Nonna]The Prope Forest... the location is here, right?"
                             ]
                         },
                         {
@@ -13265,45 +13265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]目的の素材は……「爆笑キノコ」って言うのね。"
+                                "\\nw[Nonna]The desired material is... called Bakushou Kinoko,\nhuh? Just from the name, it feels poisonous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "名前からして毒っぽい気がするわ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ツマミにするって言ってたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも風俗店ってどんな店なんだろうな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ツマミが必要なのか？"
+                                ""
                             ]
                         },
                         {
@@ -13320,14 +13289,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]２階の店はみたことあるわ。"
+                                "\\nw[Taro]She said it's for a tsukkomi, but what kind of\nshop is a fuzoku ten anyway? Is a tsukkomi\nnecessary?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも、酒場のような場所だと思ったわ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13344,14 +13320,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ふむ……まぁ、それは後で聞くか。"
+                                "\\nw[Nonna]I've seen the second floor shop before. But I\nthought it would be more like a tavern."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それより今はウカの力の確認だな。"
+                                "\\nw[Taro]Hmmm... well, I'll ask about that later. For now,\nlet's confirm Uka's power."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13408,7 +13408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]ん……任せて……"
+                                "\\nw[Uka]Hmm... Leave it to me..."
                             ]
                         },
                         {
@@ -13472,7 +13472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]魔物もいるみたいだし、倒しながら探しましょ。"
+                                "\\nw[Kuno]It seems like there are monsters too, so let's\ndefeat them while searching."
                             ]
                         },
                         {
@@ -13809,14 +13809,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ウカはすごいかも……"
+                                "\\nw[Kuno]Uka might be amazing... What do you two think?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "二人はどう思う？"
+                                ""
                             ]
                         },
                         {
@@ -13873,14 +13873,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]私もいい動きだと思うわ。"
+                                "\\nw[Nonna]I also think it's a good move. Even though she's\nstill young, she seems experienced."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まだ若いのに、経験豊富に見えるわね。"
+                                ""
                             ]
                         },
                         {
@@ -13897,14 +13897,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そうだな、"
+                                "\\nw[Taro]Yeah, I feel like she's more capable than me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ってかオレより動けてる気がする。"
+                                ""
                             ]
                         },
                         {
@@ -13968,7 +13968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]ん……ウカ、合格？"
+                                "\\nw[Uka]Hmm... Uka, did I pass?"
                             ]
                         },
                         {
@@ -13985,14 +13985,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]だな。"
+                                "\\nw[Taro]Yeah. I'm counting on you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よろしく頼む。"
+                                ""
                             ]
                         },
                         {
@@ -14049,7 +14049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]ん……やた。"
+                                "\\nw[Uka]Hmm... Yata."
                             ]
                         },
                         {
@@ -14113,31 +14113,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ウカの方はいいんだけど……"
+                                "\\nw[Kuno]Uka is fine, but... is it okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちょっといい？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]ん？"
+                                ""
                             ]
                         },
                         {
@@ -14154,21 +14137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ノンナのこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アタシ達に動きを合わせてるのかとも思ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなこともなさそうだし……"
+                                "\\nw[Taro]Huh?"
                             ]
                         },
                         {
@@ -14185,21 +14154,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]駆け出しのアタシと太郎と違って"
+                                "\\nw[Kuno]I thought Nonna was trying to coordinate with us,\nbut it doesn't seem like that's the case..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ノンナはアタシ達よりずっと強かった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なのに今の動きはおかしいよ。"
+                                ""
                             ]
                         },
                         {
@@ -14216,14 +14185,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]怪我が完治してないの？"
+                                "\\nw[Kuno]Unlike us beginners, Nonna was much stronger than\nus. Yet her current actions are strange."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それなら無理しない方が……"
+                                "\\nw[Kuno]Haven't your injuries fully healed? If that's the\ncase, it might be better not to push yourself..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14287,31 +14287,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]えっと……大丈夫よ？"
+                                "\\nw[Nonna]Um... Are you okay? Your injuries have already\nhealed, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "怪我はもう治ってるから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]じゃあ、どうして？"
+                                ""
                             ]
                         },
                         {
@@ -14328,7 +14311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]……黙っている方が心配させそうね……"
+                                "\\nw[Kuno]Well, then why?"
                             ]
                         },
                         {
@@ -14345,7 +14328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]……魔術があまり使えなくなったの"
+                                "\\nw[Nonna]...It's worrying when you stay silent..."
                             ]
                         },
                         {
@@ -14362,7 +14345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]えっ……どうして……？"
+                                "\\nw[Nonna]......I've become unable to use magic very well."
                             ]
                         },
                         {
@@ -14379,14 +14362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ちょっと無理しすぎちゃったから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たぶん魂の方が傷ついちゃったんだと思う。"
+                                "\\nw[Kuno]Huh... Why...?"
                             ]
                         },
                         {
@@ -14403,21 +14379,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]魂の治療は高位の魔術士でも困難だから、"
+                                "\\nw[Nonna]I think I pushed myself a little too hard... so\nmaybe my soul got hurt."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プラエさんもさすがに難しいと思うの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから自然回復を待ってみようと思ってるわ。"
+                                ""
                             ]
                         },
                         {
@@ -14434,7 +14403,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そ、そうなの……？"
+                                "\\nw[Nonna]Healing the soul is difficult even for high-level\nmagicians, so I think it would be challenging for\nPrae-san as well. That's why I'm thinking of\nwaiting for natural recovery."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]I-Is that so...?"
                             ]
                         },
                         {
@@ -14491,31 +14491,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]でも魔力がなくなったわけじゃないから安心して。"
+                                "\\nw[Nonna]But don't worry, it's not like I've lost my\nmagical power. Just like body strengthening magic,\nI can still use simple spells."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "身体強化の魔術のように、簡単な物なら使えるから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Nonna]だから心配しないで、ね？"
+                                ""
                             ]
                         },
                         {
@@ -14532,7 +14515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……事情はわかった、でも……"
+                                "\\nw[Nonna]So please don't worry, okay?"
                             ]
                         },
                         {
@@ -14549,14 +14532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]それを隠してたってことは、もしかして……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ううん、もしかしてじゃない"
+                                "\\nw[Taro]...I understand the situation, but..."
                             ]
                         },
                         {
@@ -14573,31 +14549,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]\\rb[<喰らうモノ>,イーター]と戦ったときに、"
+                                "\\nw[Kuno]If you were hiding that, then maybe... no, it's\nnot just maybe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "傷がついたってこと……なのよね？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Nonna]……"
+                                ""
                             ]
                         },
                         {
@@ -14614,7 +14573,48 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]やっぱり……"
+                                "\\nw[Kuno]It's because you got injured when you fought\nagainst the Eaters, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Nonna]......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]I knew it..."
                             ]
                         },
                         {
@@ -14671,7 +14671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]大丈夫だから、気にしないでね？"
+                                "\\nw[Nonna]Don't worry, I'm fine, okay?"
                             ]
                         },
                         {
@@ -14688,14 +14688,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……そんなの無理……"
+                                "\\nw[Kuno]......That's impossible......but......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも……"
+                                ""
                             ]
                         },
                         {
@@ -14752,14 +14752,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ノンナが気にしてほしくないってことはわかった。"
+                                "\\nw[Kuno]I understand that Nonna doesn't want to worry. So,\nlet's stop talking about this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だから、この話はもうやめる。"
+                                ""
                             ]
                         },
                         {
@@ -14776,14 +14776,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]でも、困ったことがあったら言って。"
+                                "\\nw[Kuno]But if you have any troubles, please tell me. I...\nwe will support you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アタシが……アタシ達が力になるから。"
+                                ""
                             ]
                         },
                         {
@@ -14840,14 +14840,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ありがとう。"
+                                "\\nw[Nonna]Thank you. I'm counting on you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "頼りにしてるわね。"
+                                ""
                             ]
                         },
                         {
@@ -15356,14 +15356,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ここは汚いな。"
+                                "\\nw[Taro]This place is dirty. Someone said they'll clean it\nlater, so maybe it'll be usable someday."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "誰かが後で掃除するらしいから、いつか使えるようになるか。"
+                                ""
                             ]
                         },
                         {
@@ -16738,7 +16738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュアを手に入れた！"
+                                "I obtained Cure!"
                             ]
                         },
                         {

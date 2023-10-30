@@ -3239,7 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ふむ、この町の周辺の魔物は強さが変わるな。"
+                                "\\nw[Dalton]Hmmm, the strength of the monsters in the vicinity\nof this town seems to vary."
                             ]
                         },
                         {
@@ -3256,38 +3256,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]魔物の数が多くて大変だな。"
+                                "\\nw[Huma]It's tough with so many monsters around. I wonder\nhow the security of this town is being handled."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この町の警備はどうなってるんだか。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Dalton]うむ、明日は大変な戦いになるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "となれば、今夜は英気を養わねばなるまい。"
+                                ""
                             ]
                         },
                         {
@@ -3304,7 +3280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]無論一緒に来た女団員と一緒にな！"
+                                "\\nw[Dalton]Hmm, tomorrow will be a tough battle. If that's\nthe case, I must gather my strength tonight."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3321,7 +3304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]おう、もちろんだ！"
+                                "\\nw[Dalton]Of course, I'll join forces with the female\nmembers who came with me!"
                             ]
                         },
                         {
@@ -3338,7 +3321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]んじゃ行こうぜ。"
+                                "\\nw[Huma]Oh, of course!"
                             ]
                         },
                         {
@@ -3355,14 +3338,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ああ。"
+                                "\\nw[Huma]Well then, let's go."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち〇ぽで気持ちよくやらないとな。"
+                                "\\nw[Dalton]Ah, I need to feel good with a c*ck."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3566,7 +3566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]調査も大体終わったな。"
+                                "\\nw[Dalton]Looks like the investigation is almost finished."
                             ]
                         },
                         {
@@ -3583,38 +3583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]ああ、北側に魔物が多く集まってたな。"
+                                "\\nw[Huma]Ah, there were a lot of monsters gathering on the\nnorth side. There are quite a few of them, so\ntomorrow looks like it's going to be tough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結構数が多いし、明日は大変そうだな～"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Dalton]ああ、明日は連続した戦闘になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "となれば、今夜は英気を養わねばなるまい。"
+                                ""
                             ]
                         },
                         {
@@ -3631,7 +3607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]無論一緒に来た女団員と一緒にな。"
+                                "\\nw[Dalton]Ah, if tomorrow is going to be a series of\nbattles, then I must gather my spirits tonight."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3648,7 +3631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]おう、さすがにわかってるな大将は！"
+                                "\\nw[Dalton]Of course, I'll join forces with the female\nmembers who came with me."
                             ]
                         },
                         {
@@ -3665,21 +3648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]\\N[\\V[508]]も抱かれなかったら自分の魅力がないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落ち込むだろうからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男として放ってはおけん。"
+                                "\\nw[Huma]Oh, as expected, General knows what's going on!"
                             ]
                         },
                         {
@@ -3696,7 +3665,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]んじゃ行こうぜ。"
+                                "\\nw[Dalton]If \\N[\\V[508]] doesn't get embraced, she'll feel\ndown because she thinks she's not attractive. As a\nman, I can't just leave her alone."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3713,14 +3696,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ああ。"
+                                "\\nw[Huma]Well then, let's go."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレのち〇ぽで楽しませてやらないとな。"
+                                "\\nw[Dalton]Ah, I have to pleasure her with my c*ck."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3912,7 +3912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]魔物退治する範囲の調査も終わったな。"
+                                "\\nw[Dalton]I've finished investigating the range for\nexterminating monsters."
                             ]
                         },
                         {
@@ -3929,31 +3929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]結構大変そうだな～。"
+                                "\\nw[Huma]It seems quite tough, huh~? I feel like the\nmonsters here are getting stronger and stronger~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここの魔物はどんどん強くなってる気がするね～"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]そのせいで参加人数も増えたのだろう。"
+                                ""
                             ]
                         },
                         {
@@ -3970,14 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ああ、明日は連続した戦闘になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "となれば、今夜は英気を養わねばなるまい。"
+                                "\\nw[Rodrigo]I suppose that's why the number of participants\nhas increased."
                             ]
                         },
                         {
@@ -3994,7 +3970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]無論一緒に来た女団員と一緒にな。"
+                                "\\nw[Dalton]Ah, if it's going to be consecutive battles\ntomorrow, then I must gather my spirits tonight."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4011,7 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]おう、さすがにわかってるな大将は！"
+                                "\\nw[Dalton]Of course, I'll join forces with the female member\nwho came with me."
                             ]
                         },
                         {
@@ -4028,7 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]当然だな。"
+                                "\\nw[Huma]Oh, as expected, you understand it well, Captain!"
                             ]
                         },
                         {
@@ -4045,7 +4028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]\\N[\\V[509]]をたっぷりと楽しませてやらないとな。"
+                                "\\nw[Rodrigo]Of course."
                             ]
                         },
                         {
@@ -4062,7 +4045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]任せろ。"
+                                "\\nw[Dalton]I have to thoroughly enjoy \\N[\\V[509]]."
                             ]
                         },
                         {
@@ -4079,7 +4062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]んじゃ行こうぜ。"
+                                "\\nw[Rodrigo]Leave it to me."
                             ]
                         },
                         {
@@ -4096,14 +4079,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ああ。"
+                                "\\nw[Huma]Well then, let's go."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレのち〇ぽで楽しませてやらないとな。"
+                                "\\nw[Dalton]Ah, I have to pleasure [Char_0] with my c*ck."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4451,21 +4451,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -4547,21 +4547,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -4643,21 +4643,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -4833,7 +4833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]明日に向けて英気を養わないとな"
+                                "\\nw[Dalton]We need to gather our spirits for tomorrow."
                             ]
                         },
                         {
@@ -4859,7 +4859,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Huma]そうだね～、しっかり楽しませてあげないとね～"
+                                "\\nw[Huma]That's right~ We need to make sure to have a good\ntime~"
                             ]
                         },
                         {
@@ -4886,7 +4886,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Rodrigo]ああ、今後のためにもな。"
+                                "\\nw[Rodrigo]Ah, this will be beneficial for the future."
                             ]
                         },
                         {
@@ -4923,7 +4923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]さて、明日に向けて英気を養おうか。"
+                                "\\nw[Huma]Well then, shall we gather our spirits for\ntomorrow?"
                             ]
                         },
                         {
@@ -4940,7 +4940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]ああ、今後のためにもな。"
+                                "\\nw[Rodrigo]Ah, this will be beneficial for the future."
                             ]
                         },
                         {

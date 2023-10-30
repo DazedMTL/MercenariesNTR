@@ -5531,21 +5531,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]ここは役所です。"
+                                "\\nw[Receptionist]This is the government office. Please feel free to\nask if you need anything. (Please don't say\nanything that will give me more work.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かあったらお気軽にどうぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（何か言って仕事増やさないでください）"
+                                ""
                             ]
                         },
                         {
@@ -5622,7 +5622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[職員]ふぅむ、治水の問題があるか……"
+                                "\\nw[Staff]Hmmm, there seems to be an issue with flood\ncontrol..."
                             ]
                         },
                         {
@@ -5699,14 +5699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[職員]やはりこの町の周辺は魔物が多いな。"
+                                "\\nw[Staff]It seems that there are many monsters in the\nvicinity of this town after all. However, with\nthis budget, relying on mercenaries seems to be\nthe only option..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかしこの予算では傭兵に頼るしか方法はないか……"
+                                ""
                             ]
                         },
                         {
@@ -5783,7 +5783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[職員]歓楽都市とはいえもう少し風紀をよくすべきでは……"
+                                "\\nw[Staff]Even though it's an entertainment city, we should\nimprove the public order a little more..."
                             ]
                         },
                         {
@@ -5860,14 +5860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[職員]ふぅ……仕事ばかりで疲れるな。"
+                                "\\nw[Staff]*sigh*... I'm tired from work all the time. This\nis the perfect time to be healed by a songstress."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こういうときこそ歌姫に癒されたい。"
+                                ""
                             ]
                         },
                         {

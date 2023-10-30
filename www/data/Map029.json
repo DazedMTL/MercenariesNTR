@@ -2348,7 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<プロペ森林>へ入りますか？"
+                                "Are you going into the Prope Forest?"
                             ]
                         },
                         {
@@ -2356,8 +2356,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2496,7 +2496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<カペル山>へ入りますか？"
+                                "Are you going to enter Mount Capel?"
                             ]
                         },
                         {
@@ -2504,8 +2504,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2644,7 +2644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<アケル荒野>へ入りますか？"
+                                "Are you going to enter the <Akeru Wilderness>?"
                             ]
                         },
                         {
@@ -2652,8 +2652,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2792,7 +2792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<アルデア街道>へ入りますか？"
+                                "Are you going to enter the Ardea Highway?"
                             ]
                         },
                         {
@@ -2800,8 +2800,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2991,21 +2991,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<地獣の体内>へ侵入しますか？"
+                                "Do you want to infiltrate the <Beast's Body>?\n(There are no resting points inside the Beast's\nBody, and you cannot go back. You can only recover\nwhen you are completely wiped out.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（地獣の体内では休憩ポイントはなく、戻ることもできません"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全滅したときにだけ回復出来ます）"
+                                ""
                             ]
                         },
                         {
@@ -3013,8 +3013,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<大地の神殿>へ入りますか？"
+                                "Will you enter the Temple of the Earth?"
                             ]
                         },
                         {
@@ -3212,8 +3212,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

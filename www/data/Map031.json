@@ -13471,7 +13471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]ん……アレ、ちょっと強い"
+                                "\\nw[Uka]Hmm... That's a little strong."
                             ]
                         },
                         {
@@ -13488,14 +13488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]道を塞いでる魔物か。"
+                                "\\nw[Taro]Is that a monster blocking the road? It certainly\nlooks strong..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かに強そうだが……"
+                                ""
                             ]
                         },
                         {
@@ -13552,21 +13552,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]倒すべきだわ。"
+                                "\\nw[Kuno]We should defeat it. It seems like it's our\nmercenary group's job to exterminate the monsters\naround that town and ensure its safety."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの町の周辺の魔物退治をして町の安全を確保することも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アタシ達の傭兵団の仕事みたいだから。"
+                                ""
                             ]
                         },
                         {
@@ -13583,21 +13583,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そういえばそうだったな。"
+                                "\\nw[Taro]Come to think of it, that's right. The monsters\ncoming towards the town and the soldiers guarding\nthe town, it was the mercenary group that thins\nout the monsters on the outskirts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "町へ向かってくる魔物や町中は兵士が守ってて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "外側の魔物を間引くのは傭兵団だったか。"
+                                ""
                             ]
                         },
                         {
@@ -13621,14 +13621,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった。"
+                                "\\nw[Taro]Alright. Let's defeat it once we're ready."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "準備ができたら倒そう。"
+                                ""
                             ]
                         },
                         {
@@ -15027,7 +15027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラインドを手に入れた！"
+                                "I got the blind!"
                             ]
                         },
                         {
@@ -15274,7 +15274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションボムを手に入れた！"
+                                "I got a potion bomb!"
                             ]
                         },
                         {

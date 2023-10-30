@@ -2877,7 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[店員]いらっしゃい、よかったら食べていってね。"
+                                "\\nw[Shopkeeper]Welcome, please feel free to eat if you'd like."
                             ]
                         },
                         {
@@ -2954,7 +2954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[客]あの娘の笑顔に癒されるなぁ～。"
+                                "\\nw[Customer]I'm healed by that girl's smile~."
                             ]
                         },
                         {
@@ -3053,7 +3053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女傭兵]マジウケるんですけど～☆"
+                                "\\nw[Female Mercenary]This is seriously hilarious~☆"
                             ]
                         },
                         {
@@ -3130,7 +3130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女傭兵]ソレなｗ"
+                                "\\nw[Female Mercenary]That's right, hehe."
                             ]
                         },
                         {
@@ -3207,7 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[イケス]独特な雰囲気の街だね。"
+                                "\\nw[Ikesu]It's a town with a unique atmosphere, isn't it?"
                             ]
                         },
                         {
@@ -3320,7 +3320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]へ～、結構いろいろな地域を旅してたんですね。"
+                                "\\nw[Kuno]Heh, so you've traveled to various regions, huh?"
                             ]
                         },
                         {
@@ -3368,14 +3368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[イケス]うん、昔から冒険者に憧れていてね。"
+                                "\\nw[Ikesu]Yeah, I've always admired adventurers. It's great\nto see different places with my own eyes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分の目で色々な場所を見るのはいいものだよ。"
+                                ""
                             ]
                         },
                         {
@@ -3408,233 +3408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（魔物から助けてくれた男……"
+                                "\\nw[Taro](The man who saved me from the monsters... You've\ncome to this town, huh?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この町に来たんだな）"
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                154,
-                                154,
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                155,
-                                155,
-                                0,
-                                4,
-                                "'右'"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                23
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]この近くにアタシが働いてる店もあるんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜にやってるので、ぜひ来てください。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[イケス]クノの店はその……\\|夜の店なんだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はそういったところは苦手何だよね。"
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                154,
-                                154,
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 0,
-                            "parameters": [
-                                155,
-                                155,
-                                0,
-                                4,
-                                "'右'"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                23
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]大丈夫ですよ、何かするわけじゃないですから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]いえ、何かすることを期待してくる店なんですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にお酒を飲んで話をするだけでもいいですし。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]本来店員指名するときはお金がかかりますけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恩人のイケスさんの指名料はアタシが払っておきますから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[イケス]料金の問題じゃないんだけどね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う～ん"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]よかったら来てくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレもお礼をしたいからな。"
+                                ""
                             ]
                         },
                         {
@@ -3680,7 +3461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あ、太郎。"
+                                "\\nw[Kuno]There's a shop where I work nearby. It's open at\nnight, so please come visit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3697,7 +3485,43 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[イケス]君もそう言うのかい？"
+                                "\\nw[Ikesu]Kuno's shop... is it a... nighttime establishment?\nI'm not really good with those kinds of places."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                154,
+                                154,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                155,
+                                155,
+                                0,
+                                4,
+                                "'右'"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                23
                             ]
                         },
                         {
@@ -3714,14 +3538,190 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そうですよ。"
+                                "\\nw[Kuno]It's okay, I'm not going to do anything."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美味しいお酒とかつまみを用意しておきますから。"
+                                "\\nw[Kuno]Well, it's a shop where people come expecting\nsomething to happen, but we can just have a drink\nand chat together if you prefer."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Normally, there would be a fee for requesting a\nspecific staff member, but I'll cover the fee for\nyou, my benefactor, Ikesu-san."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Ikesu]It's not about the fee, but hmm..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]If you'd like, please come. I also want to express\nmy gratitude."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                154,
+                                154,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                155,
+                                155,
+                                0,
+                                4,
+                                "'右'"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                23
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Oh, Taro."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Ikesu]Do you feel the same way?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Yes, that's right. I'll prepare delicious sake and\nsnacks for you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3754,7 +3754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[イケス]わかったよ、そこまで言うなら今度お邪魔させてもらうよ。"
+                                "\\nw[Ikesu]Alright, if you insist on saying that much, I'll\ncome visit next time."
                             ]
                         },
                         {
@@ -3800,7 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]良かった。しっかり準備して待ってますね。"
+                                "\\nw[Kuno]Thank goodness. I'll prepare everything properly\nand wait for you."
                             ]
                         },
                         {
@@ -3817,14 +3817,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[イケス]すぐと言うわけにはいかないよ。"
+                                "\\nw[Ikesu]I can't do it right away. I'll try working at this\nguild for a while."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらくはここのギルドで仕事をしてみるからね。"
+                                ""
                             ]
                         },
                         {
@@ -3841,7 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はい、楽しみに待ってますね。"
+                                "\\nw[Kuno]Yes, I'll be looking forward to it."
                             ]
                         },
                         {
@@ -4012,7 +4012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]今度町の案内もさせてください。"
+                                "\\nw[Kuno]Please let me guide you around the town next time."
                             ]
                         },
                         {
@@ -4020,8 +4020,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,

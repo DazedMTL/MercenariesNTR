@@ -11537,14 +11537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治】"
+                                "Complete the quest Exterminate the groups of\nmonsters around the neighboring town by defeating\nfive groups of monsters!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物の群れを５グループ討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11706,14 +11706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治】"
+                                "Quest [ExterminationofMonstersintheNearbyTown]\nComplete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11792,7 +11792,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]倒せたのはいいんだけど、体がすごいベトベトする……"
+                                "\\nw[Kuno]It's good that we defeated them, but my body feels\nincredibly sticky..."
                             ]
                         },
                         {
@@ -11809,7 +11809,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Huma]良く似合ってると思うよ～"
+                                "\\nw[Huma]I think it suits you well~"
                             ]
                         },
                         {
@@ -11826,31 +11826,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]似合いたくないんだけど……"
+                                "\\nw[Kuno]I don't want it to suit me... *sigh* I just want\nto get rid of it quickly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "はぁ、さっさと落としたい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\nw[Dalton]まだ見回りが残ってるから我慢するんだな。"
+                                ""
                             ]
                         },
                         {
@@ -11867,7 +11850,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]わかってるわよ、もう……"
+                                "\\nw[Dalton]I'll endure it because there's still patrol left\nto do."
                             ]
                         },
                         {
@@ -11884,7 +11867,24 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……もう一泊かぁ……"
+                                "\\nw[Kuno]I know, already..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\nw[Kuno]Sigh... Another night, huh..."
                             ]
                         },
                         {
@@ -12054,7 +12054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 400EXP 300G 1名声を手に入れた。"
+                                "Obtained reward of 400 EXP, 300G, and 1 fame."
                             ]
                         },
                         {
@@ -12309,14 +12309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治】"
+                                "Quest [ExterminationofMonstersintheNearbyTown]\nComplete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -12395,7 +12395,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]倒せたのはいいんだけど、体がすごいベトベトする……"
+                                "\\nw[Kuno]It's good that we defeated them, but my body feels\nincredibly sticky..."
                             ]
                         },
                         {
@@ -12412,7 +12412,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Huma]良く似合ってると思うよ～"
+                                "\\nw[Huma]I think it suits you well~"
                             ]
                         },
                         {
@@ -12429,31 +12429,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]似合いたくないんだけど……"
+                                "\\nw[Kuno]I don't want it to suit me... *sigh* I just want\nto get rid of it quickly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "はぁ、さっさと落としたい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\nw[Dalton]まだ見回りが残ってるから我慢するんだな。"
+                                ""
                             ]
                         },
                         {
@@ -12470,7 +12453,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]わかってるわよ、もう……"
+                                "\\nw[Dalton]I'll endure it because there's still patrol left\nto do."
                             ]
                         },
                         {
@@ -12487,7 +12470,24 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]はぁ……もう一泊かぁ……"
+                                "\\nw[Kuno]I know, already..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\nw[Kuno]Sigh... Another night, huh..."
                             ]
                         },
                         {
@@ -12657,7 +12657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 150EXP 100G 1名声を手に入れた。"
+                                "Obtained a reward of 150EXP, 100G, and 1 fame."
                             ]
                         },
                         {
@@ -13067,7 +13067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒールを手に入れた！"
+                                "I obtained a heal!"
                             ]
                         },
                         {
@@ -13230,14 +13230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【隣町周辺の魔物退治】"
+                                "Quest [DefeatingMonstersintheNearbyTown] Failed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -13354,7 +13354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {

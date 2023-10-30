@@ -3190,14 +3190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]盗賊は運んでもらったけど、"
+                                "\\nw[Kuno]The thief got a ride, but she didn't get\nprotected?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女は保護してもらわなかったの？"
+                                ""
                             ]
                         },
                         {
@@ -3316,31 +3316,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]えっと……彼女は元々傭兵で、"
+                                "\\nw[Nonna]Well... she was originally a mercenary and it\nseems like she fought against other mercenary\ngroups and lost, causing her own group to disband."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他の傭兵団と戦って、負けて団が潰れちゃったらしいのよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]だから傭兵団があったら入りたいって言ってるの。"
+                                ""
                             ]
                         },
                         {
@@ -3357,7 +3340,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]傭兵団って、アタシ達は３人で……"
+                                "\\nw[Nonna]So she's saying that if there's a mercenary group,\nshe wants to join."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]The mercenary group... we were three people..."
                             ]
                         },
                         {
@@ -3428,7 +3428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]……そっか、アタシ達一応傭兵団に入ったのよね。"
+                                "\\nw[Kuno]...I see, so we joined a mercenary group, for the\ntime being."
                             ]
                         },
                         {
@@ -3445,21 +3445,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]あそこに居たのも捕まってたって"
+                                "\\nw[Nonna]It seems like she didn't realize that the person\nwho was there with her was also captured. It seems\nlike they were carried away when their group lost\nand they were injured."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "認識はなかったみたいなの。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "団が負けて怪我してるところを運ばれたみたいなのよね。"
+                                ""
                             ]
                         },
                         {
@@ -3516,7 +3516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]ずっと仲間はウカを抱いてた"
+                                "\\nw[Uka]My comrades have always embraced me."
                             ]
                         },
                         {
@@ -3573,7 +3573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]えっ！？"
+                                "\\nw[Kuno]Eh!?"
                             ]
                         },
                         {
@@ -3630,14 +3630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]えっと……この子は傭兵時代から抱かれてたみたいで、"
+                                "\\nw[Nonna]Um... it seems like this child was being embraced\nsince her mercenary days, so she didn't realize it\nbecause it was a normal thing for her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それが日常だったから気づかなかったみたいなのよ。"
+                                ""
                             ]
                         },
                         {
@@ -3654,14 +3654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]盗賊の方はこの子を性奴隷って言ってたから、"
+                                "\\nw[Nonna]The thief said that this child was a sex slave, so\nthere's no doubt that the purpose of the\nconfinement was for that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "監禁目的だったのは間違えないわ。"
+                                ""
                             ]
                         },
                         {
@@ -3718,7 +3718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]性奴隷？"
+                                "\\nw[Uka]Sex slave?"
                             ]
                         },
                         {
@@ -3735,7 +3735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]後で説明するわ。"
+                                "\\nw[Nonna]I'll explain later."
                             ]
                         },
                         {
@@ -3808,14 +3808,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]このままだと誰かに騙されそうで"
+                                "\\nw[Nonna]I can't just leave her alone, as she seems like\nshe might be deceived by someone if we leave\nthings as they are."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "放っておけないわ。"
+                                ""
                             ]
                         },
                         {
@@ -3872,14 +3872,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]事情はわかったけど……"
+                                "\\nw[Kuno]I understand the situation... So, are you going to\ntake me with you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、連れて行くのね？"
+                                ""
                             ]
                         },
                         {
@@ -3936,14 +3936,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ええ、帰りましょう。"
+                                "\\nw[Nonna]Yes, let's go back. Our base... to the newly\njoined mercenary group."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私達の拠点……新しく入った傭兵団に"
+                                ""
                             ]
                         },
                         {

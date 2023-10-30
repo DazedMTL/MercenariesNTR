@@ -2307,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]……はぁ……\\|はぁ……\\|……"
+                                "\\nw[Male]*panting*... *panting*..."
                             ]
                         },
                         {
@@ -2324,31 +2324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦いの音が響く森の中、傷ついた体で這いずって"
+                                "Crawling through the forest, with the sound of\nbattle echoing, I manage to reach my destination\ndespite my injured body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何とか目的の場所へとたどり着く。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "血まみれで倒れている、女の傍へ。"
+                                ""
                             ]
                         },
                         {
@@ -2365,7 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]あっ……\\|ああぁ……！"
+                                "I collapse, covered in blood, next to the woman."
                             ]
                         },
                         {
@@ -2382,14 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女を見て男は愕然とした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "か細い呼吸をしているが、それも長く続きそうもない。"
+                                "\\nw[Male]Ah... Aahh...!"
                             ]
                         },
                         {
@@ -2406,31 +2382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流れている血の量が多すぎる。"
+                                "The man was stunned when he saw the woman. She was\nbreathing weakly, but it didn't seem like it would\nlast long."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "傷口も大きすぎて塞ぎようもない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[女]……\\|ごめん……\\|ね"
+                                ""
                             ]
                         },
                         {
@@ -2447,7 +2406,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]！"
+                                "The amount of blood flowing is too much. The wound\nis also too large to be closed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2464,7 +2430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]約束……\\|したのに……"
+                                "\\nw[Female]I'm sorry... sorry."
                             ]
                         },
                         {
@@ -2481,7 +2447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]……"
+                                "\\nw[Male]!"
                             ]
                         },
                         {
@@ -2498,21 +2464,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の言葉に男は答えることはできなかった。"
+                                "\\nw[Female]We... made a promise..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女には自分が手の施しようがないことがわかってるのだ。"
+                                "\\nw[Man]......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "事実、男には助ける手段がない。"
+                                "The man couldn't respond to the woman's words. He\nknew that he couldn't do anything to help her. In\nfact, he had no means to save her."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2567,31 +2567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女エルフ]くっ……強すぎる……！"
+                                "\\nw[Female Elf]Ugh... Too strong...! Both of you, run away\nquickly!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "二人とも、早く逃げて！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[男]……"
+                                ""
                             ]
                         },
                         {
@@ -2608,14 +2591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近くでは倒れる男たちを巨人からかばうように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女エルフが戦っている。"
+                                "\\nw[Male]......"
                             ]
                         },
                         {
@@ -2632,21 +2608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしそれは戦いと呼べるものではない。"
+                                "Nearby, a female elf is fighting to protect the\nmen who have collapsed from the giants."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "巨人には女エルフの一切の攻撃は通じず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女エルフは囮として回避に専念しているだけだ。"
+                                ""
                             ]
                         },
                         {
@@ -2663,7 +2632,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]無理だ……"
+                                "However, it can't be called a battle. The female\nelf's attacks have no effect on the giants, and\nshe is solely focused on evading as a decoy."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2680,7 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女エルフ]諦めないで！"
+                                "\\nw[Man]It's impossible..."
                             ]
                         },
                         {
@@ -2697,7 +2680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]もう……この傷じゃ……こいつは……"
+                                "\\nw[Female Elf]Don't give up!"
                             ]
                         },
                         {
@@ -2714,7 +2697,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女エルフ]……！"
+                                "\\nw[Man]This wound... it's not enough... for this guy..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Female Elf]......!"
                             ]
                         },
                         {
@@ -2769,7 +2769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女エルフ]だったら、一人ででも逃げて！"
+                                "\\nw[Female Elf]If that's the case, then run away even if you're\nalone!"
                             ]
                         },
                         {
@@ -2786,7 +2786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]そんなことは……"
+                                "\\nw[Male]That's not..."
                             ]
                         },
                         {
@@ -2822,7 +2822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[巨人]\\{\\{オオオオオオォォォォォ!!!!\\}\\}"
+                                "\\nw[Giant]\\{\\{Oooooohhhhhh!!!!\\}\\}"
                             ]
                         },
                         {
@@ -2839,7 +2839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女エルフ]……なっ！"
+                                "\\nw[Female Elf]......huh!"
                             ]
                         },
                         {
@@ -2856,21 +2856,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然の巨人の咆哮に女エルフの動きが"
+                                "Suddenly, it seemed as if the movements of the\nfemale elf had slowed down in response to the\ngiant's roar. And at that moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "鈍くなったように見えた。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そしてその瞬間……"
+                                ""
                             ]
                         },
                         {
@@ -2936,7 +2936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女エルフ]ごあっ"
+                                "\\nw[Female Elf]Oh my..."
                             ]
                         },
                         {
@@ -3010,28 +3010,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巨人の攻撃を回避しきれず脚に当たった。"
+                                "The giant's attack couldn't be completely avoided\nand hit the leg. The giant then launched another\nattack at the immobilized female elf, causing her\nbody to be blown away like a ball and roll near\nthe man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動きの止まった女エルフに巨人は更に攻撃を加え、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まるでボールのように女エルフの身体が吹き飛ばされ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "男の近くに転がった。"
+                                ""
                             ]
                         },
                         {
@@ -3048,7 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]～～～！！"
+                                "\\nw[Man]~~~!!"
                             ]
                         },
                         {
@@ -3084,38 +3084,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巨人はそれでこちらに興味を失ったようで、"
+                                "The giant seemed to lose interest in us and ran\noff to another location. There must be other prey\nit wants to hunt."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他の場所へと駆けていった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他に狩るべき相手がいるのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、男にとってそんなことはどうでもよかった。"
+                                ""
                             ]
                         },
                         {
@@ -3132,7 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女エルフ]…………"
+                                "However, such things didn't matter to the man."
                             ]
                         },
                         {
@@ -3149,21 +3132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女エルフの下半身は紙のように潰れていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地面にぶつかったときに頭もぶつけていたようで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭から血も流れている。"
+                                "\\nw[Female Elf]............"
                             ]
                         },
                         {
@@ -3180,7 +3149,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピクリとも……動かない。"
+                                "The lower half of the female elf's body was\ncrushed like paper. It seems that when she hit the\nground, her head also hit, and blood is flowing\nfrom her head."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3197,7 +3180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]あ……\\|ぁぁ……\\|ぁ……"
+                                "She didn't even flinch... she didn't move at all."
                             ]
                         },
                         {
@@ -3214,14 +3197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]\\{\\{あああああああああぁぁぁぁぁ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁあああぁぁぁ！！！！！！\\}\\}"
+                                "\\nw[Male]Ah...ahh...ah..."
                             ]
                         },
                         {
@@ -3238,7 +3214,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の叫び声は未だ戦闘の続く森に響き渡った。"
+                                "\\nw[Male]Aaaaaahhhhhhhhhhhhhhhhhhhhhhhh!!!!!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The man's scream echoed through the forest, where\nthe battle was still raging."
                             ]
                         },
                         {
@@ -3397,7 +3397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]はっ！？"
+                                "\\nw[Male]Huh!?"
                             ]
                         },
                         {
@@ -3574,31 +3574,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]もう、大丈夫？"
+                                "\\nw[???]Are you okay? You were having a really intense\nnightmare."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごいうなされてたんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[男]えっ……？"
+                                ""
                             ]
                         },
                         {
@@ -3615,14 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]あっ……ああ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夢か……"
+                                "\\nw[Male]Huh...?"
                             ]
                         },
                         {
@@ -3639,14 +3615,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]大丈夫?"
+                                "\\nw[Male]Ah... Ahh... Was it a dream..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分の名前は言える?"
+                                ""
                             ]
                         },
                         {
@@ -3663,7 +3639,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]ああ、オレは……"
+                                "\\nw[???]Are you okay? Can you tell me your name?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Male]Ah, I am..."
                             ]
                         },
                         {
@@ -3700,7 +3700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "太郎でよろしいですか？"
+                                "Is it alright if I call you Taro?"
                             ]
                         },
                         {
@@ -3708,8 +3708,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3777,14 +3777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]太郎だ。"
+                                "\\nw[Taro]I am Taro. I work as a mercenary."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "傭兵をしている。"
+                                ""
                             ]
                         },
                         {
@@ -3841,14 +3841,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]そうね。"
+                                "\\nw[???]Hmm, then what about me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあアタシは？"
+                                ""
                             ]
                         },
                         {
@@ -3865,7 +3865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お前は……"
+                                "\\nw[Taro]You..."
                             ]
                         },
                         {
@@ -3902,7 +3902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クノでよろしいですか？"
+                                "Is it alright if I call you Kuno?"
                             ]
                         },
                         {
@@ -3910,8 +3910,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3979,14 +3979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]クノだろ。"
+                                "\\nw[Taro]You're Kuno, right? My childhood friend and lover."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オレの幼馴染で、恋人だ。"
+                                ""
                             ]
                         },
                         {
@@ -4043,38 +4043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]大丈夫そうね。"
+                                "\\nw[Kuno]You seem fine. We're about to go in, but do you\nunderstand the situation?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これから突入するわけだけど、状況はわかってる？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ああ、盗賊退治だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかってる、仮眠してたのは奇襲する時間まで休むためだ。"
+                                ""
                             ]
                         },
                         {
@@ -4091,14 +4067,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ならいいわ。"
+                                "\\nw[Taro]Ah, it's a bandit extermination. I understand. I\ntook a nap to rest until it's time for a surprise\nattack."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ……"
+                                "\\nw[Kuno]Well, that's good. It's about time..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4308,14 +4308,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]見張りを排除してきたわ。"
+                                "\\nw[???]I've eliminated the lookout. Taro..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "太郎は……"
+                                ""
                             ]
                         },
                         {
@@ -4332,7 +4332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]起きてるみたいね。おはよう。"
+                                "\\nw[???]Looks like you're awake. Good morning."
                             ]
                         },
                         {
@@ -4398,14 +4398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]どうしたの、ぼーっとして。"
+                                "\\nw[Kuno]What's wrong? Are you spacing out again? Are you\nstill half asleep?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっぱり寝ぼけてるの？"
+                                ""
                             ]
                         },
                         {
@@ -4422,14 +4422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、大丈夫だ。"
+                                "\\nw[Taro]No, it's okay. She..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女は……"
+                                ""
                             ]
                         },
                         {
@@ -4466,7 +4466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノンナでよろしいですか？"
+                                "Is it alright if I call you Nonna?"
                             ]
                         },
                         {
@@ -4474,8 +4474,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4543,14 +4543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]おはようノンナ。"
+                                "\\nw[Taro]Good morning, Nonna. Don't worry, everything's\nfine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫だ、問題ないぞ。"
+                                ""
                             ]
                         },
                         {
@@ -4607,38 +4607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]そう？"
+                                "\\nw[Nonna]Is that so? Even though it's been a while since\nwe've worked together, don't let your guard down."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "久しぶりの仕事だからと言って、気を抜かないでね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]見張りの交代まで時間があるはずだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不測の事態もあり得るから、急ぎましょう。"
+                                ""
                             ]
                         },
                         {
@@ -4655,14 +4631,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった。"
+                                "\\nw[Nonna]We should have time until the guard change, but\nunexpected situations can happen, so let's hurry."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊の捕縛だったな。"
+                                "\\nw[Taro]I understand. It's a bandit capture, right."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4752,7 +4752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メニューのオプションで移動速度の変更が行えます。"
+                                "You can change the movement speed in the menu\noptions."
                             ]
                         },
                         {

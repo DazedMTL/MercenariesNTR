@@ -6599,14 +6599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ここからは盗賊がいるかもしれないわ。"
+                                "\\nw[Nonna]There might be thieves from here on. If you find\nthem, make sure to incapacitate them and be\ncareful not to call for reinforcements."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見つけたら無力化して、増援を呼ばれないように気を付けてね。"
+                                ""
                             ]
                         },
                         {
@@ -6663,14 +6663,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]うん、わかった。"
+                                "\\nw[Kuno]Yeah, I got it. I'll try to go quietly without\nmaking much noise."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なるべく音は立てないで行くわよ。"
+                                ""
                             ]
                         },
                         {
@@ -6951,7 +6951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]止まって"
+                                "\\nw[Nonna]Stop."
                             ]
                         },
                         {
@@ -6991,7 +6991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[盗賊１]あ～あ、篭ってるとやることがアレだな。"
+                                "\\nw[Thief 1]Ahh, being cooped up like this is so boring."
                             ]
                         },
                         {
@@ -7008,14 +7008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[盗賊２]女もあれ一人だしな。"
+                                "\\nw[Thief 2]There's only one woman here. I want more people."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっと人数が欲しいぜ。"
+                                ""
                             ]
                         },
                         {
@@ -7102,14 +7102,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]……盗賊達ね。"
+                                "\\nw[Nonna]...Thieves, huh? I overheard their conversation,\nbut someone might be captured."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "会話が聞こえたけど、誰か捕まってるかもしれないわね。"
+                                ""
                             ]
                         },
                         {
@@ -7166,31 +7166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そうみたいね……"
+                                "\\nw[Kuno]It seems so... but, the plan is still..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも、方針はやっぱり……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]人質として使われても無視……ね。"
+                                ""
                             ]
                         },
                         {
@@ -7207,7 +7190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]やっぱりそうよね……"
+                                "\\nw[Nonna]Even if used as a hostage... I'll ignore it..."
                             ]
                         },
                         {
@@ -7224,7 +7207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]傭兵ギルドの決め事なのよ。"
+                                "\\nw[Kuno]I knew it..."
                             ]
                         },
                         {
@@ -7241,14 +7224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]傭兵には人質が利かないと周知すれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傭兵相手に人質戦法を使う相手がいなくなるという考えなの。"
+                                "\\nw[Nonna]It's a rule of the Mercenary Guild."
                             ]
                         },
                         {
@@ -7265,14 +7241,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]だからこそ、私たちの感情よりも"
+                                "\\nw[Nonna]The idea is that if we make it known that\nmercenaries are not affected by hostages, then\nthere won't be anyone who uses hostage tactics\nagainst mercenaries."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "優先しないといけないわ"
+                                ""
                             ]
                         },
                         {
@@ -7289,14 +7265,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]うん、わかってる……"
+                                "\\nw[Nonna]That's why we have to prioritize it over our own\nemotions."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかってるわよ"
+                                "\\nw[Kuno]Yeah, I know... I understand."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7353,7 +7353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]……"
+                                "\\nw[Nonna]......"
                             ]
                         },
                         {
@@ -7410,14 +7410,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]まずはあの二人を無力化するわ。"
+                                "\\nw[Nonna]First, let's neutralize those two. Let's go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "行くわよ。"
+                                ""
                             ]
                         },
                         {
@@ -7814,7 +7814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]確保成功ね。"
+                                "\\nw[Kuno]Capture successful, huh."
                             ]
                         },
                         {
@@ -7871,7 +7871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]よくできました。上手ね。"
+                                "\\nw[Nonna]Well done. You're skilled."
                             ]
                         },
                         {
@@ -7898,7 +7898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[盗賊１]なんだこいつら、大したことないな"
+                                "\\nw[Thief 1]These guys are nothing special."
                             ]
                         },
                         {
@@ -7915,7 +7915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]くっ……！"
+                                "\\nw[Taro]Ugh...!"
                             ]
                         },
                         {
@@ -7932,7 +7932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[盗賊１]このまま俺らで……"
+                                "\\nw[Thief 1]Let's continue like this..."
                             ]
                         },
                         {
@@ -8106,14 +8106,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ちゃんと戦ってね？"
+                                "\\nw[Nonna]Make sure to fight properly, okay? They weren't\nopponents you should lose to, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "負ける相手じゃなかったでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -8130,7 +8130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]うっ……悪かった……"
+                                "\\nw[Taro]Ugh... I'm sorry..."
                             ]
                         },
                         {
@@ -8205,14 +8205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]オーナーから預かっていたものがあるわ。"
+                                "\\nw[Nonna]I have something that I was entrusted with by the\nowner. I'll give it to you now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今渡しておくわね。"
+                                ""
                             ]
                         },
                         {
@@ -8274,7 +8274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒール、ファイア、ハードアタックを手に入れた。"
+                                "I obtained Heal, Fire, and Hard Attack."
                             ]
                         },
                         {
@@ -8307,7 +8307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]これは？"
+                                "\\nw[Taro]What is this?"
                             ]
                         },
                         {
@@ -8324,7 +8324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]スキルが使えるようになる魔導球らしいわ。"
+                                "\\nw[Nonna]It seems like a magic ball that allows you to use\nskills."
                             ]
                         },
                         {
@@ -8341,7 +8341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そんな便利な物がこの国にはあるのか……"
+                                "\\nw[Taro]Is there such a convenient thing in this\ncountry..."
                             ]
                         },
                         {
@@ -8358,14 +8358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]まだ実験段階らしいけど。"
+                                "\\nw[Nonna]It seems like it's still in the experimental\nstage, but it's said to be one of the creations of\na famous magician in this country."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この国の有名な魔術師が作った物の一つらしいわ。"
+                                ""
                             ]
                         },
                         {
@@ -8382,14 +8382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]簡単に説明しておくわね。"
+                                "\\nw[Nonna]Let me explain it briefly. First, let's start with\nhow to equip it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずは装備の仕方から。"
+                                ""
                             ]
                         },
                         {
@@ -8452,14 +8452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]メニューの「装備」で魔導球はつけることができるわ。"
+                                "\\nw[Nonna]You can equip the magic ball in the Equipment\nmenu. It's located in the area surrounded by a red\ncircle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "場所は赤い丸で囲まれているところね。"
+                                ""
                             ]
                         },
                         {
@@ -8476,7 +8476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ただし……"
+                                "\\nw[Nonna]However..."
                             ]
                         },
                         {
@@ -8516,14 +8516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]装備できる数は「武器」と「身体」のスロット合計数で決まるわ。"
+                                "\\nw[Nonna]The number of slots you can equip is determined by\nthe total number of Weapon and Body slots. In this\ncase, you can equip one Short Sword and two\nMercenary Clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この場合ショートソードは１個、傭兵の服は２個ね。"
+                                ""
                             ]
                         },
                         {
@@ -8540,7 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]スロット数は装備によって違うから、気を付けてね。"
+                                "\\nw[Nonna]Be careful because the number of slots varies\ndepending on the equipment."
                             ]
                         },
                         {
@@ -8618,45 +8618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]魔導球のスキルは戦闘中しか使えないわ。"
+                                "\\nw[Nonna]You can only use magic ball skills during battles.\nThe red magic balls are generally used for\noffensive effects."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "赤い魔導球は基本的に攻撃効果のある魔導球よ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]青い魔導球は回復・補助・妨害等の効果がある魔導球よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらはターン消費なしで使うことができる代わりに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再使用に時間がかかるわ。"
+                                ""
                             ]
                         },
                         {
@@ -8673,7 +8642,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]例えばさっき渡したヒールの魔導球は再使用は３ターンかかるわ。"
+                                "\\nw[Nonna]The blue magic balls have effects such as healing,\nsupport, and hindrance. This one can be used\nwithout consuming a turn, but it takes time to\nreuse."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8690,21 +8673,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]回復系の魔導球は再使用に時間がかかるし、移動中も使えない。"
+                                "\\nw[Nonna]For example, the healing magic ball I gave you\nearlier takes 3 turns to reuse."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから回復アイテムは重要になるから多めに用意しておいてね。"
+                                "\\nw[Nonna]Healing magic balls take time to reuse and cannot\nbe used while moving. So it's important to have\nplenty of healing items prepared. I also received\nsome from the owner this time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こっちも今回オーナーが渡してくれたわ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8753,7 +8753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "治療キット（単）５個、ポーション５個手に入れた。"
+                                "I obtained 5 Healing Kits (Single) and 5 Potions."
                             ]
                         },
                         {
@@ -8770,7 +8770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、助かる。"
+                                "\\nw[Taro]Ah, thank goodness."
                             ]
                         },
                         {
@@ -8834,7 +8834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]それはいいんだけど……"
+                                "\\nw[Kuno]That's fine, but..."
                             ]
                         },
                         {
@@ -8891,7 +8891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]何か気になることでもあった？"
+                                "\\nw[Nonna]Is there something that's bothering you?"
                             ]
                         },
                         {
@@ -8908,14 +8908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ううん、後にする。"
+                                "\\nw[Kuno]No, let's do it later. Right now, exterminating\nthe thieves takes priority, doesn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今は盗賊退治が優先よね。"
+                                ""
                             ]
                         },
                         {
@@ -8972,14 +8972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]そうね。"
+                                "\\nw[Nonna]Yes, that's right. And speaking of that, it's\nabout the captured girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それと捕まってる娘のことだけど。"
+                                ""
                             ]
                         },
                         {
@@ -8996,14 +8996,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]人質にされたら無視するけど、"
+                                "\\nw[Nonna]Ignoring them if they become hostages is fine, but\nthere's no problem with rescuing them before\nthey're moved."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そう動かれる前に救出するのは問題ないわ。"
+                                ""
                             ]
                         },
                         {
@@ -9060,7 +9060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]……！"
+                                "\\nw[Kuno]......!"
                             ]
                         },
                         {
@@ -9077,21 +9077,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]こちらから奇襲をかけられる状態なら平気よ。"
+                                "\\nw[Nonna]If we're in a state where we can be ambushed from\nhere, it's fine. The area doesn't seem too\nspacious from the sound, so let's proceed quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "音からしてあまり広くないし、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに進みましょう。"
+                                ""
                             ]
                         },
                         {
@@ -9148,7 +9148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]うん！"
+                                "\\nw[Kuno]Yeah!"
                             ]
                         },
                         {
@@ -9198,52 +9198,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メニューのオプションで難易度の変更が行えます。"
+                                "You can change the difficulty level in the menu\noptions. There are four types of difficulty\nlevels."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "難易度には４種類あります。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Normal→歯ごたえのあるバトルが楽しめます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Easy→楽に進めたい人向けの難易度です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "HP1→エネミーのＨＰが１になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "You Win→バトルに勝利します。"
+                                ""
                             ]
                         },
                         {
@@ -9260,14 +9222,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強制敗北のバトルでは難易度による強さの変更はありません。"
+                                " Normal -> You can enjoy battles with a satisfying\nchallenge. Easy -> This difficulty level is for\nthose who want to progress easily. HP1 -> The\nenemy's HP will be reduced to 1. You Win -> You\nwill achieve victory in battle."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You Winでは自動的に敗北します。"
+                                "In forced defeat battles, there is no change in\nstrength based on difficulty level. In You Win\nmode, you will automatically be defeated."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9418,14 +9418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ここから出てる場合じゃないわ。"
+                                "\\nw[Kuno]This is not the time to be coming out. Let's go\ndeeper inside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "奥へ行くわよ。"
+                                ""
                             ]
                         },
                         {

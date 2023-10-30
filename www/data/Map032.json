@@ -3096,7 +3096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "爆笑キノコを手に入れた！"
+                                "I obtained the explosive laughter mushroom!"
                             ]
                         },
                         {
@@ -3184,14 +3184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]名前から言って怪しいけど……"
+                                "\\nw[Kuno]Judging from the name, it sounds suspicious... I\nwonder if it's safe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫なのかな。"
+                                ""
                             ]
                         },
                         {
@@ -3248,7 +3248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]毒が消える調理の方法があるのかもしれないわ。"
+                                "\\nw[Nonna]There might be a cooking method that can remove\nthe poison."
                             ]
                         },
                         {
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]じー……"
+                                "\\nw[Uka]*stares*..."
                             ]
                         },
                         {
@@ -3322,14 +3322,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]って、沢山あるからって食べちゃ駄目よ？"
+                                "\\nw[Nonna]Just because there are a lot of them, doesn't mean\nyou should eat them, okay? It can be dangerous if\nthe poison spreads."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "毒が回って大変なことになるのよ"
+                                ""
                             ]
                         },
                         {
@@ -3386,7 +3386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]ん……ざんねん……"
+                                "\\nw[Uka]Hmm... what a shame..."
                             ]
                         },
                         {
@@ -3403,31 +3403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ちゃんとしたものを後で食べさせるから、"
+                                "\\nw[Taro]I'll give you something proper to eat later, so\nplease behave for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここはおとなしくしててくれ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Uka]ん……わかった……"
+                                ""
                             ]
                         },
                         {
@@ -3444,7 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]んじゃ、今日はこれで帰るか。"
+                                "\\nw[Uka]Hmm... I understand..."
                             ]
                         },
                         {
@@ -3461,7 +3444,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]そうね、帰りましょうか"
+                                "\\nw[Taro]Well then, I guess I'll head home for today."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Nonna]Yes, let's go home."
                             ]
                         },
                         {

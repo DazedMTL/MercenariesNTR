@@ -2543,14 +2543,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]クノか。"
+                                "\\nw[Soldier]Kuno, next time I'll make you feel even better, so\nlook forward to it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "次はもっと気持ちよくしてやるから楽しみにしてな。"
+                                ""
                             ]
                         },
                         {
@@ -2596,7 +2596,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]うん、楽しみにしてる♪"
+                                "\\nw[Kuno]Yeah, I'm looking forward to it♪"
                             ]
                         },
                         {
@@ -2630,14 +2630,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[兵士]ああ、団長さん。"
+                                "\\nw[Soldier]Ah, Captain. Please feel free to look around."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "自由に見ていってください。"
+                                ""
                             ]
                         },
                         {
@@ -2681,7 +2681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]囚人を刺激しないでくれよ。"
+                                "\\nw[Soldier]Don't provoke the prisoner."
                             ]
                         },
                         {
@@ -2756,7 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]上の方が騒がしいような……"
+                                "\\nw[Soldier]It seems noisy up there..."
                             ]
                         },
                         {
@@ -2824,7 +2824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]ふぅ……やっぱり女の子がいるといいものだな"
+                                "\\nw[Soldier]*sigh*... Having girls around is really nice,\nisn't it?"
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]更生のためとはいえ、あんなことをしてもらえるなんて……"
+                                "\\nw[Soldier]Even though it's for rehabilitation, to think that\nI would be able to receive such treatment..."
                             ]
                         },
                         {
@@ -2996,7 +2996,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[囚人]あっ、お前は……！"
+                                "\\nw[Prisoner]Ah, it's you...!"
                             ]
                         },
                         {
@@ -3042,7 +3042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]こんばんは、元気そうですね。"
+                                "\\nw[Nonna]Good evening, you seem energetic."
                             ]
                         },
                         {
@@ -3059,31 +3059,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[囚人]ああ、元気にしてる。"
+                                "\\nw[Prisoner]Ah, I'm doing well. It's thanks to Nonna, so thank\nyou."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ノンナのおかげでもある、ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Nonna]それは何よりです。"
+                                ""
                             ]
                         },
                         {
@@ -3100,7 +3083,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（また寝取らせてみようか……？）"
+                                "\\nw[Nonna]That's the best thing."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro](Shall I let them cuckold me again...?)"
                             ]
                         },
                         {
@@ -3134,7 +3134,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[囚人]くそぅ……こんなことになるなんて……"
+                                "\\nw[Prisoner]Damn it... I can't believe it turned out like\nthis..."
                             ]
                         },
                         {
@@ -3180,14 +3180,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]淫魔の魅了の能力って、"
+                                "\\nw[Nonna]I wonder if the succubus' charm ability can be\nused for rehabilitation as well?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "更生にも使えるのかしら？"
+                                ""
                             ]
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（興味あるみたいだし、寝取らせてみようか……？）"
+                                "\\nw[Taro](It seems like you're interested, should I let\nthem cuckold me...?)"
                             ]
                         },
                         {
@@ -3222,8 +3222,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝取らせる",
-                                    "やめておく"
+                                    "Let them cuckold me",
+                                    "I'll pass"
                                 ],
                                 1,
                                 0,
@@ -3271,7 +3271,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[囚人]またいいのか！？"
+                                "\\nw[Prisoner]Is it okay again!?"
                             ]
                         },
                         {
@@ -3317,7 +3317,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]はい、ご褒美を上げますね。"
+                                "\\nw[Nonna]Yes, I will give you a reward."
                             ]
                         },
                         {
@@ -3496,14 +3496,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[囚人]何っ！？"
+                                "\\nw[Prisoner]What!? I can actually sleep with women!? It's like\na dream come true!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "女を抱けるだと！？願ったり叶ったりじゃないか！"
+                                ""
                             ]
                         },
                         {
@@ -3549,7 +3549,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]彼より先に兵士に話しを通さないといけないわよ？"
+                                "\\nw[Nonna]Do we have to talk to the soldiers before him?"
                             ]
                         },
                         {
@@ -3566,7 +3566,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]まぁ、こいつは乗り気みたいだし兵士に聞いてみるか。"
+                                "\\nw[Taro]Well, since he seems eager, shall we ask the\nsoldiers about it?"
                             ]
                         },
                         {
@@ -3647,38 +3647,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Nonna]許可が出たわね。"
+                                "\\nw[Nonna]Permission has been granted. Well then, I'll be\ngoing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "それじゃあ行ってくるわね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nw[Nonna]期間は長くなると思うから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "用事が出来たら迎えに来てくれると助かるわ。"
+                                ""
                             ]
                         },
                         {
@@ -3695,14 +3671,38 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]ああ、わかった。"
+                                "\\nw[Nonna]Since it's going to take a while, I would\nappreciate it if you could come pick me up when\nyou're available."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "クエストにはいかないように調整しておく。"
+                                "\\nw[Taro]Ah, I see. I'll make sure not to go on the quest."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3862,7 +3862,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Nonna]駄目だったわね。"
+                                "\\nw[Nonna]It didn't work, huh."
                             ]
                         },
                         {
@@ -3879,7 +3879,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]まぁ、仕方ない気はするな……"
+                                "\\nw[Taro]Well, I do feel like there's no other choice..."
                             ]
                         },
                         {
@@ -3896,14 +3896,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]（兵士と仲良くなれれば行けるか？"
+                                "\\nw[Taro](If I can get along with the soldiers, can I go?\nFor example, letting them sleep with Kuno...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "例えばクノを寝取らせたり……）"
+                                ""
                             ]
                         },
                         {
@@ -3971,7 +3971,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]また会いましょう。"
+                                "\\nw[Nonna]Let's meet again."
                             ]
                         },
                         {
@@ -4005,7 +4005,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]（やめておこう）"
+                                "\\nw[Taro](Let's not do it)"
                             ]
                         },
                         {
@@ -4077,14 +4077,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[囚人]悪いことをしてしまったな……"
+                                "\\nw[Prisoner]I've done something bad... Even if I can't be\nforgiven, I have to apologize..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "許してもらえなくても謝らないとな……"
+                                ""
                             ]
                         },
                         {
@@ -4118,7 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]くそぅ……こんなことになるなんて……"
+                                "\\nw[Prisoner]Damn it... I can't believe it turned out like\nthis..."
                             ]
                         },
                         {
@@ -4389,7 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]はぁはぁ……これっ、すごっ……！"
+                                "\\nw[Prisoner]Haa...haa...this is amazing...!"
                             ]
                         },
                         {
@@ -4406,7 +4406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ふふっ、おち〇ぽビクビクしてますよ？"
+                                "\\nw[Nonna]Hehe, is your c*ck twitching?"
                             ]
                         },
                         {
@@ -4432,7 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](魅了を利用して更生か……上手くいくのかな……？)"
+                                "\\nw[Taro](Using charm to reform... I wonder if it will\nwork...)"
                             ]
                         },
                         {
@@ -4449,7 +4449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]気持ちよすぎる……うぅ……！"
+                                "\\nw[Prisoner]It feels so good...uhh...!"
                             ]
                         },
                         {
@@ -4466,7 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]どうして盗みを働いてしまったんですか？"
+                                "\\nw[Nonna]Why did you end up stealing?"
                             ]
                         },
                         {
@@ -4483,31 +4483,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]商人から盗んだって良いだろ！"
+                                "\\nw[Prisoner]It's fine to steal from those merchants! They're\njust money-grubbers, exploiting us for their own\ngain!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんな金の亡者、オレ達を食い物にして儲けてやがるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[囚人]あんな悪人共に何したって……\\|くぅ！"
+                                ""
                             ]
                         },
                         {
@@ -4524,14 +4507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]そうなんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "商人に何かされたんですか？"
+                                "\\nw[Prisoner]No matter what I do to those wicked people... ugh!"
                             ]
                         },
                         {
@@ -4548,14 +4524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]何かされたじゃねえ！"
+                                "\\nw[Nonna]Is that so? Did the merchants do something to you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あいつらがいるからオレ達がいつまでたっても貧乏なんだ！"
+                                ""
                             ]
                         },
                         {
@@ -4572,7 +4548,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]あんなやつら……"
+                                "\\nw[Prisoner]We're poor because of those guys! They're the\nreason we can never escape poverty!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Prisoner]Those guys..."
                             ]
                         },
                         {
@@ -4609,7 +4609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](長くなりそうだな……)"
+                                "\\nw[Taro](Seems like it's going to be a long one...)"
                             ]
                         },
                         {
@@ -4727,7 +4727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]ふぅふぅ、気持ちいい……！"
+                                "\\nw[Prisoner]Ahh, it feels so good...!"
                             ]
                         },
                         {
@@ -4744,7 +4744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]はい、気持ちを落ち着けてくださいね。"
+                                "\\nw[Nonna]Yes, please calm down."
                             ]
                         },
                         {
@@ -4862,7 +4862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]はぁはぁ……そうか、商人達も頑張っていて……"
+                                "\\nw[Prisoner]*Haa haa... I see, even the merchants are working\nhard...*"
                             ]
                         },
                         {
@@ -4879,7 +4879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]はい、みなさん頑張ってるんですよ"
+                                "\\nw[Nonna]Yes, everyone is working hard."
                             ]
                         },
                         {
@@ -4896,7 +4896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]でも、オレは……くぅ……！"
+                                "\\nw[Prisoner]But, I... kuuh...!"
                             ]
                         },
                         {
@@ -4922,7 +4922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](少し落ち着いてきたか……)"
+                                "\\nw[Taro](It seems to have calmed down a bit...)"
                             ]
                         },
                         {
@@ -5040,7 +5040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]悪いことをしてしまった……"
+                                "\\nw[Prisoner]I've done something bad..."
                             ]
                         },
                         {
@@ -5057,31 +5057,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]反省したのならこれから頑張りましょうね。"
+                                "\\nw[Nonna]If you've reflected on it, let's do our best from\nnow on. Look, I'll support you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほら、応援しますから"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[囚人]おっ、おおっ、気持ちいい……！"
+                                ""
                             ]
                         },
                         {
@@ -5098,14 +5081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]法を犯さないで稼いで来たら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店でサービスしますよ。"
+                                "\\nw[Prisoner]Oh, ohh, it feels so good...!"
                             ]
                         },
                         {
@@ -5122,7 +5098,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]ああ、これからは真面目に頑張るよ……うぅ！"
+                                "\\nw[Nonna]If you earn without breaking the law, I'll provide\nyou with some special services at the shop."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Prisoner]Ah, from now on, I'll do my best seriously... ugh!"
                             ]
                         },
                         {
@@ -5148,14 +5148,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](すっかり落ち着いたな……"
+                                "\\nw[Taro](You seem to have completely calmed down... Maybe\nit's because of the charm effect, but it's also\nthanks to Nonna's charisma...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魅了の効果もあるのかもしれないが、ノンナの人徳じゃ……)"
+                                ""
                             ]
                         },
                         {
@@ -5273,38 +5273,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]ノンナの中、最高だ……うぅ！"
+                                "\\nw[Prisoner]Inside Nonna, it's the best... ugh! Haa haa...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁはぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]あんっ♥あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、激しくして……んんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5321,14 +5297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]オレのためにここまでしてくれるなんて……"
+                                "\\nw[Nonna]Ah... Ah... More... more intense... Ahh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ、ううぅぅ……！"
+                                ""
                             ]
                         },
                         {
@@ -5345,14 +5321,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]私も気持ちいいですよ？"
+                                "\\nw[Prisoner]I can't believe you're doing this much for me...\nugh, ughhh...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんっ♥あんっ♥"
+                                "\\nw[Nonna]It feels good for me too, you know? Ahh ♥ Ahh ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5378,14 +5378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](盛り上がってるな……"
+                                "\\nw[Taro](Things are getting heated... Seeing Nonna being\nviolated... ugh!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ノンナが犯されてるところを見ると……くっ！)"
+                                ""
                             ]
                         },
                         {
@@ -5393,8 +5393,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "放っておく",
-                                    "やめさせる"
+                                    "Leave it be",
+                                    "Stop them"
                                 ],
                                 1,
                                 0,
@@ -5424,7 +5424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](まぁ、このまま続けさせておくか……)"
+                                "\\nw[Taro](Well, I guess I'll let it continue like this...)"
                             ]
                         },
                         {
@@ -5465,7 +5465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](兵士に言ってこの昼までで辞めさせるか……)"
+                                "\\nw[Taro](I'll tell the soldiers to quit by noon...)"
                             ]
                         },
                         {
@@ -5620,7 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]はぁはぁ、ノンナ、すごい……うっ、おおぉ……！"
+                                "\\nw[Prisoner]Haa...haa... Nonna, amazing... Ugh, ohhh...!"
                             ]
                         },
                         {
@@ -5637,14 +5637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]あんっ♥あんっ♥あんっ♥"
+                                "\\nw[Nonna]Ah...ah...ah... It's wonderful, fuah, ah♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "素敵よっ、ふあっ、あっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5762,38 +5762,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]ノンナ、ノンナ……！"
+                                "\\nw[Prisoner]Nonna, Nonna...! I love you, I love you...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "好きだ、好きだ……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]あんっ♥ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も貴方のおち〇ぽは素敵だと思います、あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5810,7 +5786,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]でも、法律を犯さない人じゃないと……んっ♥あんっ♥"
+                                "\\nw[Nonna]Ahh♥ Ahh♥ I also think your c*ck is wonderful,\nahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5827,7 +5810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]ノンナのためなら、真面目に……くっ、ううぅ！"
+                                "\\nw[Nonna]But, you have to be someone who doesn't break the\nlaw... mmm♥ ahn♥"
                             ]
                         },
                         {
@@ -5844,14 +5827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]あっ♥あんっ♥あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のためじゃなくて、ちゃんと自分で考えないと駄目よ？"
+                                "\\nw[Prisoner]For Nonna's sake, I'll be serious... ugh, uuhh!"
                             ]
                         },
                         {
@@ -5868,7 +5844,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]それは……"
+                                "\\nw[Nonna]Ahh♥ Ahh♥ Ahh♥ It's not just for my sake, you have\nto think for yourself properly, okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Prisoner]That is..."
                             ]
                         },
                         {
@@ -5894,14 +5894,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](エロって言うか、何か別なことをしてる気分だが……"
+                                "\\nw[Taro](It's not so much erotic, but it feels like doing\nsomething different... but Nonna's figure is\nsexy.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でもノンナの姿はエロいな)"
+                                ""
                             ]
                         },
                         {
@@ -5909,8 +5909,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "放っておく",
-                                    "やめさせる"
+                                    "Leave it alone",
+                                    "Stop them"
                                 ],
                                 1,
                                 0,
@@ -5940,7 +5940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](まぁ、このまま続けさせておくか……)"
+                                "\\nw[Taro](Well, I guess I'll let it continue like this...)"
                             ]
                         },
                         {
@@ -5981,7 +5981,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](兵士に言ってこの昼までで辞めさせるか……)"
+                                "\\nw[Taro](I'll tell the soldiers to quit by noon...)"
                             ]
                         },
                         {
@@ -6136,7 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]ノンナ、ノンナ……！"
+                                "\\nw[Prisoner]Nonna, Nonna...!"
                             ]
                         },
                         {
@@ -6153,14 +6153,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ふふっ、すっきりしたらしっかり考えてくださいね？"
+                                "\\nw[Nonna]Hehe, once you feel refreshed, please think\ncarefully, okay? Mmm, ahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んっ、あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -6278,7 +6278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]はぁはぁ……ノンナ、これでいいか……？"
+                                "\\nw[Prisoner]Haa... haa... Nonna, is this okay...?"
                             ]
                         },
                         {
@@ -6295,38 +6295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]んっ、あんっ♥"
+                                "\\nw[Nonna]Mmm, ahn♥ Oh yes, it feels really good, ahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ええ、とてもいいわよっ、あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]相手の事を気遣えるようになって偉いわ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んんっ、あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -6343,14 +6319,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]自分だけが良ければいいわけじゃないって"
+                                "\\nw[Nonna]It's impressive that you've become considerate of\nyour partner, mmm, ahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "教えて貰ったからな……おぉ……！"
+                                ""
                             ]
                         },
                         {
@@ -6367,14 +6343,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]良い子ね……んっ、あんっ♥"
+                                "\\nw[Prisoner]I was taught that it's not just about my own\npleasure... oh...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その調子よ……あんっ♥"
+                                "\\nw[Nonna]Good girl... mmm, ahn♥ Keep it up... ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6400,14 +6400,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](男の様子も乱暴なところがなくなってるな。"
+                                "\\nw[Taro](It seems like he no longer has any rough\nbehavior. Maybe he's already reformed?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これならもう更生は終わってるんじゃないか？)"
+                                ""
                             ]
                         },
                         {
@@ -6415,8 +6415,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "放っておく",
-                                    "やめさせる"
+                                    "Leave him alone",
+                                    "Stop him"
                                 ],
                                 1,
                                 0,
@@ -6446,7 +6446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](まぁ、更生してても続けてもいいか)"
+                                "\\nw[Taro](Well, even if he's reformed, I guess it's fine to\ncontinue.)"
                             ]
                         },
                         {
@@ -6487,7 +6487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](兵士に言ってこの昼までで辞めさせるか……)"
+                                "\\nw[Taro](Should I tell the soldiers to quit by noon...)"
                             ]
                         },
                         {
@@ -6642,7 +6642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[囚人]はぁはぁ……ノンナが認める立派な人間になってみせる！"
+                                "\\nw[Prisoner]Haa...haa... I'll show Nonna that I can become a\nrespectable human being!"
                             ]
                         },
                         {
@@ -6659,7 +6659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ふふっ、期待してるわ♥"
+                                "\\nw[Nonna]Hehe, I'm looking forward to it ♥"
                             ]
                         },
                         {
