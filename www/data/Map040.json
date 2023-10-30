@@ -3320,7 +3320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Heh, so you've traveled to various regions, huh?"
+                                "\\nw[\\N[1]]Heh, so you've traveled to various regions, huh?"
                             ]
                         },
                         {
@@ -3408,7 +3408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](The man who saved me from the monsters... You've\ncome to this town, huh?)"
+                                "\\nw[\\N[21]](The man who saved me from the monsters... You've\ncome to this town, huh?)"
                             ]
                         },
                         {
@@ -3461,7 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]There's a shop where I work nearby. It's open at\nnight, so please come visit."
+                                "\\nw[\\N[1]]There's a shop where I work nearby. It's open at\nnight, so please come visit."
                             ]
                         },
                         {
@@ -3485,7 +3485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Ikesu]Kuno's shop... is it a... nighttime establishment?\nI'm not really good with those kinds of places."
+                                "\\nw[Ikesu]\\N[1]'s shop... is it a... nighttime establishment?\nI'm not really good with those kinds of places."
                             ]
                         },
                         {
@@ -3538,7 +3538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It's okay, I'm not going to do anything."
+                                "\\nw[\\N[1]]It's okay, I'm not going to do anything."
                             ]
                         },
                         {
@@ -3555,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Well, it's a shop where people come expecting\nsomething to happen, but we can just have a drink\nand chat together if you prefer."
+                                "\\nw[\\N[1]]Well, it's a shop where people come expecting\nsomething to happen, but we can just have a drink\nand chat together if you prefer."
                             ]
                         },
                         {
@@ -3579,7 +3579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Normally, there would be a fee for requesting a\nspecific staff member, but I'll cover the fee for\nyou, my benefactor, Ikesu-san."
+                                "\\nw[\\N[1]]Normally, there would be a fee for requesting a\nspecific staff member, but I'll cover the fee for\nyou, my benefactor, Ikesu-san."
                             ]
                         },
                         {
@@ -3627,7 +3627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]If you'd like, please come. I also want to express\nmy gratitude."
+                                "\\nw[\\N[21]]If you'd like, please come. I also want to express\nmy gratitude."
                             ]
                         },
                         {
@@ -3680,7 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Oh, Taro."
+                                "\\nw[\\N[1]]Oh, \\N[21]."
                             ]
                         },
                         {
@@ -3714,7 +3714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Yes, that's right. I'll prepare delicious sake and\nsnacks for you."
+                                "\\nw[\\N[1]]Yes, that's right. I'll prepare delicious sake and\nsnacks for you."
                             ]
                         },
                         {
@@ -3800,7 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Thank goodness. I'll prepare everything properly\nand wait for you."
+                                "\\nw[\\N[1]]Thank goodness. I'll prepare everything properly\nand wait for you."
                             ]
                         },
                         {
@@ -3841,7 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Yes, I'll be looking forward to it."
+                                "\\nw[\\N[1]]Yes, I'll be looking forward to it."
                             ]
                         },
                         {
@@ -4012,7 +4012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Please let me guide you around the town next time."
+                                "\\nw[\\N[1]]Please let me guide you around the town next time."
                             ]
                         },
                         {

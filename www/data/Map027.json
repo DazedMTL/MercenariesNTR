@@ -3146,7 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]That huge body... that figure... the one from the\nneighboring country, Misura, one of the Aegis,\nEater!"
+                                "\\nw[\\N[21]]That huge body... that figure... the one from the\nneighboring country, Misura, one of the Aegis,\nEater!"
                             ]
                         },
                         {
@@ -3170,7 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Taro's parent's enemy... it's me!"
+                                "\\nw[\\N[1]]\\N[21]'s parent's enemy... it's me!"
                             ]
                         },
                         {
@@ -3934,7 +3934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No one is around... Could it be that all of our\nallies have been wiped out!?"
+                                "\\nw[\\N[21]]No one is around... Could it be that all of our\nallies have been wiped out!?"
                             ]
                         },
                         {
@@ -3998,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It doesn't matter, I'll take revenge!"
+                                "\\nw[\\N[1]]It doesn't matter, I'll take revenge!"
                             ]
                         },
                         {
@@ -4475,7 +4475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Gasp!?"
+                                "\\nw[\\N[1]]Gasp!?"
                             ]
                         },
                         {
@@ -4523,7 +4523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Too strong... Goboh...!"
+                                "\\nw[\\N[21]]Too strong... Goboh...!"
                             ]
                         },
                         {
@@ -4540,7 +4540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kuno, who hasn't even joined the battle, is lying\nthere motionless."
+                                "\\N[1], who hasn't even joined the battle, is lying\nthere motionless."
                             ]
                         },
                         {
@@ -4588,7 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Is this as far as it goes...!)"
+                                "\\nw[\\N[21]](Is this as far as it goes...!)"
                             ]
                         },
                         {
@@ -4643,7 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]...This...sound..."
+                                "\\nw[\\N[21]]...This...sound..."
                             ]
                         },
                         {
@@ -4740,7 +4740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]It's incredibly hard, the blade can't cut through\nit..."
+                                "\\nw[\\N[3]]It's incredibly hard, the blade can't cut through\nit..."
                             ]
                         },
                         {
@@ -4757,7 +4757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]......Nonna!? Why are you here!?"
+                                "\\nw[\\N[21]]......\\N[3]!? Why are you here!?"
                             ]
                         },
                         {
@@ -4781,7 +4781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I finished my work early and was worried, so I\ncame to check. And then I saw this..."
+                                "\\nw[\\N[3]]I finished my work early and was worried, so I\ncame to check. And then I saw this..."
                             ]
                         },
                         {
@@ -4909,7 +4909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I'll be the decoy. While I do that, take Kuno and\nrun away!"
+                                "\\nw[\\N[3]]I'll be the decoy. While I do that, take \\N[1] and\nrun away!"
                             ]
                         },
                         {
@@ -4933,7 +4933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Then, Nonna..."
+                                "\\nw[\\N[21]]Then, \\N[3]..."
                             ]
                         },
                         {
@@ -4950,7 +4950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]If I buy some time, I'll also withdraw. So hurry!"
+                                "\\nw[\\N[3]]If I buy some time, I'll also withdraw. So hurry!"
                             ]
                         },
                         {
@@ -4974,7 +4974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Understood...!"
+                                "\\nw[\\N[21]]Understood...!"
                             ]
                         },
                         {
@@ -4991,7 +4991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]\\{Enhancement Magic: Forced Limit Break!\\}"
+                                "\\nw[\\N[3]]\\{Enhancement Magic: Forced Limit Break!\\}"
                             ]
                         },
                         {
@@ -5086,7 +5086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The difference in power and endurance is\nincomparable, but it seems that Nonna is somehow\nholding on with her skills and speed."
+                                "The difference in power and endurance is\nincomparable, but it seems that \\N[3] is somehow\nholding on with her skills and speed."
                             ]
                         },
                         {
@@ -5141,7 +5141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Now's the chance... guh!"
+                                "\\nw[\\N[21]]Now's the chance... guh!"
                             ]
                         },
                         {
@@ -5158,7 +5158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The damage is too great, I can't even stand. But\nstill, I crawl towards Kuno."
+                                "The damage is too great, I can't even stand. But\nstill, I crawl towards \\N[1]."
                             ]
                         },
                         {
@@ -5258,7 +5258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah... Aahh...!"
+                                "\\nw[\\N[21]]Ah... Aahh...!"
                             ]
                         },
                         {
@@ -5275,7 +5275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was shocked when I saw Kuno. She is breathing\nweakly, but it doesn't seem like it will last\nlong."
+                                "I was shocked when I saw \\N[1]. She is breathing\nweakly, but it doesn't seem like it will last\nlong."
                             ]
                         },
                         {
@@ -5330,7 +5330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Unable to do anything, in the midst of such\ndespair, I held Kuno's hand. And then..."
+                                "Unable to do anything, in the midst of such\ndespair, I held \\N[1]'s hand. And then..."
                             ]
                         },
                         {
@@ -5361,7 +5361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]...I'm sorry...sorry."
+                                "\\nw[\\N[1]]...I'm sorry...sorry."
                             ]
                         },
                         {
@@ -5378,7 +5378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]!"
+                                "\\nw[\\N[21]]!"
                             ]
                         },
                         {
@@ -5395,7 +5395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]We... made a promise..."
+                                "\\nw[\\N[1]]We... made a promise..."
                             ]
                         },
                         {
@@ -5412,7 +5412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]......!"
+                                "\\nw[\\N[21]]......!"
                             ]
                         },
                         {
@@ -5429,7 +5429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I couldn't respond to those words. Kuno knows that\nI am completely helpless. The truth is, there is\nno way to help her."
+                                "I couldn't respond to those words. \\N[1] knows that\nI am completely helpless. The truth is, there is\nno way to help her."
                             ]
                         },
                         {
@@ -5517,7 +5517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Ugh... Too strong...! Both of you, run away\nquickly!"
+                                "\\nw[\\N[3]]Ugh... Too strong...! Both of you, run away\nquickly!"
                             ]
                         },
                         {
@@ -5541,7 +5541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]......"
+                                "\\nw[\\N[21]]......"
                             ]
                         },
                         {
@@ -5558,7 +5558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]It's impossible..."
+                                "\\nw[\\N[21]]It's impossible..."
                             ]
                         },
                         {
@@ -5575,7 +5575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Don't give up!"
+                                "\\nw[\\N[3]]Don't give up!"
                             ]
                         },
                         {
@@ -5592,7 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No... with this wound... Kuno..."
+                                "\\nw[\\N[21]]No... with this wound... \\N[1]..."
                             ]
                         },
                         {
@@ -5609,7 +5609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]......!"
+                                "\\nw[\\N[3]]......!"
                             ]
                         },
                         {
@@ -5664,7 +5664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nonna's anguish comes through. However, even so,\nshe quickly made a decisive judgment like a\nseasoned mercenary."
+                                "\\N[3]'s anguish comes through. However, even so,\nshe quickly made a decisive judgment like a\nseasoned mercenary."
                             ]
                         },
                         {
@@ -5695,7 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]In that case, even if it's alone, run away!"
+                                "\\nw[\\N[3]]In that case, even if it's alone, run away!"
                             ]
                         },
                         {
@@ -5712,7 +5712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]There's no way..."
+                                "\\nw[\\N[21]]There's no way..."
                             ]
                         },
                         {
@@ -5765,7 +5765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]......huh!"
+                                "\\nw[\\N[3]]......huh!"
                             ]
                         },
                         {
@@ -5838,7 +5838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Goa"
+                                "\\nw[\\N[3]]Goa"
                             ]
                         },
                         {
@@ -5912,7 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Eater's attack couldn't be completely avoided\nand hit Nonna's leg. The Eater then launched\nanother attack at Nonna, causing her body to be\nblown away like a ball and roll nearby."
+                                "The Eater's attack couldn't be completely avoided\nand hit \\N[3]'s leg. The Eater then launched\nanother attack at \\N[3], causing her body to be\nblown away like a ball and roll nearby."
                             ]
                         },
                         {
@@ -5943,7 +5943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Nonna!!"
+                                "\\nw[\\N[21]]\\N[3]!!"
                             ]
                         },
                         {
@@ -6027,7 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]............"
+                                "\\nw[\\N[3]]............"
                             ]
                         },
                         {
@@ -6044,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nonna's lower body was crushed like paper. It\nseems that her head also hit the ground when she\nlanded, as blood is flowing from her head."
+                                "\\N[3]'s lower body was crushed like paper. It\nseems that her head also hit the ground when she\nlanded, as blood is flowing from her head."
                             ]
                         },
                         {
@@ -6092,7 +6092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah... aah... ah..."
+                                "\\nw[\\N[21]]Ah... aah... ah..."
                             ]
                         },
                         {
@@ -6109,7 +6109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Aaaaaaaaahhhhhhhhhhhh!!!!!!"
+                                "\\nw[\\N[21]]Aaaaaaaaahhhhhhhhhhhh!!!!!!"
                             ]
                         },
                         {
@@ -6169,7 +6169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Kuno... Nonna..."
+                                "\\nw[\\N[21]]\\N[1]... \\N[3]..."
                             ]
                         },
                         {
@@ -6281,7 +6281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]......"
+                                "\\nw[\\N[21]]......"
                             ]
                         },
                         {
@@ -6370,7 +6370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro].................."
+                                "\\nw[\\N[21]].................."
                             ]
                         },
                         {
@@ -6418,7 +6418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]......! I-Is that true!?"
+                                "\\nw[\\N[21]]......! I-Is that true!?"
                             ]
                         },
                         {
@@ -6581,7 +6581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Alright, I understand. How can I become a\ncontractor?"
+                                "\\nw[\\N[21]]Alright, I understand. How can I become a\ncontractor?"
                             ]
                         },
                         {
@@ -6758,7 +6758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ugh..."
+                                "\\nw[\\N[21]]Ugh..."
                             ]
                         },
                         {

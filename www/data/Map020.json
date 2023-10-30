@@ -3700,7 +3700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is it alright if I call you Taro?"
+                                "Is it alright if I call you \\N[21]?"
                             ]
                         },
                         {
@@ -3777,7 +3777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I am Taro. I work as a mercenary."
+                                "\\nw[\\N[21]]I am \\N[21]. I work as a mercenary."
                             ]
                         },
                         {
@@ -3865,7 +3865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]You..."
+                                "\\nw[\\N[21]]You..."
                             ]
                         },
                         {
@@ -3902,7 +3902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is it alright if I call you Kuno?"
+                                "Is it alright if I call you \\N[1]?"
                             ]
                         },
                         {
@@ -3979,7 +3979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]You're Kuno, right? My childhood friend and lover."
+                                "\\nw[\\N[21]]You're \\N[1], right? My childhood friend and lover."
                             ]
                         },
                         {
@@ -4043,7 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]You seem fine. We're about to go in, but do you\nunderstand the situation?"
+                                "\\nw[\\N[1]]You seem fine. We're about to go in, but do you\nunderstand the situation?"
                             ]
                         },
                         {
@@ -4067,7 +4067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, it's a bandit extermination. I understand. I\ntook a nap to rest until it's time for a surprise\nattack."
+                                "\\nw[\\N[21]]Ah, it's a bandit extermination. I understand. I\ntook a nap to rest until it's time for a surprise\nattack."
                             ]
                         },
                         {
@@ -4091,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Well, that's good. It's about time..."
+                                "\\nw[\\N[1]]Well, that's good. It's about time..."
                             ]
                         },
                         {
@@ -4308,7 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[???]I've eliminated the lookout. Taro..."
+                                "\\nw[???]I've eliminated the lookout. \\N[21]..."
                             ]
                         },
                         {
@@ -4398,7 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]What's wrong? Are you spacing out again? Are you\nstill half asleep?"
+                                "\\nw[\\N[1]]What's wrong? Are you spacing out again? Are you\nstill half asleep?"
                             ]
                         },
                         {
@@ -4422,7 +4422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, it's okay. She..."
+                                "\\nw[\\N[21]]No, it's okay. She..."
                             ]
                         },
                         {
@@ -4466,7 +4466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is it alright if I call you Nonna?"
+                                "Is it alright if I call you \\N[3]?"
                             ]
                         },
                         {
@@ -4543,7 +4543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Good morning, Nonna. Don't worry, everything's\nfine."
+                                "\\nw[\\N[21]]Good morning, \\N[3]. Don't worry, everything's\nfine."
                             ]
                         },
                         {
@@ -4607,7 +4607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Is that so? Even though it's been a while since\nwe've worked together, don't let your guard down."
+                                "\\nw[\\N[3]]Is that so? Even though it's been a while since\nwe've worked together, don't let your guard down."
                             ]
                         },
                         {
@@ -4631,7 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]We should have time until the guard change, but\nunexpected situations can happen, so let's hurry."
+                                "\\nw[\\N[3]]We should have time until the guard change, but\nunexpected situations can happen, so let's hurry."
                             ]
                         },
                         {
@@ -4655,7 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I understand. It's a bandit capture, right."
+                                "\\nw[\\N[21]]I understand. It's a bandit capture, right."
                             ]
                         },
                         {

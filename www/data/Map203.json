@@ -2401,7 +2401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And now Kuno has been requested. Curious, I\ndecided to observe the situation."
+                                "And now \\N[1] has been requested. Curious, I\ndecided to observe the situation."
                             ]
                         },
                         {
@@ -2688,7 +2688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]How was it? Does it seem like you're okay working\nhere?"
+                                "\\nw[\\N[21]]How was it? Does it seem like you're okay working\nhere?"
                             ]
                         },
                         {
@@ -2734,7 +2734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It's okay, we just talked and that was it."
+                                "\\nw[\\N[1]]It's okay, we just talked and that was it."
                             ]
                         },
                         {
@@ -2751,7 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]How was the person you were requested by?"
+                                "\\nw[\\N[21]]How was the person you were requested by?"
                             ]
                         },
                         {
@@ -2768,7 +2768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]That person seemed like someone from a pretty big\ntrading company. They said they liked it here and\nthat they would come again."
+                                "\\nw[\\N[1]]That person seemed like someone from a pretty big\ntrading company. They said they liked it here and\nthat they would come again."
                             ]
                         },
                         {
@@ -2792,7 +2792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]I've only met them once, so I'm not sure yet, but\nthey seemed quite gentlemanly. Though their\nperfume scent was a bit strong."
+                                "\\nw[\\N[1]]I've only met them once, so I'm not sure yet, but\nthey seemed quite gentlemanly. Though their\nperfume scent was a bit strong."
                             ]
                         },
                         {
@@ -2823,7 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see, in that case, they might become a good\ncustomer."
+                                "\\nw[\\N[21]]I see, in that case, they might become a good\ncustomer."
                             ]
                         },
                         {
@@ -2840,7 +2840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](But if it means Kuno will be embraced by a good\ncustomer, I wonder if I'll get excited...?)"
+                                "\\nw[\\N[21]](But if it means \\N[1] will be embraced by a good\ncustomer, I wonder if I'll get excited...?)"
                             ]
                         },
                         {
@@ -2864,7 +2864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](......)"
+                                "\\nw[\\N[21]](......)"
                             ]
                         },
                         {
@@ -2893,7 +2893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In the end, that week, the merchant requested Kuno\nalmost every day."
+                                "In the end, that week, the merchant requested \\N[1]\nalmost every day."
                             ]
                         },
                         {

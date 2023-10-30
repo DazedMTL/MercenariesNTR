@@ -8143,7 +8143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]This is the entrance to the underground... I\nsuppose."
+                                "\\nw[\\N[21]]This is the entrance to the underground... I\nsuppose."
                             ]
                         },
                         {
@@ -8200,7 +8200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]The water level has been shallow all the way here.\nBut it's worrisome to be underground with loose\nsoil in a marshy area, isn't it?"
+                                "\\nw[\\N[3]]The water level has been shallow all the way here.\nBut it's worrisome to be underground with loose\nsoil in a marshy area, isn't it?"
                             ]
                         },
                         {
@@ -8224,7 +8224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Hmm... The location of the monsters is definitely\nbelow, huh."
+                                "\\nw[\\N[21]]Hmm... The location of the monsters is definitely\nbelow, huh."
                             ]
                         },
                         {
@@ -8241,7 +8241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]If the water level is shallow, it's highly likely\nthat we're underground. But I don't understand why\nwe came all the way to this place after Rodrigo\nwas attacked in the first place."
+                                "\\nw[\\N[21]]If the water level is shallow, it's highly likely\nthat we're underground. But I don't understand why\nwe came all the way to this place after Rodrigo\nwas attacked in the first place."
                             ]
                         },
                         {
@@ -8265,7 +8265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Even if this is their nest, it's too far from\nwhere they attacked."
+                                "\\nw[\\N[21]]Even if this is their nest, it's too far from\nwhere they attacked."
                             ]
                         },
                         {
@@ -8322,7 +8322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]That's right. Their movements are unnatural for a\nstray. We should consider the possibility that the\nmonsters are familiars with a master."
+                                "\\nw[\\N[3]]That's right. Their movements are unnatural for a\nstray. We should consider the possibility that the\nmonsters are familiars with a master."
                             ]
                         },
                         {
@@ -8346,7 +8346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Seriously... If that's the case, it's\ntroublesome..."
+                                "\\nw[\\N[21]]Seriously... If that's the case, it's\ntroublesome..."
                             ]
                         },
                         {
@@ -8363,7 +8363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]What are we going to do?"
+                                "\\nw[\\N[3]]What are we going to do?"
                             ]
                         },
                         {
@@ -8380,7 +8380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Yeah... For now, let's have one person go down for\nreconnaissance and if it seems safe, we'll proceed\nwith the exploration."
+                                "\\nw[\\N[21]]Yeah... For now, let's have one person go down for\nreconnaissance and if it seems safe, we'll proceed\nwith the exploration."
                             ]
                         },
                         {
@@ -8404,7 +8404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Uka and Nonna have sharp senses for scouting.\nLet's leave it to them. Also, be cautious of traps\nas there is a possibility of encountering\nintelligent opponents."
+                                "\\nw[\\N[21]]Uka and \\N[3] have sharp senses for scouting.\nLet's leave it to them. Also, be cautious of traps\nas there is a possibility of encountering\nintelligent opponents."
                             ]
                         },
                         {
@@ -8428,7 +8428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Understood."
+                                "\\nw[\\N[3]]Understood."
                             ]
                         },
                         {
@@ -8502,7 +8502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Make sure Thorz and Yellow are always ready to\nmove."
+                                "\\nw[\\N[21]]Make sure Thorz and Yellow are always ready to\nmove."
                             ]
                         },
                         {
@@ -8553,7 +8553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Well then, let's go."
+                                "\\nw[\\N[21]]Well then, let's go."
                             ]
                         },
                         {
@@ -8611,7 +8611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]The walls and ceiling seem sturdy. It doesn't look\nlike a man-made structure... but it feels\nunnatural for something natural to be found\nunderground in a swamp."
+                                "\\nw[\\N[21]]The walls and ceiling seem sturdy. It doesn't look\nlike a man-made structure... but it feels\nunnatural for something natural to be found\nunderground in a swamp."
                             ]
                         },
                         {
@@ -8682,7 +8682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Maybe the power of the spirits is strong."
+                                "\\nw[\\N[3]]Maybe the power of the spirits is strong."
                             ]
                         },
                         {
@@ -8699,7 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]The monsters we're chasing are still further down.\nShall we give it a try and explore?"
+                                "\\nw[\\N[21]]The monsters we're chasing are still further down.\nShall we give it a try and explore?"
                             ]
                         },
                         {

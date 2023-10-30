@@ -13375,7 +13375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]There are monsters in this location again... I\nwonder if there's something here."
+                                "\\nw[\\N[1]]There are monsters in this location again... I\nwonder if there's something here."
                             ]
                         },
                         {
@@ -13423,7 +13423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]I see."
+                                "\\nw[\\N[1]]I see."
                             ]
                         },
                         {
@@ -13440,7 +13440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]It seems like there won't be any problems going\nfurther in, but since today's objective is the\nexam, I'll return here."
+                                "\\nw[\\N[1]]It seems like there won't be any problems going\nfurther in, but since today's objective is the\nexam, I'll return here."
                             ]
                         },
                         {
@@ -13481,7 +13481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Isn't it fine? You seem to have the strength and\nexperience to match your appearance, even more so\nthan me."
+                                "\\nw[\\N[1]]Isn't it fine? You seem to have the strength and\nexperience to match your appearance, even more so\nthan me."
                             ]
                         },
                         {
@@ -13505,7 +13505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]For now, it won't become a menial task, right?"
+                                "\\nw[\\N[1]]For now, it won't become a menial task, right?"
                             ]
                         },
                         {
@@ -13539,7 +13539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]There are monsters here and our small talk is\nover. I'll return to the town."
+                                "\\nw[\\N[1]]There are monsters here and our small talk is\nover. I'll return to the town."
                             ]
                         },
                         {
@@ -14153,7 +14153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Look, we've arrived. The exam will start from\nhere."
+                                "\\nw[\\N[1]]Look, we've arrived. The exam will start from\nhere."
                             ]
                         },
                         {
@@ -14194,7 +14194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It's probably an exam for that confirmation. Even\nif I join the mercenary group, it would be\ntroublesome if I'm not useful."
+                                "\\nw[\\N[1]]It's probably an exam for that confirmation. Even\nif I join the mercenary group, it would be\ntroublesome if I'm not useful."
                             ]
                         },
                         {
@@ -14218,7 +14218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]The content of the exam is to battle the monsters\nhere. Since I'll be fighting together, let's see\nif we can coordinate with each other."
+                                "\\nw[\\N[1]]The content of the exam is to battle the monsters\nhere. Since I'll be fighting together, let's see\nif we can coordinate with each other."
                             ]
                         },
                         {
@@ -14242,7 +14242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Pray said that even if you're too weak, you won't\nfail, but at that time, you'll probably be\nassigned to menial tasks. The salary is also based\non performance, so it will be low."
+                                "\\nw[\\N[1]]Pray said that even if you're too weak, you won't\nfail, but at that time, you'll probably be\nassigned to menial tasks. The salary is also based\non performance, so it will be low."
                             ]
                         },
                         {
@@ -14273,7 +14273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]It's more like an entrance exam, or rather a\nconfirmation of our abilities. But the examiner is\nKuno, right?"
+                                "\\nw[Rodrigo]It's more like an entrance exam, or rather a\nconfirmation of our abilities. But the examiner is\n\\N[1], right?"
                             ]
                         },
                         {
@@ -14297,7 +14297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Is there something you want to say?"
+                                "\\nw[\\N[1]]Is there something you want to say?"
                             ]
                         },
                         {
@@ -14378,7 +14378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Ah, about us loving each other... that was..."
+                                "\\nw[\\N[1]]Ah, about us loving each other... that was..."
                             ]
                         },
                         {
@@ -14435,7 +14435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]A-anyway, there's no problem with me being the\nexaminer! I'll be watching closely, so take it\nseriously!"
+                                "\\nw[\\N[1]]A-anyway, there's no problem with me being the\nexaminer! I'll be watching closely, so take it\nseriously!"
                             ]
                         },
                         {
@@ -14516,7 +14516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Of course, it's dangerous to recover magic power\nin a place where there are no allies and monsters\nappear, so that will be deducted points, right?"
+                                "\\nw[\\N[1]]Of course, it's dangerous to recover magic power\nin a place where there are no allies and monsters\nappear, so that will be deducted points, right?"
                             ]
                         },
                         {

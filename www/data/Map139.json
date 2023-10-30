@@ -5541,7 +5541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]You seem quite relaxed. After putting me through\nthat..."
+                                "\\nw[\\N[21]]You seem quite relaxed. After putting me through\nthat..."
                             ]
                         },
                         {
@@ -5582,7 +5582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Is it not worth worrying about?"
+                                "\\nw[\\N[21]]Is it not worth worrying about?"
                             ]
                         },
                         {
@@ -5994,7 +5994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]...The conversation isn't making sense..."
+                                "\\nw[\\N[21]]...The conversation isn't making sense..."
                             ]
                         },
                         {
@@ -6407,7 +6407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]The conversation isn't making sense, and it seems\nlike we might not be able to communicate well.\nMaybe it's better to catch you first and then hear\nwhat you have to say."
+                                "\\nw[\\N[21]]The conversation isn't making sense, and it seems\nlike we might not be able to communicate well.\nMaybe it's better to catch you first and then hear\nwhat you have to say."
                             ]
                         },
                         {
@@ -6513,7 +6513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]It doesn't seem like you'll come quietly... Oh\nwell, I have no choice but to restrain you."
+                                "\\nw[\\N[21]]It doesn't seem like you'll come quietly... Oh\nwell, I have no choice but to restrain you."
                             ]
                         },
                         {
@@ -6904,7 +6904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Damn it, they escaped."
+                                "\\nw[\\N[21]]Damn it, they escaped."
                             ]
                         },
                         {
@@ -6985,7 +6985,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]That may be true, but..."
+                                "\\nw[\\N[21]]That may be true, but..."
                             ]
                         },
                         {
@@ -7058,7 +7058,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]The ground is shaking..."
+                                "\\nw[\\N[21]]The ground is shaking..."
                             ]
                         },
                         {
@@ -7146,7 +7146,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Seriously... Damn it, let's hurry!"
+                                "\\nw[\\N[21]]Seriously... Damn it, let's hurry!"
                             ]
                         },
                         {

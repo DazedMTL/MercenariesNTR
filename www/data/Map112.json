@@ -2323,7 +2323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should we make Kuno work at a brothel today...?\n(It has been decided that she will work)"
+                                "Should we make \\N[1] work at a brothel today...?\n(It has been decided that she will work)"
                             ]
                         },
                         {
@@ -2605,7 +2605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should we let Kuno work at a brothel today...?\n(Currently, she is not allowed to work)"
+                                "Should we let \\N[1] work at a brothel today...?\n(Currently, she is not allowed to work)"
                             ]
                         },
                         {
@@ -3151,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should we make Nonna work at a brothel today...?\n(Currently, it has been decided that she will\nwork)"
+                                "Should we make \\N[3] work at a brothel today...?\n(Currently, it has been decided that she will\nwork)"
                             ]
                         },
                         {
@@ -3299,7 +3299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should we let Nonna work at a brothel today...?\n(Currently, she is not allowed to work)"
+                                "Should we let \\N[3] work at a brothel today...?\n(Currently, she is not allowed to work)"
                             ]
                         },
                         {
@@ -4397,7 +4397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is inside Taro's head. Here, we will set the\npeople who work in the adult entertainment\nindustry tonight."
+                                "This is inside \\N[21]'s head. Here, we will set the\npeople who work in the adult entertainment\nindustry tonight."
                             ]
                         },
                         {

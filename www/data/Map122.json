@@ -3294,7 +3294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]What is this? Does Prae know?"
+                                "\\nw[\\N[21]]What is this? Does Prae know?"
                             ]
                         },
                         {
@@ -3352,7 +3352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Do you understand?"
+                                "\\nw[\\N[21]]Do you understand?"
                             ]
                         },
                         {
@@ -3417,7 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see... I guess we have no choice but to proceed\nfor now."
+                                "\\nw[\\N[21]]I see... I guess we have no choice but to proceed\nfor now."
                             ]
                         },
                         {
@@ -3774,7 +3774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Looks like the entrance..."
+                                "\\nw[\\N[21]]Looks like the entrance..."
                             ]
                         },
                         {
@@ -3800,7 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I've been exploring the dungeon for a long time,\nso let's go back to the inn and take a break."
+                                "\\nw[\\N[21]]I've been exploring the dungeon for a long time,\nso let's go back to the inn and take a break."
                             ]
                         },
                         {
@@ -3864,7 +3864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Hey, I have something to talk about when we get\nback to the inn..."
+                                "\\nw[\\N[1]]Hey, I have something to talk about when we get\nback to the inn..."
                             ]
                         },
                         {
@@ -3881,7 +3881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, ah... I understand."
+                                "\\nw[\\N[21]]Ah, ah... I understand."
                             ]
                         },
                         {

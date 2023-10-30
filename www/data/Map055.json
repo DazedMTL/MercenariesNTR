@@ -2749,7 +2749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]This is the starting point for climbing, right?"
+                                "\\nw[\\N[1]]This is the starting point for climbing, right?"
                             ]
                         },
                         {
@@ -2766,7 +2766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Yeah... I've never been around here before, so I\nhave no idea about the terrain."
+                                "\\nw[\\N[21]]Yeah... I've never been around here before, so I\nhave no idea about the terrain."
                             ]
                         },
                         {
@@ -2790,7 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Let's climb while being careful not to overlook\nany people."
+                                "\\nw[\\N[21]]Let's climb while being careful not to overlook\nany people."
                             ]
                         },
                         {

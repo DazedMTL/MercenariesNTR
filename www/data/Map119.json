@@ -2736,9 +2736,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Kuno",
+                                    "\\N[1]",
                                     "Uka",
-                                    "Nonna",
+                                    "\\N[3]",
                                     "Fross",
                                     "Shia",
                                     "I'll stop after all"
@@ -4322,7 +4322,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Are you okay with joining a different religion's\nchurch?"
+                                "\\nw[\\N[21]]Are you okay with joining a different religion's\nchurch?"
                             ]
                         },
                         {

@@ -2228,7 +2228,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kuno x Villager, put to sleep with magic is an\nevent that I have seen before. Would you like to\nskip the event?"
+                                "\\N[1] x Villager, put to sleep with magic is an\nevent that I have seen before. Would you like to\nskip the event?"
                             ]
                         },
                         {
@@ -2406,7 +2406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]We're done with the harvest here. What should we\ndo next?"
+                                "\\nw[\\N[1]]We're done with the harvest here. What should we\ndo next?"
                             ]
                         },
                         {
@@ -2517,7 +2517,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Oh, but it's already evening? Aren't your parents\nworried?"
+                                "\\nw[\\N[1]]Oh, but it's already evening? Aren't your parents\nworried?"
                             ]
                         },
                         {
@@ -2558,7 +2558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Well..."
+                                "\\nw[\\N[1]]Well..."
                             ]
                         },
                         {
@@ -2633,7 +2633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Yes, see you tomorrow."
+                                "\\nw[\\N[1]]Yes, see you tomorrow."
                             ]
                         },
                         {
@@ -2669,7 +2669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Newlywed Man]The children have really grown fond of you. It\nwould be helpful if Kuno could live in the\nvillage."
+                                "\\nw[Newlywed Man]The children have really grown fond of you. It\nwould be helpful if \\N[1] could live in the\nvillage."
                             ]
                         },
                         {
@@ -2722,7 +2722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Ahaha, if that happens, it seems like we can\nexpand the fields a little more."
+                                "\\nw[\\N[1]]Ahaha, if that happens, it seems like we can\nexpand the fields a little more."
                             ]
                         },
                         {
@@ -2804,7 +2804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Just having a roof is enough. As a mercenary, I'm\nused to camping out."
+                                "\\nw[\\N[1]]Just having a roof is enough. As a mercenary, I'm\nused to camping out."
                             ]
                         },
                         {
@@ -2953,7 +2953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Thank you for the meal. It was really delicious."
+                                "\\nw[\\N[1]]Thank you for the meal. It was really delicious."
                             ]
                         },
                         {
@@ -4607,7 +4607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Nn... Suu..."
+                                "\\nw[\\N[1]]Nn... Suu..."
                             ]
                         },
                         {
@@ -4715,7 +4715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Nnn... Fuu..."
+                                "\\nw[\\N[1]]Nnn... Fuu..."
                             ]
                         },
                         {

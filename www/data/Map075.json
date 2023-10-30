@@ -2427,7 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Make sure to rest well."
+                                "\\nw[\\N[1]]Make sure to rest well."
                             ]
                         },
                         {
@@ -2537,7 +2537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]...I guess there's no other choice, just this\nonce..."
+                                "\\nw[\\N[1]]...I guess there's no other choice, just this\nonce..."
                             ]
                         },
                         {
@@ -2972,7 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]You should rest when you have the chance."
+                                "\\nw[\\N[3]]You should rest when you have the chance."
                             ]
                         },
                         {
@@ -3082,7 +3082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]...Yes, leave it to me."
+                                "\\nw[\\N[3]]...Yes, leave it to me."
                             ]
                         },
                         {

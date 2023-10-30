@@ -4019,7 +4019,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "[Kuno] was raped by [Nonna] while on the quest."
+                                "[\\N[1]] was raped by [\\N[3]] while on the quest."
                             ]
                         },
                         {
@@ -4064,7 +4064,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "[Nonna] was raped by [Kuno] while on the quest."
+                                "[\\N[3]] was raped by [\\N[1]] while on the quest."
                             ]
                         },
                         {

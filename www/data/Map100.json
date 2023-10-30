@@ -3086,7 +3086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Ugh... What is this sound?)"
+                                "\\nw[\\N[21]](Ugh... What is this sound?)"
                             ]
                         },
                         {
@@ -3389,7 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Shia!?"
+                                "\\nw[\\N[21]]Shia!?"
                             ]
                         },
                         {
@@ -3406,7 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]O-Oh, are you okay!?"
+                                "\\nw[\\N[21]]O-Oh, are you okay!?"
                             ]
                         },
                         {
@@ -3432,7 +3432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Are you breathing...? Thank goodness."
+                                "\\nw[\\N[21]]Are you breathing...? Thank goodness."
                             ]
                         },
                         {
@@ -3449,7 +3449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]However... where is this place?"
+                                "\\nw[\\N[21]]However... where is this place?"
                             ]
                         },
                         {
@@ -3466,7 +3466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](If I remember correctly, the monster broke\nthrough the ship's wall and pulled Shia into the\nsea, and I tried to save her... I'm pretty sure I\ndefeated the monster.)"
+                                "\\nw[\\N[21]](If I remember correctly, the monster broke\nthrough the ship's wall and pulled Shia into the\nsea, and I tried to save her... I'm pretty sure I\ndefeated the monster.)"
                             ]
                         },
                         {
@@ -3490,7 +3490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](After that, we somehow managed to swim and aim\nfor the island... It seems like we lost\nconsciousness...)"
+                                "\\nw[\\N[21]](After that, we somehow managed to swim and aim\nfor the island... It seems like we lost\nconsciousness...)"
                             ]
                         },
                         {
@@ -3514,7 +3514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](How did we end up here? It's not like Shia can\nswim... Was it just incredible luck?)"
+                                "\\nw[\\N[21]](How did we end up here? It's not like Shia can\nswim... Was it just incredible luck?)"
                             ]
                         },
                         {
@@ -3555,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Shia?"
+                                "\\nw[\\N[21]]Shia?"
                             ]
                         },
                         {
@@ -3659,7 +3659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]Taro...?"
+                                "\\nw[Shia]\\N[21]...?"
                             ]
                         },
                         {
@@ -3676,7 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Are you okay?"
+                                "\\nw[\\N[21]]Are you okay?"
                             ]
                         },
                         {
@@ -3710,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]It's only natural since we were in the sea... How\ncan we warm up..."
+                                "\\nw[\\N[21]]It's only natural since we were in the sea... How\ncan we warm up..."
                             ]
                         },
                         {
@@ -3734,7 +3734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae's voice]Taro, can you hear me?"
+                                "\\nw[Prae's voice]\\N[21], can you hear me?"
                             ]
                         },
                         {
@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Prae!? Oh right, she can communicate and see\nwhat's happening over here."
+                                "\\nw[\\N[21]]Prae!? Oh right, she can communicate and see\nwhat's happening over here."
                             ]
                         },
                         {
@@ -3806,7 +3806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, ah... I understand."
+                                "\\nw[\\N[21]]Ah, ah... I understand."
                             ]
                         },
                         {
@@ -3823,7 +3823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Shia, I'm going to hug you for a bit..."
+                                "\\nw[\\N[21]]Shia, I'm going to hug you for a bit..."
                             ]
                         },
                         {
@@ -3992,7 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, there should be someone I can communicate\nwith. I'm pretty sure they could see what was\nhappening with me, Kuno, and Nonna."
+                                "\\nw[\\N[21]]No, there should be someone I can communicate\nwith. I'm pretty sure they could see what was\nhappening with me, \\N[1], and \\N[3]."
                             ]
                         },
                         {
@@ -4033,7 +4033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Even when I hug her, she doesn't react at all...\nIs it because her body is cold, or is it just her\nnature...)"
+                                "\\nw[\\N[21]](Even when I hug her, she doesn't react at all...\nIs it because her body is cold, or is it just her\nnature...)"
                             ]
                         },
                         {
@@ -4153,7 +4153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Understood. Shia, can you walk?"
+                                "\\nw[\\N[21]]Understood. Shia, can you walk?"
                             ]
                         },
                         {
@@ -4201,7 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see, then let's go to the center of the island.\nIt seems like this is our destination, and there\nis a temple there."
+                                "\\nw[\\N[21]]I see, then let's go to the center of the island.\nIt seems like this is our destination, and there\nis a temple there."
                             ]
                         },
                         {
@@ -4225,7 +4225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]It's tough for me to fight against monsters in my\ncurrent state..."
+                                "\\nw[\\N[21]]It's tough for me to fight against monsters in my\ncurrent state..."
                             ]
                         },
                         {
@@ -4749,7 +4749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]We've arrived on this island, right? Where should\nwe go?"
+                                "\\nw[\\N[1]]We've arrived on this island, right? Where should\nwe go?"
                             ]
                         },
                         {
@@ -4797,7 +4797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Understood."
+                                "\\nw[\\N[1]]Understood."
                             ]
                         },
                         {
@@ -4814,7 +4814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It seems like we should go straight, everyone."
+                                "\\nw[\\N[1]]It seems like we should go straight, everyone."
                             ]
                         },
                         {
@@ -4871,7 +4871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]There doesn't seem to be any sign of monsters.\nLet's leave the ship's security to the guys and go\npick up Taro."
+                                "\\nw[\\N[3]]There doesn't seem to be any sign of monsters.\nLet's leave the ship's security to the guys and go\npick up \\N[21]."
                             ]
                         },
                         {

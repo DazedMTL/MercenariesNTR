@@ -13488,7 +13488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is that a monster blocking the road? It certainly\nlooks strong..."
+                                "\\nw[\\N[21]]Is that a monster blocking the road? It certainly\nlooks strong..."
                             ]
                         },
                         {
@@ -13552,7 +13552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]We should defeat it. It seems like it's our\nmercenary group's job to exterminate the monsters\naround that town and ensure its safety."
+                                "\\nw[\\N[1]]We should defeat it. It seems like it's our\nmercenary group's job to exterminate the monsters\naround that town and ensure its safety."
                             ]
                         },
                         {
@@ -13583,7 +13583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Come to think of it, that's right. The monsters\ncoming towards the town and the soldiers guarding\nthe town, it was the mercenary group that thins\nout the monsters on the outskirts."
+                                "\\nw[\\N[21]]Come to think of it, that's right. The monsters\ncoming towards the town and the soldiers guarding\nthe town, it was the mercenary group that thins\nout the monsters on the outskirts."
                             ]
                         },
                         {
@@ -13621,7 +13621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Alright. Let's defeat it once we're ready."
+                                "\\nw[\\N[21]]Alright. Let's defeat it once we're ready."
                             ]
                         },
                         {

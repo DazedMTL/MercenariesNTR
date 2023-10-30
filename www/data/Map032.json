@@ -3184,7 +3184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Judging from the name, it sounds suspicious... I\nwonder if it's safe."
+                                "\\nw[\\N[1]]Judging from the name, it sounds suspicious... I\nwonder if it's safe."
                             ]
                         },
                         {
@@ -3248,7 +3248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]There might be a cooking method that can remove\nthe poison."
+                                "\\nw[\\N[3]]There might be a cooking method that can remove\nthe poison."
                             ]
                         },
                         {
@@ -3322,7 +3322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Just because there are a lot of them, doesn't mean\nyou should eat them, okay? It can be dangerous if\nthe poison spreads."
+                                "\\nw[\\N[3]]Just because there are a lot of them, doesn't mean\nyou should eat them, okay? It can be dangerous if\nthe poison spreads."
                             ]
                         },
                         {
@@ -3403,7 +3403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I'll give you something proper to eat later, so\nplease behave for now."
+                                "\\nw[\\N[21]]I'll give you something proper to eat later, so\nplease behave for now."
                             ]
                         },
                         {
@@ -3444,7 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Well then, I guess I'll head home for today."
+                                "\\nw[\\N[21]]Well then, I guess I'll head home for today."
                             ]
                         },
                         {
@@ -3461,7 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Yes, let's go home."
+                                "\\nw[\\N[3]]Yes, let's go home."
                             ]
                         },
                         {

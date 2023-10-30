@@ -15359,7 +15359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Oh, there's no door this time. This should be\nnormal..."
+                                "\\nw[\\N[21]]Oh, there's no door this time. This should be\nnormal..."
                             ]
                         },
                         {
@@ -15392,7 +15392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]What the heck!?"
+                                "\\nw[\\N[21]]What the heck!?"
                             ]
                         },
                         {
@@ -15433,7 +15433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Whoa!?"
+                                "\\nw[\\N[3]]Whoa!?"
                             ]
                         },
                         {
@@ -15450,7 +15450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Nonna!?"
+                                "\\nw[\\N[21]]\\N[3]!?"
                             ]
                         },
                         {
@@ -15486,7 +15486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]~~~"
+                                "\\nw[\\N[3]]~~~"
                             ]
                         },
                         {
@@ -15503,7 +15503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Oh no...! I have to help!"
+                                "\\nw[\\N[21]]Oh no...! I have to help!"
                             ]
                         },
                         {
@@ -15544,7 +15544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]A task?"
+                                "\\nw[\\N[21]]A task?"
                             ]
                         },
                         {
@@ -15663,7 +15663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Mmm, ah, ohh!"
+                                "\\nw[\\N[3]]Mmm, ah, ohh!"
                             ]
                         },
                         {
@@ -15694,7 +15694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]This is...!"
+                                "\\nw[\\N[21]]This is...!"
                             ]
                         },
                         {
@@ -15785,7 +15785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Mmm! Ahh, nngh, ohh!"
+                                "\\nw[\\N[3]]Mmm! Ahh, nngh, ohh!"
                             ]
                         },
                         {
@@ -15809,7 +15809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Nonna!?"
+                                "\\nw[\\N[21]]\\N[3]!?"
                             ]
                         },
                         {
@@ -15826,7 +15826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prae's voice]If you're worried, Nonna will only have more time\nbeing violated. If you want to do something about\nit, it's not about moving forward."
+                                "\\nw[Prae's voice]If you're worried, \\N[3] will only have more time\nbeing violated. If you want to do something about\nit, it's not about moving forward."
                             ]
                         },
                         {
@@ -15850,7 +15850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Hmph... That's right..."
+                                "\\nw[\\N[21]]Hmph... That's right..."
                             ]
                         },
                         {
@@ -15867,7 +15867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Mmm, ah, ohh!"
+                                "\\nw[\\N[3]]Mmm, ah, ohh!"
                             ]
                         },
                         {
@@ -15884,7 +15884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](I resist leaving Nonna being violated right in\nfront of me... but... there's no other choice...)"
+                                "\\nw[\\N[21]](I resist leaving \\N[3] being violated right in\nfront of me... but... there's no other choice...)"
                             ]
                         },
                         {
@@ -15908,7 +15908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Nonna, I'll hurry and go as fast as I can! I'm\nsorry, do your best!"
+                                "\\nw[\\N[21]]\\N[3], I'll hurry and go as fast as I can! I'm\nsorry, do your best!"
                             ]
                         },
                         {
@@ -15932,7 +15932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Mmm, ah, ohh!"
+                                "\\nw[\\N[3]]Mmm, ah, ohh!"
                             ]
                         },
                         {

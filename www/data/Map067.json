@@ -3248,7 +3248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]The location is around here... but it seems like\nthey're quite far down."
+                                "\\nw[\\N[21]]The location is around here... but it seems like\nthey're quite far down."
                             ]
                         },
                         {
@@ -3272,7 +3272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is it underwater because there's water?"
+                                "\\nw[\\N[21]]Is it underwater because there's water?"
                             ]
                         },
                         {
@@ -3329,7 +3329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]But this place is more like a marshland than a\nlake. It's hard to imagine it becoming too deep."
+                                "\\nw[\\N[3]]But this place is more like a marshland than a\nlake. It's hard to imagine it becoming too deep."
                             ]
                         },
                         {
@@ -3353,7 +3353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]It's strange to think that there's an underground\narea in a marshland, but it might be worth\nconsidering that possibility and exploring."
+                                "\\nw[\\N[3]]It's strange to think that there's an underground\narea in a marshland, but it might be worth\nconsidering that possibility and exploring."
                             ]
                         },
                         {
@@ -3377,7 +3377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see... So we're searching for an entrance to the\nunderground while looking for a place with deep\nwater."
+                                "\\nw[\\N[21]]I see... So we're searching for an entrance to the\nunderground while looking for a place with deep\nwater."
                             ]
                         },
                         {
@@ -3401,7 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Well, even if we dive underwater, it's hopeless.\nWe don't have any equipment to dive underwater, so\nall we can do is wait for now."
+                                "\\nw[\\N[21]]Well, even if we dive underwater, it's hopeless.\nWe don't have any equipment to dive underwater, so\nall we can do is wait for now."
                             ]
                         },
                         {
@@ -3425,7 +3425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Whatever we do, we should start with an\ninvestigation. It would be great if there's an\nentrance to the underground."
+                                "\\nw[\\N[21]]Whatever we do, we should start with an\ninvestigation. It would be great if there's an\nentrance to the underground."
                             ]
                         },
                         {
@@ -3449,7 +3449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]When you want to take a break or go shopping, talk\nto the coachman."
+                                "\\nw[\\N[3]]When you want to take a break or go shopping, talk\nto the coachman."
                             ]
                         },
                         {
@@ -3466,7 +3466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, Fross who can't move because her legs gave out\nis also in the carriage. Let's rely on her to\nrecover our magical power."
+                                "\\nw[\\N[21]]Ah, Fross who can't move because her legs gave out\nis also in the carriage. Let's rely on her to\nrecover our magical power."
                             ]
                         },
                         {
@@ -3490,7 +3490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Well then, shall we depart?"
+                                "\\nw[\\N[21]]Well then, shall we depart?"
                             ]
                         },
                         {
@@ -3860,7 +3860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Be careful, the ground is slippery."
+                                "\\nw[\\N[3]]Be careful, the ground is slippery."
                             ]
                         },
                         {

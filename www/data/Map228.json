@@ -4480,7 +4480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is \\N[\\V[506]] captured up ahead...? But that\nmonster looks strong. Can we fight it right\naway...?"
+                                "\\nw[\\N[21]]Is \\N[\\V[506]] captured up ahead...? But that\nmonster looks strong. Can we fight it right\naway...?"
                             ]
                         },
                         {
@@ -4526,7 +4526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Alright, let's go."
+                                "\\nw[\\N[21]]Alright, let's go."
                             ]
                         },
                         {
@@ -4677,7 +4677,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Did we manage to defeat it somehow? \\N[\\V[506]]\nshould be up ahead..."
+                                "\\nw[\\N[21]]Did we manage to defeat it somehow? \\N[\\V[506]]\nshould be up ahead..."
                             ]
                         },
                         {
@@ -4750,7 +4750,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]...There should be other bandits around here..."
+                                "\\nw[\\N[21]]...There should be other bandits around here..."
                             ]
                         },
                         {
@@ -4767,7 +4767,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]Huh, what's that...?!"
+                                "\\nw[\\N[21]]Huh, what's that...?!"
                             ]
                         },
                         {
@@ -4845,7 +4845,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]!"
+                                "\\nw[\\N[21]]!"
                             ]
                         },
                         {
@@ -4862,7 +4862,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro](Hmm, rushing in hastily might not be a good\nidea... There's a possibility that there are\nhidden ambushes...)"
+                                "\\nw[\\N[21]](Hmm, rushing in hastily might not be a good\nidea... There's a possibility that there are\nhidden ambushes...)"
                             ]
                         },
                         {
@@ -4886,7 +4886,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro].................."
+                                "\\nw[\\N[21]].................."
                             ]
                         },
                         {
@@ -4903,7 +4903,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]The bandits seem to be focused on Shia. We might\nbe able to catch them off guard now."
+                                "\\nw[\\N[21]]The bandits seem to be focused on Shia. We might\nbe able to catch them off guard now."
                             ]
                         },
                         {
@@ -4927,7 +4927,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]There doesn't seem to be any hidden ambushes...\nShall we rescue [Char_0]?"
+                                "\\nw[\\N[21]]There doesn't seem to be any hidden ambushes...\nShall we rescue [Char_0]?"
                             ]
                         },
                         {
@@ -4987,7 +4987,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]Hey, are you okay?"
+                                "\\nw[\\N[21]]Hey, are you okay?"
                             ]
                         },
                         {
@@ -5021,7 +5021,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]...I'm not fully conscious, but it looks like I'm\nnot injured. I should go back and get checked just\nin case..."
+                                "\\nw[\\N[21]]...I'm not fully conscious, but it looks like I'm\nnot injured. I should go back and get checked just\nin case..."
                             ]
                         },
                         {
@@ -5045,7 +5045,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]I need to hurry back..."
+                                "\\nw[\\N[21]]I need to hurry back..."
                             ]
                         },
                         {
@@ -5447,7 +5447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Shall we prepare a little more?"
+                                "\\nw[\\N[21]]Shall we prepare a little more?"
                             ]
                         },
                         {

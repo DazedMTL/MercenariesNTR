@@ -4579,7 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is this a switch? Should I press it?"
+                                "\\nw[\\N[21]]Is this a switch? Should I press it?"
                             ]
                         },
                         {
@@ -4719,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see, so we can proceed now."
+                                "\\nw[\\N[21]]I see, so we can proceed now."
                             ]
                         },
                         {
@@ -4776,7 +4776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Originally, it was just a mountain, right? Why are\nthere so many switches here?"
+                                "\\nw[\\N[1]]Originally, it was just a mountain, right? Why are\nthere so many switches here?"
                             ]
                         },
                         {
@@ -4800,7 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]......Why?"
+                                "\\nw[\\N[21]]......Why?"
                             ]
                         },
                         {
@@ -4857,7 +4857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Now is not the time to worry. Let's move forward."
+                                "\\nw[\\N[3]]Now is not the time to worry. Let's move forward."
                             ]
                         },
                         {
@@ -4881,7 +4881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]O-Okay, I got it."
+                                "\\nw[\\N[21]]O-Okay, I got it."
                             ]
                         },
                         {
@@ -5182,7 +5182,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]This is..."
+                                "\\nw[\\N[21]]This is..."
                             ]
                         },
                         {
@@ -5267,7 +5267,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]A dead end... Damn it, we have to go back once..."
+                                "\\nw[\\N[21]]A dead end... Damn it, we have to go back once..."
                             ]
                         },
                         {
@@ -5331,7 +5331,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Can you wait a moment?"
+                                "\\nw[\\N[3]]Can you wait a moment?"
                             ]
                         },
                         {
@@ -5348,7 +5348,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Hm? Is there something bothering you?"
+                                "\\nw[\\N[21]]Hm? Is there something bothering you?"
                             ]
                         },
                         {
@@ -5365,7 +5365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Quietly."
+                                "\\nw[\\N[3]]Quietly."
                             ]
                         },
                         {
@@ -5438,7 +5438,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]I can still hear sounds coming from further\ninside. Can Uka hear them too?"
+                                "\\nw[\\N[3]]I can still hear sounds coming from further\ninside. Can Uka hear them too?"
                             ]
                         },
                         {
@@ -5519,7 +5519,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]What do you mean?"
+                                "\\nw[\\N[21]]What do you mean?"
                             ]
                         },
                         {
@@ -5536,7 +5536,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]There are monsters ahead and I can hear sounds\nleaking from the gaps. There should be a passable\npath."
+                                "\\nw[\\N[3]]There are monsters ahead and I can hear sounds\nleaking from the gaps. There should be a passable\npath."
                             ]
                         },
                         {
@@ -5560,7 +5560,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]There might be a switch or something. Let's search\nfor it."
+                                "\\nw[\\N[3]]There might be a switch or something. Let's search\nfor it."
                             ]
                         },
                         {
@@ -5584,7 +5584,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Alright. Let's give it a search."
+                                "\\nw[\\N[21]]Alright. Let's give it a search."
                             ]
                         },
                         {

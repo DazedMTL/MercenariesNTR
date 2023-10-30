@@ -3035,7 +3035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Since I have connections in the business, I'll\ngather information around here."
+                                "\\nw[\\N[1]]Since I have connections in the business, I'll\ngather information around here."
                             ]
                         },
                         {
@@ -3082,7 +3082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]How was it yesterday?"
+                                "\\nw[\\N[21]]How was it yesterday?"
                             ]
                         },
                         {
@@ -3139,7 +3139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]I can't say it in front of the customers, of\ncourse."
+                                "\\nw[\\N[1]]I can't say it in front of the customers, of\ncourse."
                             ]
                         },
                         {
@@ -3156,7 +3156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Oh, yeah... That's right."
+                                "\\nw[\\N[21]]Oh, yeah... That's right."
                             ]
                         },
                         {

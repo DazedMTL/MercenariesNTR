@@ -2543,7 +2543,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Soldier]Kuno, next time I'll make you feel even better, so\nlook forward to it."
+                                "\\nw[Soldier]\\N[1], next time I'll make you feel even better, so\nlook forward to it."
                             ]
                         },
                         {
@@ -2596,7 +2596,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Yeah, I'm looking forward to it♪"
+                                "\\nw[\\N[1]]Yeah, I'm looking forward to it♪"
                             ]
                         },
                         {
@@ -3042,7 +3042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Good evening, you seem energetic."
+                                "\\nw[\\N[3]]Good evening, you seem energetic."
                             ]
                         },
                         {
@@ -3059,7 +3059,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Prisoner]Ah, I'm doing well. It's thanks to Nonna, so thank\nyou."
+                                "\\nw[Prisoner]Ah, I'm doing well. It's thanks to \\N[3], so thank\nyou."
                             ]
                         },
                         {
@@ -3083,7 +3083,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]That's the best thing."
+                                "\\nw[\\N[3]]That's the best thing."
                             ]
                         },
                         {
@@ -3100,7 +3100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro](Shall I let them cuckold me again...?)"
+                                "\\nw[\\N[21]](Shall I let them cuckold me again...?)"
                             ]
                         },
                         {
@@ -3180,7 +3180,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]I wonder if the succubus' charm ability can be\nused for rehabilitation as well?"
+                                "\\nw[\\N[3]]I wonder if the succubus' charm ability can be\nused for rehabilitation as well?"
                             ]
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro](It seems like you're interested, should I let\nthem cuckold me...?)"
+                                "\\nw[\\N[21]](It seems like you're interested, should I let\nthem cuckold me...?)"
                             ]
                         },
                         {
@@ -3317,7 +3317,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]Yes, I will give you a reward."
+                                "\\nw[\\N[3]]Yes, I will give you a reward."
                             ]
                         },
                         {
@@ -3549,7 +3549,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]Do we have to talk to the soldiers before him?"
+                                "\\nw[\\N[3]]Do we have to talk to the soldiers before him?"
                             ]
                         },
                         {
@@ -3566,7 +3566,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]Well, since he seems eager, shall we ask the\nsoldiers about it?"
+                                "\\nw[\\N[21]]Well, since he seems eager, shall we ask the\nsoldiers about it?"
                             ]
                         },
                         {
@@ -3647,7 +3647,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Nonna]Permission has been granted. Well then, I'll be\ngoing."
+                                "\\nw[\\N[3]]Permission has been granted. Well then, I'll be\ngoing."
                             ]
                         },
                         {
@@ -3671,7 +3671,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Nonna]Since it's going to take a while, I would\nappreciate it if you could come pick me up when\nyou're available."
+                                "\\nw[\\N[3]]Since it's going to take a while, I would\nappreciate it if you could come pick me up when\nyou're available."
                             ]
                         },
                         {
@@ -3695,7 +3695,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]Ah, I see. I'll make sure not to go on the quest."
+                                "\\nw[\\N[21]]Ah, I see. I'll make sure not to go on the quest."
                             ]
                         },
                         {
@@ -3862,7 +3862,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Nonna]It didn't work, huh."
+                                "\\nw[\\N[3]]It didn't work, huh."
                             ]
                         },
                         {
@@ -3879,7 +3879,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]Well, I do feel like there's no other choice..."
+                                "\\nw[\\N[21]]Well, I do feel like there's no other choice..."
                             ]
                         },
                         {
@@ -3896,7 +3896,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro](If I can get along with the soldiers, can I go?\nFor example, letting them sleep with Kuno...)"
+                                "\\nw[\\N[21]](If I can get along with the soldiers, can I go?\nFor example, letting them sleep with \\N[1]...)"
                             ]
                         },
                         {
@@ -3971,7 +3971,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]Let's meet again."
+                                "\\nw[\\N[3]]Let's meet again."
                             ]
                         },
                         {
@@ -4005,7 +4005,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro](Let's not do it)"
+                                "\\nw[\\N[21]](Let's not do it)"
                             ]
                         },
                         {
@@ -4406,7 +4406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Hehe, is your c*ck twitching?"
+                                "\\nw[\\N[3]]Hehe, is your c*ck twitching?"
                             ]
                         },
                         {
@@ -4432,7 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Using charm to reform... I wonder if it will\nwork...)"
+                                "\\nw[\\N[21]](Using charm to reform... I wonder if it will\nwork...)"
                             ]
                         },
                         {
@@ -4466,7 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Why did you end up stealing?"
+                                "\\nw[\\N[3]]Why did you end up stealing?"
                             ]
                         },
                         {
@@ -4524,7 +4524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Is that so? Did the merchants do something to you?"
+                                "\\nw[\\N[3]]Is that so? Did the merchants do something to you?"
                             ]
                         },
                         {
@@ -4609,7 +4609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Seems like it's going to be a long one...)"
+                                "\\nw[\\N[21]](Seems like it's going to be a long one...)"
                             ]
                         },
                         {
@@ -4744,7 +4744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Yes, please calm down."
+                                "\\nw[\\N[3]]Yes, please calm down."
                             ]
                         },
                         {
@@ -4879,7 +4879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Yes, everyone is working hard."
+                                "\\nw[\\N[3]]Yes, everyone is working hard."
                             ]
                         },
                         {
@@ -4922,7 +4922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](It seems to have calmed down a bit...)"
+                                "\\nw[\\N[21]](It seems to have calmed down a bit...)"
                             ]
                         },
                         {
@@ -5057,7 +5057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]If you've reflected on it, let's do our best from\nnow on. Look, I'll support you."
+                                "\\nw[\\N[3]]If you've reflected on it, let's do our best from\nnow on. Look, I'll support you."
                             ]
                         },
                         {
@@ -5098,7 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]If you earn without breaking the law, I'll provide\nyou with some special services at the shop."
+                                "\\nw[\\N[3]]If you earn without breaking the law, I'll provide\nyou with some special services at the shop."
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](You seem to have completely calmed down... Maybe\nit's because of the charm effect, but it's also\nthanks to Nonna's charisma...)"
+                                "\\nw[\\N[21]](You seem to have completely calmed down... Maybe\nit's because of the charm effect, but it's also\nthanks to \\N[3]'s charisma...)"
                             ]
                         },
                         {
@@ -5273,7 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prisoner]Inside Nonna, it's the best... ugh! Haa haa...!"
+                                "\\nw[Prisoner]Inside \\N[3], it's the best... ugh! Haa haa...!"
                             ]
                         },
                         {
@@ -5297,7 +5297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Ah... Ah... More... more intense... Ahh..."
+                                "\\nw[\\N[3]]Ah... Ah... More... more intense... Ahh..."
                             ]
                         },
                         {
@@ -5345,7 +5345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]It feels good for me too, you know? Ahh ♥ Ahh ♥"
+                                "\\nw[\\N[3]]It feels good for me too, you know? Ahh ♥ Ahh ♥"
                             ]
                         },
                         {
@@ -5378,7 +5378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Things are getting heated... Seeing Nonna being\nviolated... ugh!)"
+                                "\\nw[\\N[21]](Things are getting heated... Seeing \\N[3] being\nviolated... ugh!)"
                             ]
                         },
                         {
@@ -5424,7 +5424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](Well, I guess I'll let it continue like this...)"
+                                "\\nw[\\N[21]](Well, I guess I'll let it continue like this...)"
                             ]
                         },
                         {
@@ -5465,7 +5465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](I'll tell the soldiers to quit by noon...)"
+                                "\\nw[\\N[21]](I'll tell the soldiers to quit by noon...)"
                             ]
                         },
                         {
@@ -5620,7 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prisoner]Haa...haa... Nonna, amazing... Ugh, ohhh...!"
+                                "\\nw[Prisoner]Haa...haa... \\N[3], amazing... Ugh, ohhh...!"
                             ]
                         },
                         {
@@ -5637,7 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Ah...ah...ah... It's wonderful, fuah, ah♥"
+                                "\\nw[\\N[3]]Ah...ah...ah... It's wonderful, fuah, ah♥"
                             ]
                         },
                         {
@@ -5762,7 +5762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prisoner]Nonna, Nonna...! I love you, I love you...!"
+                                "\\nw[Prisoner]\\N[3], \\N[3]...! I love you, I love you...!"
                             ]
                         },
                         {
@@ -5786,7 +5786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Ahh♥ Ahh♥ I also think your c*ck is wonderful,\nahh♥"
+                                "\\nw[\\N[3]]Ahh♥ Ahh♥ I also think your c*ck is wonderful,\nahh♥"
                             ]
                         },
                         {
@@ -5810,7 +5810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]But, you have to be someone who doesn't break the\nlaw... mmm♥ ahn♥"
+                                "\\nw[\\N[3]]But, you have to be someone who doesn't break the\nlaw... mmm♥ ahn♥"
                             ]
                         },
                         {
@@ -5827,7 +5827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prisoner]For Nonna's sake, I'll be serious... ugh, uuhh!"
+                                "\\nw[Prisoner]For \\N[3]'s sake, I'll be serious... ugh, uuhh!"
                             ]
                         },
                         {
@@ -5844,7 +5844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Ahh♥ Ahh♥ Ahh♥ It's not just for my sake, you have\nto think for yourself properly, okay?"
+                                "\\nw[\\N[3]]Ahh♥ Ahh♥ Ahh♥ It's not just for my sake, you have\nto think for yourself properly, okay?"
                             ]
                         },
                         {
@@ -5894,7 +5894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](It's not so much erotic, but it feels like doing\nsomething different... but Nonna's figure is\nsexy.)"
+                                "\\nw[\\N[21]](It's not so much erotic, but it feels like doing\nsomething different... but \\N[3]'s figure is\nsexy.)"
                             ]
                         },
                         {
@@ -5940,7 +5940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](Well, I guess I'll let it continue like this...)"
+                                "\\nw[\\N[21]](Well, I guess I'll let it continue like this...)"
                             ]
                         },
                         {
@@ -5981,7 +5981,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](I'll tell the soldiers to quit by noon...)"
+                                "\\nw[\\N[21]](I'll tell the soldiers to quit by noon...)"
                             ]
                         },
                         {
@@ -6136,7 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prisoner]Nonna, Nonna...!"
+                                "\\nw[Prisoner]\\N[3], \\N[3]...!"
                             ]
                         },
                         {
@@ -6153,7 +6153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Hehe, once you feel refreshed, please think\ncarefully, okay? Mmm, ahn♥"
+                                "\\nw[\\N[3]]Hehe, once you feel refreshed, please think\ncarefully, okay? Mmm, ahn♥"
                             ]
                         },
                         {
@@ -6278,7 +6278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prisoner]Haa... haa... Nonna, is this okay...?"
+                                "\\nw[Prisoner]Haa... haa... \\N[3], is this okay...?"
                             ]
                         },
                         {
@@ -6295,7 +6295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Mmm, ahn♥ Oh yes, it feels really good, ahn♥"
+                                "\\nw[\\N[3]]Mmm, ahn♥ Oh yes, it feels really good, ahn♥"
                             ]
                         },
                         {
@@ -6319,7 +6319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]It's impressive that you've become considerate of\nyour partner, mmm, ahn♥"
+                                "\\nw[\\N[3]]It's impressive that you've become considerate of\nyour partner, mmm, ahn♥"
                             ]
                         },
                         {
@@ -6367,7 +6367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Good girl... mmm, ahn♥ Keep it up... ahn♥"
+                                "\\nw[\\N[3]]Good girl... mmm, ahn♥ Keep it up... ahn♥"
                             ]
                         },
                         {
@@ -6400,7 +6400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](It seems like he no longer has any rough\nbehavior. Maybe he's already reformed?)"
+                                "\\nw[\\N[21]](It seems like he no longer has any rough\nbehavior. Maybe he's already reformed?)"
                             ]
                         },
                         {
@@ -6446,7 +6446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](Well, even if he's reformed, I guess it's fine to\ncontinue.)"
+                                "\\nw[\\N[21]](Well, even if he's reformed, I guess it's fine to\ncontinue.)"
                             ]
                         },
                         {
@@ -6487,7 +6487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](Should I tell the soldiers to quit by noon...)"
+                                "\\nw[\\N[21]](Should I tell the soldiers to quit by noon...)"
                             ]
                         },
                         {
@@ -6642,7 +6642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Prisoner]Haa...haa... I'll show Nonna that I can become a\nrespectable human being!"
+                                "\\nw[Prisoner]Haa...haa... I'll show \\N[3] that I can become a\nrespectable human being!"
                             ]
                         },
                         {
@@ -6659,7 +6659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Hehe, I'm looking forward to it ♥"
+                                "\\nw[\\N[3]]Hehe, I'm looking forward to it ♥"
                             ]
                         },
                         {

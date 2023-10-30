@@ -3984,7 +3984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Hmmm, so this is the place... Alright, let's\nproceed with caution."
+                                "\\nw[\\N[21]]Hmmm, so this is the place... Alright, let's\nproceed with caution."
                             ]
                         },
                         {
@@ -4236,7 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is that..."
+                                "\\nw[\\N[21]]Is that..."
                             ]
                         },
                         {
@@ -4269,7 +4269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Alright, let's go once we're ready."
+                                "\\nw[\\N[21]]Alright, let's go once we're ready."
                             ]
                         },
                         {
@@ -4476,7 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Shall we fight against the monsters?"
+                                "\\nw[\\N[21]]Shall we fight against the monsters?"
                             ]
                         },
                         {
@@ -4515,7 +4515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Alright, let's go!"
+                                "\\nw[\\N[21]]Alright, let's go!"
                             ]
                         },
                         {
@@ -4673,7 +4673,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Phew... I managed to defeat it."
+                                "\\nw[\\N[21]]Phew... I managed to defeat it."
                             ]
                         },
                         {
@@ -4730,7 +4730,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Now we can listen to Shia's song."
+                                "\\nw[\\N[3]]Now we can listen to Shia's song."
                             ]
                         },
                         {
@@ -4747,7 +4747,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Ah, so verifying the curse means singing... When I\nheard it at the Water Temple, I had to restrain my\nvoice, so I'm looking forward to it."
+                                "\\nw[\\N[21]]Ah, so verifying the curse means singing... When I\nheard it at the Water Temple, I had to restrain my\nvoice, so I'm looking forward to it."
                             ]
                         },
                         {
@@ -4909,7 +4909,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Well then, let's go with Shia again."
+                                "\\nw[\\N[1]]Well then, let's go with Shia again."
                             ]
                         },
                         {
@@ -4926,7 +4926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]You still look displeased as always..."
+                                "\\nw[\\N[21]]You still look displeased as always..."
                             ]
                         },
                         {
@@ -4943,7 +4943,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Did it show on your face? I'm sorry, Taro, even\nthough you're working too."
+                                "\\nw[\\N[1]]Did it show on your face? I'm sorry, \\N[21], even\nthough you're working too."
                             ]
                         },
                         {
@@ -4960,7 +4960,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]It seems like I'm jealous of Shia. But I also want\nto be like Shia, so you don't have to worry about\nit."
+                                "\\nw[\\N[1]]It seems like I'm jealous of Shia. But I also want\nto be like Shia, so you don't have to worry about\nit."
                             ]
                         },
                         {
@@ -4984,7 +4984,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Is that so? Well, if you say so..."
+                                "\\nw[\\N[21]]Is that so? Well, if you say so..."
                             ]
                         },
                         {
@@ -5008,7 +5008,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Well then, let's return to the surface. When we\nneed to hurry back, we can use the \\C[2]Return\nStone\\C[0] to come back quickly."
+                                "\\nw[\\N[21]]Well then, let's return to the surface. When we\nneed to hurry back, we can use the \\C[2]Return\nStone\\C[0] to come back quickly."
                             ]
                         },
                         {
@@ -5190,7 +5190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Let's prepare a little more."
+                                "\\nw[\\N[21]]Let's prepare a little more."
                             ]
                         },
                         {

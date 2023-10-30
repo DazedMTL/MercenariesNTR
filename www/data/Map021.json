@@ -6599,7 +6599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]There might be thieves from here on. If you find\nthem, make sure to incapacitate them and be\ncareful not to call for reinforcements."
+                                "\\nw[\\N[3]]There might be thieves from here on. If you find\nthem, make sure to incapacitate them and be\ncareful not to call for reinforcements."
                             ]
                         },
                         {
@@ -6663,7 +6663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Yeah, I got it. I'll try to go quietly without\nmaking much noise."
+                                "\\nw[\\N[1]]Yeah, I got it. I'll try to go quietly without\nmaking much noise."
                             ]
                         },
                         {
@@ -6951,7 +6951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Stop."
+                                "\\nw[\\N[3]]Stop."
                             ]
                         },
                         {
@@ -7102,7 +7102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]...Thieves, huh? I overheard their conversation,\nbut someone might be captured."
+                                "\\nw[\\N[3]]...Thieves, huh? I overheard their conversation,\nbut someone might be captured."
                             ]
                         },
                         {
@@ -7166,7 +7166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It seems so... but, the plan is still..."
+                                "\\nw[\\N[1]]It seems so... but, the plan is still..."
                             ]
                         },
                         {
@@ -7190,7 +7190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Even if used as a hostage... I'll ignore it..."
+                                "\\nw[\\N[3]]Even if used as a hostage... I'll ignore it..."
                             ]
                         },
                         {
@@ -7207,7 +7207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]I knew it..."
+                                "\\nw[\\N[1]]I knew it..."
                             ]
                         },
                         {
@@ -7224,7 +7224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]It's a rule of the Mercenary Guild."
+                                "\\nw[\\N[3]]It's a rule of the Mercenary Guild."
                             ]
                         },
                         {
@@ -7241,7 +7241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]The idea is that if we make it known that\nmercenaries are not affected by hostages, then\nthere won't be anyone who uses hostage tactics\nagainst mercenaries."
+                                "\\nw[\\N[3]]The idea is that if we make it known that\nmercenaries are not affected by hostages, then\nthere won't be anyone who uses hostage tactics\nagainst mercenaries."
                             ]
                         },
                         {
@@ -7265,7 +7265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]That's why we have to prioritize it over our own\nemotions."
+                                "\\nw[\\N[3]]That's why we have to prioritize it over our own\nemotions."
                             ]
                         },
                         {
@@ -7289,7 +7289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Yeah, I know... I understand."
+                                "\\nw[\\N[1]]Yeah, I know... I understand."
                             ]
                         },
                         {
@@ -7353,7 +7353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]......"
+                                "\\nw[\\N[3]]......"
                             ]
                         },
                         {
@@ -7410,7 +7410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]First, let's neutralize those two. Let's go."
+                                "\\nw[\\N[3]]First, let's neutralize those two. Let's go."
                             ]
                         },
                         {
@@ -7814,7 +7814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Capture successful, huh."
+                                "\\nw[\\N[1]]Capture successful, huh."
                             ]
                         },
                         {
@@ -7871,7 +7871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]Well done. You're skilled."
+                                "\\nw[\\N[3]]Well done. You're skilled."
                             ]
                         },
                         {
@@ -7915,7 +7915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Ugh...!"
+                                "\\nw[\\N[21]]Ugh...!"
                             ]
                         },
                         {
@@ -8106,7 +8106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]Make sure to fight properly, okay? They weren't\nopponents you should lose to, right?"
+                                "\\nw[\\N[3]]Make sure to fight properly, okay? They weren't\nopponents you should lose to, right?"
                             ]
                         },
                         {
@@ -8130,7 +8130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Ugh... I'm sorry..."
+                                "\\nw[\\N[21]]Ugh... I'm sorry..."
                             ]
                         },
                         {
@@ -8205,7 +8205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I have something that I was entrusted with by the\nowner. I'll give it to you now."
+                                "\\nw[\\N[3]]I have something that I was entrusted with by the\nowner. I'll give it to you now."
                             ]
                         },
                         {
@@ -8307,7 +8307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]What is this?"
+                                "\\nw[\\N[21]]What is this?"
                             ]
                         },
                         {
@@ -8324,7 +8324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]It seems like a magic ball that allows you to use\nskills."
+                                "\\nw[\\N[3]]It seems like a magic ball that allows you to use\nskills."
                             ]
                         },
                         {
@@ -8341,7 +8341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is there such a convenient thing in this\ncountry..."
+                                "\\nw[\\N[21]]Is there such a convenient thing in this\ncountry..."
                             ]
                         },
                         {
@@ -8358,7 +8358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]It seems like it's still in the experimental\nstage, but it's said to be one of the creations of\na famous magician in this country."
+                                "\\nw[\\N[3]]It seems like it's still in the experimental\nstage, but it's said to be one of the creations of\na famous magician in this country."
                             ]
                         },
                         {
@@ -8382,7 +8382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Let me explain it briefly. First, let's start with\nhow to equip it."
+                                "\\nw[\\N[3]]Let me explain it briefly. First, let's start with\nhow to equip it."
                             ]
                         },
                         {
@@ -8452,7 +8452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]You can equip the magic ball in the Equipment\nmenu. It's located in the area surrounded by a red\ncircle."
+                                "\\nw[\\N[3]]You can equip the magic ball in the Equipment\nmenu. It's located in the area surrounded by a red\ncircle."
                             ]
                         },
                         {
@@ -8476,7 +8476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]However..."
+                                "\\nw[\\N[3]]However..."
                             ]
                         },
                         {
@@ -8516,7 +8516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]The number of slots you can equip is determined by\nthe total number of Weapon and Body slots. In this\ncase, you can equip one Short Sword and two\nMercenary Clothes."
+                                "\\nw[\\N[3]]The number of slots you can equip is determined by\nthe total number of Weapon and Body slots. In this\ncase, you can equip one Short Sword and two\nMercenary Clothes."
                             ]
                         },
                         {
@@ -8540,7 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Be careful because the number of slots varies\ndepending on the equipment."
+                                "\\nw[\\N[3]]Be careful because the number of slots varies\ndepending on the equipment."
                             ]
                         },
                         {
@@ -8618,7 +8618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]You can only use magic ball skills during battles.\nThe red magic balls are generally used for\noffensive effects."
+                                "\\nw[\\N[3]]You can only use magic ball skills during battles.\nThe red magic balls are generally used for\noffensive effects."
                             ]
                         },
                         {
@@ -8642,7 +8642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]The blue magic balls have effects such as healing,\nsupport, and hindrance. This one can be used\nwithout consuming a turn, but it takes time to\nreuse."
+                                "\\nw[\\N[3]]The blue magic balls have effects such as healing,\nsupport, and hindrance. This one can be used\nwithout consuming a turn, but it takes time to\nreuse."
                             ]
                         },
                         {
@@ -8673,7 +8673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]For example, the healing magic ball I gave you\nearlier takes 3 turns to reuse."
+                                "\\nw[\\N[3]]For example, the healing magic ball I gave you\nearlier takes 3 turns to reuse."
                             ]
                         },
                         {
@@ -8690,7 +8690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Healing magic balls take time to reuse and cannot\nbe used while moving. So it's important to have\nplenty of healing items prepared. I also received\nsome from the owner this time."
+                                "\\nw[\\N[3]]Healing magic balls take time to reuse and cannot\nbe used while moving. So it's important to have\nplenty of healing items prepared. I also received\nsome from the owner this time."
                             ]
                         },
                         {
@@ -8770,7 +8770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, thank goodness."
+                                "\\nw[\\N[21]]Ah, thank goodness."
                             ]
                         },
                         {
@@ -8834,7 +8834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]That's fine, but..."
+                                "\\nw[\\N[1]]That's fine, but..."
                             ]
                         },
                         {
@@ -8891,7 +8891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Is there something that's bothering you?"
+                                "\\nw[\\N[3]]Is there something that's bothering you?"
                             ]
                         },
                         {
@@ -8908,7 +8908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]No, let's do it later. Right now, exterminating\nthe thieves takes priority, doesn't it?"
+                                "\\nw[\\N[1]]No, let's do it later. Right now, exterminating\nthe thieves takes priority, doesn't it?"
                             ]
                         },
                         {
@@ -8972,7 +8972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Yes, that's right. And speaking of that, it's\nabout the captured girl."
+                                "\\nw[\\N[3]]Yes, that's right. And speaking of that, it's\nabout the captured girl."
                             ]
                         },
                         {
@@ -8996,7 +8996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Ignoring them if they become hostages is fine, but\nthere's no problem with rescuing them before\nthey're moved."
+                                "\\nw[\\N[3]]Ignoring them if they become hostages is fine, but\nthere's no problem with rescuing them before\nthey're moved."
                             ]
                         },
                         {
@@ -9060,7 +9060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]......!"
+                                "\\nw[\\N[1]]......!"
                             ]
                         },
                         {
@@ -9077,7 +9077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]If we're in a state where we can be ambushed from\nhere, it's fine. The area doesn't seem too\nspacious from the sound, so let's proceed quietly."
+                                "\\nw[\\N[3]]If we're in a state where we can be ambushed from\nhere, it's fine. The area doesn't seem too\nspacious from the sound, so let's proceed quietly."
                             ]
                         },
                         {
@@ -9148,7 +9148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Yeah!"
+                                "\\nw[\\N[1]]Yeah!"
                             ]
                         },
                         {
@@ -9418,7 +9418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]This is not the time to be coming out. Let's go\ndeeper inside."
+                                "\\nw[\\N[1]]This is not the time to be coming out. Let's go\ndeeper inside."
                             ]
                         },
                         {

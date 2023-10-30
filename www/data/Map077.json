@@ -3412,7 +3412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]So this is the Aldea Highway, huh? It looks well-\nmaintained and doesn't seem dangerous."
+                                "\\nw[\\N[1]]So this is the Aldea Highway, huh? It looks well-\nmaintained and doesn't seem dangerous."
                             ]
                         },
                         {
@@ -3436,7 +3436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]It seems that we should be careful because\nmonsters come out. It seems that if we continue\nwest along the road, we will reach our\ndestination, so we shouldn't get lost."
+                                "\\nw[\\N[21]]It seems that we should be careful because\nmonsters come out. It seems that if we continue\nwest along the road, we will reach our\ndestination, so we shouldn't get lost."
                             ]
                         },
                         {
@@ -3460,7 +3460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Yeah, it looks like a sturdy road, so we should be\nfine even if we take a detour."
+                                "\\nw[\\N[1]]Yeah, it looks like a sturdy road, so we should be\nfine even if we take a detour."
                             ]
                         },
                         {
@@ -3484,7 +3484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Yeah, we should be careful only of the monsters.\nIt seems that a reservation has been made at the\ninn along the way, so let's aim to arrive there\ntoday."
+                                "\\nw[\\N[21]]Yeah, we should be careful only of the monsters.\nIt seems that a reservation has been made at the\ninn along the way, so let's aim to arrive there\ntoday."
                             ]
                         },
                         {
@@ -3595,7 +3595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]What!?"
+                                "\\nw[\\N[21]]What!?"
                             ]
                         },
                         {
@@ -4113,7 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Hey, you there!?"
+                                "\\nw[\\N[21]]Hey, you there!?"
                             ]
                         },
                         {
@@ -4218,7 +4218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, it's covered in blood! Are you okay!?"
+                                "\\nw[\\N[21]]No, it's covered in blood! Are you okay!?"
                             ]
                         },
                         {
@@ -4340,7 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, wipe it off!?"
+                                "\\nw[\\N[21]]No, wipe it off!?"
                             ]
                         },
                         {
@@ -4405,7 +4405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, there's magic for cleaning, right?"
+                                "\\nw[\\N[21]]No, there's magic for cleaning, right?"
                             ]
                         },
                         {
@@ -4439,7 +4439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Alright, then I'll carry you, so stay still for a\nbit."
+                                "\\nw[\\N[21]]Alright, then I'll carry you, so stay still for a\nbit."
                             ]
                         },
                         {
@@ -4768,7 +4768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Well, I'm glad it's not an injured person..."
+                                "\\nw[\\N[21]]Well, I'm glad it's not an injured person..."
                             ]
                         },
                         {

@@ -3796,7 +3796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Wait at this point. We still have some time until\nthe scheduled time, but what should we do?"
+                                "\\nw[\\N[1]]Wait at this point. We still have some time until\nthe scheduled time, but what should we do?"
                             ]
                         },
                         {
@@ -3842,7 +3842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Well then, let's take it easy."
+                                "\\nw[\\N[1]]Well then, let's take it easy."
                             ]
                         },
                         {
@@ -4002,7 +4002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Marriage, huh... Hehe, there have been various\nthings."
+                                "\\nw[\\N[1]]Marriage, huh... Hehe, there have been various\nthings."
                             ]
                         },
                         {
@@ -4026,7 +4026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]I don't think we need to rush that much."
+                                "\\nw[\\N[21]]I don't think we need to rush that much."
                             ]
                         },
                         {
@@ -4043,7 +4043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]We talked about it properly, didn't we? We've\nalready made a decision, so let's not bring that\nup, okay?"
+                                "\\nw[\\N[1]]We talked about it properly, didn't we? We've\nalready made a decision, so let's not bring that\nup, okay?"
                             ]
                         },
                         {
@@ -4107,7 +4107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Just like my parents and Taro's parents, we don't\nknow what might happen..."
+                                "\\nw[\\N[1]]Just like my parents and \\N[21]'s parents, we don't\nknow what might happen..."
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Yeah..."
+                                "\\nw[\\N[21]]Yeah..."
                             ]
                         },
                         {
@@ -4173,7 +4173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](We still have some time, so how about we do\nsomething romantic as a couple...?)"
+                                "\\nw[\\N[21]](We still have some time, so how about we do\nsomething romantic as a couple...?)"
                             ]
                         },
                         {
@@ -4250,7 +4250,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......"
+                                "\\nw[\\N[21]]......"
                             ]
                         },
                         {
@@ -4338,7 +4338,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]What's wrong?"
+                                "\\nw[\\N[1]]What's wrong?"
                             ]
                         },
                         {
@@ -4355,7 +4355,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Ah, um..."
+                                "\\nw[\\N[21]]Ah, um..."
                             ]
                         },
                         {
@@ -4372,7 +4372,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Huh?"
+                                "\\nw[\\N[1]]Huh?"
                             ]
                         },
                         {
@@ -4389,7 +4389,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......"
+                                "\\nw[\\N[21]]......"
                             ]
                         },
                         {
@@ -4406,7 +4406,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro](No, this isn't the right atmosphere, and it would\nbe weird to suddenly kiss...)"
+                                "\\nw[\\N[21]](No, this isn't the right atmosphere, and it would\nbe weird to suddenly kiss...)"
                             ]
                         },
                         {
@@ -4430,7 +4430,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]No... It's nothing."
+                                "\\nw[\\N[21]]No... It's nothing."
                             ]
                         },
                         {
@@ -4447,7 +4447,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Is that so? It might start earlier than planned,\nso we have to keep a close watch."
+                                "\\nw[\\N[1]]Is that so? It might start earlier than planned,\nso we have to keep a close watch."
                             ]
                         },
                         {
@@ -4478,7 +4478,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Yeah, that's right."
+                                "\\nw[\\N[21]]Yeah, that's right."
                             ]
                         },
                         {
@@ -4577,7 +4577,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro](To begin with, we've never really done anything\ncouple-like until now...)"
+                                "\\nw[\\N[21]](To begin with, we've never really done anything\ncouple-like until now...)"
                             ]
                         },
                         {
@@ -4769,7 +4769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]I hear the sounds of battle... It seems like it\nhas begun."
+                                "\\nw[\\N[1]]I hear the sounds of battle... It seems like it\nhas begun."
                             ]
                         },
                         {
@@ -4793,7 +4793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]I'll keep watch to see if anyone comes running\nhere."
+                                "\\nw[\\N[1]]I'll keep watch to see if anyone comes running\nhere."
                             ]
                         },
                         {
@@ -4810,7 +4810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Ah, I understand."
+                                "\\nw[\\N[21]]Ah, I understand."
                             ]
                         },
                         {
@@ -5045,7 +5045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]The sounds stopped before anything came..."
+                                "\\nw[\\N[1]]The sounds stopped before anything came..."
                             ]
                         },
                         {
@@ -5062,7 +5062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Well, I guess that's how it goes. We have to stay\nalert until we receive confirmation that the\noperation is over."
+                                "\\nw[\\N[21]]Well, I guess that's how it goes. We have to stay\nalert until we receive confirmation that the\noperation is over."
                             ]
                         },
                         {
@@ -5086,7 +5086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Yes, if we let our guard down..."
+                                "\\nw[\\N[1]]Yes, if we let our guard down..."
                             ]
                         },
                         {
@@ -5180,7 +5180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]What is this loud voice..."
+                                "\\nw[\\N[1]]What is this loud voice..."
                             ]
                         },
                         {
@@ -5197,7 +5197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Hey, look at that!"
+                                "\\nw[\\N[21]]Hey, look at that!"
                             ]
                         },
                         {
@@ -5214,7 +5214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Huh?......!?"
+                                "\\nw[\\N[1]]Huh?......!?"
                             ]
                         },
                         {
@@ -5282,7 +5282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Yes, I understand."
+                                "\\nw[\\N[1]]Yes, I understand."
                             ]
                         },
                         {
@@ -5441,7 +5441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Why am I in a place like this...? Aegis refers to\nthe strongest ten soldiers of the Misura Kingdom,\nright?"
+                                "\\nw[\\N[21]]Why am I in a place like this...? Aegis refers to\nthe strongest ten soldiers of the Misura Kingdom,\nright?"
                             ]
                         },
                         {
@@ -5465,7 +5465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Even though we're near the border between Dios and\nMisura, there's no reason for thieves from the\nDios side to come out..."
+                                "\\nw[\\N[21]]Even though we're near the border between Dios and\nMisura, there's no reason for thieves from the\nDios side to come out..."
                             ]
                         },
                         {
@@ -5538,7 +5538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]I don't care about that!... I will never forgive\nyou!"
+                                "\\nw[\\N[1]]I don't care about that!... I will never forgive\nyou!"
                             ]
                         },
                         {
@@ -5578,7 +5578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, I see."
+                                "\\nw[\\N[21]]Ah, I see."
                             ]
                         },
                         {
@@ -5595,7 +5595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Let's go, Kuno! It seems like we can go from the\neast!"
+                                "\\nw[\\N[21]]Let's go, \\N[1]! It seems like we can go from the\neast!"
                             ]
                         },
                         {
@@ -5659,7 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Eh!"
+                                "\\nw[\\N[1]]Eh!"
                             ]
                         },
                         {

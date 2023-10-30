@@ -10304,7 +10304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]I'm pretty sure there's a monster's nest in the\ncave ahead."
+                                "\\nw[\\N[1]]I'm pretty sure there's a monster's nest in the\ncave ahead."
                             ]
                         },
                         {
@@ -10321,7 +10321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Alright, everyone, let's go in with full\ndetermination."
+                                "\\nw[\\N[1]]Alright, everyone, let's go in with full\ndetermination."
                             ]
                         },
                         {

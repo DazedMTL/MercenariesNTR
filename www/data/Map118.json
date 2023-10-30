@@ -2603,7 +2603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Do you happen to like dolls?"
+                                "\\nw[\\N[21]]Do you happen to like dolls?"
                             ]
                         },
                         {
@@ -2671,7 +2671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]No, it's fine if you don't understand."
+                                "\\nw[\\N[21]]No, it's fine if you don't understand."
                             ]
                         },
                         {
@@ -2846,7 +2846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]......Ah......Taro......"
+                                "\\nw[Uka]......Ah......\\N[21]......"
                             ]
                         },
                         {
@@ -2886,7 +2886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Do you want to be held?"
+                                "\\nw[\\N[21]]Do you want to be held?"
                             ]
                         },
                         {
@@ -2937,7 +2937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]I see... (I don't really understand about dolls.)"
+                                "\\nw[\\N[21]]I see... (I don't really understand about dolls.)"
                             ]
                         },
                         {
@@ -3142,7 +3142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Well, leave the management around here to me."
+                                "\\nw[\\N[21]]Well, leave the management around here to me."
                             ]
                         },
                         {
@@ -3357,7 +3357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Well, I do find it unusual... but is it fun?"
+                                "\\nw[\\N[21]]Well, I do find it unusual... but is it fun?"
                             ]
                         },
                         {
@@ -3588,7 +3588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]You don't have to be so nervous."
+                                "\\nw[\\N[21]]You don't have to be so nervous."
                             ]
                         },
                         {

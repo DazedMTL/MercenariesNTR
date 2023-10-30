@@ -6786,7 +6786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]This time, I'll assist in capturing the thief\ngang."
+                                "\\nw[\\N[1]]This time, I'll assist in capturing the thief\ngang."
                             ]
                         },
                         {
@@ -6803,7 +6803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It seems that they need a large-scale capture\noperation and require a certain number of people.\nSince the other units will be conducting the raid,\nwe will be waiting at a specific location as part\nof the encirclement. When the thieves come\nrunning, we will capture them."
+                                "\\nw[\\N[1]]It seems that they need a large-scale capture\noperation and require a certain number of people.\nSince the other units will be conducting the raid,\nwe will be waiting at a specific location as part\nof the encirclement. When the thieves come\nrunning, we will capture them."
                             ]
                         },
                         {
@@ -6834,7 +6834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, the waiting point is to the north of here."
+                                "\\nw[\\N[21]]Ah, the waiting point is to the north of here."
                             ]
                         },
                         {
@@ -6851,7 +6851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Yes, that's right. Well then, let's go."
+                                "\\nw[\\N[1]]Yes, that's right. Well then, let's go."
                             ]
                         },
                         {

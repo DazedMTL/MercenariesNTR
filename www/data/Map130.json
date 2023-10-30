@@ -3016,7 +3016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]It's warm after all."
+                                "\\nw[\\N[21]]It's warm after all."
                             ]
                         },
                         {
@@ -3033,7 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]We need to go back to the town for now."
+                                "\\nw[\\N[21]]We need to go back to the town for now."
                             ]
                         },
                         {

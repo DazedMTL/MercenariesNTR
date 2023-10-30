@@ -15492,7 +15492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]That was quite a strong opponent."
+                                "\\nw[\\N[21]]That was quite a strong opponent."
                             ]
                         },
                         {
@@ -15549,7 +15549,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]That was strong. There's often something happening\nwhen there's a strong opponent around..."
+                                "\\nw[\\N[1]]That was strong. There's often something happening\nwhen there's a strong opponent around..."
                             ]
                         },
                         {
@@ -15573,7 +15573,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]It's not that convenient..."
+                                "\\nw[\\N[21]]It's not that convenient..."
                             ]
                         },
                         {
@@ -15661,7 +15661,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]A voice? Could it be the one who created this\ndungeon!?"
+                                "\\nw[\\N[21]]A voice? Could it be the one who created this\ndungeon!?"
                             ]
                         },
                         {
@@ -15824,7 +15824,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]W-What's with the shape of this dungeon...!?"
+                                "\\nw[\\N[21]]W-What's with the shape of this dungeon...!?"
                             ]
                         },
                         {
@@ -15867,7 +15867,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]N-No, stop...!?"
+                                "\\nw[\\N[1]]N-No, stop...!?"
                             ]
                         },
                         {
@@ -15918,7 +15918,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]What!? Something entered my stomach...!"
+                                "\\nw[\\N[1]]What!? Something entered my stomach...!"
                             ]
                         },
                         {
@@ -15942,7 +15942,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]No way... this... nghhhh!"
+                                "\\nw[\\N[1]]No way... this... nghhhh!"
                             ]
                         },
                         {
@@ -16011,7 +16011,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]Huh, something entered...!"
+                                "\\nw[\\N[3]]Huh, something entered...!"
                             ]
                         },
                         {
@@ -16028,7 +16028,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]Nngh, aaahhh!?"
+                                "\\nw[\\N[3]]Nngh, aaahhh!?"
                             ]
                         },
                         {
@@ -16221,7 +16221,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "This is an event called 'Kuno + Nonna + Fross,\nGoblin Breeding' that I've seen before. Would you\nlike to skip the event?"
+                                "This is an event called '\\N[1] + \\N[3] + Fross,\nGoblin Breeding' that I've seen before. Would you\nlike to skip the event?"
                             ]
                         },
                         {
@@ -16366,7 +16366,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Damn, what the hell is going on?"
+                                "\\nw[\\N[21]]Damn, what the hell is going on?"
                             ]
                         },
                         {
@@ -16407,7 +16407,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]The shape of the dungeon? And we've... been\nseparated..."
+                                "\\nw[\\N[21]]The shape of the dungeon? And we've... been\nseparated..."
                             ]
                         },
                         {
@@ -16472,7 +16472,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]What about Kuno, Nonna, and Fross, Taro?"
+                                "\\nw[\\N[21]]What about \\N[1], \\N[3], and Fross, \\N[21]?"
                             ]
                         },
                         {
@@ -16506,7 +16506,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Over there... is that the room from earlier!?"
+                                "\\nw[\\N[21]]Over there... is that the room from earlier!?"
                             ]
                         },
                         {
@@ -16602,7 +16602,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]I see... There was also the case with Shia, so it\nwouldn't be strange if the dungeon itself came to\ncapture us."
+                                "\\nw[\\N[21]]I see... There was also the case with Shia, so it\nwouldn't be strange if the dungeon itself came to\ncapture us."
                             ]
                         },
                         {
@@ -16681,7 +16681,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "As we moved while feeling a little frustrated, I\ncould faintly hear Kuno's voice."
+                                "As we moved while feeling a little frustrated, I\ncould faintly hear \\N[1]'s voice."
                             ]
                         },
                         {
@@ -16705,7 +16705,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Kuno...!"
+                                "\\nw[\\N[21]]\\N[1]...!"
                             ]
                         },
                         {
@@ -16722,7 +16722,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hurrying towards the direction where Kuno's voice\nwas heard, we arrived at the room from earlier.\nHowever, there was a grid-like wall blocking the\npassage, making it impossible to pass through."
+                                "Hurrying towards the direction where \\N[1]'s voice\nwas heard, we arrived at the room from earlier.\nHowever, there was a grid-like wall blocking the\npassage, making it impossible to pass through."
                             ]
                         },
                         {
@@ -16746,7 +16746,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Hey, are you okay...!?"
+                                "\\nw[\\N[21]]Hey, are you okay...!?"
                             ]
                         },
                         {
@@ -16827,7 +16827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Stop... nnn... nnn...!"
+                                "\\nw[\\N[1]]Stop... nnn... nnn...!"
                             ]
                         },
                         {
@@ -16844,7 +16844,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ahh, intense... ngh, nnghh!"
+                                "\\nw[\\N[3]]Ahh, intense... ngh, nnghh!"
                             ]
                         },
                         {
@@ -16861,7 +16861,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Kuno!?"
+                                "\\nw[\\N[21]]\\N[1]!?"
                             ]
                         },
                         {
@@ -16878,7 +16878,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "In the room, there were indeed Kuno, Nonna, and\nFross. However, not only that, there were also\nnumerous goblins with enlarged penises."
+                                "In the room, there were indeed \\N[1], \\N[3], and\nFross. However, not only that, there were also\nnumerous goblins with enlarged penises."
                             ]
                         },
                         {
@@ -16998,7 +16998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ah, Taro? Nnn, fuah, aah!"
+                                "\\nw[\\N[1]]Ah, \\N[21]? Nnn, fuah, aah!"
                             ]
                         },
                         {
@@ -17022,7 +17022,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Kuno, I'll save you now!"
+                                "\\nw[\\N[21]]\\N[1], I'll save you now!"
                             ]
                         },
                         {
@@ -17087,7 +17087,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Please step back a bit."
+                                "\\nw[\\N[21]]Please step back a bit."
                             ]
                         },
                         {
@@ -17200,7 +17200,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Guh... My strength..."
+                                "\\nw[\\N[21]]Guh... My strength..."
                             ]
                         },
                         {
@@ -17217,7 +17217,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Taro!?"
+                                "\\nw[\\N[1]]\\N[21]!?"
                             ]
                         },
                         {
@@ -17265,7 +17265,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Haa, haa, haa..."
+                                "\\nw[\\N[21]]Haa, haa, haa..."
                             ]
                         },
                         {
@@ -17282,7 +17282,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]Taro-san!? Are you okay?"
+                                "\\nw[Saria]\\N[21]-san!? Are you okay?"
                             ]
                         },
                         {
@@ -17347,7 +17347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Damn it... What should I do..."
+                                "\\nw[\\N[21]]Damn it... What should I do..."
                             ]
                         },
                         {
@@ -17405,7 +17405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Ugh...?"
+                                "\\nw[\\N[21]]Ugh...?"
                             ]
                         },
                         {
@@ -17470,7 +17470,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]A mechanism to gather magical power..."
+                                "\\nw[\\N[21]]A mechanism to gather magical power..."
                             ]
                         },
                         {
@@ -17487,7 +17487,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ahh, ngh, ah, ahh!"
+                                "\\nw[\\N[1]]Ahh, ngh, ah, ahh!"
                             ]
                         },
                         {
@@ -17521,7 +17521,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It seems like they're enjoying it. Kuno, who was\nviolated by Augus outside, wasn't injured either,\nso I guess that group of goblins is also fine."
+                                "It seems like they're enjoying it. \\N[1], who was\nviolated by Augus outside, wasn't injured either,\nso I guess that group of goblins is also fine."
                             ]
                         },
                         {
@@ -17576,7 +17576,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]...Will it take long?"
+                                "\\nw[\\N[21]]...Will it take long?"
                             ]
                         },
                         {
@@ -17617,7 +17617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]...Hmmm..."
+                                "\\nw[\\N[21]]...Hmmm..."
                             ]
                         },
                         {
@@ -17689,7 +17689,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Kuno, Nonna, Fross, it seems like this is a trial\nin the erotic dungeon!"
+                                "\\nw[\\N[21]]\\N[1], \\N[3], Fross, it seems like this is a trial\nin the erotic dungeon!"
                             ]
                         },
                         {
@@ -17713,7 +17713,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]You'll be violated, but there's no physical\ndanger, so please rest assured!"
+                                "\\nw[\\N[21]]You'll be violated, but there's no physical\ndanger, so please rest assured!"
                             ]
                         },
                         {
@@ -17737,7 +17737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Eh, again? Hii, nn, ah, aah!"
+                                "\\nw[\\N[1]]Eh, again? Hii, nn, ah, aah!"
                             ]
                         },
                         {
@@ -17761,7 +17761,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Nn, ah... So it's because of that strange gas...\nThat's why my body feels hot... Nn!"
+                                "\\nw[\\N[3]]Nn, ah... So it's because of that strange gas...\nThat's why my body feels hot... Nn!"
                             ]
                         },
                         {
@@ -17785,7 +17785,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]I understand. We'll be fine, so don't worry. Ahh,\nah, aah!"
+                                "\\nw[\\N[3]]I understand. We'll be fine, so don't worry. Ahh,\nah, aah!"
                             ]
                         },
                         {
@@ -17816,7 +17816,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Eh? Ah, y-yes, that's right."
+                                "\\nw[\\N[1]]Eh? Ah, y-yes, that's right."
                             ]
                         },
                         {
@@ -17840,7 +17840,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]It's been quite a while since I became a succubus,\nso hnnn, fah! I'm perfectly fine with this, so\nrest assured."
+                                "\\nw[\\N[1]]It's been quite a while since I became a succubus,\nso hnnn, fah! I'm perfectly fine with this, so\nrest assured."
                             ]
                         },
                         {
@@ -17864,7 +17864,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]...Ah, I understand."
+                                "\\nw[\\N[21]]...Ah, I understand."
                             ]
                         },
                         {
@@ -17881,7 +17881,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I feel like Kuno is just putting on a brave front,\nbut it's probably not a good idea to point that\nout."
+                                "I feel like \\N[1] is just putting on a brave front,\nbut it's probably not a good idea to point that\nout."
                             ]
                         },
                         {
@@ -17981,7 +17981,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ahh, nnng! Nn, ah, ah, aah, aahh♥"
+                                "\\nw[\\N[3]]Ahh, nnng! Nn, ah, ah, aah, aahh♥"
                             ]
                         },
                         {
@@ -18005,7 +18005,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Nn... slurp, slurp, nchu, chururu..."
+                                "\\nw[\\N[1]]Nn... slurp, slurp, nchu, chururu..."
                             ]
                         },
                         {
@@ -18125,7 +18125,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Chupa, slurp, jurlu... ♥ Nnn, nmm ♥"
+                                "\\nw[\\N[1]]Chupa, slurp, jurlu... ♥ Nnn, nmm ♥"
                             ]
                         },
                         {
@@ -18149,7 +18149,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Like this... fuah, aahh♥ Ahh♥ Ahh♥ Ahh♥"
+                                "\\nw[\\N[3]]Like this... fuah, aahh♥ Ahh♥ Ahh♥ Ahh♥"
                             ]
                         },
                         {
@@ -18269,7 +18269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Amazing... ngh♥ Ah♥ Aahh♥ Even though it's so\nsmall... ah♥ Aaahn♥"
+                                "\\nw[\\N[3]]Amazing... ngh♥ Ah♥ Aahh♥ Even though it's so\nsmall... ah♥ Aaahn♥"
                             ]
                         },
                         {
@@ -18293,7 +18293,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......"
+                                "\\nw[\\N[21]]......"
                             ]
                         },
                         {
@@ -18358,7 +18358,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Slurp, slurp, suck, slurp, slurp, lick, slurp... ♥"
+                                "\\nw[\\N[1]]Slurp, slurp, suck, slurp, slurp, lick, slurp... ♥"
                             ]
                         },
                         {
@@ -18382,7 +18382,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ah, it's coming... getting bigger... aahhh...♥"
+                                "\\nw[\\N[3]]Ah, it's coming... getting bigger... aahhh...♥"
                             ]
                         },
                         {
@@ -18550,7 +18550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Mmm... ♥ Nkhh, nggh, nkuu... ♥"
+                                "\\nw[\\N[1]]Mmm... ♥ Nkhh, nggh, nkuu... ♥"
                             ]
                         },
                         {
@@ -18598,7 +18598,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Mmmmm......♥♥♥"
+                                "\\nw[\\N[3]]Mmmmm......♥♥♥"
                             ]
                         },
                         {
@@ -18682,7 +18682,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Mmm...!?"
+                                "\\nw[\\N[1]]Mmm...!?"
                             ]
                         },
                         {
@@ -18747,7 +18747,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ahh...♥ Aahhnn...♥ Ahn...♥ Aahhnn...♥ Ahn...♥"
+                                "\\nw[\\N[3]]Ahh...♥ Aahhnn...♥ Ahn...♥ Aahhnn...♥ Ahn...♥"
                             ]
                         },
                         {
@@ -18805,7 +18805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]*sucking sounds*"
+                                "\\nw[\\N[1]]*sucking sounds*"
                             ]
                         },
                         {
@@ -18822,7 +18822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Mmm... Nkhh, slurp... Nnn, mmm♥"
+                                "\\nw[\\N[1]]Mmm... Nkhh, slurp... Nnn, mmm♥"
                             ]
                         },
                         {
@@ -19043,7 +19043,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ohh...♥ Hoo...♥ Oohh... Ohh...♥"
+                                "\\nw[\\N[3]]Ohh...♥ Hoo...♥ Oohh... Ohh...♥"
                             ]
                         },
                         {
@@ -19180,7 +19180,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Chururu...♥ Jururuu♥ Churutsu, jururu♥"
+                                "\\nw[\\N[1]]Chururu...♥ Jururuu♥ Churutsu, jururu♥"
                             ]
                         },
                         {
@@ -19197,7 +19197,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]S-Semen... Nkhh... Ju-ju-licking... Ju-ruru... ♥\nChururu... ♥ Churururu... ♥"
+                                "\\nw[\\N[1]]S-Semen... Nkhh... Ju-ju-licking... Ju-ruru... ♥\nChururu... ♥ Churururu... ♥"
                             ]
                         },
                         {
@@ -19382,7 +19382,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ohh...♥ Hoo...♥ Oohh... Ohh...♥"
+                                "\\nw[\\N[3]]Ohh...♥ Hoo...♥ Oohh... Ohh...♥"
                             ]
                         },
                         {
@@ -19423,7 +19423,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Hii... Ohh... ♥ Ohi... Ohh... ♥"
+                                "\\nw[\\N[3]]Hii... Ohh... ♥ Ohi... Ohh... ♥"
                             ]
                         },
                         {
@@ -19471,7 +19471,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Higii... Higiiiiii♥♥♥♥"
+                                "\\nw[\\N[3]]Higii... Higiiiiii♥♥♥♥"
                             ]
                         },
                         {
@@ -19550,7 +19550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Ngh...!"
+                                "\\nw[\\N[21]]Ngh...!"
                             ]
                         },
                         {
@@ -19591,7 +19591,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ahh... Heh... ♥ Aah... ♥"
+                                "\\nw[\\N[3]]Ahh... Heh... ♥ Aah... ♥"
                             ]
                         },
                         {
@@ -19639,7 +19639,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ahh...♥ Ahh...♥ Ahee...♥"
+                                "\\nw[\\N[1]]Ahh...♥ Ahh...♥ Ahee...♥"
                             ]
                         },
                         {
@@ -19680,7 +19680,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......!"
+                                "\\nw[\\N[21]]......!"
                             ]
                         },
                         {
@@ -19738,7 +19738,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Fuh... ♥ Ehehe... ♥"
+                                "\\nw[\\N[1]]Fuh... ♥ Ehehe... ♥"
                             ]
                         },
                         {
@@ -19803,7 +19803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ahh... ♥ Fuh... ♥"
+                                "\\nw[\\N[1]]Ahh... ♥ Fuh... ♥"
                             ]
                         },
                         {
@@ -19820,7 +19820,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......"
+                                "\\nw[\\N[21]]......"
                             ]
                         },
                         {
@@ -19925,7 +19925,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Mmm...nggh, nnngggh~!"
+                                "\\nw[\\N[1]]Mmm...nggh, nnngggh~!"
                             ]
                         },
                         {
@@ -19966,7 +19966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Papa... ♥ Ahh... ♥ N-noo... ♥ Do you want to\nimpregnate me again...? Ahh... ♥ N-noo... ♥"
+                                "\\nw[\\N[1]]Papa... ♥ Ahh... ♥ N-noo... ♥ Do you want to\nimpregnate me again...? Ahh... ♥ N-noo... ♥"
                             ]
                         },
                         {
@@ -19990,7 +19990,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Yes, I understand ♥ Ahh ♥ Ohh ♥ Impregnate me\nagain ♥ Papa's child ♥ I want to give birth\nagain... Ahh ♥ Ohh ♥"
+                                "\\nw[\\N[1]]Yes, I understand ♥ Ahh ♥ Ohh ♥ Impregnate me\nagain ♥ Papa's child ♥ I want to give birth\nagain... Ahh ♥ Ohh ♥"
                             ]
                         },
                         {
@@ -20014,7 +20014,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ahn ♥ Ahn ♥ You... wonderful... ♥ If it's your\ndesire... I... Ahn ♥ Ahn ♥"
+                                "\\nw[\\N[3]]Ahn ♥ Ahn ♥ You... wonderful... ♥ If it's your\ndesire... I... Ahn ♥ Ahn ♥"
                             ]
                         },
                         {
@@ -20038,7 +20038,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Yes, let me give birth... ♥ I'll be your exclusive\nbreeding ground, fill me up with plenty of\nsemen... ♥"
+                                "\\nw[\\N[3]]Yes, let me give birth... ♥ I'll be your exclusive\nbreeding ground, fill me up with plenty of\nsemen... ♥"
                             ]
                         },
                         {
@@ -20141,7 +20141,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......"
+                                "\\nw[\\N[21]]......"
                             ]
                         },
                         {
@@ -20337,7 +20337,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Damn it, you're saying whatever you want... you\nhave such bad taste."
+                                "\\nw[\\N[21]]Damn it, you're saying whatever you want... you\nhave such bad taste."
                             ]
                         },
                         {
@@ -20361,7 +20361,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]By the way, what about Shia and the others..."
+                                "\\nw[\\N[21]]By the way, what about Shia and the others..."
                             ]
                         },
                         {
@@ -20435,7 +20435,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Oh, is that so? Thank you, Uka."
+                                "\\nw[\\N[21]]Oh, is that so? Thank you, Uka."
                             ]
                         },
                         {
@@ -20516,7 +20516,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......!"
+                                "\\nw[\\N[21]]......!"
                             ]
                         },
                         {
@@ -20686,7 +20686,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Yeah... Fatigue can be recovered both physically\nand mentally, you know."
+                                "\\nw[\\N[21]]Yeah... Fatigue can be recovered both physically\nand mentally, you know."
                             ]
                         },
                         {
@@ -20710,7 +20710,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro](Although the memories remain, and the sexual acts\nwith monsters are incredibly pleasurable and\naddictive... I can't say that there is no\ninfluence at all...)"
+                                "\\nw[\\N[21]](Although the memories remain, and the sexual acts\nwith monsters are incredibly pleasurable and\naddictive... I can't say that there is no\ninfluence at all...)"
                             ]
                         },
                         {
@@ -20741,7 +20741,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Well, let's see what's at the end of the stairs.\nWe'll decide whether to go back or not afterwards."
+                                "\\nw[\\N[21]]Well, let's see what's at the end of the stairs.\nWe'll decide whether to go back or not afterwards."
                             ]
                         },
                         {
@@ -21033,7 +21033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I should try to move forward for now..."
+                                "\\nw[\\N[21]]I should try to move forward for now..."
                             ]
                         },
                         {

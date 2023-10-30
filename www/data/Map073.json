@@ -4529,7 +4529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]There seems to be a magical energy response\nnearby."
+                                "\\nw[\\N[21]]There seems to be a magical energy response\nnearby."
                             ]
                         },
                         {
@@ -4586,7 +4586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Judging from the wind and sound, it seems like\nwe're reaching a dead end soon."
+                                "\\nw[\\N[3]]Judging from the wind and sound, it seems like\nwe're reaching a dead end soon."
                             ]
                         },
                         {
@@ -4603,7 +4603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see... Can you determine the number through\nreconnaissance?"
+                                "\\nw[\\N[21]]I see... Can you determine the number through\nreconnaissance?"
                             ]
                         },
                         {
@@ -4660,7 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Mmm..."
+                                "\\nw[\\N[3]]Mmm..."
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I can't tell, can you figure it out, Uka?"
+                                "\\nw[\\N[3]]I can't tell, can you figure it out, Uka?"
                             ]
                         },
                         {
@@ -4758,7 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Are you sure?"
+                                "\\nw[\\N[21]]Are you sure?"
                             ]
                         },
                         {
@@ -4799,7 +4799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Hmmm... There might be a way to sneak through the\nreconnaissance. It would be easier if there's only\none..."
+                                "\\nw[\\N[21]]Hmmm... There might be a way to sneak through the\nreconnaissance. It would be easier if there's only\none..."
                             ]
                         },
                         {
@@ -4823,7 +4823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Let's head towards the direction where the\nmonsters are for now."
+                                "\\nw[\\N[21]]Let's head towards the direction where the\nmonsters are for now."
                             ]
                         },
                         {
@@ -5108,7 +5108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]There's a monster... The magical tool also\nindicates that it's the target monster..."
+                                "\\nw[\\N[21]]There's a monster... The magical tool also\nindicates that it's the target monster..."
                             ]
                         },
                         {
@@ -5132,7 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is that what Uka's search detected?"
+                                "\\nw[\\N[21]]Is that what Uka's search detected?"
                             ]
                         },
                         {
@@ -5183,7 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]What do you mean it's different?"
+                                "\\nw[\\N[21]]What do you mean it's different?"
                             ]
                         },
                         {
@@ -5217,7 +5217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Atmosphere... come to think of it, the monsters\nhere were watery, but that one seems like a\nmonster with a strong wind attribute."
+                                "\\nw[\\N[21]]Atmosphere... come to think of it, the monsters\nhere were watery, but that one seems like a\nmonster with a strong wind attribute."
                             ]
                         },
                         {
@@ -5241,7 +5241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Wind monsters are often weak to fire attribute, so\nlet's consider that and prepare."
+                                "\\nw[\\N[21]]Wind monsters are often weak to fire attribute, so\nlet's consider that and prepare."
                             ]
                         },
                         {
@@ -5290,7 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]One person should stay on guard for ambushes and\nsurprise attacks, while the rest of the team\ndefeats that monster."
+                                "\\nw[\\N[21]]One person should stay on guard for ambushes and\nsurprise attacks, while the rest of the team\ndefeats that monster."
                             ]
                         },
                         {
@@ -5338,7 +5338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Let's go into battle once we're prepared."
+                                "\\nw[\\N[21]]Let's go into battle once we're prepared."
                             ]
                         },
                         {
@@ -5545,7 +5545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Well, shall we fight the monsters..."
+                                "\\nw[\\N[21]]Well, shall we fight the monsters..."
                             ]
                         },
                         {
@@ -5584,7 +5584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Alright, let's go!"
+                                "\\nw[\\N[21]]Alright, let's go!"
                             ]
                         },
                         {
@@ -5792,7 +5792,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Did we defeat them...? I guess it's because they\nwere absorbing magic, the magic reaction has\ndisappeared."
+                                "\\nw[\\N[21]]Did we defeat them...? I guess it's because they\nwere absorbing magic, the magic reaction has\ndisappeared."
                             ]
                         },
                         {
@@ -5816,7 +5816,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]I'll just report to Prae since I can contact her.\nWell, it's only when Prae is looking at me\nthough..."
+                                "\\nw[\\N[21]]I'll just report to Prae since I can contact her.\nWell, it's only when Prae is looking at me\nthough..."
                             ]
                         },
                         {
@@ -5920,7 +5920,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]Nonna... this..."
+                                "\\nw[Uka]\\N[3]... this..."
                             ]
                         },
                         {
@@ -5977,7 +5977,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]What's wrong?"
+                                "\\nw[\\N[3]]What's wrong?"
                             ]
                         },
                         {
@@ -5994,7 +5994,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Um... is this the drop from the monster?"
+                                "\\nw[\\N[3]]Um... is this the drop from the monster?"
                             ]
                         },
                         {
@@ -6028,7 +6028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Is this... a type of magical device?"
+                                "\\nw[\\N[3]]Is this... a type of magical device?"
                             ]
                         },
                         {
@@ -6045,7 +6045,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Hm? A magical device?"
+                                "\\nw[\\N[21]]Hm? A magical device?"
                             ]
                         },
                         {
@@ -6062,7 +6062,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Did you finish contacting [Char_9]?"
+                                "\\nw[\\N[3]]Did you finish contacting [Char_9]?"
                             ]
                         },
                         {
@@ -6079,7 +6079,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]No, not yet... but it seems Prae can see this side\ntoo, so show me a little."
+                                "\\nw[\\N[21]]No, not yet... but it seems Prae can see this side\ntoo, so show me a little."
                             ]
                         },
                         {
@@ -6110,7 +6110,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Yes, this is it."
+                                "\\nw[\\N[3]]Yes, this is it."
                             ]
                         },
                         {
@@ -6127,7 +6127,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Thank goodness, it seems you can see me. Um...?"
+                                "\\nw[\\N[21]]Thank goodness, it seems you can see me. Um...?"
                             ]
                         },
                         {
@@ -6167,7 +6167,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]It seems like it's some kind of magic used when\ncommanding familiars. It looks like a magical\ntool, but it seems to be just regular magic."
+                                "\\nw[\\N[21]]It seems like it's some kind of magic used when\ncommanding familiars. It looks like a magical\ntool, but it seems to be just regular magic."
                             ]
                         },
                         {
@@ -6191,7 +6191,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]It said that it would disappear as soon as the\nmonster died... and while I was saying that, it\ndisappeared."
+                                "\\nw[\\N[21]]It said that it would disappear as soon as the\nmonster died... and while I was saying that, it\ndisappeared."
                             ]
                         },
                         {
@@ -6255,7 +6255,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Familiars... so there really is someone\ncontrolling them."
+                                "\\nw[\\N[3]]Familiars... so there really is someone\ncontrolling them."
                             ]
                         },
                         {
@@ -6279,7 +6279,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]It seems so. Maybe it was sucking the magic power\nfrom this monster and then stealing it even more."
+                                "\\nw[\\N[21]]It seems so. Maybe it was sucking the magic power\nfrom this monster and then stealing it even more."
                             ]
                         },
                         {
@@ -6303,7 +6303,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]So, if it's called a familiar, that means it's\nstronger than this. And it might realize that it\nwas defeated."
+                                "\\nw[\\N[3]]So, if it's called a familiar, that means it's\nstronger than this. And it might realize that it\nwas defeated."
                             ]
                         },
                         {
@@ -6327,7 +6327,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]I think we should retreat early. This monster was\nstrong, and now that we've defeated its familiar,\nwe can't avoid becoming enemies."
+                                "\\nw[\\N[3]]I think we should retreat early. This monster was\nstrong, and now that we've defeated its familiar,\nwe can't avoid becoming enemies."
                             ]
                         },
                         {
@@ -6351,7 +6351,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......Yeah, it's more likely that it was just a\ncoincidence that Rodrigo happened to be the one\nwho accidentally absorbed the magic power, rather\nthan intentionally choosing him to do so."
+                                "\\nw[\\N[21]]......Yeah, it's more likely that it was just a\ncoincidence that Rodrigo happened to be the one\nwho accidentally absorbed the magic power, rather\nthan intentionally choosing him to do so."
                             ]
                         },
                         {
@@ -6375,7 +6375,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Moreover, we can't expect any reinforcements here.\nOur objective has been achieved, so let's quickly\nreturn to the carriage and go back to town."
+                                "\\nw[\\N[21]]Moreover, we can't expect any reinforcements here.\nOur objective has been achieved, so let's quickly\nreturn to the carriage and go back to town."
                             ]
                         },
                         {
@@ -6578,7 +6578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Let's prepare a little more."
+                                "\\nw[\\N[21]]Let's prepare a little more."
                             ]
                         },
                         {

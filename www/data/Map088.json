@@ -4722,7 +4722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]It's a mercenary group NTR. I received a job\nrequest, but is the deal confirmed?"
+                                "\\nw[\\N[21]]It's a mercenary group NTR. I received a job\nrequest, but is the deal confirmed?"
                             ]
                         },
                         {
@@ -4794,7 +4794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Understood."
+                                "\\nw[\\N[21]]Understood."
                             ]
                         },
                         {
@@ -4910,7 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Looks like I'll be kept waiting for a while."
+                                "\\nw[\\N[21]]Looks like I'll be kept waiting for a while."
                             ]
                         },
                         {
@@ -4967,7 +4967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Nonna and I are also taking on another job from\nPrae, so we need to discuss that too..."
+                                "\\nw[\\N[1]]\\N[3] and I are also taking on another job from\nPrae, so we need to discuss that too..."
                             ]
                         },
                         {
@@ -4991,7 +4991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Another job? I haven't heard about that..."
+                                "\\nw[\\N[21]]Another job? I haven't heard about that..."
                             ]
                         },
                         {
@@ -5008,7 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]I was told to talk about that after coming to this\ncity..."
+                                "\\nw[\\N[1]]I was told to talk about that after coming to this\ncity..."
                             ]
                         },
                         {
@@ -5058,7 +5058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Voice? Where is it coming from?"
+                                "\\nw[\\N[21]]Voice? Where is it coming from?"
                             ]
                         },
                         {
@@ -5130,7 +5130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is this part of the request...? Wait, as for me..."
+                                "\\nw[\\N[21]]Is this part of the request...? Wait, as for me..."
                             ]
                         },
                         {
@@ -5147,7 +5147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]From the voice, it sounds like a woman, right?"
+                                "\\nw[\\N[21]]From the voice, it sounds like a woman, right?"
                             ]
                         },
                         {
@@ -5204,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It sounds like a woman, doesn't it?"
+                                "\\nw[\\N[1]]It sounds like a woman, doesn't it?"
                             ]
                         },
                         {
@@ -5269,7 +5269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Haa... What do you mean by listen to the voice?"
+                                "\\nw[\\N[21]]Haa... What do you mean by listen to the voice?"
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, I was told that the details would be discussed\nwhen we meet..."
+                                "\\nw[\\N[21]]No, I was told that the details would be discussed\nwhen we meet..."
                             ]
                         },
                         {
@@ -5461,7 +5461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see... For now, it seems like I'm fine, but..."
+                                "\\nw[\\N[21]]I see... For now, it seems like I'm fine, but..."
                             ]
                         },
                         {
@@ -5525,7 +5525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]I think I'll be fine too..."
+                                "\\nw[\\N[1]]I think I'll be fine too..."
                             ]
                         },
                         {
@@ -5599,7 +5599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Well, it seems like everyone is fine, huh?"
+                                "\\nw[\\N[21]]Well, it seems like everyone is fine, huh?"
                             ]
                         },
                         {
@@ -5913,7 +5913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, I'm Taro, the leader of the Mercenary NTR\nBrigade. Nice to meet you too."
+                                "\\nw[\\N[21]]Ah, I'm \\N[21], the leader of the Mercenary NTR\nBrigade. Nice to meet you too."
                             ]
                         },
                         {
@@ -6037,7 +6037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, it's more like a communication error on our\nend... or rather, I feel like Prae intentionally\ndidn't mention it, knowing that you would be\nconcerned."
+                                "\\nw[\\N[21]]No, it's more like a communication error on our\nend... or rather, I feel like Prae intentionally\ndidn't mention it, knowing that you would be\nconcerned."
                             ]
                         },
                         {
@@ -6068,7 +6068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]So, is the request about lifting a curse?"
+                                "\\nw[\\N[21]]So, is the request about lifting a curse?"
                             ]
                         },
                         {
@@ -6211,7 +6211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Escorting... Are we going to a strange place to\nlift the curse?"
+                                "\\nw[\\N[21]]Escorting... Are we going to a strange place to\nlift the curse?"
                             ]
                         },
                         {
@@ -6259,7 +6259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, that's impossible... We don't have any magic\nresearchers or anything like that."
+                                "\\nw[\\N[21]]No, that's impossible... We don't have any magic\nresearchers or anything like that."
                             ]
                         },
                         {
@@ -6338,7 +6338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]What kind of method is it?"
+                                "\\nw[\\N[21]]What kind of method is it?"
                             ]
                         },
                         {
@@ -6396,7 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Oh."
+                                "\\nw[\\N[21]]Oh."
                             ]
                         },
                         {
@@ -6430,7 +6430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is that possible?!"
+                                "\\nw[\\N[21]]Is that possible?!"
                             ]
                         },
                         {
@@ -6478,7 +6478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, that might be true."
+                                "\\nw[\\N[21]]Ah, that might be true."
                             ]
                         },
                         {
@@ -6543,7 +6543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I understand the request. When you say securing a\nmeans of transportation, does that mean we need a\nboat?"
+                                "\\nw[\\N[21]]I understand the request. When you say securing a\nmeans of transportation, does that mean we need a\nboat?"
                             ]
                         },
                         {
@@ -6653,7 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I understand, we need to secure a boat and crew...\nIf we can secure them, we'll go to the temple on\nthe northern island with Shia-san."
+                                "\\nw[\\N[21]]I understand, we need to secure a boat and crew...\nIf we can secure them, we'll go to the temple on\nthe northern island with Shia-san."
                             ]
                         },
                         {
@@ -6701,7 +6701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I understand, Shia."
+                                "\\nw[\\N[21]]I understand, Shia."
                             ]
                         },
                         {
@@ -6718,7 +6718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I've been walking all day and just arrived in\ntown. Is it okay to start tomorrow?"
+                                "\\nw[\\N[21]]I've been walking all day and just arrived in\ntown. Is it okay to start tomorrow?"
                             ]
                         },
                         {
@@ -6960,7 +6960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Should I rest today and prepare for tomorrow...?)"
+                                "\\nw[\\N[21]](Should I rest today and prepare for tomorrow...?)"
                             ]
                         },
                         {
@@ -7694,7 +7694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Ah, actually, it seems that there is a large\noutbreak of monsters in the sea. So, considering\nthe safety as well, I'm wondering whether we\nshould move right away or wait."
+                                "\\nw[\\N[21]]Ah, actually, it seems that there is a large\noutbreak of monsters in the sea. So, considering\nthe safety as well, I'm wondering whether we\nshould move right away or wait."
                             ]
                         },
                         {
@@ -7718,7 +7718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Can you give me your opinion on whether it's\nbetter to move right away despite the danger, or\nwait until the problem is resolved before heading\nout?"
+                                "\\nw[\\N[21]]Can you give me your opinion on whether it's\nbetter to move right away despite the danger, or\nwait until the problem is resolved before heading\nout?"
                             ]
                         },
                         {
@@ -7773,7 +7773,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]It might be dangerous, but is it okay? In terms of\nsafety, it would be better to wait, but..."
+                                "\\nw[\\N[21]]It might be dangerous, but is it okay? In terms of\nsafety, it would be better to wait, but..."
                             ]
                         },
                         {
@@ -7828,7 +7828,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Ah, I understand. Let's proceed in that direction."
+                                "\\nw[\\N[21]]Ah, I understand. Let's proceed in that direction."
                             ]
                         },
                         {
@@ -7869,7 +7869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]No, it's fine."
+                                "\\nw[\\N[21]]No, it's fine."
                             ]
                         },
                         {
@@ -7886,7 +7886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](They seem to be in a hurry more than I thought...\nBut if that's the case, we'll have to find a way\nto get the ship moving...)"
+                                "\\nw[\\N[21]](They seem to be in a hurry more than I thought...\nBut if that's the case, we'll have to find a way\nto get the ship moving...)"
                             ]
                         },
                         {
@@ -7910,7 +7910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](Should I go outside the inn and consult with\nNonna and the others...)"
+                                "\\nw[\\N[21]](Should I go outside the inn and consult with\n\\N[3] and the others...)"
                             ]
                         },
                         {
@@ -8230,7 +8230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, just a moment."
+                                "\\nw[\\N[21]]Ah, just a moment."
                             ]
                         },
                         {
@@ -8416,7 +8416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, Shia, you can't speak in front of others,\nright? You must be quite bored. That's why I\nthought we could do something together for a\nlittle while."
+                                "\\nw[\\N[21]]Ah, Shia, you can't speak in front of others,\nright? You must be quite bored. That's why I\nthought we could do something together for a\nlittle while."
                             ]
                         },
                         {
@@ -8464,7 +8464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, I've left that to the other members for now. I\ncan't help you there until something happens. So I\nhave some free time."
+                                "\\nw[\\N[21]]No, I've left that to the other members for now. I\ncan't help you there until something happens. So I\nhave some free time."
                             ]
                         },
                         {
@@ -8495,7 +8495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I thought we could spend some time together."
+                                "\\nw[\\N[21]]I thought we could spend some time together."
                             ]
                         },
                         {
@@ -8529,7 +8529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Maybe if we spend time together, we might learn\nsomething about the curse. So, until there's a\nchange in the negotiations for the ship, please\nspend time with me."
+                                "\\nw[\\N[21]]Maybe if we spend time together, we might learn\nsomething about the curse. So, until there's a\nchange in the negotiations for the ship, please\nspend time with me."
                             ]
                         },
                         {
@@ -8553,7 +8553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Having a conversation might help relieve\nstress...)"
+                                "\\nw[\\N[21]](Having a conversation might help relieve\nstress...)"
                             ]
                         },
                         {
@@ -8618,7 +8618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, I've thought of something to do. That's why I\nbrought Uka with me."
+                                "\\nw[\\N[21]]Ah, I've thought of something to do. That's why I\nbrought Uka with me."
                             ]
                         },
                         {
@@ -8699,7 +8699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, what we're going to do..."
+                                "\\nw[\\N[21]]Ah, what we're going to do..."
                             ]
                         },
                         {
@@ -9052,7 +9052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Surprisingly, you've adapted quite well. You can\nread and do calculations to some extent."
+                                "\\nw[\\N[21]]Surprisingly, you've adapted quite well. You can\nread and do calculations to some extent."
                             ]
                         },
                         {
@@ -9117,7 +9117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]That is certainly true."
+                                "\\nw[\\N[21]]That is certainly true."
                             ]
                         },
                         {
@@ -9158,7 +9158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, Uka doesn't know her age or anything. Even if\nyou ask her about the past, she's quite vague. It\nseems she doesn't remember the exact passage of\ntime at all."
+                                "\\nw[\\N[21]]No, Uka doesn't know her age or anything. Even if\nyou ask her about the past, she's quite vague. It\nseems she doesn't remember the exact passage of\ntime at all."
                             ]
                         },
                         {
@@ -9189,7 +9189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]It's because appearances and age don't necessarily\nmatch in magic and such, so it's hard to say. It\nseems certain that she didn't receive an education\nthough..."
+                                "\\nw[\\N[21]]It's because appearances and age don't necessarily\nmatch in magic and such, so it's hard to say. It\nseems certain that she didn't receive an education\nthough..."
                             ]
                         },
                         {
@@ -9237,7 +9237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I thought Shia would resist or dislike teaching so\neasily."
+                                "\\nw[\\N[21]]I thought Shia would resist or dislike teaching so\neasily."
                             ]
                         },
                         {
@@ -9309,7 +9309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]So, it's a cramped way of living, huh..."
+                                "\\nw[\\N[21]]So, it's a cramped way of living, huh..."
                             ]
                         },
                         {
@@ -9326,7 +9326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Do you have any favorite foods?"
+                                "\\nw[\\N[21]]Do you have any favorite foods?"
                             ]
                         },
                         {
@@ -9418,7 +9418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Is it because of your profession...? Don't you\nhave any childhood memories? Surely you haven't\nbeen writing lyrics since you were a child, right?"
+                                "\\nw[\\N[21]]Is it because of your profession...? Don't you\nhave any childhood memories? Surely you haven't\nbeen writing lyrics since you were a child, right?"
                             ]
                         },
                         {
@@ -9573,7 +9573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see. Well, if that's the case, there's nothing\nwe can do about it."
+                                "\\nw[\\N[21]]I see. Well, if that's the case, there's nothing\nwe can do about it."
                             ]
                         },
                         {
@@ -9590,7 +9590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Do you dislike talking about your childhood?)"
+                                "\\nw[\\N[21]](Do you dislike talking about your childhood?)"
                             ]
                         },
                         {
@@ -9607,7 +9607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I thought about buying or making something if\nthere was something you liked."
+                                "\\nw[\\N[21]]I thought about buying or making something if\nthere was something you liked."
                             ]
                         },
                         {
@@ -9648,7 +9648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see... How about we have hot pot? It might be\nnice to try something we don't usually eat, right?"
+                                "\\nw[\\N[21]]I see... How about we have hot pot? It might be\nnice to try something we don't usually eat, right?"
                             ]
                         },
                         {
@@ -10397,7 +10397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Finally smiled... If things continue like this,\nit seems like negotiations for getting the ship\nwill be fine even if they drag on...)"
+                                "\\nw[\\N[21]](Finally smiled... If things continue like this,\nit seems like negotiations for getting the ship\nwill be fine even if they drag on...)"
                             ]
                         },
                         {
@@ -10421,7 +10421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](I wonder how Nonna's negotiations will proceed\nfrom here...)"
+                                "\\nw[\\N[21]](I wonder how \\N[3]'s negotiations will proceed\nfrom here...)"
                             ]
                         },
                         {
@@ -10508,7 +10508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nonna's Hospitality 2 is an event that you have\nalready seen once. Would you like to skip the\nevent?"
+                                "\\N[3]'s Hospitality 2 is an event that you have\nalready seen once. Would you like to skip the\nevent?"
                             ]
                         },
                         {
@@ -10692,7 +10692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]*slurp*, *gulp*, *slurp slurp*, *gulp gulp*,\n*slurp slurp slurp*~!!"
+                                "\\nw[\\N[3]]*slurp*, *gulp*, *slurp slurp*, *gulp gulp*,\n*slurp slurp slurp*~!!"
                             ]
                         },
                         {
@@ -10839,7 +10839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]*slurp slurp*~!! *gulp gulp*"
+                                "\\nw[\\N[3]]*slurp slurp*~!! *gulp gulp*"
                             ]
                         },
                         {
@@ -10873,7 +10873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nonna is once again keeping the captain company\ntoday. It's already been four consecutive days."
+                                "\\N[3] is once again keeping the captain company\ntoday. It's already been four consecutive days."
                             ]
                         },
                         {
@@ -10897,7 +10897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "During that time, the captain was completely\ncaptivated by Nonna, who listened to his\ncomplaints and served him."
+                                "During that time, the captain was completely\ncaptivated by \\N[3], who listened to his\ncomplaints and served him."
                             ]
                         },
                         {
@@ -10961,7 +10961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Hehe, thank goodness."
+                                "\\nw[\\N[3]]Hehe, thank goodness."
                             ]
                         },
                         {
@@ -10983,7 +10983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nonna sat next to the captain and carefully\ncleaned his penis. Then, she leaned against the\ncaptain a little and peered into his face."
+                                "\\N[3] sat next to the captain and carefully\ncleaned his penis. Then, she leaned against the\ncaptain a little and peered into his face."
                             ]
                         },
                         {
@@ -11007,7 +11007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]...Captain, I have a favor to ask."
+                                "\\nw[\\N[3]]...Captain, I have a favor to ask."
                             ]
                         },
                         {
@@ -11024,7 +11024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Captain]What is it? If it's a request from Nonna, I'll\nlisten to anything."
+                                "\\nw[Captain]What is it? If it's a request from \\N[3], I'll\nlisten to anything."
                             ]
                         },
                         {
@@ -11048,7 +11048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Actually, I'm looking for someone who can take a\nboat to the Water Temple located to the north of\nhere."
+                                "\\nw[\\N[3]]Actually, I'm looking for someone who can take a\nboat to the Water Temple located to the north of\nhere."
                             ]
                         },
                         {
@@ -11072,7 +11072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]So, I want you to let me ride on your ship,\nCaptain."
+                                "\\nw[\\N[3]]So, I want you to let me ride on your ship,\nCaptain."
                             ]
                         },
                         {
@@ -11113,7 +11113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As the captain seemed to be lost in thought, Nonna\nbrought her face close to his."
+                                "As the captain seemed to be lost in thought, \\N[3]\nbrought her face close to his."
                             ]
                         },
                         {
@@ -11137,7 +11137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The influence of Nonna's scent and body\ntemperature can be seen as the captain's tongue\nslightly extends from his nose."
+                                "The influence of \\N[3]'s scent and body\ntemperature can be seen as the captain's tongue\nslightly extends from his nose."
                             ]
                         },
                         {
@@ -11161,7 +11161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I want to see where the captain is working."
+                                "\\nw[\\N[3]]I want to see where the captain is working."
                             ]
                         },
                         {
@@ -11195,7 +11195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Yes, I think it's wonderful to have a man who can\ndo his job well. Captain, you can do it too,\nright?"
+                                "\\nw[\\N[3]]Yes, I think it's wonderful to have a man who can\ndo his job well. Captain, you can do it too,\nright?"
                             ]
                         },
                         {
@@ -11236,7 +11236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Leave the escort to me. The mercenary group I\nbelong to will be in charge of the escort."
+                                "\\nw[\\N[3]]Leave the escort to me. The mercenary group I\nbelong to will be in charge of the escort."
                             ]
                         },
                         {
@@ -11284,7 +11284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Thank you, Captain. You're so kind, it's really\nhelpful."
+                                "\\nw[\\N[3]]Thank you, Captain. You're so kind, it's really\nhelpful."
                             ]
                         },
                         {
@@ -11308,7 +11308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As Nonna hugged the captain and said that, the\ncaptain's breathing became rough. It seems like\nhe's extremely excited."
+                                "As \\N[3] hugged the captain and said that, the\ncaptain's breathing became rough. It seems like\nhe's extremely excited."
                             ]
                         },
                         {
@@ -11349,7 +11349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]You're reliable. I'm counting on you."
+                                "\\nw[\\N[3]]You're reliable. I'm counting on you."
                             ]
                         },
                         {
@@ -12386,7 +12386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Shia should be inside the inn, I need to meet her\nand talk."
+                                "\\nw[\\N[21]]Shia should be inside the inn, I need to meet her\nand talk."
                             ]
                         },
                         {
@@ -12485,7 +12485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I have to go upstairs."
+                                "\\nw[\\N[21]]I have to go upstairs."
                             ]
                         },
                         {
@@ -12659,7 +12659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]I heard from Nonna-san. You were about to depart\non a ship, right?"
+                                "\\nw[Fross]I heard from \\N[3]-san. You were about to depart\non a ship, right?"
                             ]
                         },
                         {
@@ -12700,7 +12700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Oh, um, sorry."
+                                "\\nw[\\N[21]]Oh, um, sorry."
                             ]
                         },
                         {
@@ -12717,7 +12717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](Come to think of it, I forgot to mention that I\nwould be coming later...)"
+                                "\\nw[\\N[21]](Come to think of it, I forgot to mention that I\nwould be coming later...)"
                             ]
                         },
                         {
@@ -12734,7 +12734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Did you come alone? I thought it would be quite\ndangerous on the way..."
+                                "\\nw[\\N[21]]Did you come alone? I thought it would be quite\ndangerous on the way..."
                             ]
                         },
                         {
@@ -12782,7 +12782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Louis... Wasn't he unable to fight?"
+                                "\\nw[\\N[21]]Louis... Wasn't he unable to fight?"
                             ]
                         },
                         {
@@ -12854,7 +12854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I see... Wait, if you came together, does that\nmean Louis is also nearby?"
+                                "\\nw[\\N[21]]I see... Wait, if you came together, does that\nmean Louis is also nearby?"
                             ]
                         },
                         {
@@ -12895,7 +12895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Hmmm, I see..."
+                                "\\nw[\\N[21]]Hmmm, I see..."
                             ]
                         },
                         {
@@ -12912,7 +12912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](I wanted to talk, but... I guess it won't work\nout conveniently)"
+                                "\\nw[\\N[21]](I wanted to talk, but... I guess it won't work\nout conveniently)"
                             ]
                         },
                         {
@@ -12953,7 +12953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Oh, nice to meet you."
+                                "\\nw[\\N[21]]Oh, nice to meet you."
                             ]
                         },
                         {
@@ -13687,7 +13687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I wonder what is needed for the ship's repair?"
+                                "\\nw[\\N[3]]I wonder what is needed for the ship's repair?"
                             ]
                         },
                         {
@@ -13752,7 +13752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I see... understood. We will go and gather it."
+                                "\\nw[\\N[3]]I see... understood. We will go and gather it."
                             ]
                         },
                         {
@@ -13810,7 +13810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I see... but is there anything I can do to help?\nI'll do anything that I can."
+                                "\\nw[\\N[3]]I see... but is there anything I can do to help?\nI'll do anything that I can."
                             ]
                         },
                         {
@@ -13851,7 +13851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Yes, if it means saving Taro..."
+                                "\\nw[\\N[3]]Yes, if it means saving \\N[21]..."
                             ]
                         },
                         {
@@ -13932,7 +13932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Yes, understood. Uka, can you gather everyone and\ngo pick it?"
+                                "\\nw[\\N[3]]Yes, understood. Uka, can you gather everyone and\ngo pick it?"
                             ]
                         },
                         {
@@ -14152,7 +14152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Please be careful."
+                                "\\nw[\\N[3]]Please be careful."
                             ]
                         },
                         {
@@ -14374,7 +14374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, I see."
+                                "\\nw[\\N[21]]Ah, I see."
                             ]
                         },
                         {
@@ -14586,7 +14586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Well, I don't really deserve thanks... I did fail\nat my job as a bodyguard from the start..."
+                                "\\nw[\\N[1]]Well, I don't really deserve thanks... I did fail\nat my job as a bodyguard from the start..."
                             ]
                         },
                         {
@@ -14705,7 +14705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, for now, I'll listen to what you have to say.\nWhether I'll accept it or not is a different\nmatter."
+                                "\\nw[\\N[21]]Ah, for now, I'll listen to what you have to say.\nWhether I'll accept it or not is a different\nmatter."
                             ]
                         },
                         {
@@ -14794,7 +14794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]No, it seems even the owner Prae doesn't know her\ncontact information. She should be living outside\nof Solte where we reside, but her personal\ninformation is completely unknown."
+                                "\\nw[\\N[21]]No, it seems even the owner Prae doesn't know her\ncontact information. She should be living outside\nof Solte where we reside, but her personal\ninformation is completely unknown."
                             ]
                         },
                         {
@@ -14880,7 +14880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Speaking of ensuring that the curse doesn't\nactivate, you did say that you would be fine after\nsexual activity, right?"
+                                "\\nw[\\N[21]]Speaking of ensuring that the curse doesn't\nactivate, you did say that you would be fine after\nsexual activity, right?"
                             ]
                         },
                         {
@@ -15007,7 +15007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]A change in the request, huh... Well, since the\ncurse lifting has failed..."
+                                "\\nw[\\N[21]]A change in the request, huh... Well, since the\ncurse lifting has failed..."
                             ]
                         },
                         {
@@ -15031,7 +15031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]It seems like there is little danger and there is\nno reason to refuse."
+                                "\\nw[\\N[21]]It seems like there is little danger and there is\nno reason to refuse."
                             ]
                         },
                         {
@@ -15088,7 +15088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]I'm curious, but is Shia okay?"
+                                "\\nw[\\N[1]]I'm curious, but is Shia okay?"
                             ]
                         },
                         {
@@ -15122,7 +15122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]So, does that mean you'll have a physical\nrelationship with Taro multiple times? Don't you\nhave any thoughts about that?"
+                                "\\nw[\\N[1]]So, does that mean you'll have a physical\nrelationship with \\N[21] multiple times? Don't you\nhave any thoughts about that?"
                             ]
                         },
                         {
@@ -15163,7 +15163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Is that so?"
+                                "\\nw[\\N[1]]Is that so?"
                             ]
                         },
                         {
@@ -15252,7 +15252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Is that so? Yeah, I understand. Thank you."
+                                "\\nw[\\N[1]]Is that so? Yeah, I understand. Thank you."
                             ]
                         },
                         {
@@ -15381,7 +15381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Verifying the curse... We can't do it right before\nthe live performance, can we? It needs to be\nfinished within at most 4 or 5 days..."
+                                "\\nw[\\N[21]]Verifying the curse... We can't do it right before\nthe live performance, can we? It needs to be\nfinished within at most 4 or 5 days..."
                             ]
                         },
                         {
@@ -15405,7 +15405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I understand. I'll think about what to do. For\nnow, please take a rest today. You must be tired,\nright?"
+                                "\\nw[\\N[21]]I understand. I'll think about what to do. For\nnow, please take a rest today. You must be tired,\nright?"
                             ]
                         },
                         {
@@ -15507,7 +15507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Let's go to the second floor and discuss what to\ndo..."
+                                "\\nw[\\N[21]]Let's go to the second floor and discuss what to\ndo..."
                             ]
                         },
                         {
@@ -15757,7 +15757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Oh my, going out at this late hour?"
+                                "\\nw[\\N[3]]Oh my, going out at this late hour?"
                             ]
                         },
                         {
@@ -15797,7 +15797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Oh, just a little bit. Is Nonna still getting\nready?"
+                                "\\nw[\\N[21]]Oh, just a little bit. Is \\N[3] still getting\nready?"
                             ]
                         },
                         {
@@ -15821,7 +15821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]Yes, I'm going to do the sales that Prae asked me\nto. If the captain comes, I intend to get on their\ngood side so that I can negotiate well."
+                                "\\nw[\\N[3]]Yes, I'm going to do the sales that Prae asked me\nto. If the captain comes, I intend to get on their\ngood side so that I can negotiate well."
                             ]
                         },
                         {
@@ -15845,7 +15845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Ah, that's right. It feels strange for me to say\nit, but I'm counting on you."
+                                "\\nw[\\N[21]]Ah, that's right. It feels strange for me to say\nit, but I'm counting on you."
                             ]
                         },
                         {
@@ -15869,7 +15869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]Yes, leave it to me."
+                                "\\nw[\\N[3]]Yes, leave it to me."
                             ]
                         },
                         {
@@ -15886,7 +15886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]Speaking of which, Taro was heading towards the\nnorthwest. It's a place with only residential\nhouses, but I wonder if he knew someone there."
+                                "\\nw[\\N[3]]Speaking of which, \\N[21] was heading towards the\nnorthwest. It's a place with only residential\nhouses, but I wonder if he knew someone there."
                             ]
                         },
                         {
@@ -15910,7 +15910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Is that so? Well, I don't know much about Thor's\nsocial circle..."
+                                "\\nw[\\N[21]]Is that so? Well, I don't know much about Thor's\nsocial circle..."
                             ]
                         },
                         {
@@ -16084,7 +16084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Taro? Are you getting ready?"
+                                "\\nw[\\N[1]]\\N[21]? Are you getting ready?"
                             ]
                         },
                         {
@@ -16124,7 +16124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Is this the feeling of picking up customers here?"
+                                "\\nw[\\N[21]]Is this the feeling of picking up customers here?"
                             ]
                         },
                         {
@@ -16181,7 +16181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]That's right. Taro, if you're coming as a\ncustomer, I'll welcome you, but..."
+                                "\\nw[\\N[1]]That's right. \\N[21], if you're coming as a\ncustomer, I'll welcome you, but..."
                             ]
                         },
                         {
@@ -16205,7 +16205,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Since we're lovers, there's no need for you to\npay."
+                                "\\nw[\\N[21]]Since we're lovers, there's no need for you to\npay."
                             ]
                         },
                         {
@@ -16222,7 +16222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]I wonder what should I do~♪"
+                                "\\nw[\\N[1]]I wonder what should I do~♪"
                             ]
                         },
                         {

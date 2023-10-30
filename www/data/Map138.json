@@ -15593,7 +15593,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Is this the boss of this floor?"
+                                "\\nw[\\N[21]]Is this the boss of this floor?"
                             ]
                         },
                         {
@@ -15650,7 +15650,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Yes, if that's the case, then..."
+                                "\\nw[\\N[1]]Yes, if that's the case, then..."
                             ]
                         },
                         {
@@ -15745,7 +15745,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]As expected..."
+                                "\\nw[\\N[21]]As expected..."
                             ]
                         },
                         {
@@ -15762,7 +15762,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]What do you intend to make me do this time?"
+                                "\\nw[\\N[21]]What do you intend to make me do this time?"
                             ]
                         },
                         {
@@ -15827,7 +15827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]This is so reckless! I can't avoid it, so I have\nno choice but to accept it..."
+                                "\\nw[\\N[21]]This is so reckless! I can't avoid it, so I have\nno choice but to accept it..."
                             ]
                         },
                         {
@@ -15879,7 +15879,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]What was that sound?"
+                                "\\nw[\\N[21]]What was that sound?"
                             ]
                         },
                         {
@@ -15953,7 +15953,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Down? I definitely heard a sound..."
+                                "\\nw[\\N[21]]Down? I definitely heard a sound..."
                             ]
                         },
                         {
@@ -16001,7 +16001,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]The sound is loud...!?"
+                                "\\nw[\\N[21]]The sound is loud...!?"
                             ]
                         },
                         {
@@ -16018,7 +16018,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Eh, Kyaa!?"
+                                "\\nw[\\N[1]]Eh, Kyaa!?"
                             ]
                         },
                         {
@@ -16268,7 +16268,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "This is an event called 'Kuno+Fross+Shia,\nImpregnation by a Worm-like Monster' that I have\nseen before. Would you like to skip the event?"
+                                "This is an event called '\\N[1]+Fross+Shia,\nImpregnation by a Worm-like Monster' that I have\nseen before. Would you like to skip the event?"
                             ]
                         },
                         {
@@ -16389,7 +16389,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Taro also knows what is happening from the\nprevious two experiences. Therefore, he was able\nto calmly observe his surroundings."
+                                "\\N[21] also knows what is happening from the\nprevious two experiences. Therefore, he was able\nto calmly observe his surroundings."
                             ]
                         },
                         {
@@ -16413,7 +16413,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]It seems like only the girls are being captured\nthis time..."
+                                "\\nw[\\N[21]]It seems like only the girls are being captured\nthis time..."
                             ]
                         },
                         {
@@ -16464,7 +16464,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]No, that's a little gross."
+                                "\\nw[\\N[21]]No, that's a little gross."
                             ]
                         },
                         {
@@ -16481,7 +16481,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Uka avoiding it is also as usual."
+                                "\\nw[\\N[21]]Uka avoiding it is also as usual."
                             ]
                         },
                         {
@@ -16498,7 +16498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Taro looked around and immediately saw the\nentrance to a room nearby. It was sealed off and\nhe couldn't pass through, but he could see inside."
+                                "\\N[21] looked around and immediately saw the\nentrance to a room nearby. It was sealed off and\nhe couldn't pass through, but he could see inside."
                             ]
                         },
                         {
@@ -16522,7 +16522,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]I hope it's not too hardcore..."
+                                "\\nw[\\N[21]]I hope it's not too hardcore..."
                             ]
                         },
                         {
@@ -16617,7 +16617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ahh... It's wriggling inside...!"
+                                "\\nw[\\N[1]]Ahh... It's wriggling inside...!"
                             ]
                         },
                         {
@@ -16699,7 +16699,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Taro!?"
+                                "\\nw[\\N[1]]\\N[21]!?"
                             ]
                         },
                         {
@@ -16716,7 +16716,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Um... everyone here is safe. And um... are you\nokay over there?"
+                                "\\nw[\\N[21]]Um... everyone here is safe. And um... are you\nokay over there?"
                             ]
                         },
                         {
@@ -16740,7 +16740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ugh... It's embarrassing to be watched... Nngh!"
+                                "\\nw[\\N[1]]Ugh... It's embarrassing to be watched... Nngh!"
                             ]
                         },
                         {
@@ -16781,7 +16781,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]I see..."
+                                "\\nw[\\N[21]]I see..."
                             ]
                         },
                         {
@@ -16798,7 +16798,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]...I'm sorry, but please do your best."
+                                "\\nw[\\N[21]]...I'm sorry, but please do your best."
                             ]
                         },
                         {
@@ -16815,7 +16815,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]I understand, it's for the sake of moving forward."
+                                "\\nw[\\N[1]]I understand, it's for the sake of moving forward."
                             ]
                         },
                         {
@@ -16849,7 +16849,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]But please don't look too much..."
+                                "\\nw[\\N[1]]But please don't look too much..."
                             ]
                         },
                         {
@@ -16866,7 +16866,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]No, considering my succubus abilities, I wasn't\nlooking..."
+                                "\\nw[\\N[21]]No, considering my succubus abilities, I wasn't\nlooking..."
                             ]
                         },
                         {
@@ -16883,7 +16883,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ugh... I guess there's no helping it..."
+                                "\\nw[\\N[1]]Ugh... I guess there's no helping it..."
                             ]
                         },
                         {
@@ -16900,7 +16900,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Taro decided to carefully watch the three who were\nbeing violated by worms, as it generates more\nmagical power for him to watch, unlike the other\nmembers."
+                                "\\N[21] decided to carefully watch the three who were\nbeing violated by worms, as it generates more\nmagical power for him to watch, unlike the other\nmembers."
                             ]
                         },
                         {
@@ -16954,7 +16954,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Eh!? W-Wait, why on my chest...!?"
+                                "\\nw[\\N[1]]Eh!? W-Wait, why on my chest...!?"
                             ]
                         },
                         {
@@ -16978,7 +16978,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]No way... ngh, something like that...!"
+                                "\\nw[\\N[1]]No way... ngh, something like that...!"
                             ]
                         },
                         {
@@ -16995,7 +16995,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The worms sticking to Kuno's chest are wriggling.\nHer big breasts are changing shape as if they're\nbeing fondled."
+                                "The worms sticking to \\N[1]'s chest are wriggling.\nHer big breasts are changing shape as if they're\nbeing fondled."
                             ]
                         },
                         {
@@ -17019,7 +17019,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Tentacles are entering my nipples... ngh, nnnggh!"
+                                "\\nw[\\N[1]]Tentacles are entering my nipples... ngh, nnnggh!"
                             ]
                         },
                         {
@@ -17036,7 +17036,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Something is being poured inside me... Ah, ya...!"
+                                "\\nw[\\N[1]]Something is being poured inside me... Ah, ya...!"
                             ]
                         },
                         {
@@ -17053,7 +17053,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The monster is piercing Kuno's nipples with thin\nneedles and pouring liquid inside."
+                                "The monster is piercing \\N[1]'s nipples with thin\nneedles and pouring liquid inside."
                             ]
                         },
                         {
@@ -17101,7 +17101,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Fuah... Ugh... My chest feels hot... Hiu!"
+                                "\\nw[\\N[1]]Fuah... Ugh... My chest feels hot... Hiu!"
                             ]
                         },
                         {
@@ -17125,7 +17125,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Hiuu... Ahh... Ahh, aahh... I'm becoming more\nsensitive... Hiaah!"
+                                "\\nw[\\N[1]]Hiuu... Ahh... Ahh, aahh... I'm becoming more\nsensitive... Hiaah!"
                             ]
                         },
                         {
@@ -17149,7 +17149,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The monster that removed the needles that were\nstuck in her nipples began to knead and massage\nKuno's breasts. It is evenly massaging and\nunraveling her entire chest."
+                                "The monster that removed the needles that were\nstuck in her nipples began to knead and massage\n\\N[1]'s breasts. It is evenly massaging and\nunraveling her entire chest."
                             ]
                         },
                         {
@@ -17214,7 +17214,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Huh?! Why... are you coming in again...?"
+                                "\\nw[\\N[1]]Huh?! Why... are you coming in again...?"
                             ]
                         },
                         {
@@ -17238,7 +17238,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Tentacles thicker than needles, about the size of\nfingers, entered Kuno's nipples. Due to the effect\nof the liquid earlier, Kuno's nipples had widened."
+                                "Tentacles thicker than needles, about the size of\nfingers, entered \\N[1]'s nipples. Due to the effect\nof the liquid earlier, \\N[1]'s nipples had widened."
                             ]
                         },
                         {
@@ -17279,7 +17279,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Fuahh♥ Ahh, ahhn♥ Why is it so pleasurable...\nnhihh, aahhn♥"
+                                "\\nw[\\N[1]]Fuahh♥ Ahh, ahhn♥ Why is it so pleasurable...\nnhihh, aahhn♥"
                             ]
                         },
                         {
@@ -17303,31 +17303,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Even though it's my chest... ah, aahh♥ This is...\nstrange... nngh, ahn♥"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "Kuno is being fondled on her chest while being\npenetrated in her nipples and she can't help but\nfeel it. Furthermore, the monster inside her\nvagina continues to thrust."
+                                "\\nw[\\N[1]]Even though it's my chest... ah, aahh♥ This is...\nstrange... nngh, ahn♥"
                             ]
                         },
                         {
@@ -17351,7 +17327,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kuno could feel her pleasure intensifying as she\nwas being pleasured simultaneously."
+                                "\\N[1] is being fondled on her chest while being\npenetrated in her nipples and she can't help but\nfeel it. Furthermore, the monster inside her\nvagina continues to thrust."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N[1] could feel her pleasure intensifying as she\nwas being pleasured simultaneously."
                             ]
                         },
                         {
@@ -17385,7 +17385,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Fross, who was being violated next to her, had her\nbreasts modified just like Kuno. In Fross's case,\nthere were three creatures in her mouth, vagina,\nand anus that were wriggling and violating her,\ncausing her to experience intense pleasure."
+                                "Fross, who was being violated next to her, had her\nbreasts modified just like \\N[1]. In Fross's case,\nthere were three creatures in her mouth, vagina,\nand anus that were wriggling and violating her,\ncausing her to experience intense pleasure."
                             ]
                         },
                         {
@@ -17481,7 +17481,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]*panting heavily*..."
+                                "\\nw[\\N[21]]*panting heavily*..."
                             ]
                         },
                         {
@@ -17498,7 +17498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Taro is watching the three of them, who are in\nsuch a seductive state, and getting excited.\nAlthough he has a taste for NTR, it seems that he\ncan still get excited to some extent even if the\nother party is a monster that seems to lack\nintelligence."
+                                "\\N[21] is watching the three of them, who are in\nsuch a seductive state, and getting excited.\nAlthough he has a taste for NTR, it seems that he\ncan still get excited to some extent even if the\nother party is a monster that seems to lack\nintelligence."
                             ]
                         },
                         {
@@ -17529,7 +17529,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "After such a state continued for a while, there\nwas a change in Kuno's condition."
+                                "After such a state continued for a while, there\nwas a change in \\N[1]'s condition."
                             ]
                         },
                         {
@@ -17546,7 +17546,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ah...hi, ah, aahh♥ No, not my breasts♥ Ah♥ Aahh♥\nAh♥ I'm cumming, aaahh, ah, ah♥"
+                                "\\nw[\\N[1]]Ah...hi, ah, aahh♥ No, not my breasts♥ Ah♥ Aahh♥\nAh♥ I'm cumming, aaahh, ah, ah♥"
                             ]
                         },
                         {
@@ -17577,7 +17577,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]It feels so good♥ Ah♥ Aahh♥ Ahn♥ Aahh♥ Ah♥ Aahn♥"
+                                "\\nw[\\N[1]]It feels so good♥ Ah♥ Aahh♥ Ahn♥ Aahh♥ Ah♥ Aahn♥"
                             ]
                         },
                         {
@@ -17601,7 +17601,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]My chest feels hot... Hiaa, ah, aaahh♥ It's\nchanging... Ah, ah, aaahhh♥♥"
+                                "\\nw[\\N[1]]My chest feels hot... Hiaa, ah, aaahh♥ It's\nchanging... Ah, ah, aaahhh♥♥"
                             ]
                         },
                         {
@@ -17674,7 +17674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kuno couldn't withstand the torment of the monster\nand reached climax. At the same time, white liquid\nspurted out from her breasts."
+                                "\\N[1] couldn't withstand the torment of the monster\nand reached climax. At the same time, white liquid\nspurted out from her breasts."
                             ]
                         },
                         {
@@ -17698,7 +17698,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ahh... aahh...♥♥ Why... from my breasts... nngh♥"
+                                "\\nw[\\N[1]]Ahh... aahh...♥♥ Why... from my breasts... nngh♥"
                             ]
                         },
                         {
@@ -17746,7 +17746,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Hii... ah, ah, aahhh♥ It feels so good when my\nbreasts are being milked... Hnn, aahhnn♥"
+                                "\\nw[\\N[1]]Hii... ah, ah, aahhh♥ It feels so good when my\nbreasts are being milked... Hnn, aahhnn♥"
                             ]
                         },
                         {
@@ -17770,7 +17770,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]I've never felt this sensation before... Nhi,\nnhaaahh♥ Stop it, please, ahh, aaaaahh♥"
+                                "\\nw[\\N[1]]I've never felt this sensation before... Nhi,\nnhaaahh♥ Stop it, please, ahh, aaaaahh♥"
                             ]
                         },
                         {
@@ -17825,7 +17825,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Hii... my lower region too... nhi, nnngg♥♥"
+                                "\\nw[\\N[1]]Hii... my lower region too... nhi, nnngg♥♥"
                             ]
                         },
                         {
@@ -17842,7 +17842,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Coming in... ngh, n-ahh♥♥"
+                                "\\nw[\\N[1]]Coming in... ngh, n-ahh♥♥"
                             ]
                         },
                         {
@@ -17859,7 +17859,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Kuno...?"
+                                "\\nw[\\N[21]]\\N[1]...?"
                             ]
                         },
                         {
@@ -17876,7 +17876,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The monster violating her vagina also changed its\nmovements. However, Kuno, whose breasts have\nalready become sensitive, can only moan in\nresponse."
+                                "The monster violating her vagina also changed its\nmovements. However, \\N[1], whose breasts have\nalready become sensitive, can only moan in\nresponse."
                             ]
                         },
                         {
@@ -18499,7 +18499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kuno and Fross, just like Shia, are also being\nviolated inside their uteruses. In addition to\nthat, the monster has entered Kuno's breasts and\nFross's mouth, injecting its bodily fluids, which\nintensifies their arousal even more."
+                                "\\N[1] and Fross, just like Shia, are also being\nviolated inside their uteruses. In addition to\nthat, the monster has entered \\N[1]'s breasts and\nFross's mouth, injecting its bodily fluids, which\nintensifies their arousal even more."
                             ]
                         },
                         {
@@ -18691,7 +18691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Ohhh... ohhhhhhh♥♥♥"
+                                "\\nw[\\N[1]]Ohhh... ohhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -18806,7 +18806,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]I love it... ohhh...♥♥"
+                                "\\nw[\\N[1]]I love it... ohhh...♥♥"
                             ]
                         },
                         {
@@ -18921,7 +18921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Amazing... it feels so good♥♥ Ohh♥ Ohh♥ Ohhhhh♥"
+                                "\\nw[\\N[1]]Amazing... it feels so good♥♥ Ohh♥ Ohh♥ Ohhhhh♥"
                             ]
                         },
                         {
@@ -18986,7 +18986,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Taro could see from his eyes that Kuno and Shia\nwere also enjoying it. Their faces showed complete\nsurrender to the monster and a sense of happiness."
+                                "\\N[21] could see from his eyes that \\N[1] and Shia\nwere also enjoying it. Their faces showed complete\nsurrender to the monster and a sense of happiness."
                             ]
                         },
                         {
@@ -19010,7 +19010,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It seems that Taro couldn't judge Fross because he\ncouldn't see her."
+                                "It seems that \\N[21] couldn't judge Fross because he\ncouldn't see her."
                             ]
                         },
                         {
@@ -19027,7 +19027,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......"
+                                "\\nw[\\N[21]]......"
                             ]
                         },
                         {
@@ -19044,7 +19044,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]Taro-san, Saria"
+                                "\\nw[Saria]\\N[21]-san, Saria"
                             ]
                         },
                         {
@@ -19061,7 +19061,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Huh? Woah...!?"
+                                "\\nw[\\N[21]]Huh? Woah...!?"
                             ]
                         },
                         {
@@ -19078,7 +19078,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Saria began to jerk off Taro's penis with her\nhand. Taro, who was already excited and erect, was\nabout to ejaculate from the unexpected\nstimulation."
+                                "Saria began to jerk off \\N[21]'s penis with her\nhand. \\N[21], who was already excited and erect, was\nabout to ejaculate from the unexpected\nstimulation."
                             ]
                         },
                         {
@@ -19102,7 +19102,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]W-What...!?"
+                                "\\nw[\\N[21]]W-What...!?"
                             ]
                         },
                         {
@@ -19160,7 +19160,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]......I see, so that's an option..."
+                                "\\nw[\\N[21]]......I see, so that's an option..."
                             ]
                         },
                         {
@@ -19177,7 +19177,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Taro doesn't know the detailed mechanism of the\nerotic dungeon, but he can imagine that its\npurpose is to absorb magic power."
+                                "\\N[21] doesn't know the detailed mechanism of the\nerotic dungeon, but he can imagine that its\npurpose is to absorb magic power."
                             ]
                         },
                         {
@@ -19201,7 +19201,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Therefore, Taro decided to go along with Saria's\nsuggestion."
+                                "Therefore, \\N[21] decided to go along with Saria's\nsuggestion."
                             ]
                         },
                         {
@@ -19218,7 +19218,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Saria, make sure to take care of both of us at the\nsame time!"
+                                "\\nw[\\N[21]]Saria, make sure to take care of both of us at the\nsame time!"
                             ]
                         },
                         {
@@ -19264,7 +19264,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "After that, Kuno, Fross, and Shia continued to\ngive birth until the dungeon was satisfied, while\nSaria was gang-raped by the other party members\nexcluding Taro."
+                                "After that, \\N[1], Fross, and Shia continued to\ngive birth until the dungeon was satisfied, while\nSaria was gang-raped by the other party members\nexcluding \\N[21]."
                             ]
                         },
                         {
@@ -19407,7 +19407,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Is everyone released? Are you all okay?"
+                                "\\nw[\\N[21]]Is everyone released? Are you all okay?"
                             ]
                         },
                         {
@@ -19464,7 +19464,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]Haa...haa... I finally... feel the pleasure fading\naway..."
+                                "\\nw[\\N[1]]Haa...haa... I finally... feel the pleasure fading\naway..."
                             ]
                         },
                         {
@@ -19595,7 +19595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Are you all somehow okay..."
+                                "\\nw[\\N[21]]Are you all somehow okay..."
                             ]
                         },
                         {
@@ -19612,7 +19612,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Uka, who went to pick up Nonna..."
+                                "\\nw[\\N[21]]Uka, who went to pick up \\N[3]..."
                             ]
                         },
                         {
@@ -19693,7 +19693,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Oh, are you all okay...!?"
+                                "\\nw[\\N[21]]Oh, are you all okay...!?"
                             ]
                         },
                         {
@@ -19764,7 +19764,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]Ohh... Ohhh... Ahii♥"
+                                "\\nw[\\N[3]]Ohh... Ohhh... Ahii♥"
                             ]
                         },
                         {
@@ -19781,7 +19781,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]This... doesn't look okay at all, does it..."
+                                "\\nw[\\N[21]]This... doesn't look okay at all, does it..."
                             ]
                         },
                         {
@@ -19855,7 +19855,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]Maybe we should go back to town and rest... We\nshould be able to return to the entrance if we\nproceed ahead. Let's try to move forward as\nquickly as possible."
+                                "\\nw[\\N[21]]Maybe we should go back to town and rest... We\nshould be able to return to the entrance if we\nproceed ahead. Let's try to move forward as\nquickly as possible."
                             ]
                         },
                         {
@@ -20148,7 +20148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I should try to move forward for now..."
+                                "\\nw[\\N[21]]I should try to move forward for now..."
                             ]
                         },
                         {

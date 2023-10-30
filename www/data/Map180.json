@@ -18695,7 +18695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]This... won't open, huh?"
+                                "\\nw[\\N[21]]This... won't open, huh?"
                             ]
                         },
                         {
@@ -18752,7 +18752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]There might be a switch somewhere. Let's search a\nlittle."
+                                "\\nw[\\N[3]]There might be a switch somewhere. Let's search a\nlittle."
                             ]
                         },
                         {
@@ -19005,7 +19005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]If this doesn't open either..."
+                                "\\nw[\\N[21]]If this doesn't open either..."
                             ]
                         },
                         {
@@ -19062,7 +19062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I think there's another switch. Let's try to find\nit."
+                                "\\nw[\\N[3]]I think there's another switch. Let's try to find\nit."
                             ]
                         },
                         {

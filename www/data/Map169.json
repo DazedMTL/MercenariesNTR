@@ -2425,7 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I can't go back here. I have to move forward."
+                                "\\nw[\\N[21]]I can't go back here. I have to move forward."
                             ]
                         },
                         {
@@ -2540,7 +2540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]So, is it just a regular mountain or is it a\nmountain with a cave? Looks like the entrance is\nstill here."
+                                "\\nw[\\N[21]]So, is it just a regular mountain or is it a\nmountain with a cave? Looks like the entrance is\nstill here."
                             ]
                         },
                         {
@@ -2604,7 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]For now, it seems like entering the cave would be\na good idea. It seems that the nucleus is located\nin the central part."
+                                "\\nw[\\N[1]]For now, it seems like entering the cave would be\na good idea. It seems that the nucleus is located\nin the central part."
                             ]
                         },
                         {
@@ -2628,7 +2628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, let's be careful as we go."
+                                "\\nw[\\N[21]]Ah, let's be careful as we go."
                             ]
                         },
                         {

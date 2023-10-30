@@ -5019,7 +5019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Once your level goes up, you'll be able to equip\nnew gear. Equipment is important, so it's better\nto update it regularly."
+                                "\\nw[\\N[3]]Once your level goes up, you'll be able to equip\nnew gear. Equipment is important, so it's better\nto update it regularly."
                             ]
                         },
                         {
@@ -5285,7 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Make sure to prepare properly. Not only your\nequipment, but also make sure to have plenty of\nhealing potions."
+                                "\\nw[\\N[3]]Make sure to prepare properly. Not only your\nequipment, but also make sure to have plenty of\nhealing potions."
                             ]
                         },
                         {
@@ -5332,7 +5332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]I know. It's such a huge monster after all."
+                                "\\nw[\\N[21]]I know. It's such a huge monster after all."
                             ]
                         },
                         {
@@ -5356,7 +5356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]Battles are decided 80% in the preparation stage.\nSince it's a matter of life and death, be careful."
+                                "\\nw[\\N[3]]Battles are decided 80% in the preparation stage.\nSince it's a matter of life and death, be careful."
                             ]
                         },
                         {
@@ -5380,7 +5380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Oh, since I became the leader, leave it to me."
+                                "\\nw[\\N[21]]Oh, since I became the leader, leave it to me."
                             ]
                         },
                         {
@@ -5404,7 +5404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]Hehe, I'm counting on you."
+                                "\\nw[\\N[3]]Hehe, I'm counting on you."
                             ]
                         },
                         {

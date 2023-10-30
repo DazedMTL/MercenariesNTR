@@ -2536,7 +2536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Taro, are you ready?"
+                                "\\nw[\\N[1]]\\N[21], are you ready?"
                             ]
                         },
                         {
@@ -2553,7 +2553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Ah, no problem."
+                                "\\nw[\\N[21]]Ah, no problem."
                             ]
                         },
                         {
@@ -2610,7 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Kuno seems to be in a good mood. She needs to stay\nfocused, or it could be dangerous, you know?"
+                                "\\nw[\\N[3]]\\N[1] seems to be in a good mood. She needs to stay\nfocused, or it could be dangerous, you know?"
                             ]
                         },
                         {
@@ -2667,7 +2667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Even if you say that, my dream is finally coming\ntrue."
+                                "\\nw[\\N[1]]Even if you say that, my dream is finally coming\ntrue."
                             ]
                         },
                         {
@@ -2684,7 +2684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]If we get paid for this job, we can move our base.\nIt would be strange not to be happy about it."
+                                "\\nw[\\N[1]]If we get paid for this job, we can move our base.\nIt would be strange not to be happy about it."
                             ]
                         },
                         {
@@ -2708,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]It may not be possible in this country, but if we\ngo to the neighboring Misura country, the three of\nus can get married. That's why I've been working\nso hard all this time."
+                                "\\nw[\\N[1]]It may not be possible in this country, but if we\ngo to the neighboring Misura country, the three of\nus can get married. That's why I've been working\nso hard all this time."
                             ]
                         },
                         {
@@ -2772,7 +2772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]It would be fine if Kuno and Taro got married,\nright? After all, I am their parent, so they don't\nhave to be so fixated on it..."
+                                "\\nw[\\N[3]]It would be fine if \\N[1] and \\N[21] got married,\nright? After all, I am their parent, so they don't\nhave to be so fixated on it..."
                             ]
                         },
                         {
@@ -2836,7 +2836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]No! Nonna is family! She has always taken care of\nme and Taro, who lost our family!"
+                                "\\nw[\\N[1]]No! \\N[3] is family! She has always taken care of\nme and \\N[21], who lost our family!"
                             ]
                         },
                         {
@@ -2860,7 +2860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]I want to be together with Nonna and Taro forever!\nI want proof of that."
+                                "\\nw[\\N[1]]I want to be together with \\N[3] and \\N[21] forever!\nI want proof of that."
                             ]
                         },
                         {
@@ -2884,7 +2884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]That's right, Taro!"
+                                "\\nw[\\N[1]]That's right, \\N[21]!"
                             ]
                         },
                         {
@@ -2901,7 +2901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]Oh, yeah. We already discussed and decided on it\nbefore."
+                                "\\nw[\\N[21]]Oh, yeah. We already discussed and decided on it\nbefore."
                             ]
                         },
                         {
@@ -2925,7 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]...As usual."
+                                "\\nw[\\N[3]]...As usual."
                             ]
                         },
                         {
@@ -2982,7 +2982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I understand. But please don't push yourself too\nhard."
+                                "\\nw[\\N[3]]I understand. But please don't push yourself too\nhard."
                             ]
                         },
                         {
@@ -3046,7 +3046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Don't worry, this job isn't that dangerous."
+                                "\\nw[\\N[1]]Don't worry, this job isn't that dangerous."
                             ]
                         },
                         {
@@ -3063,7 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Oh, it's about time. Nonna, are you okay with the\ntime?"
+                                "\\nw[\\N[1]]Oh, it's about time. \\N[3], are you okay with the\ntime?"
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]My work is a little further ahead."
+                                "\\nw[\\N[3]]My work is a little further ahead."
                             ]
                         },
                         {
@@ -3104,7 +3104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]I see. Well then, I'm off."
+                                "\\nw[\\N[1]]I see. Well then, I'm off."
                             ]
                         },
                         {
@@ -3128,7 +3128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]I'm off."
+                                "\\nw[\\N[21]]I'm off."
                             ]
                         },
                         {
@@ -3145,7 +3145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]Have a safe trip."
+                                "\\nw[\\N[3]]Have a safe trip."
                             ]
                         },
                         {

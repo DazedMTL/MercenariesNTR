@@ -2563,7 +2563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]The selection of items here is good. It seems like\nit would be easier if we prepare our equipment\nbefore going to the dungeon."
+                                "\\nw[\\N[3]]The selection of items here is good. It seems like\nit would be easier if we prepare our equipment\nbefore going to the dungeon."
                             ]
                         },
                         {
@@ -2650,7 +2650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Nonna is so cautious. Thanks to her, we're saved."
+                                "\\nw[\\N[1]]\\N[3] is so cautious. Thanks to her, we're saved."
                             ]
                         },
                         {
@@ -2674,7 +2674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]The outcome of a battle is determined by\npreparation 90% of the time. So we mustn't be\nlazy, okay?"
+                                "\\nw[\\N[3]]The outcome of a battle is determined by\npreparation 90% of the time. So we mustn't be\nlazy, okay?"
                             ]
                         },
                         {
@@ -2698,7 +2698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]Yeah, I know."
+                                "\\nw[\\N[1]]Yeah, I know."
                             ]
                         },
                         {
@@ -2856,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]This weapon... Oh, Taro?"
+                                "\\nw[\\N[3]]This weapon... Oh, \\N[21]?"
                             ]
                         },
                         {
@@ -2896,7 +2896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]I see you looking at a lot of armor, but do you\nactually like weapons?"
+                                "\\nw[\\N[21]]I see you looking at a lot of armor, but do you\nactually like weapons?"
                             ]
                         },
                         {
@@ -2913,7 +2913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]If you ask me if I like it... I'm not sure. But\nI've become knowledgeable about it because it's\nnecessary."
+                                "\\nw[\\N[3]]If you ask me if I like it... I'm not sure. But\nI've become knowledgeable about it because it's\nnecessary."
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]I'll take care of the promotion here, so could you\nplease handle the promotion to the inn?"
+                                "\\nw[\\N[3]]I'll take care of the promotion here, so could you\nplease handle the promotion to the inn?"
                             ]
                         },
                         {
@@ -3127,7 +3127,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Speaking of Kuno, I wonder if she's okay?"
+                                "\\nw[\\N[21]]Speaking of \\N[1], I wonder if she's okay?"
                             ]
                         },
                         {
@@ -3184,7 +3184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]If it seems too difficult, I'm thinking of taking\nover. But I don't want to become too\noverprotective..."
+                                "\\nw[\\N[3]]If it seems too difficult, I'm thinking of taking\nover. But I don't want to become too\noverprotective..."
                             ]
                         },
                         {
@@ -3208,7 +3208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]Yeah..."
+                                "\\nw[\\N[21]]Yeah..."
                             ]
                         },
                         {

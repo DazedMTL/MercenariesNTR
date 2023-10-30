@@ -2275,7 +2275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]We're done with the harvest here. What's next?"
+                                "\\nw[\\N[1]]We're done with the harvest here. What's next?"
                             ]
                         },
                         {
@@ -2386,7 +2386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Oh, but it's already evening, you know? Aren't\nyour parents worried?"
+                                "\\nw[\\N[1]]Oh, but it's already evening, you know? Aren't\nyour parents worried?"
                             ]
                         },
                         {
@@ -2427,7 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Well..."
+                                "\\nw[\\N[1]]Well..."
                             ]
                         },
                         {
@@ -2502,7 +2502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Yeah, see you tomorrow."
+                                "\\nw[\\N[1]]Yeah, see you tomorrow."
                             ]
                         },
                         {
@@ -2538,7 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Newlywed Man]The children have really grown fond of you. It\nwould be helpful if Kuno could live in the\nvillage."
+                                "\\nw[Newlywed Man]The children have really grown fond of you. It\nwould be helpful if \\N[1] could live in the\nvillage."
                             ]
                         },
                         {
@@ -2591,7 +2591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Ahaha, if that happens, it seems like we can\nexpand the fields a little more."
+                                "\\nw[\\N[1]]Ahaha, if that happens, it seems like we can\nexpand the fields a little more."
                             ]
                         },
                         {
@@ -2673,7 +2673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Just having a roof is enough for me. As a\nmercenary, I'm used to camping out."
+                                "\\nw[\\N[1]]Just having a roof is enough for me. As a\nmercenary, I'm used to camping out."
                             ]
                         },
                         {
@@ -2822,7 +2822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Thank you for the meal. It was really delicious."
+                                "\\nw[\\N[1]]Thank you for the meal. It was really delicious."
                             ]
                         },
                         {
@@ -4476,7 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Mmm... Suu..."
+                                "\\nw[\\N[1]]Mmm... Suu..."
                             ]
                         },
                         {
@@ -4584,7 +4584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]Mmm... Ah..."
+                                "\\nw[\\N[1]]Mmm... Ah..."
                             ]
                         },
                         {
