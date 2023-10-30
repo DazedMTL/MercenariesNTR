@@ -2425,7 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[武器屋]おう、いいものが揃ってるぜ。"
+                                "\\nw[Weapon Shop]Oh, we have some good stuff here."
                             ]
                         },
                         {
@@ -3391,7 +3391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[武器屋]また頼むぜ。"
+                                "\\nw[Weapon Shop]We'll count on you again."
                             ]
                         },
                         {
@@ -3468,7 +3468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[防具屋]いらっしゃいませ。"
+                                "\\nw[Armor Shop]Welcome to the Armor Shop."
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[防具屋]ありがとうございました。"
+                                "\\nw[Armor Shop]Thank you for the Armor Shop."
                             ]
                         },
                         {
@@ -5019,14 +5019,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]レベルが上がったら新しい装備をつけれるようになるわ。"
+                                "\\nw[Nonna]Once your level goes up, you'll be able to equip\nnew gear. Equipment is important, so it's better\nto update it regularly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "装備は大切だから、こまめに更新していった方がいいわね。"
+                                ""
                             ]
                         },
                         {
@@ -5034,8 +5034,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Check sexual information",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -5285,14 +5285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]準備はしっかりと整えてね。"
+                                "\\nw[Nonna]Make sure to prepare properly. Not only your\nequipment, but also make sure to have plenty of\nhealing potions."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "装備はもちろんだけど、回復薬もしっかりと揃えるのよ。"
+                                ""
                             ]
                         },
                         {
@@ -5300,9 +5300,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何も用はない"
+                                    "Let's talk",
+                                    "Check sexual information",
+                                    "I have nothing to do"
                                 ],
                                 2,
                                 0,
@@ -5332,38 +5332,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]わかってるよ。"
+                                "\\nw[Taro]I know. It's such a huge monster after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あんなに巨大な魔物だしな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Nonna]戦いは８割は準備の段階で決まるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "命にかかわることだから、慎重にね。"
+                                ""
                             ]
                         },
                         {
@@ -5380,14 +5356,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]おう、団長になったんだからな。"
+                                "\\nw[Nonna]Battles are decided 80% in the preparation stage.\nSince it's a matter of life and death, be careful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "任せてくれよ。"
+                                ""
                             ]
                         },
                         {
@@ -5404,7 +5380,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ふふっ、頼りにしてるわね。"
+                                "\\nw[Taro]Oh, since I became the leader, leave it to me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Nonna]Hehe, I'm counting on you."
                             ]
                         },
                         {

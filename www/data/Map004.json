@@ -2270,7 +2270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "派遣クエスト-隣町周辺の魔物退治"
+                                "Dispatch Quest - Extermination of Monsters in the\nneighboring town area."
                             ]
                         },
                         {
@@ -2365,14 +2365,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト中に\\N[\\V[508]]が"
+                                "\\N[\\V[508]] was snuck into by \\N[\\V[506]] and\n\\N[\\V[507]] during the quest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\N[\\V[506]]と\\N[\\V[507]]に夜這いされた。"
+                                ""
                             ]
                         },
                         {
@@ -2399,14 +2399,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト中に\\N[\\V[518]]が"
+                                "\\N[\\V[518]] was snuck into by \\N[\\V[516]] and\n\\N[\\V[517]] during the quest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\N[\\V[516]]と\\N[\\V[517]]に夜這いされた。"
+                                ""
                             ]
                         },
                         {
@@ -3084,14 +3084,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト中に\\N[\\V[508]]が"
+                                "\\N[\\V[508]] was creampied multiple times by\n\\N[\\V[506]] during the quest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\N[\\V[506]]に夜這いで何度も種付けされた。"
+                                ""
                             ]
                         },
                         {
@@ -3118,14 +3118,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト中に\\N[\\V[518]]が"
+                                "\\N[\\V[518]] was impregnated multiple times by\n\\N[\\V[516]] during the quest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\N[\\V[516]]に夜這いで何度も種付けされた。"
+                                ""
                             ]
                         },
                         {
@@ -3487,7 +3487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 100EXP 100G 1名声を手に入れた。"
+                                "Obtained a reward of 100EXP, 100G, and 1 fame."
                             ]
                         },
                         {
@@ -3854,7 +3854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "派遣クエスト-村の警護"
+                                "Dispatch Quest - Village Guard"
                             ]
                         },
                         {
@@ -4019,14 +4019,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト中に\\N[\\V[507]]が"
+                                "[Kuno] was raped by [Nonna] while on the quest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\N[\\V[506]]に眠姦された。"
+                                ""
                             ]
                         },
                         {
@@ -4064,14 +4064,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "クエスト中に\\N[\\V[517]]が"
+                                "[Nonna] was raped by [Kuno] while on the quest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\N[\\V[516]]に眠姦された。"
+                                ""
                             ]
                         },
                         {
@@ -4433,7 +4433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 100EXP 100G 1名声を手に入れた。"
+                                "Obtained reward of 100EXP, 100G, and 1 fame."
                             ]
                         },
                         {

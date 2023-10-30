@@ -2536,7 +2536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]太郎、準備はできた？"
+                                "\\nw[Kuno]Taro, are you ready?"
                             ]
                         },
                         {
@@ -2553,7 +2553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、問題ない。"
+                                "\\nw[Taro]Ah, no problem."
                             ]
                         },
                         {
@@ -2610,7 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]クノは上機嫌ね。気を引き締めないと危険よ？"
+                                "\\nw[Nonna]Kuno seems to be in a good mood. She needs to stay\nfocused, or it could be dangerous, you know?"
                             ]
                         },
                         {
@@ -2667,7 +2667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そう言われても、やっと夢が叶うんだもん。"
+                                "\\nw[Kuno]Even if you say that, my dream is finally coming\ntrue."
                             ]
                         },
                         {
@@ -2684,14 +2684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]今回の仕事のお金が入れば拠点が移せる。"
+                                "\\nw[Kuno]If we get paid for this job, we can move our base.\nIt would be strange not to be happy about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嬉しくない方がおかしいわよ。"
+                                ""
                             ]
                         },
                         {
@@ -2708,14 +2708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]この国じゃ無理だけど、隣のミスラ国に行けば"
+                                "\\nw[Kuno]It may not be possible in this country, but if we\ngo to the neighboring Misura country, the three of\nus can get married. That's why I've been working\nso hard all this time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "３人で結婚できるのよ。その為に今まで頑張ったんだから。"
+                                ""
                             ]
                         },
                         {
@@ -2772,14 +2772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]結婚はクノと太郎でしてくれればいいのよ？"
+                                "\\nw[Nonna]It would be fine if Kuno and Taro got married,\nright? After all, I am their parent, so they don't\nhave to be so fixated on it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は二人の親なんだし、そんなにこだわらなくても……"
+                                ""
                             ]
                         },
                         {
@@ -2836,38 +2836,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]嫌！ノンナは家族だもん！"
+                                "\\nw[Kuno]No! Nonna is family! She has always taken care of\nme and Taro, who lost our family!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家族を失ったアタシと太郎をずっと育ててくれた！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]ノンナとも太郎ともずっと一緒に居たい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その証が欲しいの。"
+                                ""
                             ]
                         },
                         {
@@ -2884,7 +2860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そうよね、太郎！"
+                                "\\nw[Kuno]I want to be together with Nonna and Taro forever!\nI want proof of that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2901,14 +2884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お、おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前に話し合って決めたんだしな。"
+                                "\\nw[Kuno]That's right, Taro!"
                             ]
                         },
                         {
@@ -2925,7 +2901,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]……\\|相変わらずね。"
+                                "\\nw[Taro]Oh, yeah. We already discussed and decided on it\nbefore."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Nonna]...As usual."
                             ]
                         },
                         {
@@ -2982,14 +2982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]わかったわ。"
+                                "\\nw[Nonna]I understand. But please don't push yourself too\nhard."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも無理はしないでね。"
+                                ""
                             ]
                         },
                         {
@@ -3046,7 +3046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]大丈夫よ、今回の仕事はそんなに危険はないもの。"
+                                "\\nw[Kuno]Don't worry, this job isn't that dangerous."
                             ]
                         },
                         {
@@ -3063,31 +3063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]って、そろそろ時間ね。"
+                                "\\nw[Kuno]Oh, it's about time. Nonna, are you okay with the\ntime?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ノンナは時間平気なの？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]私の仕事はもう少し先ね。"
+                                ""
                             ]
                         },
                         {
@@ -3104,14 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ、いってきます。"
+                                "\\nw[Nonna]My work is a little further ahead."
                             ]
                         },
                         {
@@ -3128,7 +3104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いってきます。"
+                                "\\nw[Kuno]I see. Well then, I'm off."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3145,7 +3128,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]いってらっしゃい。"
+                                "\\nw[Taro]I'm off."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Nonna]Have a safe trip."
                             ]
                         },
                         {

@@ -11529,7 +11529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]貧乏人達か、好きに見ていきたまえ。"
+                                "\\nw[Millionaire]You poor people, feel free to watch."
                             ]
                         },
                         {
@@ -11708,7 +11708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪妻]はぁ……早く死んでくれないかしら。"
+                                "\\nw[Wealthy Wife]Sigh... I wonder if he'll die soon."
                             ]
                         },
                         {
@@ -11776,7 +11776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪妻]あの豚を相手してくれる人がいて助かるわ。"
+                                "\\nw[Wealthy Wife]Thank goodness there's someone who can deal with\nthat pig."
                             ]
                         },
                         {
@@ -11844,14 +11844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪妻]あの豚も相当気に入ったようね。"
+                                "\\nw[Wealthy Wife]That pig seems to be quite fond of you. It would\nbe nice if he continues to entertain you like this\nforever."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このままずっと相手してくれるといいけど。"
+                                ""
                             ]
                         },
                         {
@@ -11928,14 +11928,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[料理人]金持ちはいいですよね。"
+                                "\\nw[Cook]It's nice to be rich. You can get a young and\nbeautiful wife like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんな若くて美人な奥さん貰えるんですから。"
+                                ""
                             ]
                         },
                         {
@@ -12012,7 +12012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪娘]お勉強つまんない～！"
+                                "\\nw[Wealthy Daughter]Studying is so boring~!"
                             ]
                         },
                         {
@@ -12089,7 +12089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[メイド]お掃除お掃除楽しいな～♪"
+                                "\\nw[Maid]Cleaning, cleaning, how fun it is~♪"
                             ]
                         },
                         {
@@ -12157,7 +12157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[メイド]寝室のお掃除も増えてしまいますね～♪"
+                                "\\nw[Maid]The cleaning of the bedroom has increased, hasn't\nit~♪"
                             ]
                         },
                         {
@@ -12234,7 +12234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[メイド]今日の予定は……"
+                                "\\nw[Maid]Today's schedule is..."
                             ]
                         },
                         {
@@ -12349,7 +12349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]おほっ♥おっ♥おおっ……♥おっ♥おほぉっ……♥"
+                                "\\nw[Sana]Ohh...♥ Ahh...♥ Oohh...♥ Ahh...♥ Ohh...♥"
                             ]
                         },
                         {
@@ -12366,7 +12366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅ……良い締め付けだ……！"
+                                "\\nw[Millionaire]*panting*... What a good tightness...!"
                             ]
                         },
                         {
@@ -12383,7 +12383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](サナは快楽で意識が薄いようだな)"
+                                "\\nw[Taro]It seems like Sana is barely conscious from\npleasure."
                             ]
                         },
                         {
@@ -12391,8 +12391,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "様子を見る",
-                                    "離れる"
+                                    "Observe the situation",
+                                    "Move away"
                                 ],
                                 1,
                                 -1,
@@ -12422,7 +12422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おひっ……おっ♥おっ♥おおぉぉ……♥"
+                                "\\nw[Sana]Ohh... Ahh♥ Ahh♥ Oohh...♥"
                             ]
                         },
                         {
@@ -12439,31 +12439,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅ……ほら、腰を振るんだ。"
+                                "\\nw[Millionaire]*panting*... Come on, move your hips. Come on, put\nsome strength into it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほら、ちゃんと力を入れて！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Sana]おっ……おっ♥おおっ♥おっ……♥"
+                                ""
                             ]
                         },
                         {
@@ -12480,7 +12463,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]そうそう、それだけ締め付けてくれれば……！"
+                                "\\nw[Sana]Ohh... Ohh♥ Oohh...♥ Ohh...♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]Yes, yes, if you tighten it like that...!"
                             ]
                         },
                         {
@@ -12623,7 +12623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おひっ、おぉ……"
+                                "\\nw[Sana]Ohh... ohh..."
                             ]
                         },
                         {
@@ -12640,7 +12640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]まだまだ……！"
+                                "\\nw[Millionaire]Not yet...!"
                             ]
                         },
                         {
@@ -12837,7 +12837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おほっ……おぉぉ……おほぉぉ……………♥♥"
+                                "\\nw[Sana]Ohh... Ahh... Oohh... ♥♥"
                             ]
                         },
                         {
@@ -12854,38 +12854,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](こいつ……とんでもない量射精してるな"
+                                "\\nw[Taro](This guy... he's ejaculating an unbelievable\namount. Isn't it coming out in liters?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "リットル単位で出てるんじゃねえか？)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]ふぅ……やはり若い女を犯すのはいい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良い買い物をしたものだ。"
+                                ""
                             ]
                         },
                         {
@@ -12902,7 +12878,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]だが、まだまだ続きだ！"
+                                "\\nw[Millionaire]*panting*... Indeed, it feels good to violate a\nyoung woman... I made a good purchase."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]However, it's not over yet!"
                             ]
                         },
                         {
@@ -12969,31 +12969,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おひぃぃ♥"
+                                "\\nw[Sana]Ohh... Ahh♥ Ahh♥ Ahh♥ Ahh♥ Oohh...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おっ♥おっ♥おっ♥おっ♥おおおっ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]この程度でへばるのではないぞ……！"
+                                ""
                             ]
                         },
                         {
@@ -13010,14 +12993,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](すげえ精力だな"
+                                "\\nw[Millionaire]Don't give up so easily on this level...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "中年っぽいし不健康そうなのに何で……)"
+                                "\\nw[Taro](He has such incredible stamina, even though he\nlooks middle-aged and unhealthy...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13043,7 +13043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](って、薬とか魔導具っぽいのがそこらへんにある！？)"
+                                "\\nw[Taro](Are there any medicines or magical tools around\nhere!?)"
                             ]
                         },
                         {
@@ -13060,38 +13060,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](もしかして精液が沢山出る薬とか、"
+                                "\\nw[Taro](Could it be that he's using some kind of medicine\nor potion that makes him produce a lot of semen\nand attracts women?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "女を惚れさせる薬とかあるし……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そう言ったものを使ってるのか？）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Sana]おへっ……おっ♥おっ♥おっ♥おおぉぉ……♥"
+                                ""
                             ]
                         },
                         {
@@ -13108,21 +13091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](金持ちの持ち物だから見たことがないのばかりだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれだけ激しく犯し続けられるんなら効果は高そうだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "色んな効果があるのを使ってそうだな……）"
+                                "\\nw[Sana]Ohh... Ahh... Oohh... ♥♥"
                             ]
                         },
                         {
@@ -13139,7 +13108,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅふぅ……今回こそ孕ませてやろう……！"
+                                "\\nw[Taro](I've never seen so many things that belong to a\nrich person... but if he can continue violating\nher so intensely, it seems like it must be\neffective and have various effects... maybe he's\nusing something that has multiple effects...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13156,7 +13139,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おひっ……♥おおっ♥おっ♥おっ♥おっ♥おおおっ♥"
+                                "\\nw[Millionaire]*panting*... This time, I'll impregnate you...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Ohh...♥ Ahh♥ Ahh♥ Ahh♥ Ahh♥ Oohh...♥"
                             ]
                         },
                         {
@@ -13182,21 +13182,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](やはり人妻を寝取らせると言うのも興奮するな……"
+                                "\\nw[Taro](I must admit, the idea of having someone else\nseduce a married woman is quite exciting... but I\nalso have a strong desire to impregnate her\nmyself. However, there's also the possibility that\nshe might end up getting impregnated by another\nman...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "自分自身で孕ませたいと言う欲求も強いんだが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "他の男に孕まされるかもしれないと言うのも……）"
+                                ""
                             ]
                         },
                         {
@@ -13355,14 +13355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]おひぃっ……♥"
+                                "\\nw[Sana]Ohh...♥ Oohh...♥ Oohh...♥ Ooohhh...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おっ♥おっ♥おっ♥おおおっ♥"
+                                ""
                             ]
                         },
                         {
@@ -13379,7 +13379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]はぁはぁ……孕ませてやる……！"
+                                "\\nw[Millionaire]Haa... haa... I'm going to impregnate you...!"
                             ]
                         },
                         {
@@ -13405,7 +13405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](サナも楽しめるといいんだがな)"
+                                "\\nw[Taro]I hope Sana can enjoy it too."
                             ]
                         },
                         {
@@ -13523,7 +13523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]あっ♥やっ♥まって……ひあっ♥ああんっ♥"
+                                "\\nw[Sana]Ahh! Wait... Hiaa! Aaahh!"
                             ]
                         },
                         {
@@ -13540,7 +13540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅ……良い締め付けだ……！"
+                                "\\nw[Millionaire]*panting* Ahh... such a good tightness...!"
                             ]
                         },
                         {
@@ -13557,7 +13557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](サナもまだ意識がはっきりしてそうだな……)"
+                                "\\nw[Taro](It seems like Sana is still conscious...)"
                             ]
                         },
                         {
@@ -13565,8 +13565,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "様子を見る",
-                                    "離れる"
+                                    "Observe the situation",
+                                    "Move away"
                                 ],
                                 1,
                                 -1,
@@ -13596,38 +13596,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あっ、あっ、ああんっ♥"
+                                "\\nw[Sana]Ahh, ahh, aahh! Right there, wait... ahh! Aahh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そこっ、待って……あっ♥ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]こらこら、ちゃんと受け入れないとダメだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この薬のレシピが欲しいんじゃなかったのかな？"
+                                ""
                             ]
                         },
                         {
@@ -13644,38 +13620,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]それっ……はっ……ふあっ♥あんっ♥あんっ♥"
+                                "\\nw[Millionaire]Hey hey, you need to accept it properly, right?\nWeren't you looking for the recipe for this\nmedicine?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]中出しのおねだりをしろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうしないとレシピを渡すわけにはいかないな！"
+                                ""
                             ]
                         },
                         {
@@ -13692,38 +13644,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あっ……ふあっ……♥"
+                                "\\nw[Sana]There... ha... fuahh♥ Ahn♥ Ahn♥ Ahh, ahh, aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あっ、あっ、ああぁっ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Sana]中出しして……あっ、ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アタシのおま〇こに、一杯出して……あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -13740,7 +13668,79 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]よく言った、注いでやる！！"
+                                "\\nw[Millionaire]Beg me for a creampie! If you don't, I can't give\nyou the recipe!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Ahh... fuahh...♥ Ahh, ahh, aahh...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Please cum inside me... Ahh, aahh♥ Fill my pussy\nwith your cum... Ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]Well said, I'll pour it for you!!"
                             ]
                         },
                         {
@@ -13883,7 +13883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]ああっ♥量が……ああぁ♥"
+                                "\\nw[Sana]Ahh♥ The amount... aahh♥"
                             ]
                         },
                         {
@@ -13900,7 +13900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]まだまだ……！"
+                                "\\nw[Millionaire]Not yet...!"
                             ]
                         },
                         {
@@ -14097,31 +14097,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おっ……ひっ……♥"
+                                "\\nw[Sana]Ohh... Hii... ♥ Oohhh ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おおぉぉぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]ふぅ……まぁまぁ出たな……"
+                                ""
                             ]
                         },
                         {
@@ -14138,14 +14121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]量が……おおすぎぃ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それに、こんなに気持ちよくなるなんてぇ……♥"
+                                "\\nw[Millionaire]*sigh*... Well, it came out..."
                             ]
                         },
                         {
@@ -14162,7 +14138,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]でも……これでレシピが……んんっ♥"
+                                "\\nw[Sana]The amount... it's... too much...♥ And, to feel\nthis good...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14179,21 +14162,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]一回で渡せるわけがないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こちらが満足するまで中出しのおねだりをし続けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ようやく渡すかどうか検討する状態だ"
+                                "\\nw[Sana]But... with this... the recipe... mmm♥"
                             ]
                         },
                         {
@@ -14210,38 +14179,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]ええっ……？"
+                                "\\nw[Millionaire]There's no way I can give it all at once. I'll\nonly consider giving it to you after you continue\nbegging for a creampie until I'm satisfied."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんなの聞いてない……んんっ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]安いレシピではないからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "文句はこちらが満足してからにしてもらおうか"
+                                ""
                             ]
                         },
                         {
@@ -14258,7 +14210,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]それまではその身体好きに使わせてもらうからな！"
+                                "\\nw[Sana]Huh...? I didn't ask for that... mmm♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]This is not a cheap recipe, you know. I'll only\nconsider your complaints after I am satisfied."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]Until then, I'll enjoy using your body as I\nplease!"
                             ]
                         },
                         {
@@ -14325,38 +14325,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あひぃぃ♥"
+                                "\\nw[Sana]Ahh♥ Wait, I'm in the middle of something right\nnow♥ Ahh♥ Ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まって、いまびんかんだからっ♥あっ♥ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]待つわけがないだろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このまま……！"
+                                ""
                             ]
                         },
                         {
@@ -14373,7 +14349,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あひっ♥ああっ♥あっ♥あっ♥ああぁぁ♥"
+                                "\\nw[Millionaire]There's no way I can wait! Like this...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Ahh ♥ Ahh ♥ Ahh ♥ Ahh ♥ Ahhh ♥"
                             ]
                         },
                         {
@@ -14399,14 +14399,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](サナも抵抗できなさそうだな……"
+                                "\\nw[Taro](Sana seems unable to resist... If she continues\nto be immersed in pleasure like this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このまま快楽漬けにされれば……）"
+                                ""
                             ]
                         },
                         {
@@ -14565,14 +14565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]ああっ♥あひっ♥ああっ♥"
+                                "\\nw[Sana]Ahh♥ Ahii♥ Ahh♥ Anhh♥ Anhh♥ Anhh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんっ♥あんっ♥あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -14589,7 +14589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅふぅ……！"
+                                "\\nw[Millionaire]Hoo...hoo...hoo...!"
                             ]
                         },
                         {
@@ -14615,7 +14615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](サナも完全に翻弄されてるな……)"
+                                "\\nw[Taro](Sana is completely being toyed with...)"
                             ]
                         },
                         {
@@ -14733,7 +14733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]あんっ♥あっ♥あっ♥あっ♥ああんっ♥"
+                                "\\nw[Sana]Ahh♥ Ahh♥ Ahh♥ Ahh♥ Aaahh♥"
                             ]
                         },
                         {
@@ -14750,7 +14750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]ふへへ、その調子だ……"
+                                "\\nw[Millionaire]Hehe, keep it up..."
                             ]
                         },
                         {
@@ -14767,7 +14767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](サナが嬉しそうにしてるな……)"
+                                "\\nw[Taro](Sana seems really happy...)"
                             ]
                         },
                         {
@@ -14775,8 +14775,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "様子を見る",
-                                    "離れる"
+                                    "Watch the situation",
+                                    "Separate"
                                 ],
                                 1,
                                 -1,
@@ -14806,38 +14806,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あんっ♥あんっ♥あんっ♥"
+                                "\\nw[Sana]Ahh♥ Ahh♥ Ahh♥ Sir♥ It feels good♥ Ahh♥ Aahh♥ Ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさまっ♥気持ちいいっ♥あっ♥ああんっ♥あんっ♥あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]ふふっ、そうだ、従順でいいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わしのち〇ぽは好きか？"
+                                ""
                             ]
                         },
                         {
@@ -14854,38 +14830,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はいっ♥すきぃ♥"
+                                "\\nw[Millionaire]Hehe, that's right, be obedient. Do you like my\nc*ck?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさまおち〇ぽっ♥すきっ♥すきぃぃ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]そうかそうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それじゃあどうしてほしいだ？"
+                                ""
                             ]
                         },
                         {
@@ -14902,14 +14854,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はいっ♥中出ししてくださいっ♥あっ♥ああんっ♥"
+                                "\\nw[Sana]Yes♥ I love it♥ Sir, I love your c*ck♥ I love it♥\nI love it so much♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アタシのナカにっ♥あっ♥あっ♥あああっ♥"
+                                ""
                             ]
                         },
                         {
@@ -14926,7 +14878,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ああ、このまま……！"
+                                "\\nw[Millionaire]I see, I see. Well then, how would you like it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Yes♥ Please cum inside me♥ Ah♥ Aaahh♥ Inside my\npussy♥ Ah♥ Ah♥ Aaahhh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]Ahh, just like this...!"
                             ]
                         },
                         {
@@ -15069,7 +15069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おっ♥おおおぉぉぉ♥♥"
+                                "\\nw[Sana]Ohh♥ Ooooohhh♥♥"
                             ]
                         },
                         {
@@ -15086,7 +15086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅ……！"
+                                "\\nw[Millionaire]*huff huff...!*"
                             ]
                         },
                         {
@@ -15283,7 +15283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おごっ……♥おおぉぉぉぉ♥♥♥"
+                                "\\nw[Sana]Ohh...♥ Ooohhhhh♥♥♥"
                             ]
                         },
                         {
@@ -15300,7 +15300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅ……いいぞ、たっぷり出たな……"
+                                "\\nw[Millionaire]*huff huff... Good job, you came a lot...*"
                             ]
                         },
                         {
@@ -15317,45 +15317,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はぁはぁ……♥"
+                                "\\nw[Sana]*huff huff*... It was amazing... ♥♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "凄かったです……♥♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]ふへへっ、従順でいい子だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わしは錬金術の本を手に入れられる伝手があるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この調子で愛人を続ければ少しづつ渡してやるからな。"
+                                ""
                             ]
                         },
                         {
@@ -15372,31 +15341,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はいっ、おじさま……♥"
+                                "\\nw[Millionaire]Hehe, you're such a obedient girl. I have\nconnections to obtain alchemy books, you know. If\nyou continue being my mistress like this, I'll\ngradually give them to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "んんっ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]ほら、言うことがあるだろう？"
+                                ""
                             ]
                         },
                         {
@@ -15413,14 +15372,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]もっとおじさまの精液欲しいですっ♥"
+                                "\\nw[Sana]Yes, sir... ♥nnn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさまのおち〇ぽをもっと扱かせてっ♥"
+                                ""
                             ]
                         },
                         {
@@ -15437,7 +15396,48 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ああ、望み通りに……！"
+                                "\\nw[Millionaire]Hey, I have something to say, you know?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]I want more of your semen, sir♥ Let me handle your\nc*ck more♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]Ahh, just as I desired...!"
                             ]
                         },
                         {
@@ -15504,38 +15504,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あんっ♥あんっ♥あんっ♥"
+                                "\\nw[Sana]Ahn♥ Ahn♥ Ahn♥ Mr. Millionaire, you're amazing...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさますごいぃ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]ふんふん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孕ませてやるからな……！"
+                                ""
                             ]
                         },
                         {
@@ -15552,7 +15528,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はいっ♥おじさまっ♥あっ♥ああっ♥あっ♥ああんっ♥"
+                                "\\nw[Millionaire]Hmph! I'll impregnate you...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Yes, sir♥ Ahh♥ Aahh♥ Ahh♥ Aaahhn♥"
                             ]
                         },
                         {
@@ -15578,14 +15578,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](薬漬けにされてすっかり骨抜きにされたのか、"
+                                "\\nw[Taro](Did they completely weaken you by drugging you,\nor were you lured in by the knowledge of\nalchemy...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それとも錬金術の知識に釣られたのか……）"
+                                ""
                             ]
                         },
                         {
@@ -15744,14 +15744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]あんっ♥あんっ♥あんっ♥"
+                                "\\nw[Sana]Ahh♥ Ahh♥ Ahh♥ Uncle, you're amazing♥ Ahh♥ Ahh♥\nAhhh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おじさますごいっ♥あっ♥ああっ♥ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -15768,7 +15768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]おおぉぉ……！！"
+                                "\\nw[Millionaire]Ohhh...!!"
                             ]
                         },
                         {
@@ -15794,7 +15794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](サナも嬉しそうだな……)"
+                                "\\nw[Taro](Sana seems happy too...)"
                             ]
                         },
                         {
@@ -15912,7 +15912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]はぁ……はぁ……あんっ♥"
+                                "\\nw[Sana]Haa... haa... Ahh♥"
                             ]
                         },
                         {
@@ -15929,7 +15929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]ふふっ、しっかり準備してきたぞ。"
+                                "\\nw[Millionaire]Hehe, I've prepared thoroughly."
                             ]
                         },
                         {
@@ -15946,7 +15946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](紙があるな……何か書いてあるけども……)"
+                                "\\nw[Taro](There's a piece of paper... There's something\nwritten on it...)"
                             ]
                         },
                         {
@@ -15954,8 +15954,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "様子を見る",
-                                    "離れる"
+                                    "Observe the situation",
+                                    "Move away"
                                 ],
                                 1,
                                 -1,
@@ -15985,38 +15985,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ほら、これが契約書だ。"
+                                "\\nw[Millionaire]Here, this is the contract. Make sure to check it\nproperly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちゃんと確認するんだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Sana]はい、おじさま……んっ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "依頼の話ですね……あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -16033,7 +16009,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]そうだ、口に出して確認したらどうだ？"
+                                "\\nw[Sana]Yes, sir... mmm... ♥ It's about the request... ahh\n♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16050,14 +16033,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]んっ……♥あんっ……♥"
+                                "\\nw[Millionaire]How about you say it out loud and confirm?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうですね……んっ♥"
+                                "\\nw[Sana]Nn...♥ Ahh...♥ Yes, that's right... Nn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16081,38 +16081,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]アタシ、サナは……んっ♥おじさまの跡取り息子を産むまで、"
+                                "\\nw[Sana]I, Sana... mmm♥ will make a child with you, sir,\nuntil I give birth to your heir... ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさまと子作りします……あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Sana]期間はおじさまの跡取り息子を産むまでか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おじさまが依頼を取り下げるまでで……んっ♥"
+                                ""
                             ]
                         },
                         {
@@ -16129,38 +16105,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]代金は……おじさまの精液と、薬です♥"
+                                "\\nw[Sana]The duration is until I give birth to the\nmillionaire's heir, or until the millionaire\nwithdraws the request... mmm♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "子作りのたびに、支払ってもらいます……あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]そうだ、よく確認できたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それじゃあサインしなさい。"
+                                ""
                             ]
                         },
                         {
@@ -16177,7 +16129,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はいっ、サインします……♥"
+                                "\\nw[Sana]The payment... will be your semen and the\nmedicine, sir♥ Every time we make a child, you\nwill compensate me... ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]That's right, you've confirmed it well. Then, go\nahead and sign."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Yes, I will sign... ♥"
                             ]
                         },
                         {
@@ -16213,14 +16213,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ああ、契約完了だ。"
+                                "\\nw[Millionaire]Ah, the contract is complete. From now on, I'll\nthoroughly f*ck you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これからもたっぷりと犯してやるからな！"
+                                ""
                             ]
                         },
                         {
@@ -16237,7 +16237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はいっ、おじさま……♥"
+                                "\\nw[Sana]Yes, sir... ♥"
                             ]
                         },
                         {
@@ -16310,7 +16310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あっ♥おじさまぁ……あっ、あっ、あんっ♥"
+                                "\\nw[Sana]Ahh ♥ Sir... ahh, ahh, ahn ♥"
                             ]
                         },
                         {
@@ -16327,38 +16327,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]この薬は高いからな。"
+                                "\\nw[Millionaire]This medicine is expensive, you know. You have to\nconfirm its effectiveness with your body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "効果は体で確認するんだぞ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Sana]はいっ♥おじさまっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "作れるように覚えま……あっ♥あっ、あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -16375,14 +16351,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]はぁはぁはぁ……！"
+                                "\\nw[Sana]Yes♥ Sir♥ I'll remember how to make it... Ah♥ Ah,\nah, aahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お腹の子を産んだら孕ませてやるからな……！"
+                                "\\nw[Millionaire]Haa... haa... haa...! Once you give birth to our\nchild, I'll impregnate you again...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16408,14 +16408,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](こんな契約をするまでになるなんて……"
+                                "\\nw[Taro](I can't believe it has come to this... They\nmentioned it was an expensive medicine, so is the\naphrodisiac really that powerful?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "高価な薬って言ってたし、媚薬の効果がすごいのか？）"
+                                ""
                             ]
                         },
                         {
@@ -16583,7 +16583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]おじさま、いきなりそんな……♥"
+                                "\\nw[Sana]Oh, sir, so suddenly... ♥"
                             ]
                         },
                         {
@@ -16600,7 +16600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]わしは手加減するつもりはないぞ？"
+                                "\\nw[Millionaire]I have no intention of going easy on you, you\nknow?"
                             ]
                         },
                         {
@@ -16617,7 +16617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](ふむ、もう薬を盛られてそうだな)"
+                                "\\nw[Taro](Hmm, it seems like you've already been drugged.)"
                             ]
                         },
                         {
@@ -16625,8 +16625,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "様子を見る",
-                                    "離れる"
+                                    "Observe the situation",
+                                    "Move away"
                                 ],
                                 1,
                                 -1,
@@ -16656,31 +16656,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おほっ♥おおっ♥"
+                                "\\nw[Sana]Ohh♥ Oohh♥ Good sir♥ Ohh♥ Oohh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさますごっ♥おっ♥おおっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]何日だろうと、精液を注ぎまくってやろう！"
+                                ""
                             ]
                         },
                         {
@@ -16697,14 +16680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おほっ♥おほぉぉ♥おっ♥おおっ♥おっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おおおっ♥おおぉぉ♥"
+                                "\\nw[Millionaire]No matter how many days it takes, I'll pour my\nsemen into you!"
                             ]
                         },
                         {
@@ -16721,7 +16697,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]教えてやるぞ、お前が孕み袋であることをな……！"
+                                "\\nw[Sana]Ohh♥ Oohh♥ Oohh♥ Oohh♥ Oohh♥ Oohh♥ Oohh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]I'll let you know, that you're nothing but a\nbreeding vessel...!"
                             ]
                         },
                         {
@@ -16864,7 +16864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おっ♥……おおぉぉぉぉぉ♥♥♥"
+                                "\\nw[Sana]Ohh... Oohhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -16881,7 +16881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅ……！"
+                                "\\nw[Millionaire]*huff huff...!*"
                             ]
                         },
                         {
@@ -17078,7 +17078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あへ……おほぉ……♥"
+                                "\\nw[Sana]Ah... Ohh... ♥"
                             ]
                         },
                         {
@@ -17095,14 +17095,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふう……相変わらず良い体だ。"
+                                "\\nw[Millionaire]Phew... Your body is still as good as ever. I'm\ngoing to use it thoroughly just like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このまま使い込んでやるからな。"
+                                ""
                             ]
                         },
                         {
@@ -17119,7 +17119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おっ……おぉぉぉ……♥♥"
+                                "\\nw[Sana]Ohh...... Oohhhhhhh......♥♥"
                             ]
                         },
                         {
@@ -17186,14 +17186,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おひぃぃ♥"
+                                "\\nw[Sana]Ohh♥ Oohh♥ Oohh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おっ、おっ、おおっ♥"
+                                ""
                             ]
                         },
                         {
@@ -17210,7 +17210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふんふんふん……！"
+                                "\\nw[Millionaire]Hmph, hmph, hmph...!"
                             ]
                         },
                         {
@@ -17236,7 +17236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](泊まり込みで、どれくらい変わるのか楽しみだな）"
+                                "\\nw[Taro](I'm looking forward to seeing how things will\nchange with this overnight stay.)"
                             ]
                         },
                         {
@@ -17395,7 +17395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]あひっ♥あっ♥ああんっ♥ああっ♥"
+                                "\\nw[Sana]Ahh♥ Ahh♥ Aaann♥ Aahh♥"
                             ]
                         },
                         {
@@ -17412,7 +17412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]ふっ、これはまた楽しめそうだな……！"
+                                "\\nw[Millionaire]Heh, this looks like it'll be enjoyable...!"
                             ]
                         },
                         {
@@ -17429,7 +17429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](どうなってるかな……)"
+                                "\\nw[Taro](I wonder what's happening...)"
                             ]
                         },
                         {
@@ -17437,8 +17437,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "様子を見る",
-                                    "離れる"
+                                    "Observe the situation",
+                                    "Separate"
                                 ],
                                 1,
                                 -1,
@@ -17468,7 +17468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おじさまっ、これっ、頭が変に……あああんっ♥"
+                                "\\nw[Sana]Mister, my head feels weird... aahh♥"
                             ]
                         },
                         {
@@ -17485,7 +17485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふふふっ、調教の成果がほとんどなくなるとはな……！"
+                                "\\nw[Millionaire]Hehehe, to think that the results of my training\nwould almost disappear...!"
                             ]
                         },
                         {
@@ -17502,38 +17502,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]だが、これでこそヤりがいがあると言うものだ！"
+                                "\\nw[Millionaire]However, this is where the real fun begins! I'll\ntrain you again...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "また調教してやるからな……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Sana]ああっ♥おじさまっ♥あっ♥ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "体が熱くて……あっ♥あっ♥ああっ♥"
+                                ""
                             ]
                         },
                         {
@@ -17550,7 +17526,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ああ、孕ませてやるぞ……！"
+                                "\\nw[Sana]Ahh♥ Mister♥ Ahh♥ Ahh♥ My body feels hot... Ahh♥\nAhh♥ Ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]Ahh, I'm going to impregnate you...!"
                             ]
                         },
                         {
@@ -17693,7 +17693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]あおおぉぉぉぉ～～～♥♥♥♥"
+                                "\\nw[Sana]Aaahhhhh~♥♥♥♥"
                             ]
                         },
                         {
@@ -17710,7 +17710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ぬぅん……！"
+                                "\\nw[Millionaire]Nnngh...!"
                             ]
                         },
                         {
@@ -17907,7 +17907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おおぉぉぉぉ………………♥♥♥"
+                                "\\nw[Sana]Ohhhhh..................♥♥♥"
                             ]
                         },
                         {
@@ -17924,14 +17924,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふぅ……薬を使って精液を注いでやったから"
+                                "\\nw[Millionaire]Phew... I injected semen using a drug, so your\nhead won't function properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これで頭はろくに働かないだろう。"
+                                ""
                             ]
                         },
                         {
@@ -17948,7 +17948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]さて、また調教完了するまでどれだけかかるかな……！"
+                                "\\nw[Millionaire]Now, I wonder how long it will take until the\ntraining is complete...!"
                             ]
                         },
                         {
@@ -18015,7 +18015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おっ、おおぉぉぉ♥♥♥"
+                                "\\nw[Sana]Oh, oooohhh♥♥♥"
                             ]
                         },
                         {
@@ -18032,14 +18032,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ふんふんふん！"
+                                "\\nw[Millionaire]Hmph hmph hmph! I'll make sure you remember it\nproperly!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しっかりと思い出させてやるからな！"
+                                ""
                             ]
                         },
                         {
@@ -18056,7 +18056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おじさまっ♥ああっ♥あっ♥あああっ♥あんっ♥"
+                                "\\nw[Sana]Oh, sir♥ Ahh♥ Ahh♥ Ahhh♥ Ahn♥"
                             ]
                         },
                         {
@@ -18082,7 +18082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](また調教がされるといいな……）"
+                                "\\nw[Taro](I hope I get trained again...)"
                             ]
                         },
                         {
@@ -18241,14 +18241,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]これっ♥すごっ♥おっ、おおっ♥"
+                                "\\nw[Sana]This... amazing... oh, ohh... ah, ah, aahh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18265,7 +18265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]ふぅふぅ……やっぱりこれを使うと締りが最高だな……！"
+                                "\\nw[Millionaire]*panting*... As I thought, using this gives the\nbest tightness...!"
                             ]
                         },
                         {
@@ -18291,7 +18291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](サナも完全に受け入れてるな……)"
+                                "\\nw[Taro](Sana has completely accepted it...)"
                             ]
                         },
                         {
@@ -18409,38 +18409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]おごぉぉ♥"
+                                "\\nw[Sana]Ohh♥ Ahh, o-oh, ohh♥ Oohh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おほっ、おっ、おおおっ♥おおっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[富豪]ふんふん……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "徹底的に犯してやるぞ……！"
+                                ""
                             ]
                         },
                         {
@@ -18457,7 +18433,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]おへっ♥おっ♥おおっ♥おほぉぉぉ♥"
+                                "\\nw[Millionaire]Hmph...! I'm going to thoroughly violate you...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Sana]Ohh♥ Ahh♥ Oohh♥ Oohh♥"
                             ]
                         },
                         {
@@ -18483,7 +18483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](くっ……これだけエロいとこっちも興奮してしまうな）"
+                                "\\nw[Taro](Hmph... with something this erotic, I can't help\nbut get excited too.)"
                             ]
                         },
                         {
@@ -18601,7 +18601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]あっ、ひあっ、ああっ♥おおっ♥おほぉぉ♥"
+                                "\\nw[Sana]Ah, hi-ah, aahh♥ Ohh♥ Ohoohh♥"
                             ]
                         },
                         {
@@ -18618,14 +18618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]おっ、おっ、おおおぉぉぉ……！"
+                                "\\nw[Millionaire]Oh, oh, ohhh...! What a great body...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良い体だ……！"
+                                ""
                             ]
                         },
                         {
@@ -18651,14 +18651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](夢中になっているな……"
+                                "\\nw[Taro](She seems really engrossed... I have the money,\nso maybe I should leave a little more with her...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "金は持ってるし、もう少し預けておくか……）"
+                                ""
                             ]
                         },
                         {
@@ -18776,7 +18776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]おじっしゃまぁ……♥おおっ♥おほっ♥おっ♥おおっ♥"
+                                "\\nw[Sana]Oh, master... ♥ Ooh ♥ Ahh ♥ Oh ♥ Ooh ♥"
                             ]
                         },
                         {
@@ -18793,7 +18793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]ふふふっ、どうだね、気持ちよくて仕方ないだろう？"
+                                "\\nw[Millionaire]Hehehe, how does it feel? You must be feeling so\ngood, right?"
                             ]
                         },
                         {
@@ -18810,7 +18810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]しゅごしゅぎっ♥おおっ♥おほっ♥おおおっ♥おほぉ～～♥"
+                                "\\nw[Sana]Master, you're amazing ♥ Ohh ♥ Ahh ♥ Ohh ♥ Ohh ♥"
                             ]
                         },
                         {
@@ -18836,14 +18836,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](まだ預けておくか……"
+                                "\\nw[Taro](I'll still keep it for now... I'll think about it\nnext week.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "来週は考えてみよう）"
+                                ""
                             ]
                         },
                         {
@@ -18961,7 +18961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]んっ……おじさまのおち〇ぽいつも元気……♥"
+                                "\\nw[Sana]Mmm... Sir's c*ck is always so energetic... ♥"
                             ]
                         },
                         {
@@ -18978,7 +18978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]当然だろう？"
+                                "\\nw[Millionaire]Of course, right?"
                             ]
                         },
                         {
@@ -18995,7 +18995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](ふむ、今は話が出来そうか)"
+                                "\\nw[Taro](Hmm, can we talk now?)"
                             ]
                         },
                         {
@@ -19003,8 +19003,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しかける",
-                                    "離れる"
+                                    "Talk to him",
+                                    "Move away"
                                 ],
                                 1,
                                 -1,
@@ -19034,7 +19034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]んっ、店長か。"
+                                "\\nw[Millionaire]Mmm, it's the manager."
                             ]
                         },
                         {
@@ -19051,14 +19051,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ああ、様子を見に来たんだ。"
+                                "\\nw[Taro]Ah, I came to check on the situation. How is\nSana..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "サナは……"
+                                ""
                             ]
                         },
                         {
@@ -19082,31 +19082,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]アタシはおじさまの性奴隷サナです。"
+                                "\\nw[Sana]I am Sir's sex slave, Sana. Please take a look at\nmy naughty pussy ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アタシのえっちなおま〇こ、是非見ていってください♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]……\\|ん？"
+                                ""
                             ]
                         },
                         {
@@ -19123,7 +19106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](突然のことでわけがわからん)"
+                                "\\nw[Taro]......Hm?"
                             ]
                         },
                         {
@@ -19140,14 +19123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]ああ、よくできているだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっかくだから色々な薬を使いながら調教したのだよ。"
+                                "\\nw[Taro](I don't understand what's happening all of a\nsudden)"
                             ]
                         },
                         {
@@ -19164,21 +19140,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]感度を高める薬や惚れ薬、"
+                                "\\nw[Millionaire]Ah, you've done well, haven't you? Since we've\ncome this far, let's train using various drugs."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "理性を薄くする薬や記憶を思い出しにくくする薬とか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他にも色々な。"
+                                ""
                             ]
                         },
                         {
@@ -19195,7 +19164,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]おかげでわしの命令に絶対従順な性奴隷になったよ。"
+                                "\\nw[Millionaire]Various drugs such as sensitivity-enhancing drugs,\nlove potions, drugs that weaken rationality, and\ndrugs that make it difficult to recall memories,\namong others."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19212,14 +19195,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アタシはおじさまの性奴隷です♥"
+                                "\\nw[Millionaire]Thanks to you, I have become an obedient sex slave\nwho follows my orders without question."
                             ]
                         },
                         {
@@ -19236,31 +19212,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おじさまのおち〇ぽが大好きで、"
+                                "\\nw[Sana]Yes ♥ I am Sir's sex slave ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさまの命令を聞くのがお仕事です♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]……"
+                                ""
                             ]
                         },
                         {
@@ -19277,31 +19236,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](こっちを見て反応しないのは、"
+                                "\\nw[Sana]I love Sir's c*ck and it's my job to obey Sir's\norders ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "薬の影響でオレを思い出せないのか……)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro](しかしこれは……)"
+                                ""
                             ]
                         },
                         {
@@ -19318,14 +19260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]人妻を好きに調教できる機会なんてなかったからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夫を忘れてち〇ぽに敗北させることが出来て何よりだよ。"
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -19342,7 +19277,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[富豪]わしの性奴隷になれてよかっただろう？"
+                                "\\nw[Taro](Is it because of the effects of the drugs that\nyou're not reacting when you look at me... and\ncan't remember who I am...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19359,21 +19301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]はい、幸せです……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな素敵におち〇ぽをいつも入れて貰えて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アタシは幸せです……♥"
+                                "\\nw[Taro](However, this is...)"
                             ]
                         },
                         {
@@ -19390,31 +19318,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Sana]おじさま、今日は激しくしてくれないんですか？"
+                                "\\nw[Millionaire]I never had the chance to train a married woman to\nmy liking. Being able to make her forget her\nhusband and succumb to my c*ck is the best thing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさまのおち〇ぽでごつごつ犯されたいです♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[富豪]ふふっ、さてどうするかな。"
+                                ""
                             ]
                         },
                         {
@@ -19431,7 +19342,96 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Millionaire]You must be thankful for becoming my sex slave,\nright?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Yes, I'm happy... ♥ I'm so happy to always have\nsuch a wonderful c*ck inside me... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Sana]Sir, won't you be rough with me today? I want to\nbe violated by your c*ck and feel its roughness ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Millionaire]Hehe, now what should I do?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -19439,8 +19439,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "サナを連れて帰る",
-                                    "離れる"
+                                    "Take Sana home",
+                                    "Move away"
                                 ],
                                 1,
                                 0,
@@ -19470,38 +19470,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]貸し出しは終わりだ。"
+                                "\\nw[Taro]The loan is over. I will take Sana home now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "サナは今から連れて帰る。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[富豪]ふむ、そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "存分に楽しめたから、また貸し出して貰いたいものだ。"
+                                ""
                             ]
                         },
                         {
@@ -19518,7 +19494,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ああ、わかった。"
+                                "\\nw[Millionaire]Hmm, I see. Since I enjoyed it to the fullest, I\nwould like to borrow her again."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19535,7 +19518,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Sana]おじさま？"
+                                "\\nw[Taro]Ah, I understand."
                             ]
                         },
                         {
@@ -19552,14 +19535,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[富豪]彼についていきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "彼の言うことをよく聞いたら、ご褒美を上げよう。"
+                                "\\nw[Sana]Sir?"
                             ]
                         },
                         {
@@ -19576,31 +19552,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Sana]おじさま……♥"
+                                "\\nw[Millionaire]Follow him. If you listen to what he says, I'll\ngive you a reward."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "はい、わかりました♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]じゃあ服を着替えてついてこい、サナ。"
+                                ""
                             ]
                         },
                         {
@@ -19617,7 +19576,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Sana]わかりました。"
+                                "\\nw[Sana]Sir... ♥ Yes, I understand ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Well then, change your clothes and come with me,\nSana."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Sana]Understood."
                             ]
                         },
                         {
@@ -19788,38 +19788,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Sana]ひっ……おっ、おっ、おおおっ♥"
+                                "\\nw[Sana]H-huh...... Oh, oh, ohh♥ Amazing♥ Oh♥ Ohh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "しゅごっ♥おっ♥おおおっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]はぁはぁはぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "寝取られやがって……！おかげで興奮しっぱなしだったぞ！"
+                                ""
                             ]
                         },
                         {
@@ -19836,38 +19812,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]オレのことがわかるか！？"
+                                "\\nw[Taro]Haa haa haa...! You got stolen from me...! Thanks\nto that, I've been excited the whole time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おらっ、おらっ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Sana]おへっ♥おほぉぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おち〇ぽしゃまっ♥おち〇ぽしゃまでしゅっ♥おほぉぉ♥"
+                                ""
                             ]
                         },
                         {
@@ -19884,31 +19836,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]薬で思い出せなくなってるのか……！"
+                                "\\nw[Taro]Do you understand me?! Come on, come on!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まぁいい、どっちにしても興奮しすぎて頭がおかしくなりそうだ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]サナはオレのモノってことを教え込んでやるからな！"
+                                ""
                             ]
                         },
                         {
@@ -19925,14 +19860,79 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Sana]おごっ♥おっ♥おおっ♥おほっ♥おっ♥"
+                                "\\nw[Sana]Ohh♥ Ahh♥ Your c*ck feels so good♥ It's going in\nand out of my p*ssy♥ Ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おおおおぉぉぉぉ♥♥"
+                                "\\nw[Taro]Are you unable to remember because of the\nmedicine...? Well, it doesn't matter. Either way,\nI'm getting too excited and my head feels like\nit's going crazy!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]I'll make sure to teach Sana that she belongs to\nme!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Sana]Ohh♥ Ahh♥ Ohh♥ Oohh♥ Ahh♥ Ohhhhh♥♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20041,31 +20041,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Sana]しゅごっ♥おおっ♥"
+                                "\\nw[Sana]Shugo♥ Oohh♥ Come inside me...♥♥♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "入ってきてぇ……♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]はぁはぁ、射精しても全然治まらない……！"
+                                ""
                             ]
                         },
                         {
@@ -20082,7 +20065,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]まだまだ続けるからな……！"
+                                "\\nw[Taro]Haa haa, I can't calm down even after\nejaculating...!"
                             ]
                         },
                         {
@@ -20099,7 +20082,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Sana]おほっ♥おっ♥おおおおぉぉぉぉ～～～～～♥♥♥"
+                                "\\nw[Taro]I'm not done yet...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Sana]Ohh♥ Ahh♥ Ohhhhhhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -20431,38 +20431,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]まだ貸し出しておく。"
+                                "\\nw[Taro]I'll still lend it to you. Use it as you like."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "好きに使ってやってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[富豪]そうかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "では、犯してやるとするか。"
+                                ""
                             ]
                         },
                         {
@@ -20479,7 +20455,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Sana]はい、おじさま♥"
+                                "\\nw[Millionaire]Is that so? Well then, I'll go ahead and violate\nyou."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Sana]Yes, sir♥"
                             ]
                         },
                         {
@@ -20733,7 +20733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]おっ♥おおっ♥おほっ♥おひぃぃ♥"
+                                "\\nw[Sana]Ohh♥ Oohh♥ Oohh♥ Oohh♥ Ahhh♥"
                             ]
                         },
                         {
@@ -20750,7 +20750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[富豪]今週もたっぷり可愛がってやるからな……！"
+                                "\\nw[Millionaire]I'll spoil you plenty this week too...!"
                             ]
                         },
                         {
@@ -20767,7 +20767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Sana]はひっ♥おっ♥おおおっ♥おほぉぉ♥"
+                                "\\nw[Sana]Hahi♥ Ooh♥ Ooohh♥ Ohh♥ Ahh♥"
                             ]
                         },
                         {
@@ -20793,14 +20793,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](くっ……見てると興奮しちまうな、"
+                                "\\nw[Taro](Hmph... I get excited when I watch, let's move\naway...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "離れよう……）"
+                                ""
                             ]
                         },
                         {
