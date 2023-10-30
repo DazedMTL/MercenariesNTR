@@ -5690,14 +5690,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先から強そうな相手の気配を感じる……"
+                                "I feel the presence of a strong opponent ahead...\nShould we proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進もうか？"
+                                ""
                             ]
                         },
                         {
@@ -5705,8 +5705,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "進まない"
+                                    "Proceed",
+                                    "Don't proceed"
                                 ],
                                 1,
                                 0,
@@ -5827,7 +5827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]魔物の後ろにコアっぽいものがあるな。"
+                                "\\nw[Taro]There seems to be something core-like behind the\nmonster."
                             ]
                         },
                         {
@@ -5884,14 +5884,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]あの魔物はコアを守ってるよね。"
+                                "\\nw[Kuno]That monster is protecting the core, right? Does\nthat mean it's not just an ordinary monster?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ただの魔物じゃないってことなのかな。"
+                                ""
                             ]
                         },
                         {
@@ -5908,14 +5908,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]強そうな魔物だが、こいつさえ倒せば地獣のコアも壊せる。"
+                                "\\nw[Taro]It looks like a strong monster, but if we defeat\nthis one, we can also destroy the Earth Beast's\ncore. Let's defeat it with all our might!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "全力で倒すぞ！"
+                                ""
                             ]
                         },
                         {
@@ -5972,7 +5972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]お～……"
+                                "\\nw[Uka]Oh~..."
                             ]
                         },
                         {
@@ -6030,7 +6030,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]やったか！？"
+                                "\\nw[Taro]Did we do it!?"
                             ]
                         },
                         {
@@ -6087,7 +6087,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]ううん……"
+                                "\\nw[Uka]Umm..."
                             ]
                         },
                         {
@@ -6202,7 +6202,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]変身するのかよ！？"
+                                "\\nw[Taro]Are you going to transform!?"
                             ]
                         },
                         {
@@ -6259,7 +6259,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]くる……よ……"
+                                "\\nw[Uka]I'm coming..."
                             ]
                         },
                         {
@@ -6378,7 +6378,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]はぁ……はぁ……何とか倒せたな……"
+                                "\\nw[Taro]Haa... haa... We managed to defeat it somehow..."
                             ]
                         },
                         {
@@ -6435,14 +6435,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]ええ、そうね。"
+                                "\\nw[Kuno]Yes, that's right. After that, we'll set the\nbomb..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "後は爆弾をセットして……"
+                                ""
                             ]
                         },
                         {
@@ -6520,7 +6520,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]この揺れは！"
+                                "\\nw[Taro]What is this shaking!"
                             ]
                         },
                         {
@@ -6577,14 +6577,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]地獣が目覚めようとしてるのかもしれないわ。"
+                                "\\nw[Nonna]The Earth Beast might be awakening. Let's hurry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "急ぎましょう。"
+                                ""
                             ]
                         },
                         {
@@ -6601,7 +6601,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]そうだな、脱出できなくなるのは困る。"
+                                "\\nw[Taro]Yeah, it would be troublesome if we couldn't\nescape."
                             ]
                         },
                         {
@@ -6808,7 +6808,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]これで……終わりだ！"
+                                "\\nw[Taro]This is... the end!"
                             ]
                         },
                         {

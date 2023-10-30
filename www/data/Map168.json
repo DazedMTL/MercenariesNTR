@@ -2296,7 +2296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<プロペ森林>へ入りますか？"
+                                "Are you going into the Prope Forest?"
                             ]
                         },
                         {
@@ -2304,8 +2304,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2444,7 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<カペル山>へ入りますか？"
+                                "Are you going to enter Mount Capel?"
                             ]
                         },
                         {
@@ -2452,8 +2452,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2592,7 +2592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<アケル荒野>へ入りますか？"
+                                "Are you going to enter the <Akeru Wilderness>?"
                             ]
                         },
                         {
@@ -2600,8 +2600,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2740,7 +2740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<アルデア街道>へ入りますか？"
+                                "Are you going to enter the Ardea Highway?"
                             ]
                         },
                         {
@@ -2748,8 +2748,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3050,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<大地の神殿>へ入りますか？"
+                                "Will you enter the Temple of the Earth?"
                             ]
                         },
                         {
@@ -3058,8 +3058,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3203,7 +3203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]な、何だ、山の形が変わってるぞ！？"
+                                "\\nw[Taro]W-What, the shape of the mountain has changed!?"
                             ]
                         },
                         {
@@ -3220,38 +3220,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]何か動いてない？"
+                                "\\nw[Kuno]Is something moving? Just that area is oddly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あそこだけやたらと"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[？？？]あ～もう、最悪だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地獣が復活してるじゃないか！"
+                                ""
                             ]
                         },
                         {
@@ -3268,7 +3244,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]地獣だと！？"
+                                "\\nw[???]Ugh, this is the worst! The Earth Beast has\nrevived, hasn't it?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]The Earth Beast?!"
                             ]
                         },
                         {

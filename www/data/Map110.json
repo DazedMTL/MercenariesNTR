@@ -15617,7 +15617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]ルミの友達のお姉さんがいるよ。"
+                                "\\nw[???]There is Lumis's friend's older sister."
                             ]
                         },
                         {
@@ -15714,21 +15714,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]友達って誰？"
+                                "\\nw[Louis]Who is your friend? There are so many trees, I\ncan't tell. Are they nearby?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "木がありすぎてわかんないんだけど。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "近いの？"
+                                ""
                             ]
                         },
                         {
@@ -15785,14 +15785,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]一緒にリムルンまで行った人。"
+                                "\\nw[???]The person who went with Lumis to Rimuru. It's\nquite far, isn't it? Several hundred meters ahead?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "結構遠いね、数百メートル先？"
+                                ""
                             ]
                         },
                         {
@@ -15849,7 +15849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]それボクじゃ見えないから。"
+                                "\\nw[Louis]I can't see it from here."
                             ]
                         },
                         {
@@ -15906,14 +15906,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[ルイ]ん？それはフロスよね。"
+                                "\\nw[Louis]Huh? Is that Fross? I heard this place was sealed\noff, why are you here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ここ封鎖されるって聞いたけど、何でいるの？"
+                                ""
                             ]
                         },
                         {
@@ -15961,38 +15961,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]さあ？"
+                                "\\nw[???]Well? But I'm with various people, and didn't I\nget permission?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも色んな人と一緒にいるし、許可貰ったんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[ルイ]ふ～ん、ま、いっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ところでフィーは大丈夫？"
+                                ""
                             ]
                         },
                         {
@@ -16009,38 +15985,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]そろそろ補給しないとまずいかも？"
+                                "\\nw[Louis]Hmmm, well, whatever. By the way, is Fee okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "掃討作戦が始まる前に満たしてくるね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[ルイ]うん、わかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それじゃボクはそこら辺で休んでるから。"
+                                ""
                             ]
                         },
                         {
@@ -16057,7 +16009,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]うん、いってくるよ"
+                                "\\nw[???]We should probably resupply soon, just in case.\nLet's fill up before the sweep operation begins."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Louis]Okay, got it. Well then, I'll rest around here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[???]Yeah, I'm going."
                             ]
                         },
                         {
@@ -17899,14 +17899,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17983,14 +17983,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18067,14 +18067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18151,14 +18151,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18235,14 +18235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18439,7 +18439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒールレインを手に入れた！"
+                                "I obtained the Heal Rain!"
                             ]
                         },
                         {
@@ -18687,7 +18687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォールンアクスを手に入れた！"
+                                "I obtained the Fallen Axe!"
                             ]
                         },
                         {

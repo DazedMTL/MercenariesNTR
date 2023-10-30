@@ -3035,14 +3035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]営業の関係で話を聞けそうだから、"
+                                "\\nw[Kuno]Since I have connections in the business, I'll\ngather information around here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここを中心に情報収集するわ。"
+                                ""
                             ]
                         },
                         {
@@ -3050,9 +3050,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "Check the sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -3082,7 +3082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]昨日は……どうだったんだ？"
+                                "\\nw[Taro]How was it yesterday?"
                             ]
                         },
                         {
@@ -3139,7 +3139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]さすがにお客さんの前で言えないわよ。"
+                                "\\nw[Kuno]I can't say it in front of the customers, of\ncourse."
                             ]
                         },
                         {
@@ -3156,7 +3156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]お、おう……そうだな。"
+                                "\\nw[Taro]Oh, yeah... That's right."
                             ]
                         },
                         {
@@ -3283,7 +3283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]何でも聞いてくれよな！"
+                                "\\nw[Man]Listen to me, will you?"
                             ]
                         },
                         {
@@ -3360,14 +3360,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]彼女と比べていい体過ぎる……！"
+                                "\\nw[Male]His body is too good compared to hers...! I want\nto do it raw!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "生でしたい！"
+                                ""
                             ]
                         },
                         {
@@ -3444,7 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]ふふふ、口が上手いですね。"
+                                "\\nw[Receptionist]Hehehe, you have a way with words."
                             ]
                         },
                         {
@@ -3521,14 +3521,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]いい飲みっぷりだ。"
+                                "\\nw[Rodrigo]You're a good drinker. I can't lose either."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オレも負けていられないな。"
+                                ""
                             ]
                         },
                         {
@@ -3605,14 +3605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]団長か。オレ達はこれからあの女で楽しむ予定でな。"
+                                "\\nw[Dalton]Captain, huh? We're not planning to have fun with\nthat woman. Today looks like it's going well, so\nI'm looking forward to it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日はうまく行きそうで楽しみだ。"
+                                ""
                             ]
                         },
                         {
@@ -3967,7 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]お前はディオスの人間だな。オレもそうだ。"
+                                "\\nw[Man]You're a human of Dios, aren't you? I am too."
                             ]
                         },
                         {
@@ -3984,7 +3984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]この国についてどう思う？"
+                                "\\nw[Man]What do you think about this country?"
                             ]
                         },
                         {
@@ -3992,9 +3992,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いい国だ",
-                                    "ヤな国だ",
-                                    "知るか"
+                                    "It's a good country",
+                                    "I hate this country",
+                                    "How should I know?"
                                 ],
                                 -1,
                                 -1,
@@ -4024,7 +4024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[男]ふん、そうか。"
+                                "\\nw[Male]Hmph, I see."
                             ]
                         },
                         {
@@ -4054,14 +4054,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[男]ああ、ディオスの国民を殺して……"
+                                "\\nw[Male]Ah, those who kill the citizens of Dios... I won't\nforgive them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "許せん奴らだ。"
+                                ""
                             ]
                         },
                         {
@@ -4091,7 +4091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[男]考えるまでもないということか"
+                                "\\nw[Male]So I guess there's no need to think about it."
                             ]
                         },
                         {
@@ -4178,7 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[店主]いらっしゃい。"
+                                "\\nw[Shopkeeper]Welcome."
                             ]
                         },
                         {
@@ -4255,7 +4255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[船乗り]やれやれ、仕事が出来なくて困ったもんだ。"
+                                "\\nw[Sailor]Oh dear, it's troublesome when I can't do my job\nproperly."
                             ]
                         },
                         {
@@ -4323,14 +4323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[船乗り]安全確認が出来れば仕事も再開だ。"
+                                "\\nw[Sailor]If we can confirm it's safe, we can resume work.\nIf we don't earn money properly, life will be\ntough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと稼がないと生活が厳しいな"
+                                ""
                             ]
                         },
                         {
@@ -4398,14 +4398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[船乗り]安全確認が出来れば仕事も再開だ。"
+                                "\\nw[Sailor]If we can confirm it's safe, we can resume work.\nIf we don't earn money properly, life will be\ntough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと稼がないと生活が厳しいな"
+                                ""
                             ]
                         },
                         {
@@ -4482,7 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[船乗り]魔物がどうにかなればな……"
+                                "\\nw[Sailor]If only the monsters could be dealt with\nsomehow..."
                             ]
                         },
                         {
@@ -4550,7 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[船乗り]いざ仕事となるとやる気が……"
+                                "\\nw[Sailor]When it comes to work, my motivation..."
                             ]
                         },
                         {
@@ -4618,7 +4618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[船乗り]いざ仕事となるとやる気が……"
+                                "\\nw[Sailor]When it comes to work, my motivation..."
                             ]
                         },
                         {

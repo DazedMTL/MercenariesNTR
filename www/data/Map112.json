@@ -2323,14 +2323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クノを今日風俗で働かせようか……？"
+                                "Should we make Kuno work at a brothel today...?\n(It has been decided that she will work)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせることになっています）"
+                                ""
                             ]
                         },
                         {
@@ -2338,8 +2338,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Make her work",
+                                    "Don't make her work"
                                 ],
                                 1,
                                 0,
@@ -2605,14 +2605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クノを今日風俗で働かせようか……？"
+                                "Should we let Kuno work at a brothel today...?\n(Currently, she is not allowed to work)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせないことになっています）"
+                                ""
                             ]
                         },
                         {
@@ -2620,8 +2620,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Let her work",
+                                    "Don't let her work"
                                 ],
                                 1,
                                 0,
@@ -2804,14 +2804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウカを今日風俗で働かせようか……？"
+                                "Should we make Uka work at a brothel today...?\n(Currently, it has been decided that she will\nwork)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせることになっています）"
+                                ""
                             ]
                         },
                         {
@@ -2819,8 +2819,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Make her work",
+                                    "Don't make her work"
                                 ],
                                 1,
                                 0,
@@ -2952,14 +2952,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウカを今日風俗で働かせようか……？"
+                                "Should we let Uka work at a brothel today...?\n(Currently, she is not allowed to work)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせないことになっています）"
+                                ""
                             ]
                         },
                         {
@@ -2967,8 +2967,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Let her work",
+                                    "Don't let her work"
                                 ],
                                 1,
                                 0,
@@ -3151,14 +3151,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノンナを今日風俗で働かせようか……？"
+                                "Should we make Nonna work at a brothel today...?\n(Currently, it has been decided that she will\nwork)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせることになっています）"
+                                ""
                             ]
                         },
                         {
@@ -3166,8 +3166,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Make her work",
+                                    "Don't make her work"
                                 ],
                                 1,
                                 0,
@@ -3299,14 +3299,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノンナを今日風俗で働かせようか……？"
+                                "Should we let Nonna work at a brothel today...?\n(Currently, she is not allowed to work)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせないことになっています）"
+                                ""
                             ]
                         },
                         {
@@ -3314,8 +3314,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Let her work",
+                                    "Don't let her work"
                                 ],
                                 1,
                                 0,
@@ -3498,14 +3498,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロスを今日風俗で働かせようか……？"
+                                "Should we let Fross work at a brothel today...?\n(It has been decided that she will work)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせることになっています）"
+                                ""
                             ]
                         },
                         {
@@ -3513,8 +3513,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Let her work",
+                                    "Don't let her work"
                                 ],
                                 1,
                                 0,
@@ -3646,14 +3646,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロスを今日風俗で働かせようか……？"
+                                "Should we let Fross work at a brothel today...?\n(Currently, she is not allowed to work)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせないことになっています）"
+                                ""
                             ]
                         },
                         {
@@ -3661,8 +3661,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Let her work",
+                                    "Don't let her work"
                                 ],
                                 1,
                                 0,
@@ -3845,14 +3845,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアを今日風俗で働かせようか……？"
+                                "Should we make Shia work at a brothel today...?\n(It has been decided that she will work)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせることになっています）"
+                                ""
                             ]
                         },
                         {
@@ -3860,8 +3860,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Make her work",
+                                    "Don't make her work"
                                 ],
                                 1,
                                 0,
@@ -3993,14 +3993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアを今日風俗で働かせようか……？"
+                                "Should we let Shia work at a brothel today...?\n(Currently, she is not allowed to work)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（現在は働かせないことになっています）"
+                                ""
                             ]
                         },
                         {
@@ -4008,8 +4008,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "働かせる",
-                                    "働かせない"
+                                    "Let her work",
+                                    "Don't let her work"
                                 ],
                                 1,
                                 0,
@@ -4192,7 +4192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風俗の勤務設定はこれでいいだろうか……？"
+                                "Is this the right setting for the work in the\nadult entertainment industry...?"
                             ]
                         },
                         {
@@ -4200,8 +4200,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いい",
-                                    "よくない"
+                                    "Good",
+                                    "Not good"
                                 ],
                                 1,
                                 0,
@@ -4397,38 +4397,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは太郎の頭の中です。"
+                                "This is inside Taro's head. Here, we will set the\npeople who work in the adult entertainment\nindustry tonight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここでは今夜風俗で働く人を設定します。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜風俗で働く女性が左側に、働かない女性が右側に移動します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クエストなどでＰＴに居ない女性は設定できません。"
+                                ""
                             ]
                         },
                         {
@@ -4445,14 +4421,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "設定が終わったら下の出口から出てください。"
+                                "Tonight, the women who work in the adult\nentertainment industry will move to the left side,\nwhile the women who do not work will move to the\nright side. Women who are not in the party, such\nas during quests, cannot be set."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時間が経過して夜になります。"
+                                "Once the setup is complete, please exit from the\nlower exit. As time passes, it will become night."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4528,7 +4528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今夜は誰を風俗で働かせよう……？"
+                                "Who should I make work at the brothel tonight...?"
                             ]
                         },
                         {

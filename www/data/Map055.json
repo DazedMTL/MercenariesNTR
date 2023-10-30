@@ -2749,7 +2749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ここが登山口よね。"
+                                "\\nw[Kuno]This is the starting point for climbing, right?"
                             ]
                         },
                         {
@@ -2766,14 +2766,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうだな……"
+                                "\\nw[Taro]Yeah... I've never been around here before, so I\nhave no idea about the terrain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここら辺は来たことがないから地形がさっぱりだ。"
+                                ""
                             ]
                         },
                         {
@@ -2790,7 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]人がいないか見落とさないようにしながら登って行こう。"
+                                "\\nw[Taro]Let's climb while being careful not to overlook\nany people."
                             ]
                         },
                         {
@@ -2857,7 +2857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]お～"
+                                "\\nw[Uka]Oh~"
                             ]
                         },
                         {
@@ -3229,7 +3229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイスを手に入れた！"
+                                "I got some ice cream!"
                             ]
                         },
                         {

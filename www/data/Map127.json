@@ -15291,14 +15291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先から強そうな相手の気配を感じる……"
+                                "I sense the presence of a strong opponent up\nahead... Should we proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進もうか？"
+                                ""
                             ]
                         },
                         {
@@ -15306,8 +15306,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "進まない"
+                                    "Proceed",
+                                    "Don't proceed"
                                 ],
                                 1,
                                 0,
@@ -15492,7 +15492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]何か強い相手だったな。"
+                                "\\nw[Taro]That was quite a strong opponent."
                             ]
                         },
                         {
@@ -15549,14 +15549,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]強かったわね。"
+                                "\\nw[Kuno]That was strong. There's often something happening\nwhen there's a strong opponent around..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "強い相手がいるところは何か起きることが多いけど……"
+                                ""
                             ]
                         },
                         {
@@ -15573,7 +15573,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]そんな都合よくは……"
+                                "\\nw[Taro]It's not that convenient..."
                             ]
                         },
                         {
@@ -15628,14 +15628,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]やっと来たね侵入者君。"
+                                "\\nw[Female voice]Finally, you've arrived, intruder-kun. I was\ngetting bored, thinking no one would come."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "このまま誰も来ないかと思って退屈してたよ。"
+                                ""
                             ]
                         },
                         {
@@ -15661,7 +15661,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]声？まさかダンジョンを作ったやつか！？"
+                                "\\nw[Taro]A voice? Could it be the one who created this\ndungeon!?"
                             ]
                         },
                         {
@@ -15678,14 +15678,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]ふふっ、でもこのまま進めないからね。"
+                                "\\nw[Female voice]Hehe, but we can't proceed like this. Let's gather\nmagic power properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "しっかり魔力を集めて貰おう。"
+                                ""
                             ]
                         },
                         {
@@ -15702,14 +15702,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]妊娠してる子もしっかりと集められるように、"
+                                "\\nw[Female voice]Don't worry, we've taken proper measures so that\neven pregnant girls can be gathered safely. ♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ちゃんと対策はしてあるから安心してね♪"
+                                ""
                             ]
                         },
                         {
@@ -15766,7 +15766,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……ぁ"
+                                "\\nw[Uka]......Ah"
                             ]
                         },
                         {
@@ -15824,7 +15824,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]な、ダンジョンの形が……！？"
+                                "\\nw[Taro]W-What's with the shape of this dungeon...!?"
                             ]
                         },
                         {
@@ -15867,7 +15867,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]なっ、やめっ……！？"
+                                "\\nw[Kuno]N-No, stop...!?"
                             ]
                         },
                         {
@@ -15884,7 +15884,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]んっ、んんん～～～！！"
+                                "\\nw[Fross]Mmm, mmmmm~!!"
                             ]
                         },
                         {
@@ -15918,14 +15918,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]何！？"
+                                "\\nw[Kuno]What!? Something entered my stomach...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "お腹の中に何か入って……！"
+                                ""
                             ]
                         },
                         {
@@ -15942,14 +15942,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]うそっ……これ……"
+                                "\\nw[Kuno]No way... this... nghhhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "んひぃぃぃ！"
+                                ""
                             ]
                         },
                         {
@@ -16011,7 +16011,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]えっ、何か入ってきて……！"
+                                "\\nw[Nonna]Huh, something entered...!"
                             ]
                         },
                         {
@@ -16028,7 +16028,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Nonna]んあっ、ああぁぁ！？"
+                                "\\nw[Nonna]Nngh, aaahhh!?"
                             ]
                         },
                         {
@@ -16090,7 +16090,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Fross]んぶっ、んんんんんん～～～～！！"
+                                "\\nw[Fross]Mmm, mmmmm~!!"
                             ]
                         },
                         {
@@ -16221,21 +16221,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「クノ+ノンナ+フロス、ゴブリン種付け」"
+                                "This is an event called 'Kuno + Nonna + Fross,\nGoblin Breeding' that I've seen before. Would you\nlike to skip the event?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "一度見たことのあるイベントです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -16243,8 +16243,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -16342,31 +16342,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "揺れていたダンジョンの揺れが収まった。"
+                                "The shaking of the dungeon has stopped. Without\nknowing what happened, I check my surroundings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "何がどうなったのかわからず、周囲の確認をする。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]くそっ、何がどうなってるんだ？"
+                                ""
                             ]
                         },
                         {
@@ -16383,14 +16366,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……変わった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "……別れた……"
+                                "\\nw[Taro]Damn, what the hell is going on?"
                             ]
                         },
                         {
@@ -16407,14 +16383,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ダンジョンの形が？"
+                                "\\nw[Uka]......Something has changed............We have\nparted ways......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "って、わかれたって……"
+                                ""
                             ]
                         },
                         {
@@ -16423,7 +16399,7 @@
                             "parameters": [
                                 "",
                                 0,
-                                1,
+                                0,
                                 2
                             ]
                         },
@@ -16431,14 +16407,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いつの間にかオレは部屋の外に追い出されていたようだ。"
+                                "\\nw[Taro]The shape of the dungeon? And we've... been\nseparated..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そして同じく追い出されたメンバーが周りにいる。"
+                                ""
                             ]
                         },
                         {
@@ -16455,58 +16431,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして見渡すと、３人がいないことに気がついた。"
+                                "It seems that I was somehow kicked out of the room\nwithout realizing it. And the members who were\nalso kicked out are around me."
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]クノとノンナとフロスは？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Uka]……向こう……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]向こう……さっきの部屋か！？"
+                                ""
                             ]
                         },
                         {
@@ -16523,14 +16455,58 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダンジョンが変形したときに移動させられたらしい。"
+                                "And when I looked around, I noticed that three\npeople were missing."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウカがいなかったら方向すらわからなかっただろう。"
+                                "\\nw[Taro]What about Kuno, Nonna, and Fross, Taro?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Uka]......Over there......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Over there... is that the room from earlier!?"
                             ]
                         },
                         {
@@ -16547,76 +16523,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今近くにいる全員の無事を確認すると、"
+                                "It seems like we were moved when the dungeon\ntransformed. If Uka wasn't here, we wouldn't even\nknow which direction to go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "３人と合流するためにウカの示した方へと向かう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]ダンジョンは明らかに女性を捕まえに来てました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "彼女とわたしは避けれましたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "結果的に他の方と一緒に外に出されてしまったんですよね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]そういうことか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "シアの例もあったし、ダンジョンそのものが捕まえに来ても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おかしくはないもんな。"
+                                ""
                             ]
                         },
                         {
@@ -16633,14 +16547,76 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "会話しながら進んでいるが数分歩いても到着しない。"
+                                "I confirm the safety of everyone who is nearby\nnow, and head towards the direction indicated by\nUka to reunite with the three missing people."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうやらかなりの距離を離されたようだ。"
+                                "\\nw[Saria]The dungeon clearly came to capture women. She and\nI were able to avoid it, but as a result, we ended\nup being thrown outside with the others."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]I see... There was also the case with Shia, so it\nwouldn't be strange if the dungeon itself came to\ncapture us."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16657,55 +16633,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エロダンジョンらしいし、淫魔は魔物に殺されることはまずないらしいから"
+                                "We're walking and talking, but even after walking\nfor a few minutes, we haven't arrived. It seems\nlike we've been separated by quite a distance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "問題ないとは思うが、やはり心配である。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "少しいら立ちを覚えながら移動していると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クノの声がかすかに聞こえてきた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]クノ……！"
+                                ""
                             ]
                         },
                         {
@@ -16722,31 +16657,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "急いでクノの声がした方へ向かうと、先ほどの部屋があった。"
+                                "It seems like an erotic dungeon, and it seems that\nsuccubi are unlikely to be killed by monsters, so\nI don't think there's a problem, but I'm still\nworried."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "しかし格子状の壁が通路にはっており、通れそうもない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]おい、大丈夫か……！？"
+                                ""
                             ]
                         },
                         {
@@ -16763,14 +16681,96 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし隙間から中は見える。"
+                                "As we moved while feeling a little frustrated, I\ncould faintly hear Kuno's voice."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "部屋の中には……"
+                                "\\nw[Taro]Kuno...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Hurrying towards the direction where Kuno's voice\nwas heard, we arrived at the room from earlier.\nHowever, there was a grid-like wall blocking the\npassage, making it impossible to pass through."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Hey, are you okay...!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "However, I can see inside through the gap. Inside\nthe room..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16827,7 +16827,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]やめっ、んんっ、んんっ！"
+                                "\\nw[Kuno]Stop... nnn... nnn...!"
                             ]
                         },
                         {
@@ -16844,7 +16844,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]んあっ、はげしっ、んっ、んんっ！"
+                                "\\nw[Nonna]Ahh, intense... ngh, nnghh!"
                             ]
                         },
                         {
@@ -16861,31 +16861,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]クノ！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "部屋にはやはりクノとノンナとフロスがいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかしそれだけではなく、ペニス大きくしたゴブリンも大量にいる。"
+                                "\\nw[Taro]Kuno!?"
                             ]
                         },
                         {
@@ -16902,38 +16878,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかも３人ともゴブリンに犯されている。"
+                                "In the room, there were indeed Kuno, Nonna, and\nFross. However, not only that, there were also\nnumerous goblins with enlarged penises."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリンが腰を打ち付ける音がこちらにまで聞こえてくる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Fross]身体は小さいのに激しすぎでっ、んああっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すごいかもっ、ひっ、ああっ！"
+                                ""
                             ]
                         },
                         {
@@ -16950,21 +16902,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダンジョンそのものが動いて３人を拘束したらしい。"
+                                "Moreover, all three of them are being violated by\ngoblins. The sound of the goblins thrusting their\nhips can be heard even from here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "手や足が床埋まっているのが見える。"
+                                "\\nw[Fross]Even though my body is small, it's too intense!\nAhh! It feels amazing, hah, ahh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あれでは脱出できないだろう。"
+                                ""
                             ]
                         },
                         {
@@ -16981,48 +16950,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "急いで３人を助けなければならない。"
+                                "It seems like the dungeon itself has moved and\nrestrained the three of them. I can see their\nhands and feet buried in the floor. With that,\nthey won't be able to escape."
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]あっ、太郎？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んんっ、ふあっ、ああっ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]クノ、今助けるからな！"
+                                ""
                             ]
                         },
                         {
@@ -17039,14 +16981,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "格子状の壁は頑丈そうでちょっとやそっとじゃ動かない。"
+                                "I have to hurry and save the three of them."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "通れるような隙間もなさそうだ。"
+                                "\\nw[Kuno]Ah, Taro? Nnn, fuah, aah!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Kuno, I'll save you now!"
                             ]
                         },
                         {
@@ -17063,48 +17039,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダンジョンの入り口のときと同じく巨大な魔力を感じるが、"
+                                "The grid-like walls look sturdy and don't seem to\nmove easily. There doesn't seem to be any gaps to\npass through."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "他に方法は思いつかない。壁を壊すしかないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]ちょっと下がっててくれ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Uka]……うん……"
+                                ""
                             ]
                         },
                         {
@@ -17121,14 +17063,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "自分の近くから全員が離れたことを確認すると、"
+                                "Just like when we were at the entrance of the\ndungeon, I can feel a tremendous amount of magic\npower. I can't think of any other way. We have no\nchoice but to break through the walls."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "壁を壊すために魔力を使って身体能力を強化する。"
+                                "\\nw[Taro]Please step back a bit."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Uka]......Mmm......"
                             ]
                         },
                         {
@@ -17145,7 +17121,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして壁を壊すために渾身の一撃を放った。"
+                                "After confirming that everyone has moved away from\nme, I use my magic power to enhance my physical\nabilities in order to break through the wall."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "And then, I unleashed a full-power strike to break\nthrough the wall."
                             ]
                         },
                         {
@@ -17200,7 +17200,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ぐっ……力が……"
+                                "\\nw[Taro]Guh... My strength..."
                             ]
                         },
                         {
@@ -17217,137 +17217,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]太郎！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "武器がはじかれたが、問題はそこだけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "攻撃した途端とんでもない疲労感が襲ってきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おそらく魔力を吸われたのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]はぁ、はぁ、はぁ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]太郎さん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大丈夫ですか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Uka]……反撃？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]強い衝撃の時だけ反撃するのかもしれないです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "魔術でも似たようなものがあります。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]くそっ……どうすれば……"
+                                "\\nw[Kuno]Taro!?"
                             ]
                         },
                         {
@@ -17364,31 +17234,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "部屋の中では３人は相変わらずゴブリンに犯されている。"
+                                "The weapon was deflected, but that's not the only\nproblem. As soon as I attacked, an incredible\nsense of fatigue overwhelmed me. I was probably\ndrained of my magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "どうにかして助けに行きたいが……"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[プラエの声]落ち着くのじゃ、３人とも傷ついてはおらぬぞ。"
+                                ""
                             ]
                         },
                         {
@@ -17405,31 +17265,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]うっ……？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "犯されてる時点で傷ついてないとは言えない気もするが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "確かにプラエが言う通り３人とも外傷は見えない。"
+                                "\\nw[Taro]Haa, haa, haa..."
                             ]
                         },
                         {
@@ -17446,31 +17282,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[プラエの声]魔力を集めて先に進むための仕掛けじゃな。"
+                                "\\nw[Saria]Taro-san!? Are you okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "エロダンジョンの特徴じゃが、傷を負うようなことはないじゃろ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]魔力を集めるための仕掛け……"
+                                ""
                             ]
                         },
                         {
@@ -17487,7 +17306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]あんっ、んっ、あっ、あんっ！"
+                                "\\nw[Uka]......Counterattack?"
                             ]
                         },
                         {
@@ -17504,7 +17323,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]すごいっ、ふあっ、あんっ、ああんっ♥"
+                                "\\nw[Saria]Maybe it's only when there's a strong impact that\nI can counterattack. Magic has something similar\ntoo."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Damn it... What should I do..."
                             ]
                         },
                         {
@@ -17521,21 +17364,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "確かに気持ちよさそうにしている気がする。"
+                                "Inside the room, the three of them are still being\nviolated by goblins. I want to find a way to go\nand help them somehow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "外でオーグスに犯されたクノも傷ついてなかったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あのゴブリン集団も問題ないということだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -17552,14 +17388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[プラエの声]魔力を集めぬと先に進めぬからのう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "放っておくしかあるまい。"
+                                "\\nw[Prae's voice]Everyone, calm down. None of the three are\ninjured."
                             ]
                         },
                         {
@@ -17576,48 +17405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……長くかかるのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[プラエの声]知らんが、集めるのが目的じゃからのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それなりに長いのではないか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]……ふむ……"
+                                "\\nw[Taro]Ugh...?"
                             ]
                         },
                         {
@@ -17634,14 +17422,89 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "納得はいかないが、先に進むための方法だというのなら仕方ないのか？"
+                                "It's hard to say that they're not injured when\nthey're being violated, but as Prae said, it's\ntrue that none of the three have any visible\nwounds."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そう疑問に思うが、他に方法も思い浮かばない。"
+                                "\\nw[Prae's voice]It's not a mechanism to gather magical power and\nproceed. It's a characteristic of the erotic\ndungeon, but there shouldn't be anything that\nwould cause you harm."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]A mechanism to gather magical power..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Kuno]Ahh, ngh, ah, ahh!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Fross]Amazing, fuah, ahn, ahhn♥"
                             ]
                         },
                         {
@@ -17658,45 +17521,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "だが団長として決断は早くしないといけないだろう。"
+                                "It seems like they're enjoying it. Kuno, who was\nviolated by Augus outside, wasn't injured either,\nso I guess that group of goblins is also fine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "先に進むため、時間をかけないのなら最適な方法これなのだろうし、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "状況は伝えるべきだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]クノ、ノンナ、フロス、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これはエロダンジョンの試練らしい！"
+                                ""
                             ]
                         },
                         {
@@ -17713,38 +17552,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]犯されるが身体的な危険はないから、"
+                                "\\nw[Prae's voice]We cannot proceed without gathering magical power.\nWe have no choice but to leave them be."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そこだけは安心してくれ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]ええっ、またなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ひっ、んっ、あっ、ああっ！"
+                                ""
                             ]
                         },
                         {
@@ -17761,14 +17576,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]んんっ、んあっ……だから変なガスがでてるのね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それのせいで体が熱く……んんっ！"
+                                "\\nw[Taro]...Will it take long?"
                             ]
                         },
                         {
@@ -17785,21 +17593,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]わかったわ。"
+                                "\\nw[Prae's voice]I don't know, but since the purpose is to gather\nit, it might take quite a while, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "私たちは大丈夫だから、心配しなくて平気よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んあっ、んんんっ！"
+                                ""
                             ]
                         },
                         {
@@ -17816,79 +17617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]えっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あっ、そ、そうね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]淫魔になってから結構経ってるし、んんっ、ふあっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これくらい余裕だから、安心してなさいよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]……ああ、わかった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クノのことだから強がりを言ってる気もするが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それをあえて指摘するのもよくないだろう。"
+                                "\\nw[Taro]...Hmmm..."
                             ]
                         },
                         {
@@ -17905,14 +17634,285 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ここで３人の様子を見ながら、"
+                                "I can't fully accept it, but if it's a method to\nproceed, then I guess there's no other choice? I\nhave my doubts about that, but I can't think of\nany other way."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "部屋が解放されたときにすぐに助け出せるように待つことにした。"
+                                "But as the guild leader, I must make a decision\nquickly. If it's the most efficient method to\nproceed without wasting time, then this is\nprobably the best choice. I should also inform\neveryone about the situation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Kuno, Nonna, Fross, it seems like this is a trial\nin the erotic dungeon!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]You'll be violated, but there's no physical\ndanger, so please rest assured!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Kuno]Eh, again? Hii, nn, ah, aah!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Nonna]Nn, ah... So it's because of that strange gas...\nThat's why my body feels hot... Nn!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Nonna]I understand. We'll be fine, so don't worry. Ahh,\nah, aah!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Kuno]Eh? Ah, y-yes, that's right."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Kuno]It's been quite a while since I became a succubus,\nso hnnn, fah! I'm perfectly fine with this, so\nrest assured."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]...Ah, I understand."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I feel like Kuno is just putting on a brave front,\nbut it's probably not a good idea to point that\nout."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I decided to wait while observing the three of\nthem here, so that I can rescue them immediately\nwhen the room is unlocked."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17981,31 +17981,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]ふあっ、んんんっ！"
+                                "\\nw[Nonna]Ahh, nnng! Nn, ah, ah, aah, aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "んあっ、んっ、あっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]んじゅるっ、ちゅるっ、んちゅっ、ちゅるる……"
+                                ""
                             ]
                         },
                         {
@@ -18022,14 +18005,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]あんっ、あっ、あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこっ、いいですっ、あんっ、あんっ♥"
+                                "\\nw[Kuno]Nn... slurp, slurp, nchu, chururu..."
                             ]
                         },
                         {
@@ -18038,7 +18014,7 @@
                             "parameters": [
                                 "",
                                 0,
-                                1,
+                                0,
                                 2
                             ]
                         },
@@ -18046,21 +18022,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "落ち着いてみてみると確かに３人とも傷ついていない。"
+                                "\\nw[Fross]Ahn, ah, ahn♥ Right there, feels good, ahn, ahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達の爪は短くなっているため手で触っても大丈夫だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "殴るような行動はしていない。"
+                                ""
                             ]
                         },
                         {
@@ -18077,86 +18046,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "セックスで膣にペニスを叩きつけてる以外では"
+                                "When I calm down and take a closer look, it's true\nthat none of the three of them are injured. The\ngoblins' claws have become shorter, so it's safe\nto touch them with our hands, and they haven't\nbeen engaging in any actions that would warrant\nhitting them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ペニスを押し当てたり、女の体を使ってしごいたりと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "傷つけるような動きは見えない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それよりも……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]ちゅぱっ、ちゅるっ、じゅるる……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んんっ、んむっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Nonna]こんなぁ……ふあっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あんっ♥あんっ♥ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18173,38 +18077,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "３人ともゴブリンに犯されているのに嬉しそうにしている。"
+                                "I don't see any movements that would hurt them,\nsuch as hitting them with a penis or using a\nwoman's body to rub against them, except for\nthrusting a penis into their vaginas during sex."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ここに着いたときはそんなこともなかったはずだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "嫌がってるという雰囲気がなくなっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "快感を感じているだけと言うわけでもなさそうだ。"
+                                ""
                             ]
                         },
                         {
@@ -18221,14 +18108,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "部屋に漂ってるガスの効果だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "リラックス効果もあるのかもしれない。"
+                                "But more importantly..."
                             ]
                         },
                         {
@@ -18245,38 +18125,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]すごいですっ♥"
+                                "\\nw[Kuno]Chupa, slurp, jurlu... ♥ Nnn, nmm ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あんっ♥ああんっ♥ああっ♥ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Nonna]すごい……んっ♥あっ♥ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんな小さいのに……あっ♥ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18293,7 +18149,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Nonna]Like this... fuah, aahh♥ Ahh♥ Ahh♥ Ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18310,14 +18173,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "冷静に見ようとしていたがやはり興奮してしまう。"
+                                "All three of them are being violated by goblins,\nyet they seem happy about it. They shouldn't have\nbeen like this when we arrived here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "魔物が相手とは言え楽しそうに恋人がセックスしてる様は。"
+                                ""
                             ]
                         },
                         {
@@ -18334,14 +18197,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "とは言えそこまで趣味なわけでもないようだ。"
+                                "The atmosphere of resistance seems to have\ndisappeared. It doesn't seem like they're just\nfeeling pleasure."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やはり寝取られる相手はそれなりに知能が高い相手がいい気がする。"
+                                "Could it be the effect of the gas floating in the\nroom? There might also be a relaxing effect."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18358,14 +18245,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]じゅるっ、じゅるっ、じゅぷっ、じゅるっ、ちゅるっ、"
+                                "\\nw[Fross]It's amazing♥ Ahn♥ Aahh♥ Aahh♥ Aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ちゅぱっ、ちゅるる……♥"
+                                ""
                             ]
                         },
                         {
@@ -18382,14 +18269,127 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]あっ、きてる……"
+                                "\\nw[Nonna]Amazing... ngh♥ Ah♥ Aahh♥ Even though it's so\nsmall... ah♥ Aaahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "膨らんで……ああああっ……♥"
+                                "\\nw[Taro]......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I tried to stay calm, but I couldn't help but get\nexcited. Seeing my lover having sex with a\nmonster, even though it's the enemy, looks\nenjoyable."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "However, it doesn't seem like I have such a strong\ninterest in it. I still feel like the one who\ncuckolds should be someone with a decent level of\nintelligence."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Kuno]Slurp, slurp, suck, slurp, slurp, lick, slurp... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Nonna]Ah, it's coming... getting bigger... aahhh...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18526,38 +18526,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達が射精をしたようだ。"
+                                "It seems like the goblins have ejaculated. It can\nbe observed that the amount of ejaculation is\nunusually large, probably because they are\nmonsters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "魔物だからか射精量が異常に多いのが見て取れる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]んむぅ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んくっ、んぐっ、んくぅぅ……♥"
+                                ""
                             ]
                         },
                         {
@@ -18574,14 +18550,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]あああぁぁっ……♥♥"
+                                "\\nw[Kuno]Mmm... ♥ Nkhh, nggh, nkuu... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "はいってきますぅ……♥♥♥"
+                                ""
                             ]
                         },
                         {
@@ -18598,7 +18574,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]んんんん……♥♥♥"
+                                "\\nw[Fross]Aaaahhh...♥♥ It's coming in...♥♥♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18607,7 +18590,7 @@
                             "parameters": [
                                 "",
                                 0,
-                                1,
+                                0,
                                 2
                             ]
                         },
@@ -18615,21 +18598,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "表情の見えないものもいるが非常に満足そうにしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "魔物の体液では特に精液が催淫作用が強いと言われているし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その影響だろう。"
+                                "\\nw[Nonna]Mmmmm......♥♥♥"
                             ]
                         },
                         {
@@ -18646,7 +18615,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかも射精時間も長く、大量の精液が注がれてるのがわかる。"
+                                "Some of them have invisible expressions, but they\nseem very satisfied. It is said that the bodily\nfluids of monsters, especially semen, have a\nstrong aphrodisiac effect, so it must be due to\nthat influence."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Moreover, it can be seen that the ejaculation time\nis long, and a large amount of semen is being\npoured."
                             ]
                         },
                         {
@@ -18682,7 +18682,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]んむぅ！？"
+                                "\\nw[Kuno]Mmm...!?"
                             ]
                         },
                         {
@@ -18699,38 +18699,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "射精中だと言うのにゴブリンは抽送を再開した。"
+                                "The goblins have resumed thrusting even though\nthey are in the middle of ejaculation. The\nmomentum hasn't subsided, so you can see the semen\ndripping onto the floor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "勢いも収まってないのでだらだらと精液が床に落ちるのが見える。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Fross]あっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンさんっ♥あんっ♥ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18747,14 +18723,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]あはっ……♥"
+                                "\\nw[Fross]Ah, ah, aahhnn ♥ Mr. Goblin ♥ Ahh ♥ Aahhnn ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ああんっ♥あんっ♥ああんっ♥あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18763,7 +18739,7 @@
                             "parameters": [
                                 "",
                                 0,
-                                1,
+                                0,
                                 2
                             ]
                         },
@@ -18771,7 +18747,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "抽送されていても気持ちよさそうで、楽しそうですらある。"
+                                "\\nw[Nonna]Ahh...♥ Aahhnn...♥ Ahn...♥ Aahhnn...♥ Ahn...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18788,7 +18771,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし……"
+                                "Even though they are being thrust, they seem to be\nenjoying it and even having fun."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "However..."
                             ]
                         },
                         {
@@ -18805,7 +18805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]ちゅぱっ、ちゅるっ、ちゅるる……じゅるっ、ちゅるるっ♥"
+                                "\\nw[Kuno]*sucking sounds*"
                             ]
                         },
                         {
@@ -18822,7 +18822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]んむっ……んくっ、ちゅるるる……んんっ、んむっ♥"
+                                "\\nw[Kuno]Mmm... Nkhh, slurp... Nnn, mmm♥"
                             ]
                         },
                         {
@@ -18846,31 +18846,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "３人ともどうも頭が悪くなってる気がする。"
+                                "It feels like all three of them have become\nstupid. It seems that their thinking abilities\nhave decreased due to the gas or bodily fluids."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ガスか体液の影響で、思考力が低下してるようだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "楽しそうに犯されているが、まともに会話などは出来ていない。"
+                                ""
                             ]
                         },
                         {
@@ -18887,14 +18870,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そのまま様子を見ていると、"
+                                "They seem to be enjoying being violated, but they\nare unable to have a proper conversation."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "魔物に犯され続けて楽しそうにしている３人の様子がずっと続いていった。"
+                                "As I continued to watch, the three of them\ncontinued to be violated by the monsters and\nseemed to be enjoying it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19043,14 +19043,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]おっ……♥ほっ♥"
+                                "\\nw[Nonna]Ohh...♥ Hoo...♥ Oohh... Ohh...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おおっ……おほぉ……♥"
+                                ""
                             ]
                         },
                         {
@@ -19067,38 +19067,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]えひっ……♥えっ……♥えへぇ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "３人が犯されてからしばらくの時間が経過した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ダンジョンの中なので時間はよくわからないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "結構な長時間だろう。"
+                                "\\nw[Fross]Ehi... ♥ Ehh... ♥ Ehee... ♥"
                             ]
                         },
                         {
@@ -19115,96 +19084,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "３人のお腹はすっかりと大きくなっている。"
+                                "Some time has passed since the three of them were\nviolated. Since they are inside the dungeon, it's\nhard to tell how much time has passed, but it must\nhave been quite a long time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリンの子供を妊娠したらしい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "代わる代わる大量の精液を注ぎ込まれていたので当然ではあるが……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Fross]おほっ……おおおぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もっとだしてくださいっ♥いっぱい栄養を注いでっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]ちゅるる……♥じゅるるっ♥ちゅるっ、じゅるる♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]せーえきおいひっ……んくっ、じゅるっ、じゅるる……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ちゅるるっ♥ちゅるるるっ♥"
+                                ""
                             ]
                         },
                         {
@@ -19221,14 +19115,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "３人とも妊娠しても様子はそれほど変わらない。"
+                                "The bellies of the three have become quite large.\nIt seems they are pregnant with goblin children."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "精液を欲しがって楽しそうに交わってるだけだ。"
+                                ""
                             ]
                         },
                         {
@@ -19245,7 +19139,113 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もっとも乱れ方は更にすごくなっている気がするが。"
+                                "It's only natural that they were being filled with\nlarge amounts of semen one after another..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Fross]Ohh... Ooohhh...♥ Please give me more...♥ Fill me\nwith lots of nutrients...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Kuno]Chururu...♥ Jururuu♥ Churutsu, jururu♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Kuno]S-Semen... Nkhh... Ju-ju-licking... Ju-ruru... ♥\nChururu... ♥ Churururu... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Even though all three of them are pregnant, their\ncondition doesn't seem to change much. They just\nseem to enjoy exchanging semen."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I feel like their state of disarray has become\neven more intense."
                             ]
                         },
                         {
@@ -19382,7 +19382,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]おひっ……♥おほぉ…………ぉぉ……♥♥"
+                                "\\nw[Nonna]Ohh...♥ Hoo...♥ Oohh... Ohh...♥"
                             ]
                         },
                         {
@@ -19399,14 +19399,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達が射精したようだ。"
+                                "It seems the goblins have ejaculated. You can see\nthe three of them accepting the ejaculation with\nsloppy faces."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "だらしない顔で射精を受け入れる３人の様子が見て取れる。"
+                                ""
                             ]
                         },
                         {
@@ -19423,14 +19423,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]ひっ……おぉ……♥"
+                                "\\nw[Nonna]Hii... Ohh... ♥ Ohi... Ohh... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おひっ……おぉぉ……♥"
+                                ""
                             ]
                         },
                         {
@@ -19447,14 +19447,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "見ていると３人とも今までと少し様子が変わっている。"
+                                "When I look at them, all three of them seem a\nlittle different from before. They have half-\nopened eyes and seem to be straining..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "半分白目を剥いて、何か力んでるような……"
+                                ""
                             ]
                         },
                         {
@@ -19471,7 +19471,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]ひぎっ……ひぎぃぃぃ♥♥♥♥"
+                                "\\nw[Nonna]Higii... Higiiiiii♥♥♥♥"
                             ]
                         },
                         {
@@ -19550,7 +19550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]なっ……！"
+                                "\\nw[Taro]Ngh...!"
                             ]
                         },
                         {
@@ -19567,38 +19567,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "３人のお腹からゴブリンの赤子が産まれてきた。"
+                                "Three goblin babies were born from the bellies of\nthe three women. It's not just one, but multiple\nchildren have been born."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一匹ではなく、複数の子供が産まれている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Nonna]あっ……へっ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あぁ……♥"
+                                ""
                             ]
                         },
                         {
@@ -19615,55 +19591,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]あへっ……ひっ……♥"
+                                "\\nw[Nonna]Ahh... Heh... ♥ Aah... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おぉ……♥おほぉ…………♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]いぁ……♥ぁぁ……♥あへぇ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "出産が気持ちよかったのか３人とも恍惚としている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "半分白目をむいており、意識が飛んでいるように見える。"
+                                ""
                             ]
                         },
                         {
@@ -19680,7 +19615,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……！"
+                                "\\nw[Fross]Ah... Hnn... ♥ Ohh... ♥ Oho... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Kuno]Ahh...♥ Ahh...♥ Ahee...♥"
                             ]
                         },
                         {
@@ -19697,7 +19656,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そんな３人を見ていると、産まれたばかりのゴブリン達に変化が起きた。"
+                                "All three of them seem to be in ecstasy after\ngiving birth. They have half-opened eyes and\nappear to be unconscious."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]......!"
                             ]
                         },
                         {
@@ -19714,31 +19697,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "地面へと取り込まれていくのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まるで底なし沼に吸い込まれているかのように。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]ふへっ……♥えへぇ……♥"
+                                "As I watch the three of them, changes occur in the\nnewly born goblin babies."
                             ]
                         },
                         {
@@ -19755,14 +19714,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし３人とも気づく様子もない。"
+                                "They are being pulled into the ground. It's as if\nthey are being sucked into a bottomless swamp."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やはり意識が飛んでいるのだろう。"
+                                "\\nw[Kuno]Fuh... ♥ Ehehe... ♥"
                             ]
                         },
                         {
@@ -19779,48 +19755,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そのまま３人に気づかれることなく産まれたばかりの"
+                                "However, none of the three seem to be aware. They\nmust have lost consciousness after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達は姿を消した。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]あぁ……♥ふあぁ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]……"
+                                ""
                             ]
                         },
                         {
@@ -19837,14 +19779,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダンジョンの性質から魔力を取り込んでいるはずだ。"
+                                "The goblin babies, who were just born without\nbeing noticed by the three of them, disappeared."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "だから産まれたばかりのゴブリンを取り込んだのだろうか。"
+                                "\\nw[Kuno]Ahh... ♥ Fuh... ♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -19861,14 +19837,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もしかしたら、普通のゴブリンではないのかもしれない。"
+                                "Because of the nature of the dungeon, it should\nhave absorbed magic power. So, did it absorb the\nnewly born goblins?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "魔力を取り込む用の赤子を産ませるための個体の可能性も……"
+                                "Perhaps, they might not be ordinary goblins. There\nis also the possibility that they are individuals\nspecifically bred to absorb magic power by giving\nbirth to infants..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19925,7 +19925,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]んぷっ……んぐっ、んんんっ～～！"
+                                "\\nw[Kuno]Mmm...nggh, nnngggh~!"
                             ]
                         },
                         {
@@ -19942,38 +19942,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "出産が終わったからといって終わりというわけではないようだ。"
+                                "It seems that just because the childbirth is over\ndoesn't mean it's the end. The goblins start\nviolating the three of them again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達は再び３人を犯し始める。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]パパっ♥あんっ♥んああぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また孕ませたいの……？あんっ♥ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -19990,38 +19966,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]うん、わかった♥あんっ♥ああんっ♥"
+                                "\\nw[Kuno]Papa... ♥ Ahh... ♥ N-noo... ♥ Do you want to\nimpregnate me again...? Ahh... ♥ N-noo... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "また孕ませてっ♥パパの子供っ♥また産みたい……あんっ♥ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Nonna]あんっ♥あんっ♥アナタ……、素敵……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アナタの望みなら、私も……あんっ♥あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -20038,38 +19990,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]うん、産ませて……♥"
+                                "\\nw[Kuno]Yes, I understand ♥ Ahh ♥ Ohh ♥ Impregnate me\nagain ♥ Papa's child ♥ I want to give birth\nagain... Ahh ♥ Ohh ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "アナタ専用の苗床に、たっぷり精液を注いで……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Fross]あひっ♥ああぁぁ♥すごいですっ♥ゴブリン様おち〇ぽ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あんっ♥ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -20086,14 +20014,86 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]はいっ♥わたしはゴブリン様の孕み袋ですっ♥ああぁ♥"
+                                "\\nw[Nonna]Ahn ♥ Ahn ♥ You... wonderful... ♥ If it's your\ndesire... I... Ahn ♥ Ahn ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン様のお好きにお使いくださいっ♥あひっ♥ああぁぁ♥"
+                                "\\nw[Nonna]Yes, let me give birth... ♥ I'll be your exclusive\nbreeding ground, fill me up with plenty of\nsemen... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Fross]Ahh... ♥ Ahh... ♥ It feels amazing... ♥ Goblin-\nsama's c*ck... ♥ Ahh... ♥ Ahh... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Fross]Yes ♥ I am Goblin-sama's breeding bag ♥ Ahh ♥\nPlease use me as you please, Goblin-sama ♥ Ahh ♥\nAhh ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20110,21 +20110,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "３人とも出産した後だと言うのにノリノリだ。"
+                                "Even though all three of them have given birth,\nthey seem to be in high spirits. They don't appear\nto be exhausted, so I think they're doing well,\nbut I'm worried if their minds are not messed up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "消耗した様子はないので元気なのだと思うが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "頭がおかしくなっていないかは心配である。"
+                                ""
                             ]
                         },
                         {
@@ -20141,7 +20141,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -20170,14 +20170,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その後何回も３人が出産した後、"
+                                "After the three of them gave birth multiple times,\nthe goblins disappeared and they were able to\nenter the room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達が消えて部屋に入れるようになった。"
+                                ""
                             ]
                         },
                         {
@@ -20263,38 +20263,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]やぁやぁお疲れ様。おかげで扉が開いたようだよ？"
+                                "\\nw[Female voice]Hey there, good job. Thanks to you, the door seems\nto have opened. Please go ahead and proceed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ぜひ先に進んでくれたまえ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[女性の声]先に進む前に戻るとここまでの移動が面倒だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くれぐれも階段を下りてくれよ？"
+                                ""
                             ]
                         },
                         {
@@ -20311,7 +20287,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]通信終わり、またよろしく頼むよ。"
+                                "\\nw[Female voice]Before moving forward, it would be troublesome to\ngo back to this point. Please make sure to go down\nthe stairs, okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Female voice]Communication over, please take care of me again."
                             ]
                         },
                         {
@@ -20337,14 +20337,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]くそっ、好き勝手言いやがって……、"
+                                "\\nw[Taro]Damn it, you're saying whatever you want... you\nhave such bad taste."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "悪趣味な奴だな。"
+                                ""
                             ]
                         },
                         {
@@ -20361,7 +20361,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]そういえばシア達は……"
+                                "\\nw[Taro]By the way, what about Shia and the others..."
                             ]
                         },
                         {
@@ -20418,7 +20418,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……連れて……来てるよ……？"
+                                "\\nw[Uka]...Are you... bringing them... here?"
                             ]
                         },
                         {
@@ -20435,14 +20435,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]おお、そうだったか。"
+                                "\\nw[Taro]Oh, is that so? Thank you, Uka."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうな、ウカ。"
+                                ""
                             ]
                         },
                         {
@@ -20499,7 +20499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Shia]はぁ……はぁ……"
+                                "\\nw[Shia]*panting*... *panting*..."
                             ]
                         },
                         {
@@ -20516,7 +20516,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……！"
+                                "\\nw[Taro]......!"
                             ]
                         },
                         {
@@ -20533,31 +20533,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Dalton]悪いなシア、身体が勝手に動いてたんだよ。"
+                                "\\nw[Dalton]I'm sorry, Shia. My body was moving on its own.\nYou've firmly conceived my child."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "しっかりオレの子供を孕んじまったな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Shia]うるさい……はぁ……はぁ……"
+                                ""
                             ]
                         },
                         {
@@ -20574,14 +20557,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Dalton]まぁまぁ、落ち着いてくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オレの子供を産んでくれよな。"
+                                "\\nw[Shia]Shut up... *panting*... *panting*..."
                             ]
                         },
                         {
@@ -20598,7 +20574,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Shia]はぁ……はぁ……くそっ、頭が回らねえ……"
+                                "\\nw[Dalton]Well, well, calm down. Please give birth to my\nchild."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Shia]Haa... haa... damn it, my head isn't working..."
                             ]
                         },
                         {
@@ -20662,38 +20662,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]……皆さん疲れてますね。"
+                                "\\nw[Saria]......Everyone seems tired. Although I want to go\nback once, I'm also curious about what was said\nearlier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一度戻りたいところですが、先ほどの言葉も気になります。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]そうだな……疲労の方は肉体的にも回復するし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "精神的にも回復するんだけどな。"
+                                ""
                             ]
                         },
                         {
@@ -20710,21 +20686,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（とはいえ記憶は残るし、魔物との性行為は"
+                                "\\nw[Taro]Yeah... Fatigue can be recovered both physically\nand mentally, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "気持ちよすぎて中毒性が強いらしいからな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "影響が全くないとは言えないな……）"
+                                ""
                             ]
                         },
                         {
@@ -20741,14 +20710,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]まぁ、階段の先までは見てみよう。"
+                                "\\nw[Taro](Although the memories remain, and the sexual acts\nwith monsters are incredibly pleasurable and\naddictive... I can't say that there is no\ninfluence at all...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一旦戻るかどうかの判断はその後だな。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20765,7 +20741,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……おー……"
+                                "\\nw[Taro]Well, let's see what's at the end of the stairs.\nWe'll decide whether to go back or not afterwards."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Uka]......Oh......"
                             ]
                         },
                         {
@@ -21033,7 +21033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今は先に進んでみるべきだろうな……"
+                                "\\nw[Taro]I should try to move forward for now..."
                             ]
                         },
                         {
@@ -22757,7 +22757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナボトルを手に入れた！"
+                                "I obtained a mana bottle!"
                             ]
                         },
                         {

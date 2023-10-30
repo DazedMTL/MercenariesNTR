@@ -11705,7 +11705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]ん……アレ、周りより……強め"
+                                "\\nw[Uka]Hmm... I feel... stronger than those around me."
                             ]
                         },
                         {
@@ -11722,14 +11722,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そういうのは見ただけでわかるんだな……"
+                                "\\nw[Taro]So you can tell just by looking... Is it because\nI'm a Ferex?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フェレクスだから匂いとかか？"
+                                ""
                             ]
                         },
                         {
@@ -11746,7 +11746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……？"
+                                "\\nw[Uka]......?"
                             ]
                         },
                         {
@@ -11803,38 +11803,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]フェレクスの嗅覚は少し優れるくらいよ。"
+                                "\\nw[Nonna]Ferex's sense of smell is slightly superior.\nBesides, unless it's fiction, you can't determine\nstrength by scent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それにフィクションでもなきゃ、匂いじゃ強さはわからないわ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]確かにそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物の強弱は魔力量で大体わかると聞いたことはあるが。"
+                                ""
                             ]
                         },
                         {
@@ -11851,7 +11827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……まりょくりょう？"
+                                "\\nw[Taro]Yeah, that's true. I've heard that you can\ngenerally tell the strength of monsters by their\nmagical power."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11868,14 +11851,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、何でもない。"
+                                "\\nw[Uka]......Magical power?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備ができたら倒そう。"
+                                "\\nw[Taro]No, it's nothing. Let's defeat it once we're\nready."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13022,7 +13022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブレイクファイアを手に入れた！"
+                                "I got Breakfire!"
                             ]
                         },
                         {
@@ -13270,7 +13270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フレイムを手に入れた！"
+                                "I obtained the Flame!"
                             ]
                         },
                         {

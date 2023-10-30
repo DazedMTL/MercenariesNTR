@@ -2563,14 +2563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ここの品ぞろえがいいわ。"
+                                "\\nw[Nonna]The selection of items here is good. It seems like\nit would be easier if we prepare our equipment\nbefore going to the dungeon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンに行く前に装備を整えると楽になりそうよ。"
+                                ""
                             ]
                         },
                         {
@@ -2578,9 +2578,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "Check sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -2650,38 +2650,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ノンナは慎重よね。"
+                                "\\nw[Kuno]Nonna is so cautious. Thanks to her, we're saved."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おかげで助かってるんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Nonna]戦いの勝敗を決めるのは準備が９割なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから怠っちゃだめよ？"
+                                ""
                             ]
                         },
                         {
@@ -2698,7 +2674,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]うん、わかってる。"
+                                "\\nw[Nonna]The outcome of a battle is determined by\npreparation 90% of the time. So we mustn't be\nlazy, okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Yeah, I know."
                             ]
                         },
                         {
@@ -2856,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]この武器は……あら、太郎？"
+                                "\\nw[Nonna]This weapon... Oh, Taro?"
                             ]
                         },
                         {
@@ -2864,9 +2864,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "Check sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -2896,7 +2896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]結構武具見てることが多いけど、実は武器が好きなのか？"
+                                "\\nw[Taro]I see you looking at a lot of armor, but do you\nactually like weapons?"
                             ]
                         },
                         {
@@ -2913,14 +2913,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]好きかと言われると……わからないわ。"
+                                "\\nw[Nonna]If you ask me if I like it... I'm not sure. But\nI've become knowledgeable about it because it's\nnecessary."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも必要だから詳しくはなってるわ。"
+                                ""
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ここの宣伝は私がやるから、宿屋への宣伝をお願いね？"
+                                "\\nw[Nonna]I'll take care of the promotion here, so could you\nplease handle the promotion to the inn?"
                             ]
                         },
                         {
@@ -3095,9 +3095,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "Check sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -3127,7 +3127,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]クノのことだけど、大丈夫かな？"
+                                "\\nw[Taro]Speaking of Kuno, I wonder if she's okay?"
                             ]
                         },
                         {
@@ -3184,14 +3184,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]無理そうなら私が代わろうかと思ってるわ。"
+                                "\\nw[Nonna]If it seems too difficult, I'm thinking of taking\nover. But I don't want to become too\noverprotective..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも、過保護になりすぎてもね……。"
+                                ""
                             ]
                         },
                         {
@@ -3208,7 +3208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そうだな……"
+                                "\\nw[Taro]Yeah..."
                             ]
                         },
                         {
@@ -3335,7 +3335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[武器屋]是非見ていってくれ。"
+                                "\\nw[Weapon Shop]Please come and take a look at the Weapon Shop."
                             ]
                         },
                         {
@@ -3513,7 +3513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[武器屋]またよろしく頼むぞ。"
+                                "\\nw[Weapon Shop]Please take care of us again."
                             ]
                         },
                         {
@@ -3590,7 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[防具屋]いらっしゃいませ。"
+                                "\\nw[Armor Shop]Welcome to the Armor Shop."
                             ]
                         },
                         {
@@ -3818,7 +3818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[防具屋]またお越しください。"
+                                "\\nw[Armor Shop]Please come again to the Armor Shop."
                             ]
                         },
                         {

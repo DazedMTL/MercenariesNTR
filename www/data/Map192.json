@@ -18876,7 +18876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]洞窟の様子が……"
+                                "\\nw[Taro]The condition of the cave..."
                             ]
                         },
                         {
@@ -18933,7 +18933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]変わったわね。地獣の影響かしら？"
+                                "\\nw[Kuno]How strange. I wonder if it's because of the Earth\nBeast's influence?"
                             ]
                         },
                         {
@@ -18990,38 +18990,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]コアの影響で変性してるのかもしれないわ。"
+                                "\\nw[Nonna]It's possible that it's undergoing a\ntransformation due to the influence of the core.\nIt seems highly likely that we're getting closer\nto the core."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コアに近づいてる可能性が高そうね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]その分魔物も強くなってるはずよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注意して進みましょう。"
+                                ""
                             ]
                         },
                         {
@@ -19038,14 +19014,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった。"
+                                "\\nw[Nonna]The monsters should have become stronger as a\nresult. Let's proceed with caution."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "油断しないようにいこう。"
+                                "\\nw[Taro]Understood. Let's proceed without letting our\nguard down."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20823,7 +20823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガイアメイスを手に入れた！"
+                                "I obtained the Gaia Mace!"
                             ]
                         },
                         {

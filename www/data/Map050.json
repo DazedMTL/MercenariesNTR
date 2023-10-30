@@ -2385,7 +2385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[店員]あ～……場所が空いてたら適当に使っていいわよ。"
+                                "\\nw[Shopkeeper]Ah... If there's an empty space, feel free to use\nit however you like."
                             ]
                         },
                         {
@@ -2411,14 +2411,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（ここなら犯されても声も聞こえないし、"
+                                "\\nw[Taro](If it's here, even if I'm violated, no one will\nhear me, and it might be a good idea to make Shia\nwork...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "シアを働かせるのもいいんじゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -2426,8 +2426,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "シアにバイトさせる",
-                                    "やめておく"
+                                    "Make Shia work",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -2457,14 +2457,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店員]バイト？"
+                                "\\nw[Shopkeeper]Part-time job? That's fine, but will you do it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "いいけど、やるの？"
+                                ""
                             ]
                         },
                         {
@@ -2510,7 +2510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Shia]……（コクン"
+                                "\\nw[Shia]......(Nods)"
                             ]
                         },
                         {
@@ -2527,7 +2527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店員]そ。じゃあ案内するわ"
+                                "\\nw[Shopkeeper]Well then, let me guide you."
                             ]
                         },
                         {
@@ -2646,7 +2646,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（まぁ、やめておくか）"
+                                "\\nw[Taro](Well, I guess I'll stop.)"
                             ]
                         },
                         {
@@ -2743,7 +2743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]お～、気持ちいいぜ。"
+                                "\\nw[Man]Oh~ It feels good."
                             ]
                         },
                         {
@@ -2823,14 +2823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]あーやっぱりここもいいな。"
+                                "\\nw[Huma]Ah, this place is also good. I can feel the\ntightness and enjoy it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いい締りで気持ちよくなれる。"
+                                ""
                             ]
                         },
                         {
@@ -2856,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]何やってんだこんなところで。"
+                                "\\nw[Taro]What are you doing in a place like this?"
                             ]
                         },
                         {
@@ -2873,38 +2873,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]おっ、団長じゃん？"
+                                "\\nw[Huma]Oh, Captain? So you're interested in places like\nthis too?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "団長もこういう場所興味あるんだな？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]いやまぁ……うん、それはいいだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イエローはナンパとかしてるタイプかと思ったんだけど。"
+                                ""
                             ]
                         },
                         {
@@ -2921,31 +2897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]ナンパもするけど、風俗店も行くよ～。"
+                                "\\nw[Taro]Well... yeah, I guess that's fine. I thought you\nwere the type who would be into picking up girls,\nYellow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "可愛い女の子たちがどこにいるかはわからないからね～。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Huma]それにこの子たちも可愛がってあげないといけないからね。"
+                                ""
                             ]
                         },
                         {
@@ -2962,7 +2921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ここ顔見えないじゃん。"
+                                "\\nw[Huma]I do pick up girls, but I also go to adult\nentertainment establishments~. Since I don't know\nwhere the cute girls are, you know~."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2979,21 +2945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]顔が全てじゃないよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにここの仕事は結構人気あるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "団長も恋人に勧めてみたら？"
+                                "\\nw[Huma]And I have to take care of these girls too, you\nknow."
                             ]
                         },
                         {
@@ -3010,7 +2962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、勧めるって……ここで仕事を？"
+                                "\\nw[Taro]I can't see your face here."
                             ]
                         },
                         {
@@ -3027,45 +2979,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]結構環境はいいらしいよ？"
+                                "\\nw[Huma]It's not all about looks, you know~. And this job\nhere is quite popular. How about recommending it\nto the captain as a lover?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "痛みを与えるプレイはＮＧだし、壁の向こうは音が漏れにくいから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何しててもいいらしいよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Huma]本読んでたり、友人と話してたりして壁に埋まってたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金がもらえるから楽な仕事って言う子もいるしね。"
+                                ""
                             ]
                         },
                         {
@@ -3082,7 +3010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]あとは男連れてきて壁の中でフェラとかしてる子もいるってさ。"
+                                "\\nw[Taro]No, recommend... working here?"
                             ]
                         },
                         {
@@ -3099,7 +3027,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ほ、ほう……そんな仕事なのか……"
+                                "\\nw[Huma]The environment seems pretty good here, you know?\nPainful play is a no-go, and the sound doesn't\nleak through the walls, so it seems like you can\ndo whatever you want."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3116,31 +3058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]団長も試しに使っていけば？"
+                                "\\nw[Huma]Some girls say that it's an easy job because they\ncan get paid for reading books or talking with\nfriends while being buried in the wall."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "みんな仕事でやってるだけだから、遠慮しなくていいんだからな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]いやまぁ……\\|うん、それじゃそういうことで"
+                                ""
                             ]
                         },
                         {
@@ -3157,7 +3082,82 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]ああ、今日はここで楽しんでいくよ。"
+                                "\\nw[Huma]And there are even girls who bring men and give\nthem blowjobs inside the walls."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Oh, is that the kind of job it is..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Huma]Why don't you try using it too, Captain? Everyone\nis just doing their job, so there's no need to\nhold back."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Well... yeah, I guess that's how it is."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Huma]Ah, I'm going to have fun here today."
                             ]
                         },
                         {
@@ -3273,7 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]ふぅ……せっかくだから女の子たちも気持ちよくしてあげないとね。"
+                                "\\nw[Huma]Phew... Since I went through the trouble, I should\nmake the girls feel good too."
                             ]
                         },
                         {
@@ -3357,7 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]やっぱり男は黙って種付けだな！"
+                                "\\nw[Male]As expected, men should just shut up and\nimpregnate!"
                             ]
                         },
                         {
@@ -3434,7 +3434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]ふぅ……ふぅ……！"
+                                "\\nw[Male]*Huff...huff...!*"
                             ]
                         },
                         {
@@ -3511,14 +3511,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁の向こうからかすかに話声が聞こえる、"
+                                "I can faintly hear voices from beyond the wall, it\nsounds like they're having fun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何だか楽しそうだ。"
+                                ""
                             ]
                         },
                         {
@@ -3595,14 +3595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]<蒼の歌姫>の恰好……"
+                                "\\nw[Man]The attire of <Aoi no Utahime>... haa haa, it's so\nexciting...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁはぁ、興奮する……！"
+                                ""
                             ]
                         },
                         {
@@ -3670,14 +3670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]はぁはぁ、この穴はすごい……！"
+                                "\\nw[Man]Haa haa, this hole is amazing...! It can't be\ncompared to the woman I'm usually with...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつもいる女とは比べ物にならない……！"
+                                ""
                             ]
                         },
                         {
@@ -3703,7 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（気づかれないだろうし、並んで使おうか……？）"
+                                "\\nw[Taro](They probably won't notice, should we use it\ntogether...?)"
                             ]
                         },
                         {
@@ -3711,8 +3711,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "シアを使う",
-                                    "やめておく"
+                                    "Use Shia",
+                                    "Let's not do it"
                                 ],
                                 1,
                                 0,
@@ -3742,7 +3742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（後ろに並ぶか……）"
+                                "\\nw[Taro](Should I line up behind...?)"
                             ]
                         },
                         {
@@ -3807,14 +3807,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[男]おお、気持ちいい穴しやがって……！"
+                                "\\nw[Man]Oh, this feels so good...! There's no way I can\ncompare this to anything else... kuuhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんなのもつわけないだろ……くぅぅ！"
+                                ""
                             ]
                         },
                         {
@@ -3831,7 +3831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[男]出す……出すぞ……！！"
+                                "\\nw[Male]I'm going to cum... I'm going to cum...!!"
                             ]
                         },
                         {
@@ -3983,14 +3983,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[男]ふぅふぅ……最高の穴だったな……"
+                                "\\nw[Male]*Haa haa*... It was the best hole... If they find\nout, should I use it again...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この服が見えたらまた使うか……"
+                                ""
                             ]
                         },
                         {
@@ -4007,7 +4007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[男]ああ、すぐ交代するから待っててくれ"
+                                "\\nw[Male]Ah, please wait, I'll switch soon."
                             ]
                         },
                         {
@@ -4160,7 +4160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]おぉ……！"
+                                "\\nw[Taro]Oh...!"
                             ]
                         },
                         {
@@ -4177,14 +4177,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（他の男に使われた後の穴だからか、"
+                                "\\nw[Taro](Perhaps because it's a hole that has been used by\nother men, it feels surprisingly good...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やたらと具合が良いな……）"
+                                ""
                             ]
                         },
                         {
@@ -4201,7 +4201,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ふん！"
+                                "\\nw[Taro]Hmph!"
                             ]
                         },
                         {
@@ -4268,7 +4268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]くっ……オレとわかってないからか締りが良いな……！"
+                                "\\nw[Taro]Hmph... Perhaps because she doesn't know it's me,\nit feels tight...!"
                             ]
                         },
                         {
@@ -4285,14 +4285,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（しかしシアの声も聞こえないな……"
+                                "\\nw[Taro](But I can't hear Shia's voice... Is it because\nthe soundproofing is good, or is Shia not feeling\nanything...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "防音性能が高いのか、シアが感じてないのか……）"
+                                ""
                             ]
                         },
                         {
@@ -4309,14 +4309,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（だがどっちにしても、"
+                                "\\nw[Taro](But either way, thinking that it's a hole that\nhas been used by other men...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "他の男に抱かれた後の穴だと思うと……！）"
+                                ""
                             ]
                         },
                         {
@@ -4340,14 +4340,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]くっ……相手の顔が見えないのが残念だと思ったが、"
+                                "\\nw[Taro]Kuh... I thought it was a shame that I couldn't\nsee her face, but even imagining that face..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その顔を想像するのも……"
+                                ""
                             ]
                         },
                         {
@@ -4364,14 +4364,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]はぁはぁ……！"
+                                "\\nw[Taro]*Haa haa*... Deeper... Ohh...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このまま奥に……おおぉぉ……！"
+                                ""
                             ]
                         },
                         {
@@ -4523,7 +4523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ふぅふぅ……最高すぎるな……さすがはシアだ。"
+                                "\\nw[Taro]*Haa haa*... It's too amazing... As expected of\nShia."
                             ]
                         },
                         {
@@ -4540,7 +4540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]休憩を挟みながら、今日はシアの様子を見るか……"
+                                "\\nw[Taro]Let's take a break and see how Shia is doing\ntoday..."
                             ]
                         },
                         {
@@ -4607,7 +4607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（まぁ、今はやめておこう）"
+                                "\\nw[Taro](Well, for now, let's stop.)"
                             ]
                         },
                         {

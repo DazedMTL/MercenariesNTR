@@ -4590,14 +4590,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先から強そうな相手の気配を感じる……"
+                                "I sense the presence of a strong opponent up\nahead... Should we proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進もうか？"
+                                ""
                             ]
                         },
                         {
@@ -4605,8 +4605,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "進まない"
+                                    "Proceed",
+                                    "Don't proceed"
                                 ],
                                 1,
                                 0,

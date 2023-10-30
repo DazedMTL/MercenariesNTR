@@ -2390,38 +2390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]あの……太郎さん……"
+                                "\\nw[Fross]Um... Taro-san... Can I talk to you for a\nmoment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとお話が……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ん、顔が赤いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ効いてきたみたいだな。"
+                                ""
                             ]
                         },
                         {
@@ -2438,14 +2414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]……？\\|"
+                                "\\nw[Taro]Hm, your face is red. It seems like it's starting\nto take effect."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "効いてきたって……？"
+                                ""
                             ]
                         },
                         {
@@ -2462,14 +2438,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]素面で人前で性行為とかさすがにきついだろ。"
+                                "\\nw[Fross]......? It's starting to take effect...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからオレとフロスの分の食事には遅効性の媚薬を混ぜてたんだよ。"
+                                "\\nw[Taro]It's really inappropriate to engage in sexual\nactivities in public while sober. That's why I\nmixed a delayed-action aphrodisiac into mine and\nFross' meals."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2526,7 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]そんなもの混ぜたんですか！？"
+                                "\\nw[Fross]Did you mix something like that in there!?"
                             ]
                         },
                         {
@@ -2543,31 +2543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]使った方がいいだろ？"
+                                "\\nw[Taro]You should use it, right? We're going to do it in\nthe carriage from now on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これから馬車でやるんだからな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]えっ……昼間から何ですか？"
+                                ""
                             ]
                         },
                         {
@@ -2584,14 +2567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、移動してる間はずっとだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御者には許可取ってあるから大丈夫だぞ。"
+                                "\\nw[Fross]Huh... What are you doing in the middle of the\nday?"
                             ]
                         },
                         {
@@ -2608,14 +2584,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]馬車の中で休憩するしてるやつらには見られるが、"
+                                "\\nw[Taro]Ah, we'll be doing it the whole time while we're\nmoving. I've already gotten permission from the\ncoachman, so it's okay."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日言った通り我慢してくれ……"
+                                "\\nw[Taro]Those who are taking a break inside the carriage\nwill see us, but as I said yesterday, please\nendure it..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2672,7 +2672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]えっと……二人ともじっと見てきててさすがに……"
+                                "\\nw[Fross]Um... Both of you have been staring at me for a\nwhile now, it's starting to get a bit..."
                             ]
                         },
                         {
@@ -2729,7 +2729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]じー"
+                                "\\nw[Uka]*stares*"
                             ]
                         },
                         {
@@ -2746,38 +2746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]こういうものは見ないように気を使った方が"
+                                "\\nw[Thorz]It's actually more embarrassing for the other\nperson if you try not to look at things like this.\nThat's why I think it's better to be confident and\nopen about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かえって相手が恥ずかしく感じるものだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だからこっちは堂々としてた方がいいと思ってな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Thorz]おれ達が照れてたら気まずいだろ？"
+                                ""
                             ]
                         },
                         {
@@ -2794,7 +2777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]それは……確かに……？"
+                                "\\nw[Thorz]If we were embarrassed, it would be awkward,\nright?"
                             ]
                         },
                         {
@@ -2811,14 +2794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……頼むからあんまり照れないでくれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレも正直恥ずかしいし、結構罪悪感もあって……"
+                                "\\nw[Fross]Is that... really...?"
                             ]
                         },
                         {
@@ -2835,7 +2811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]つらい……"
+                                "\\nw[Taro]...Please, try not to be too embarrassed.\nHonestly, I feel embarrassed too and I also have a\nfair amount of guilt..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2852,7 +2835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]あ……ごめんなさい。"
+                                "\\nw[Taro]It's painful..."
                             ]
                         },
                         {
@@ -2869,14 +2852,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]そうよね、性行為は手段であって、"
+                                "\\nw[Fross]Ah... I'm sorry."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目的は別の事なのよね……。"
+                                "\\nw[Fross]That's right, sexual activity is just a means to\nan end, the purpose is something else..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2940,14 +2940,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]……覚悟は決まりました。"
+                                "\\nw[Fross]......I have made up my mind. Please take care of\nme."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうかよろしくお願いします。"
+                                ""
                             ]
                         },
                         {
@@ -2964,7 +2964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……ああ……始めるぞ。"
+                                "\\nw[Taro]......Ah... Let's begin."
                             ]
                         },
                         {
@@ -3030,21 +3030,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「フロス×太郎、馬車で」"
+                                "Fross x Taro, in a carriage. This is an event that\nyou have seen before. Would you like to skip the\nevent?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一度見たことのあるイベントです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -3052,8 +3052,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -3151,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]服を脱ぐぞ。"
+                                "\\nw[Taro]I'm going to take off my clothes."
                             ]
                         },
                         {
@@ -3168,89 +3168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]えっ、それだと裸を見られて……！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎はフロスのいうことも聞かず服を脱いでいった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに全裸になり、媚薬の効果で勃起したペニスも丸出しになる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]えっ……？ええっ……？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]時間をかけると魔物除けの魔力が切れるかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱がさせてもらうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]あっ……はい……"
+                                "\\nw[Fross]Eh, if that's the case, then you'll see me\nnaked...!?"
                             ]
                         },
                         {
@@ -3267,21 +3185,72 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロスの頭はまだ混乱している。"
+                                "Taro undressed without listening to Fross and\nimmediately became completely naked, with his\npenis erect from the effects of the aphrodisiac\nfully exposed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "羞恥心はあるが、性行為が必要ともわかっていて、"
+                                "\\nw[Fross]Eh...? Ehh...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どっちを取ればいいのかわからなくなっているのだ。"
+                                "\\nw[Taro]If we take too long, the magic barrier against\nmonsters might wear off. Let me undress you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Ah... Yes..."
                             ]
                         },
                         {
@@ -3298,14 +3267,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その結果太郎が脱がそうとしてきても抵抗せず、"
+                                "Fross's head is still in confusion. She feels\nembarrassed, but she understands that sexual\nactivity is necessary and doesn't know which path\nto choose."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっという間に全裸にさせられた。"
+                                "Taro didn't resist when Fross tried to undress\nhim, and in no time at all, he was completely\nnaked."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3322,7 +3322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]媚薬の効果で濡れてるな"
+                                "\\nw[Taro]You're wet from the effects of the aphrodisiac."
                             ]
                         },
                         {
@@ -3339,7 +3339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]うぅ……さすがに恥ずかしいです……んっ！？"
+                                "\\nw[Fross]Ugh... It's really embarrassing... Huh!?"
                             ]
                         },
                         {
@@ -3396,55 +3396,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎は恥ずかしがって身体を隠そうとするフロスの後ろから"
+                                "Taro lifted Fross's legs from behind as she tried\nto hide her body in embarrassment, and forcefully\ndropped them onto his erect penis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "両脚を抱えて持ち上げると、勢いよくペニスの上に落とした。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一気に膣奥までペニスが入っていき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その姿は目の前のウカとトールズによくみえてしまっている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]太郎さん、何でこんなに……"
+                                ""
                             ]
                         },
                         {
@@ -3461,21 +3420,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎とフロスは何度も交わってきたが、毎回フロスがリードしていた。"
+                                "The penis went all the way into the depths of the\nvagina in one go, and Uka and Taro, who were in\nfront of them, could clearly see that sight."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロスが甘やかしながらお姉さんとして太郎をコントロールして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎はされるがままだったのである。"
+                                "\\nw[Fross]Taro-san, why are you..."
                             ]
                         },
                         {
@@ -3492,14 +3461,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのためこんなに太郎が自分から動くことはなく、"
+                                "Taro and Fross have been intimate multiple times,\nbut each time it was Fross who took the lead.\nFross would pamper Taro while controlling him as\nan older sister, and Taro would obediently comply."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "普段からのギャップでフロスは戸惑っていた。"
+                                "Therefore, Taro rarely takes the initiative like\nthis, and Fross was confused by the contrast to\nhis usual behavior."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3516,14 +3516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ほら、前を見てみろよ。"
+                                "\\nw[Taro]Look, try looking ahead. You can clearly see our\nconnection."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しっかりとオレ達の結合部が見られてるぞ。"
+                                ""
                             ]
                         },
                         {
@@ -3556,7 +3556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]……！"
+                                "\\nw[Fross]......!"
                             ]
                         },
                         {
@@ -3573,7 +3573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]じー……"
+                                "\\nw[Uka]*stares*..."
                             ]
                         },
                         {
@@ -3590,31 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]仕方ないから見ててやるか……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウカは近づいて凝視している。見ているのは顔だが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トールズは興味ないふりしながらじっくりとフロスの裸を観察している。"
+                                "\\nw[Thorz]Fine, I'll watch you then..."
                             ]
                         },
                         {
@@ -3631,7 +3607,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロスもこういった経験はないらしく、恥ずかしそうにしている。"
+                                "Uka approached and stared intently. She was\nlooking at Fross's face. Thorz, pretending to be\nuninterested, carefully observed Fross's naked\nbody."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Fross also seems to have no experience like this,\nand she looks embarrassed."
                             ]
                         },
                         {
@@ -3648,7 +3648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]じっくり見てもらおうぜ。"
+                                "\\nw[Taro]Let me have you take a good look."
                             ]
                         },
                         {
@@ -3681,7 +3681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]……見てもらう必要はないのでは……んっ……"
+                                "\\nw[Fross]......There's no need for you to look...hmm..."
                             ]
                         },
                         {
@@ -3698,7 +3698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]じー……"
+                                "\\nw[Uka]*stares*..."
                             ]
                         },
                         {
@@ -3715,38 +3715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（えっと……次のセリフは……）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちなみにウカがみてるのは太郎の顔である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フロスの後ろにいるのでフロスにはばれてないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際のところ恥ずかしくて緊張しまくっていて変な表情をしている。"
+                                "\\nw[Taro]Um... (Let's see... what should I say next...)"
                             ]
                         },
                         {
@@ -3763,103 +3732,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取るためには今までのお姉さんキャラを通されたら無理。"
+                                "By the way, what Uka is looking at is Taro's face.\nShe is behind Fross, so Fross is unaware of it,\nbut in reality, Uka is feeling embarrassed and\nextremely nervous, making a strange expression."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのためどうすればいいのか必死に考えて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "台本を用意して台詞まで考えて今実行している。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とか噛まないで台詞を言えていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊張のため次の台詞が頭からすっぽ抜けてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（駄目だ、そもそも媚薬飲んだせいで思考力が鈍い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもどうにか思い出さないと……）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Uka]……動い……て？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]……！"
+                                ""
                             ]
                         },
                         {
@@ -3876,14 +3763,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウカは口の動きだけでそう伝えてきた。"
+                                "In order to cuckold, I had to go through all the\nolder sister characters up until now. So I\ndesperately thought about what to do and prepared\na script, even considering the lines. And now, I'm\nexecuting it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "昨日予めウカと打合せしてたことだ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3900,38 +3794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎は昨晩ウカに練習に付き合って貰っていた。"
+                                "Somehow, I managed to deliver my lines without\nstuttering, but due to nervousness, the next line\nslipped my mind completely."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だからこそウカは太郎をみているのである。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（そうだ、計画で重要なのはフロスに平常心を取り戻させないことだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "台詞が重要なんじゃない……）"
+                                ""
                             ]
                         },
                         {
@@ -3948,14 +3818,144 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（フロスを寝取るためには主導権を握り続けないといけない……"
+                                "\\nw[Taro](No, my thinking is dulled because of the\naphrodisiac I drank, but I have to somehow\nremember...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "思い出せないなら、そうするしかない……！）"
+                                "\\nw[Uka]......Move...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]......!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Uka conveyed that with just the movement of her\nmouth. It was something we had discussed in\nadvance yesterday."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Taro had Uka accompany him in practice last night.\nThat's why Uka is looking at Taro."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](That's right, what's important in the plan is not\nletting Fross regain her composure. The lines are\nnot important...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](In order to cuckold Fross, I have to maintain\ncontrol... If I can't remember, there's no other\nchoice but to do that...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3991,69 +3991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]あっ、そんな……"
+                                "\\nw[Fross]Ah, wait... It's so embarrassing...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "待って、恥ずかしくて……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]何言ってるんだ、気持ちいいんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌味なくらい締め付けてくるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プラエの体調不良もありフロスを寝取ると太郎は決心している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのために出来ることが多いわけではないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段よりもエロくなろうと努力している。"
+                                ""
                             ]
                         },
                         {
@@ -4070,103 +4015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]むしろいつもよりきつくないか？"
+                                "\\nw[Taro]What are you saying? It feels good, doesn't it?\nIt's tightening so pleasantly, almost teasingly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなに見られながらセックスするのが気に入ったのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]そんなことは……んっ、んんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりだめっ、ウカちゃん見ないで……んんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]何恥ずかしがってるんだ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもやってることだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脚広げててやるからちゃんと見せてやれって"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]こんな格好見られるのは……んんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（やばい、なんか楽しい……）"
+                                ""
                             ]
                         },
                         {
@@ -4183,14 +4039,158 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎自身見られながらは恥ずかしいと感じていたが、"
+                                "Taro is determined to cuckold Fross, taking into\naccount Prae's poor physical condition. Although\nthere are not many things he can do for that, he\nis making an effort to become even more erotic\nthan usual."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロスが恥ずかしがってくれるので恥ずかしくなくなってきていた。"
+                                "\\nw[Taro]Isn't it even tighter than usual? Do you enjoy\nhaving sex while being watched like this?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]I-I can't... mmm, mmm♥ It's really no good... Uka-\nchan, don't look... mmm♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Why are you so embarrassed? It's something we\nalways do, right? Spread your legs and show me\nproperly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Being seen like this... mmm♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](Oh no, this is kind of fun...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Taro felt embarrassed being watched himself, but\nbecause Fross was feeling embarrassed, he started\nto feel less embarrassed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4230,31 +4230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（おっと、楽しんでる場合じゃないな"
+                                "\\nw[Taro](Oops, this isn't the time to be enjoying myself.\nI'm supposed to cuckold her, not torment her. It\nshould be about pleasuring her.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "寝取るんだからいじめるんじゃなくて、快楽責めに）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（ここら辺を突くと……）"
+                                ""
                             ]
                         },
                         {
@@ -4271,7 +4254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]んっ、んんんっ♥"
+                                "\\nw[Taro](If I thrust here...)"
                             ]
                         },
                         {
@@ -4288,7 +4271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]な、なにっ……いつもより大きいような……んんっ♥"
+                                "\\nw[Fross]Mmm, mmmmm♥"
                             ]
                         },
                         {
@@ -4305,14 +4288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]何言ってるんだ、フロスが興奮してるだけだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもよりも締め付けが強くて……くっ！"
+                                "\\nw[Fross]W-What... It feels bigger than usual... mmm♥"
                             ]
                         },
                         {
@@ -4329,14 +4305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]本当に大きくっ、んっ、ああっ♥"
+                                "\\nw[Taro]What are you saying? Fross is just excited. It's\ntighter than usual...ugh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だめっ、こんなの外まで聞こえちゃっ、あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -4345,7 +4321,7 @@
                             "parameters": [
                                 "",
                                 0,
-                                1,
+                                0,
                                 2
                             ]
                         },
@@ -4353,21 +4329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "媚薬の効果もありフロスも強い快感を感じている。"
+                                "\\nw[Fross]It's really big, mmm, aahh♥ No, this can't be,\nit's going to be heard outside, ahh, aahhn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして実際に今までセックスしてた時よりも太郎のペニスは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きくなっている。"
+                                ""
                             ]
                         },
                         {
@@ -4384,52 +4353,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎にはその自覚はないが、"
+                                "The aphrodisiac is also taking effect, and Fross\nis feeling a strong pleasure. And in fact, Taro's\npenis has become bigger than when they had sex\nbefore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "淫魔となっている太郎のペニスは相手によって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大きさ等が変わることがある。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までフロスと性行為してた時はフロスに翻弄され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ為すがままにされていたため能力が発動しなかったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は寝取ろうしていてNTRの淫魔の能力が働いている。"
+                                ""
                             ]
                         },
                         {
@@ -4446,21 +4384,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのため巨根の持ち主と恋人になっているフロスに合わせ、"
+                                "Taro himself is not aware of it, but as a\nsuccubus, Taro's penis can change in size and\nother aspects depending on the partner."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "太郎のペニスのサイズは巨大になり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よりフロスの身体と相性のいいペニスとなっていた。"
+                                ""
                             ]
                         },
                         {
@@ -4477,7 +4415,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "更に媚薬も使ってるおかげで二人とも強力な快感を得ている。"
+                                "Previously, when I had sexual intercourse with\nFross, I was completely at her mercy and unable to\nactivate my abilities. However, now that I am\ntrying to cuckold her, the abilities of the\nsuccubus in NTR are in effect."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Therefore, in order to match Fross, who is the\nowner of a huge penis and Taro's lover, Taro's\npenis size has become enormous, becoming a penis\nthat is even more compatible with Fross's body."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Thanks to the additional use of aphrodisiac, both\nof them are experiencing intense pleasure."
                             ]
                         },
                         {
@@ -4510,31 +4510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ああっ♥あんっ♥ああんっ♥"
+                                "\\nw[Fross]Ahh♥ Ahn♥ Aann♥ Why is Taro-san's so... fuuaahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "太郎さんのが何でこんなにっ、ふああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]ロドリゴさんのよりおおきっ、ひあっ♥あっ♥ああっ♥"
+                                ""
                             ]
                         },
                         {
@@ -4551,7 +4534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]はぁ、はぁ……！"
+                                "\\nw[Fross]It's bigger than Rodrigo-san's... aah♥ ah♥ aahh♥"
                             ]
                         },
                         {
@@ -4568,21 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（今までフロスと交わってきたときの何倍も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちいいような気がする……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を抜くとすぐ射精しそうだ……！）"
+                                "\\nw[Taro]Haa, haa...!"
                             ]
                         },
                         {
@@ -4599,14 +4568,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（だが、先に射精するわけにはいかない……"
+                                "\\nw[Taro](It feels so much better than when I've been with\nFross before... If I let my guard down, I might\nejaculate right away...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロスを寝取るのだから先に果てるなんて許されるはずがない……）"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4623,7 +4599,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……"
+                                "\\nw[Taro](But I can't ejaculate first... Since I'm\ncuckolding Fross, it wouldn't be allowed for me to\nfinish first...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Uka]......"
                             ]
                         },
                         {
@@ -4640,38 +4640,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウカの視線もずっと太郎を向いている。"
+                                "Uka's gaze is always directed towards Taro. It\nseems like she is cheering him on, and it becomes\na source of strength for Taro."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それは太郎にとっては応援されているように思え、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自らの力になっていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]あんっ♥あんっ♥ああっ♥あんっ♥あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -4688,7 +4671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]はぁ、はぁ……ほら、ここがいいんだろ！"
+                                "\\nw[Fross]Ahh♥ Ahn♥ Aann♥ Ahn♥ Ahn♥"
                             ]
                         },
                         {
@@ -4705,14 +4688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]あああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥はすごくてっ♥ひああっ♥あんっ♥あんっ♥ああんっ♥"
+                                "\\nw[Taro]Haa, haa... There, this is the spot, right?"
                             ]
                         },
                         {
@@ -4729,31 +4705,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ああんっ♥もう、げんかっ、あひん♥"
+                                "\\nw[Fross]Ahhhn♥ It feels amazing deep inside♥ Hiaahh♥ Ahn♥\nAhn♥ Aaahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなのすごすぎてっ♥ああっ♥あっ♥あっ♥あっ♥あああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ほら、イけっ、イけっ、イけっ！"
+                                ""
                             ]
                         },
                         {
@@ -4770,14 +4729,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]あっ♥あっ♥あっ♥あっ♥あっ♥"
+                                "\\nw[Fross]Ahh♥ It's too much, it's amazing♥ Ahh♥ Ah♥ Ah♥ Ah♥\nAhhh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あああっ♥あっ♥ああああぁぁぁぁ～～～～～～♥♥♥"
+                                "\\nw[Taro]There, cum, cum, cum!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Ahh♥ Ahh♥ Ahh♥ Ahh♥ Ahh♥ Aaaahhh♥ Ahh♥ Aaaahhhh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4900,31 +4900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロスの絶頂と同時に膣内に大量の精液が吐き出された。"
+                                "At the same time as Fross reached her climax, a\nlarge amount of semen was ejaculated inside her\nvagina. Taro, who had been holding back somehow,\ncouldn't hold back anymore and released his load\nat Fross's climax."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何とか我慢していた太郎もフロスの絶頂で堰が切れたのだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]あっ……あああぁ……あぁっ……♥♥"
+                                ""
                             ]
                         },
                         {
@@ -4941,38 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]おっ……おぉぉ……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お互いに強すぎる快感で身体をびくびくと震わせている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その様子を見るウカはずっと無表情だが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トールズの方は興奮している。"
+                                "\\nw[Fross]Ahh... Aaaahhh... Ahh... ♥♥"
                             ]
                         },
                         {
@@ -4989,7 +4941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]すげ……止まらない……！"
+                                "\\nw[Taro]Oh... ohhh...!"
                             ]
                         },
                         {
@@ -5006,14 +4958,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精液が大量に出ている上に勢いが落ちない。"
+                                "Both of them are trembling with intense pleasure,\ncausing their bodies to shake. While Uka watches\nwith an expressionless face, Taro on the other\nhand is getting excited."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おかげで結合部からは白い液体が溢れ続けている。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5030,14 +4989,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]あっ……あはぁ……♥♥"
+                                "\\nw[Taro]Amazing... It won't stop...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああぁぁぁ…………♥♥"
+                                "The semen is not only coming out in large amounts,\nbut its momentum doesn't seem to decrease. As a\nresult, white liquid continues to overflow from\nthe union part."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Ahh... Ahh... ♥♥ Aaahhh... ♥♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5070,69 +5070,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たっぷりと時間をかけてから射精は終わった。"
+                                "After taking plenty of time, the ejaculation\nended. However, even after the ejaculation was\nover, Fross's climax continued for a little while,\ncausing her body to tremble."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし射精が終わってからも少しの間フロスの絶頂はつづき、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "身体を震わせていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]はぁ……はぁ……はぁ……ぁぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反則です……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶頂が静まるとフロスは脱力して太郎に体を預けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "快感が強すぎて腰が抜けてしまっている。"
+                                ""
                             ]
                         },
                         {
@@ -5149,72 +5101,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]大きさも形も部屋で抱かれた時とは違いすぎます……"
+                                "\\nw[Fross]Haa... haa... haa... aahh♥ This is unfair...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今までは半勃ちだったんですね……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]ロドリゴさんのより大きくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも射精量もすごくて密着度も高い……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]しかも射精直後なのにむしろ大きくなってるような……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]そう……かもな"
+                                ""
                             ]
                         },
                         {
@@ -5231,14 +5125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎も自らのペニスが巨大になってることにようやく気付いた。"
+                                "After her climax subsided, Fross relaxed and\nentrusted her body to Taro. The pleasure was so\nintense that her legs gave out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "射精した量も普段とは比べ物にならないほど多い。"
+                                ""
                             ]
                         },
                         {
@@ -5255,7 +5149,113 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（理由はわからないが、寝取る分には好都合だな）"
+                                "\\nw[Fross]The size and shape are completely different from\nwhen we were in the room... So it was only half-\nerect until now..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Bigger than Rodrigo-san's, and moreover, the\namount of ejaculation is amazing and the closeness\nis high..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Moreover, even though it's right after\nejaculation, it seems to have gotten even\nbigger..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Yeah... maybe."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Taro finally noticed that his own penis had become\nhuge. The amount of ejaculation was also\nincomparable to usual."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](I don't know the reason, but it's convenient for\ncuckolding.)"
                             ]
                         },
                         {
@@ -5307,38 +5307,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ひああっ♥"
+                                "\\nw[Fross]Hiaaahh♥ It's intense... Ahh♥ Aaahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はげしっ……あっ♥ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（媚薬の効果も効いてるうちに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "快楽責めにしてち〇ぽのことしか考えられなくしてやる……！）"
+                                ""
                             ]
                         },
                         {
@@ -5355,7 +5331,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ああっ♥あんっ♥あんっ♥ああああぁぁ♥"
+                                "\\nw[Taro](While the aphrodisiac is still effective, I'll\nmake you unable to think of anything but being\npleasured by my c*ck...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Aahh♥ Ahn♥ Ahn♥ Aaaahhh♥"
                             ]
                         },
                         {
@@ -5391,7 +5391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二日後……"
+                                "Two days later..."
                             ]
                         },
                         {
@@ -5448,7 +5448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ふぁ……あっ……ああっ♥"
+                                "\\nw[Fross]Fuu... Ah... Aahh♥"
                             ]
                         },
                         {
@@ -5465,7 +5465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ほら、見られてるんだからちゃんとアピールだろ？"
+                                "\\nw[Taro]Hey, since we're being watched, make sure to\nproperly show off, okay?"
                             ]
                         },
                         {
@@ -5482,7 +5482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]は、はい……ぴ、ぴーす……♥"
+                                "\\nw[Fross]Y-Yes... P-Peace... ♥"
                             ]
                         },
                         {
@@ -5499,7 +5499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]よしよし、よく言えたな。"
+                                "\\nw[Taro]Good job, well said."
                             ]
                         },
                         {
@@ -5516,7 +5516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]えへへぇ……できたからごほうびぃ♥"
+                                "\\nw[Fross]Ehehe... Since I did it, can I have a reward? ♥"
                             ]
                         },
                         {
@@ -5533,7 +5533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかったわかった、ほら！"
+                                "\\nw[Taro]Alright, alright, here you go!"
                             ]
                         },
                         {
@@ -5569,7 +5569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]うひぃぃ♥はげしっ、ひあっ、あっ、あひぃ♥"
+                                "\\nw[Fross]Uhihhh♥ It's intense... Hiaaahh, ahh, ahihh♥"
                             ]
                         },
                         {
@@ -5586,165 +5586,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎はあれからほとんど休ませずにフロスを犯しまくって"
+                                "Since then, Taro has been relentlessly violating\nFross without giving her much rest, successfully\ndriving her to lose all reason. Thanks to that,\nFross is now completely in heat and unable to\nthink straight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "理性を飛ばすことに成功した。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おかげでフロスは完全に発情しており、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まともな思考ができなくなっている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フロスは元々非常に性欲が強く暴走した経験が多い女である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その際は攻めてばかりなのだが、今は逆になっている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Huma]おー、いい顔してるねフロスちゃんは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おれ達もやろうぜ、ノンナちゃん～"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]……私達は待機中なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウカ達が敵を発見したら動けないといけないの"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Huma]ちぇ、わかったよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも軽く入れるくらいなら平気じゃね？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]駄目よ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかった？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Huma]しかたないな～"
+                                ""
                             ]
                         },
                         {
@@ -5761,21 +5624,127 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今見学中なのはノンナとイエローだ。"
+                                "Fross is originally a woman with a very strong\nsexual desire and has had many experiences of\ngoing out of control. During those times, she was\nalways the one taking the initiative, but now it\nhas become the opposite."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "索敵役と待機役は交代しながら移動しているが、"
+                                "\\nw[Huma]Oh, Fross-chan, you have such a nice expression.\nLet's join in too, Nonna-chan~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "別に２チームでというわけでもない。"
+                                "\\nw[Nonna]...We're on standby. If Uka and the others spot an\nenemy, we have to be ready to move."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Huma]Geez, I got it~. But if it's just going in\nlightly, it should be fine, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Nonna]Is it not allowed? Do you understand?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Huma]Oh well~"
                             ]
                         },
                         {
@@ -5792,55 +5761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ索敵能力はウカとノンナが高いため二人のうちどちらかは"
+                                "Currently, Nonna and Yellow are on a sightseeing\ntour. They are taking turns as the scouting team\nand the standby team while moving around, but it's\nnot like they are divided into two separate teams."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "索敵役にならなければならないのだが。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]あんっ♥ああっ♥ふあっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこっ、もっと、あっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（さすがに気まずい……）"
+                                ""
                             ]
                         },
                         {
@@ -5857,21 +5792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎にとってノンナは恋人ではあるが、同時に育ての親でもある。"
+                                "However, since Uka and Nonna have high scouting\nabilities, one of them must take on the role of\nscouting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "親の前で他の女性を寝取ってるところを見られるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "羞恥プレイも同然である。"
+                                ""
                             ]
                         },
                         {
@@ -5888,38 +5816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（だがやめるわけにもいかない……"
+                                "\\nw[Fross]Ahh♥ Ahh♥ Fuahh, ah, ahhn♥ Right there, more, ah,\nah, ahhn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そもそもノンナとも肉体関係は持つんだし……）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（ここでフロスを寝取る……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのために躊躇はしないんだ……！）"
+                                ""
                             ]
                         },
                         {
@@ -5936,24 +5840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]あんっ♥ふあっ、んんんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]ちゅっ、んっ、んんっ……♥"
+                                "\\nw[Taro](This is really awkward...)"
                             ]
                         },
                         {
@@ -5970,21 +5857,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎は激しく腰を振りながら"
+                                "Nonna is both a lover and a parent figure to Taro.\nIt is extremely embarrassing for him to be caught\nby his parent figure while taking another woman in\nfront of her, almost like a shameful play."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "目の前の二人に見せつけるようにフロスの唇を奪った。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "互いの舌を絡めて唾液が口の端から溢れてくる。"
+                                ""
                             ]
                         },
                         {
@@ -6001,14 +5888,72 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]んっ、んんっ♥"
+                                "\\nw[Taro](But I can't just stop... After all, I have a\nphysical relationship with Nonna...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んふっ、んんっ、んんんっ♥"
+                                "\\nw[Taro](I will take Fross here...! I won't hesitate for\nthat...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Ahh♥ Fuahh, nnngghh♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Mmm, ngh, mmm...♥"
                             ]
                         },
                         {
@@ -6025,7 +5970,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "更にフロスの乳首も弄りながら陰核もこね回していく。"
+                                "Taro vigorously thrust his hips while stealing\nFross's lips in front of the two. Their tongues\nentwined with each other, and saliva overflowed\nfrom the corners of their mouths."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Mmm, mmm♥ Nfu, mmm, mmm♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6042,14 +6025,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イきまくりで発情しているフロスがその責めに耐えられるはずもなく、"
+                                "While further playing with Fross's nipples, he\nalso kneaded her clitoris."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すぐに絶頂を迎えた。"
+                                "Fross, who was in a state of constant climax and\narousal, couldn't withstand the stimulation and\nquickly reached orgasm."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6080,7 +6080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]んんんんんん～～～～～～♥♥♥"
+                                "\\nw[Fross]Mmmmmmmmm~♥♥♥"
                             ]
                         },
                         {
@@ -6097,21 +6097,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂するフロスだが、それを無視するように太郎は責め続ける。"
+                                "Taro continues to relentlessly pleasure Fross, who\nis reaching climax. Taro thought he might become\nexhausted from overuse, but his recovery ability\nis extraordinary due to being a succubus."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "太郎は使いすぎて辛くなるかと思っていたが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "淫魔となってるために回復力が尋常ではない。"
+                                ""
                             ]
                         },
                         {
@@ -6128,31 +6128,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全く休まなければ回復しないのだが、"
+                                "Although I won't recover if I don't rest at all, I\nfully recover with just a short break."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少しの休憩で全快してしまうのだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ふぅ……ふぅ……！"
+                                ""
                             ]
                         },
                         {
@@ -6169,14 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（すげえ締め付けで射精しそうだが、我慢だ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フロスはハードな責めが好みだからな……！）"
+                                "\\nw[Taro]*huff*... *huff*...!"
                             ]
                         },
                         {
@@ -6193,7 +6169,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（ひたすら快楽責めだ……！）"
+                                "\\nw[Taro](It feels so tight, I'm about to ejaculate, but\nI'll hold it in...! Fross likes it rough, after\nall...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6210,14 +6193,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]んんんっ♥んんっ～～～～♥"
+                                "\\nw[Taro](I'm relentlessly pleasuring her...!)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んんんっ、んんっ、んんっ～～～～～～♥"
+                                "\\nw[Fross]Mmmmm♥ Ahhhhh~♥ Mmmm, mmmm, mmmm~♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6248,21 +6248,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "反射で多少筋肉は動くが既に腰が抜けてて力の入らないフロス、"
+                                "Taro, who continues to stimulate Fross's erogenous\nzones while her muscles twitch reflexively, is\nundoubtedly a problematic sight when viewed from\nthe outside, as Fross's legs have already gone\nweak and she can't muster any strength, all while\nher lips are still sealed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなフロスの唇を塞いだまま性感帯を責め続ける太郎は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "端から見たら間違いなくまずい光景である。"
+                                ""
                             ]
                         },
                         {
@@ -6279,21 +6279,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな息子を見るノンナの気持ちは察するのが難しい。"
+                                "It's difficult to understand Nonna's feelings when\nshe sees her son like that. However, judging from\nher casual and cheerful responses to Yellow, it\nseems like she is maintaining her composure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかしへらへらとしたイエローに対する受け答えからすると"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "平常心には見える。"
+                                ""
                             ]
                         },
                         {
@@ -6310,14 +6310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]んぶっっ、んんっ、んぐっ、んんっ、んむぅぅ♥♥"
+                                "\\nw[Fross]Mmm, ah, ah, ah, ah, ah~♥♥ Ah, ah, ah, ah~♥♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んふっ、んんっ、んっ、んんんん～～～♥♥♥"
+                                ""
                             ]
                         },
                         {
@@ -6348,7 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（我慢だ……我慢だ……我慢……！）"
+                                "\\nw[Taro](I endure... I endure... I endure...!)"
                             ]
                         },
                         {
@@ -6459,14 +6459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "射精を我慢しながら突き続けようとしていた太郎だったが、"
+                                "Taro, who was trying to continue thrusting while\nholding back his ejaculation, finally reached his\nlimit because the tightness felt too good."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やはり締りが気持ちよすぎて限界を迎えてしまった。"
+                                ""
                             ]
                         },
                         {
@@ -6483,14 +6483,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし射精しながらもフロスを攻め続ける動きを行い、"
+                                "However, while ejaculating, Taro continues his\nmovements of attacking Fross, relentlessly\nthrusting while greedily devouring her nipples and\nclitoris, all while passionately kissing her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひたすらキスをしながら乳首と陰核を貪りつつ突き上げ続ける。"
+                                ""
                             ]
                         },
                         {
@@ -6507,14 +6507,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]んんっ……♥んぶっ、んんんっ、んはっ♥"
+                                "\\nw[Fross]Mmm... ♥ Nbuu, mmm... nhaa ♥ Nchu, mmm... nnn,\nnnngg... ♥♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んちゅっ、んんっ、んっ、んんんんっ……♥♥"
+                                ""
                             ]
                         },
                         {
@@ -6550,7 +6550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後太郎はフロスがイきすぎて失神するまでひたすら責め続けた。"
+                                "Taro continued to relentlessly pleasure Fross\nuntil she orgasmed so much that she fainted."
                             ]
                         },
                         {
@@ -6574,7 +6574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三日後……"
+                                "Three days later..."
                             ]
                         },
                         {
@@ -6631,7 +6631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]うひっ♥おほっ♥おぉっ♥おほっ♥おぉぉっ♥"
+                                "\\nw[Fross]Uhii♥ Ohh♥ Oohh♥ Ohh♥ Oohhh♥"
                             ]
                         },
                         {
@@ -6648,45 +6648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ふぅ……ふぅ……"
+                                "\\nw[Taro]*sigh*... *sigh*... I've completely lost my\nresistance to being watched."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すっかり見られることへの抵抗がなくなったな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]おひっ♥おほぉっ♥まだ、はずかしいでしゅ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもっ♥んひぃっ♥それがむしろよくてっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふあっ♥んひっ♥おひぃぃっ♥"
+                                ""
                             ]
                         },
                         {
@@ -6703,7 +6672,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]はぁ……はぁ……なるほどな……"
+                                "\\nw[Fross]Ohh♥ Oohh♥ I'm still embarrassed, desu♥ But, nhii♥\nThat actually feels good, desu♥ Fuahh♥ Nhii♥\nOhhiiii♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Haa... haa... I see..."
                             ]
                         },
                         {
@@ -6720,38 +6720,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フロスの寝取りは順調に進んでいる。"
+                                "Fross's cuckoldry is progressing smoothly. She has\nbecome constantly craving Taro's penis and seems\nto be completely captivated by it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "太郎のペニスを常に欲しがるようになっており、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もはや虜になっている様子だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Uka]……そろそろ……着くって……"
+                                ""
                             ]
                         },
                         {
@@ -6768,7 +6751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ん、おお、目的の魔物のところに到着しそうか。"
+                                "\\nw[Uka]...Soon...we'll...arrive..."
                             ]
                         },
                         {
@@ -6785,7 +6768,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（となると、タイミングは今か……）　"
+                                "\\nw[Taro]Mmm, ohh, it seems like we're about to arrive at\nthe location of the target monster."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](In that case, the timing is now...)"
                             ]
                         },
                         {
@@ -6837,31 +6837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ふあっ……んっ♥"
+                                "\\nw[Fross]Fuahh... nghh♥ Why so slow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんでゆっくりに……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]フロス、オレのモノになれ。"
+                                ""
                             ]
                         },
                         {
@@ -6878,14 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ふえっ……太郎さんのもの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいびと？"
+                                "\\nw[Taro]Fross, become mine."
                             ]
                         },
                         {
@@ -6902,7 +6878,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]わたしはこいびとが……んああっ♥"
+                                "\\nw[Fross]Fue... Taro-san's... lover?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6919,14 +6902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]恋人になれって言ってるんじゃない、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ恋人とはそのまま別れるな。"
+                                "\\nw[Fross]I...nhh...have a lover...ahh♥"
                             ]
                         },
                         {
@@ -6943,7 +6919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ふえっ……？ふたまた……？"
+                                "\\nw[Taro]I'm not saying become my lover, rather, don't\nbreak up with your lover."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6960,21 +6943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]どういう言い方が正しいかはわからないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の男と恋人のままでいるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その上でオレのモノになれ。"
+                                "\\nw[Fross]Huh...? Another one...?"
                             ]
                         },
                         {
@@ -6991,7 +6960,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]……？"
+                                "\\nw[Taro]I don't know the right way to say it, but stay\nwith your lover while becoming mine."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]......?"
                             ]
                         },
                         {
@@ -7008,38 +7008,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "太郎が寝取り好きであり、"
+                                "Taro has a liking for NTR (cuckolding), and Fross,\nwho is not very familiar with such a fetish and\nhas dulled thinking, does not understand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロスはそのような性癖をあまり知らない上"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "思考が鈍くなっているため理解ができていない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（駄目だ、寝取ろうと興奮しすぎてオレもおかしくなってる）"
+                                ""
                             ]
                         },
                         {
@@ -7056,21 +7039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（他人の恋人の方が興奮するし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の恋人にするより他人の恋人のまま心を寝取った方が興奮する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけの事なんだが……）"
+                                "\\nw[Taro](No, I'm getting too excited about cuckolding and\nlosing my mind.)"
                             ]
                         },
                         {
@@ -7087,38 +7056,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]オレのモノになるならまたこの快感を味わえるぞ。"
+                                "\\nw[Taro](It's just that I get more excited by someone\nelse's lover, and it's more thrilling to steal\ntheir heart while they remain with their lover...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だからオレのモノになれ"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（台詞が悪人みたいだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、寝取ろうとしてるせいか言っててすげえ興奮する……）"
+                                ""
                             ]
                         },
                         {
@@ -7135,7 +7087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]太郎さんのものに……あんっ♥"
+                                "\\nw[Taro]If you become mine, you can experience this\npleasure again. So, become mine."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7152,31 +7111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]うん、なります♥んっ、あんっ♥"
+                                "\\nw[Taro](My lines make me sound like a villain... but for\nsome reason, I get incredibly excited saying them\nas I try to steal someone away...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "太郎さんのものにしてください♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]お、おう……"
+                                ""
                             ]
                         },
                         {
@@ -7193,14 +7135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]だからぁ、もっとおま〇こしてくださいぃ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとはげしく、太郎さんにしてほしいんですぅ♥ "
+                                "\\nw[Fross]To be Taro-san's... ahh♥"
                             ]
                         },
                         {
@@ -7217,7 +7152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（ずいぶんあっさりだな、都合がいいけど）"
+                                "\\nw[Fross]Yes, I will... Ahh, yes... Please make me yours,\nTaro-san♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7234,7 +7176,65 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった、それじゃあ到着までたっぷり可愛がってやる！"
+                                "\\nw[Taro]O-Okay..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]That's why... please do it to my pussy more♥ I\nwant you to do it more intensely, Taro-san♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](You're quite easygoing, it's convenient for me\nthough)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Alright, then I'll shower you with plenty of love\nuntil we arrive!"
                             ]
                         },
                         {
@@ -7286,14 +7286,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]おほぉ、おほぉぉぉぉぉ♥"
+                                "\\nw[Fross]Ohhh, ohhhhhhh♥ This, this feels so good♥♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これっ、こりぇしゅきぃぃ♥♥"
+                                ""
                             ]
                         },
                         {
@@ -7310,7 +7310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]おひっ♥おほっ♥おっ♥おほおおぉぉぉ～～♥♥"
+                                "\\nw[Fross]Ohh♥ Ahh♥ Ooh♥ Ohoohooo~♥♥"
                             ]
                         },
                         {
@@ -7346,7 +7346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後魔物のいる付近に到着するまで太郎はフロスをイかせ続けた。"
+                                "Taro continued to make Fross orgasm until they\narrived near the monsters."
                             ]
                         },
                         {
@@ -7601,38 +7601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]そうですか、倒してくれたんですね……"
+                                "\\nw[Fross]I see, so you defeated him... Now Rodrigo-san's\ncondition will return to normal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これでロドリゴさんの体調も普通に……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ああ、たぶんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際のところは帰って確認しよう。"
+                                ""
                             ]
                         },
                         {
@@ -7649,7 +7625,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]だから今は無事に帰るために……"
+                                "\\nw[Taro]Ah, maybe. Let's actually go back and confirm."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]So, for now, in order to return safely..."
                             ]
                         },
                         {
@@ -7706,7 +7706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]はい、わかっています。"
+                                "\\nw[Fross]Yes, I understand."
                             ]
                         },
                         {

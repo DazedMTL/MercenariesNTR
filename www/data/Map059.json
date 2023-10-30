@@ -12601,7 +12601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]おい、大丈夫か！？"
+                                "\\nw[Taro]Hey, are you okay!?"
                             ]
                         },
                         {
@@ -12618,7 +12618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]うっ……お前達は……？"
+                                "\\nw[Man]Ugh... Who are you guys...?"
                             ]
                         },
                         {
@@ -12635,38 +12635,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]話せるみたいだな。"
+                                "\\nw[Taro]Looks like you can speak. Can you tell me your\nname?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "名前は言えるか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]オレはロドリゴだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪我をして動けなく……ううっ！？"
+                                ""
                             ]
                         },
                         {
@@ -12683,31 +12659,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ロドリゴだな、人違いしてなさそうでよかった。"
+                                "\\nw[Rodrigo]I'm Rodrigo... I'm injured and can't move... Ugh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロスの依頼で助けに来た。歩けそうもないのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]ああ、すまん"
+                                ""
                             ]
                         },
                         {
@@ -12724,31 +12683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった、しかし一人で運ぶにはデカすぎるな。"
+                                "\\nw[Taro]It's Rodrigo, right? I'm glad I didn't mistake you\nfor someone else. I came to help on Fross's\nrequest. Can you not walk?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イエロー、運ぶの手伝ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Huma]お～、女の子じゃないのが残念だけど仕方ないか～"
+                                ""
                             ]
                         },
                         {
@@ -12765,7 +12707,65 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]よし、町へ戻るぞ。"
+                                "\\nw[Rodrigo]Ah, sorry."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]I understand, but it's too big to carry alone.\nYellow, can you help me carry it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Huma]Oh, it's a shame you're not a girl, but I guess\nthere's nothing we can do about it."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Alright, let's head back to town."
                             ]
                         },
                         {
@@ -12822,7 +12822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]お～"
+                                "\\nw[Uka]Oh~"
                             ]
                         },
                         {
@@ -13013,7 +13013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]太郎……つんつん……"
+                                "\\nw[Uka]Taro... tsun tsun..."
                             ]
                         },
                         {
@@ -13030,7 +13030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お、どうした？"
+                                "\\nw[Taro]Oh, what's wrong?"
                             ]
                         },
                         {
@@ -13047,7 +13047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]右の奥の方……\\|誰かいそう……かも？"
+                                "\\nw[Uka]Someone seems to be over there on the right...\nmaybe?"
                             ]
                         },
                         {
@@ -13064,14 +13064,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]本当か？"
+                                "\\nw[Taro]Is that true? How do you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何でわかるんだ？"
+                                ""
                             ]
                         },
                         {
@@ -13088,7 +13088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]何で……？"
+                                "\\nw[Uka]Why...?"
                             ]
                         },
                         {
@@ -13145,7 +13145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……\\|何で……"
+                                "\\nw[Uka]......Why......"
                             ]
                         },
                         {
@@ -13162,7 +13162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……\\|……"
+                                "\\nw[Uka]............"
                             ]
                         },
                         {
@@ -13219,7 +13219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……\\|何で？"
+                                "\\nw[Uka]......Why?"
                             ]
                         },
                         {
@@ -13236,7 +13236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（自分でもわかってないのか……）"
+                                "\\nw[Taro](Doesn't she even understand herself...)"
                             ]
                         },
                         {
@@ -13253,7 +13253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった、とにかく右の奥の方だな。"
+                                "\\nw[Taro]Alright, anyway, it's towards the back on the\nright."
                             ]
                         },
                         {
@@ -13270,7 +13270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]うん……"
+                                "\\nw[Uka]Hmm..."
                             ]
                         },
                         {
@@ -13431,7 +13431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]こっちじゃないな、反対の方へ向かおう。"
+                                "\\nw[Taro]This isn't the right way, let's head in the\nopposite direction."
                             ]
                         },
                         {
@@ -14756,7 +14756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒットブーストを手に入れた！"
+                                "I obtained a hit boost!"
                             ]
                         },
                         {

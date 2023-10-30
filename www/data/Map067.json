@@ -2282,7 +2282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[御者]お連れの方は馬車の中で休んでますよ。"
+                                "\\nw[Coachman]The person you're with is resting inside the\ncarriage."
                             ]
                         },
                         {
@@ -2290,9 +2290,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "買い物をする",
-                                    "休憩する",
-                                    "何も用はない"
+                                    "Go shopping",
+                                    "Take a break",
+                                    "I have nothing to say"
                                 ],
                                 2,
                                 0,
@@ -2313,10 +2313,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "武器を買う",
-                                    "防具を買う",
-                                    "道具を買う",
-                                    "やっぱりやめる"
+                                    "Buy a weapon",
+                                    "Buy armor",
+                                    "Buy equipment",
+                                    "I'll stop after all"
                                 ],
                                 3,
                                 -1,
@@ -2838,7 +2838,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[御者]気を付けてください"
+                                "\\nw[Coachman]Please be careful."
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[御者]気を付けてください"
+                                "\\nw[Coachman]Please be careful."
                             ]
                         },
                         {
@@ -2996,7 +2996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[御者]気を付けてください"
+                                "\\nw[Coachman]Please be careful."
                             ]
                         },
                         {
@@ -3248,14 +3248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]場所はこのあたりだけど……"
+                                "\\nw[Taro]The location is around here... but it seems like\nthey're quite far down."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大分下の方にいるみたいだな。"
+                                ""
                             ]
                         },
                         {
@@ -3272,7 +3272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]水があるから水中なのか？"
+                                "\\nw[Taro]Is it underwater because there's water?"
                             ]
                         },
                         {
@@ -3329,38 +3329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]でもここは湖というよりは湿地帯ね。"
+                                "\\nw[Nonna]But this place is more like a marshland than a\nlake. It's hard to imagine it becoming too deep."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あまり深い水深になるとは考えずらいわ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]湿地帯に地下があるというのもおかしいのだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その可能性も考えて探索した方がいいかもしれないわ。"
+                                ""
                             ]
                         },
                         {
@@ -3377,38 +3353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]なるほど……水深が深いところがないか探しながら"
+                                "\\nw[Nonna]It's strange to think that there's an underground\narea in a marshland, but it might be worth\nconsidering that possibility and exploring."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "地下への入り口を探る形か。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]とはいえ、水中に潜ってたらお手上げだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水中に潜るための装備もない現状待つしかできないしな。"
+                                ""
                             ]
                         },
                         {
@@ -3425,31 +3377,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]何にしてもまずは調査か。"
+                                "\\nw[Taro]I see... So we're searching for an entrance to the\nunderground while looking for a place with deep\nwater."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "地下への入り口があればいいんだけどな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]休憩したり買い物をしたいときは御者さんに話しかけてね。"
+                                ""
                             ]
                         },
                         {
@@ -3466,14 +3401,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、腰が抜けて動けないフロスも馬車にいるしな。"
+                                "\\nw[Taro]Well, even if we dive underwater, it's hopeless.\nWe don't have any equipment to dive underwater, so\nall we can do is wait for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔力回復するときは頼むとしよう。"
+                                ""
                             ]
                         },
                         {
@@ -3490,7 +3425,72 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]それじゃあ出発するか。"
+                                "\\nw[Taro]Whatever we do, we should start with an\ninvestigation. It would be great if there's an\nentrance to the underground."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Nonna]When you want to take a break or go shopping, talk\nto the coachman."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Ah, Fross who can't move because her legs gave out\nis also in the carriage. Let's rely on her to\nrecover our magical power."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Well then, shall we depart?"
                             ]
                         },
                         {
@@ -3547,7 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh..."
                             ]
                         },
                         {
@@ -3620,21 +3620,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -3860,7 +3860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]足元が悪いし、気を付けてね。"
+                                "\\nw[Nonna]Be careful, the ground is slippery."
                             ]
                         },
                         {
@@ -3868,8 +3868,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -3996,14 +3996,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]やはり耐性が高くても疲れていればいけるな。"
+                                "\\nw[Thorz]Even if you have high resistance, you can still\nget tired. It's a good thing I'm small and it was\ntough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小柄だからきつくてよかったな。"
+                                ""
                             ]
                         },
                         {
@@ -4080,14 +4080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]体位や動き方で感じ方は変わるからね。"
+                                "\\nw[Huma]The way you feel can change depending on the\nposition and movements. Let's try various things,\nokay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色々試そう、な！"
+                                ""
                             ]
                         },
                         {
@@ -4204,14 +4204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]水……浅い……"
+                                "\\nw[Uka]Water... shallow... can't drink... it seems..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "飲めない……みたい……"
+                                ""
                             ]
                         },
                         {
@@ -4219,8 +4219,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,

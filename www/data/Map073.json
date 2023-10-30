@@ -4529,7 +4529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]この近くに魔力の反応があるな。"
+                                "\\nw[Taro]There seems to be a magical energy response\nnearby."
                             ]
                         },
                         {
@@ -4586,7 +4586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]風や音から判断してそろそろ行き止まりね。"
+                                "\\nw[Nonna]Judging from the wind and sound, it seems like\nwe're reaching a dead end soon."
                             ]
                         },
                         {
@@ -4603,7 +4603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうか……索敵で数はわかるか？"
+                                "\\nw[Taro]I see... Can you determine the number through\nreconnaissance?"
                             ]
                         },
                         {
@@ -4660,7 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]んん～……"
+                                "\\nw[Nonna]Mmm..."
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]判断がつかないわね、ウカはわかる？"
+                                "\\nw[Nonna]I can't tell, can you figure it out, Uka?"
                             ]
                         },
                         {
@@ -4741,7 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]んー……一体？"
+                                "\\nw[Uka]Hmm... What could it be?"
                             ]
                         },
                         {
@@ -4758,7 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]確かか？"
+                                "\\nw[Taro]Are you sure?"
                             ]
                         },
                         {
@@ -4775,38 +4775,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]一体は……いる……"
+                                "\\nw[Uka]What on earth... is there... if it's hiding...\nit's a mystery..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隠れてたら……謎……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ふむ……索敵を掻い潜る方法もあるだろうしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体なら楽でいいんだが……"
+                                ""
                             ]
                         },
                         {
@@ -4823,7 +4799,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]とりあえず魔物のいる方へ向かおう。"
+                                "\\nw[Taro]Hmmm... There might be a way to sneak through the\nreconnaissance. It would be easier if there's only\none..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Let's head towards the direction where the\nmonsters are for now."
                             ]
                         },
                         {
@@ -4880,7 +4880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh......"
                             ]
                         },
                         {
@@ -5108,31 +5108,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]魔物が一匹いるな……"
+                                "\\nw[Taro]There's a monster... The magical tool also\nindicates that it's the target monster..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔導具で目的の魔物があれであることも示してるが……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ウカの索敵にかかったのはあれか？"
+                                ""
                             ]
                         },
                         {
@@ -5149,7 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……うん……そう……"
+                                "\\nw[Taro]Is that what Uka's search detected?"
                             ]
                         },
                         {
@@ -5166,7 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……でも……ここの魔物と……違いそう？"
+                                "\\nw[Uka]......Yeah......that's right......"
                             ]
                         },
                         {
@@ -5183,7 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]違うってどういうことだ？"
+                                "\\nw[Uka]......But...this monster here...seems different,\ndoesn't it?"
                             ]
                         },
                         {
@@ -5200,7 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……えっと……ふんいき？"
+                                "\\nw[Taro]What do you mean it's different?"
                             ]
                         },
                         {
@@ -5217,14 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]雰囲気……\\|そう言えばここの魔物は水っぽかったのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは風属性が強そうな魔物だな。"
+                                "\\nw[Uka]......Um......the atmosphere?"
                             ]
                         },
                         {
@@ -5241,14 +5217,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]風の魔物は火属性に弱いことが多いし、"
+                                "\\nw[Taro]Atmosphere... come to think of it, the monsters\nhere were watery, but that one seems like a\nmonster with a strong wind attribute."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その点を考えて準備するか。"
+                                "\\nw[Taro]Wind monsters are often weak to fire attribute, so\nlet's consider that and prepare."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5290,38 +5290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]一人は伏兵や奇襲に備えて待機、"
+                                "\\nw[Taro]One person should stay on guard for ambushes and\nsurprise attacks, while the rest of the team\ndefeats that monster."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他のメンバーであの魔物を倒そう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Huma]おっけ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは先輩らしい所見せないとね～"
+                                ""
                             ]
                         },
                         {
@@ -5338,7 +5314,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]準備を整えたら戦いに行くぞ。"
+                                "\\nw[Huma]Alright~ I have to show them a place that seems\nlike a senpai~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Let's go into battle once we're prepared."
                             ]
                         },
                         {
@@ -5395,7 +5395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh..."
                             ]
                         },
                         {
@@ -5545,7 +5545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]さて、魔物と戦うか……"
+                                "\\nw[Taro]Well, shall we fight the monsters..."
                             ]
                         },
                         {
@@ -5553,8 +5553,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "準備をする"
+                                    "Fight",
+                                    "Prepare"
                                 ],
                                 1,
                                 -1,
@@ -5584,7 +5584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]よし、行くぞ！"
+                                "\\nw[Taro]Alright, let's go!"
                             ]
                         },
                         {
@@ -5792,14 +5792,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]倒せたか……一応魔力を吸ってる相手だったからか、"
+                                "\\nw[Taro]Did we defeat them...? I guess it's because they\nwere absorbing magic, the magic reaction has\ndisappeared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "魔力の反応は消えたな。"
+                                ""
                             ]
                         },
                         {
@@ -5816,14 +5816,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]プラエには連絡がつくから、報告だけしておく。"
+                                "\\nw[Taro]I'll just report to Prae since I can contact her.\nWell, it's only when Prae is looking at me\nthough..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まぁ、プラエがこっち見てる時限定だけど……"
+                                ""
                             ]
                         },
                         {
@@ -5920,7 +5920,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]ノンナ……これ……"
+                                "\\nw[Uka]Nonna... this..."
                             ]
                         },
                         {
@@ -5977,7 +5977,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]どうしたの？"
+                                "\\nw[Nonna]What's wrong?"
                             ]
                         },
                         {
@@ -5994,7 +5994,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]えっと……魔物の落とし物？"
+                                "\\nw[Nonna]Um... is this the drop from the monster?"
                             ]
                         },
                         {
@@ -6011,7 +6011,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]魔物の胸に……ついてた……"
+                                "\\nw[Uka]It was attached to the monster's chest..."
                             ]
                         },
                         {
@@ -6028,7 +6028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]これは……魔導具の一種？"
+                                "\\nw[Nonna]Is this... a type of magical device?"
                             ]
                         },
                         {
@@ -6045,7 +6045,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ん？魔導具？"
+                                "\\nw[Taro]Hm? A magical device?"
                             ]
                         },
                         {
@@ -6062,7 +6062,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]連絡終わったの？"
+                                "\\nw[Nonna]Did you finish contacting [Char_9]?"
                             ]
                         },
                         {
@@ -6079,38 +6079,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]いや、まだだけど……"
+                                "\\nw[Taro]No, not yet... but it seems Prae can see this side\ntoo, so show me a little."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "プラエはこっち側を見ることもできるらしいから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ちょっと見せてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Nonna]ええ、これよ。"
+                                ""
                             ]
                         },
                         {
@@ -6127,14 +6110,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]助かる、見えてるみたいだ。"
+                                "\\nw[Nonna]Yes, this is it."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ええっと……？"
+                                "\\nw[Taro]Thank goodness, it seems you can see me. Um...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6167,14 +6167,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]使い魔を使役するときに使う魔術っぽいらしいな。"
+                                "\\nw[Taro]It seems like it's some kind of magic used when\ncommanding familiars. It looks like a magical\ntool, but it seems to be just regular magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "魔導具っぽく見えるけど、ただの魔術らしい。"
+                                ""
                             ]
                         },
                         {
@@ -6191,14 +6191,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]魔物が死んだらすぐ消えるって……\\|"
+                                "\\nw[Taro]It said that it would disappear as soon as the\nmonster died... and while I was saying that, it\ndisappeared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "って、言ってるうちに消えたな。"
+                                ""
                             ]
                         },
                         {
@@ -6255,38 +6255,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]使い魔……"
+                                "\\nw[Nonna]Familiars... so there really is someone\ncontrolling them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ってことはやっぱり操ってる相手がいるのね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]みたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "多分この魔物に魔力を吸わせて、それを更に奪ってたんじゃないかって"
+                                ""
                             ]
                         },
                         {
@@ -6303,38 +6279,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]使い魔と言うことはこれより強いってことよね。"
+                                "\\nw[Taro]It seems so. Maybe it was sucking the magic power\nfrom this monster and then stealing it even more."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それに倒されたことに気が付くかもしれない"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Nonna]早めに離脱するべきだと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この魔物も強かったし、使い魔を倒したからには敵対は避けられないわ。"
+                                ""
                             ]
                         },
                         {
@@ -6351,14 +6303,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……そうだな、わざわざロドリゴを選んで魔力を吸わせてたんじゃなくて、"
+                                "\\nw[Nonna]So, if it's called a familiar, that means it's\nstronger than this. And it might realize that it\nwas defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "偶然吸った相手がロドリゴだった可能性の方が高い。"
+                                ""
                             ]
                         },
                         {
@@ -6375,14 +6327,62 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]しかもここじゃ援軍も見込めないしな。"
+                                "\\nw[Nonna]I think we should retreat early. This monster was\nstrong, and now that we've defeated its familiar,\nwe can't avoid becoming enemies."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "目的は達成したし、とっとと馬車まで戻って町に戻るか。"
+                                "\\nw[Taro]......Yeah, it's more likely that it was just a\ncoincidence that Rodrigo happened to be the one\nwho accidentally absorbed the magic power, rather\nthan intentionally choosing him to do so."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Moreover, we can't expect any reinforcements here.\nOur objective has been achieved, so let's quickly\nreturn to the carriage and go back to town."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6439,7 +6439,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh..."
                             ]
                         },
                         {
@@ -6578,7 +6578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]もうちょっと準備をするか"
+                                "\\nw[Taro]Let's prepare a little more."
                             ]
                         },
                         {

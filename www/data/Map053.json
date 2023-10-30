@@ -2425,7 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]今ミニライブ中だから邪魔だ"
+                                "\\nw[Shia]I'm in the middle of a mini live, so don't disturb\nme."
                             ]
                         },
                         {
@@ -2620,14 +2620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]シアのファンを集めてミニライブを開いてるんだよ。"
+                                "\\nw[Dalton]I'm gathering Shia's fans and holding a mini live.\nSurprisingly, there are fans even in this town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結構この町でもファンがいるんだ"
+                                ""
                             ]
                         },
                         {
@@ -2644,7 +2644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ま、この後の事を考えて男しか集めてはないがな。"
+                                "\\nw[Dalton]Well, considering what's going to happen later,\nI'll only gather men."
                             ]
                         },
                         {
@@ -2721,14 +2721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[職員]うおお～～！"
+                                "\\nw[Staff]Wooohoo~! Shia-chan~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シアちゃん～！"
+                                ""
                             ]
                         },
                         {
@@ -2796,14 +2796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[職員]うおお～～！"
+                                "\\nw[Staff]Wooohoo~! Shia-chan~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シアちゃん～！"
+                                ""
                             ]
                         },
                         {
@@ -2880,7 +2880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]おお～～！！"
+                                "\\nw[Soldier]Ohhh!!"
                             ]
                         },
                         {
@@ -2957,7 +2957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]かっこいー！"
+                                "\\nw[Citizen]Cool!"
                             ]
                         },
                         {
@@ -3055,21 +3055,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「シア×ファン、ミニライブ後」"
+                                "Shia x Fan, after the mini live is an event that I\nhave seen before. Would you like to skip the\nevent?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一度見たことのあるイベントです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -3077,8 +3077,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -3207,55 +3207,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン１]シアちゃんは最高だよ！"
+                                "\\nw[Fan 1]Shia-chan is the best! I can't believe I get to\nhold her like this...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさかこうして抱けるなんて……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[ファン２]ううっ、シアちゃんの口に入れられるなんて……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミニライブを行った後、シアはファンの男達と交わっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "主催をしたドルトンもその様子を見ている。"
+                                ""
                             ]
                         },
                         {
@@ -3272,55 +3231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]ちゅるっ、じゅるるっ、ちゅるるっ、じゅるっ、ちゅるる……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[ファン２]すごい舌使いだ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり歌が上手いだけあってペニスを舐めるのも上手いんだね！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Shia]んぶっ、ちゅるるぅ……んぐっ、ちゅるっ、じゅるる……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んんっ、じゅるる……！"
+                                "\\nw[Fan 2]Uu, to think I can put it in Shia-chan's mouth...!"
                             ]
                         },
                         {
@@ -3337,14 +3248,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアも楽しそうにペニスをしゃぶりながら腰を振っている。"
+                                "After the mini live, Shia was engaging with her\nmale fans. Dalton, who organized the event, was\nalso watching the scene."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ライブで興奮していて性欲も高まってるからだ。"
+                                "\\nw[Shia]*slurp*, *gulp*, *slurp slurp*, *gulp*, *slurp\nslurp*...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fan 2]She's amazing with her tongue...! As expected,\nshe's not only skilled at singing, but also\nskilled at licking a penis!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Shia]Mmm, slurp... *gulp*, slurp, *slurp*...! Mmm,\n*slurp*...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3361,144 +3337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "色んな男に抱かれたり、魔物に犯されたりと様々な経験をしたことで"
+                                "Shia is shaking her hips while enthusiastically\nsucking on a penis. It's because she's excited\nfrom the live performance and her sexual desire\nhas increased."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シアは確実に淫魔として成長している。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "複数の男を相手にするくらい抵抗感もなくなっているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Dalton]どうだ、オレの言った通りだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シアのライブが見れる上に抱けるって。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[ファン３]ああ、半信半疑だったが来て見てよかったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シアちゃんとえっちできるなんて……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[ファン４]ありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きてきて最高の日だよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Dalton]なに、気にするな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレ達はみんなシアのファンだろう？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[ファン４]ドルトンさん……！"
+                                ""
                             ]
                         },
                         {
@@ -3515,21 +3361,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにいるのはドルトンの友人であるシアのファン仲間である。"
+                                "Shia has definitely grown as a succubus through\nvarious experiences such as being embraced by\ndifferent men and violated by monsters."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ファンクラブにはなってないが、ファン同士よく酒を飲んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盛り上がることが多い。"
+                                "It seems that she no longer has any resistance to\nengaging with multiple men."
                             ]
                         },
                         {
@@ -3546,7 +3402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]じゅるるっ、ちゅるるっ、じゅるっ、じゅるるっ、ちゅるる……！"
+                                "\\nw[Dalton]How about that? Just as I said, you can not only\nsee Shia's live performance but also hold her."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3563,38 +3426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン１]すごいすごい！"
+                                "\\nw[Fan 3]Ah, I was half skeptical, but I'm glad I came to\nsee. Being able to have sex with Shia-chan...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シアちゃんのおま〇こ気持ちよすぎる！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[ファン２]口も上手すぎだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長く味わいたいのに我慢できなくなっちゃうよ！"
+                                ""
                             ]
                         },
                         {
@@ -3611,7 +3450,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン５]順番待ってるんだから早くしろよ！"
+                                "\\nw[Fan 4]Thank you! It's the best day of my life to have\nlived until now!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3628,7 +3474,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン６]そうだぞ！人数を考えろ！"
+                                "\\nw[Dalton]What's the matter? Don't worry. We're all fans of\nShia, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3645,14 +3498,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン２]そんなこと言われても……うぅ！"
+                                "\\nw[Fan 4]Mr. Dalton...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シアちゃんが相手なのに……！"
+                                "The ones here are Shia's fellow fans who are\nfriends of Dalton. They may not be part of an\nofficial fan club, but they often enjoy drinking\ntogether and having a good time."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3669,14 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]時間はまだまだたっぷりある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人一回ヤるまではなるべく早くしてくれ。"
+                                "\\nw[Shia]*slurp*, *gulp*, *slurp*, *slurp*, *slurp*...!"
                             ]
                         },
                         {
@@ -3693,38 +3563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン２]う、うう……わかったよ……！"
+                                "\\nw[Fan 1]Amazing, amazing! Shia-chan's pussy feels so good!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "元々我慢も限界で……くぅ……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[ファン１]はぁはぁはぁ……孕ませてやる……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対オレの子供を孕ませてやる……！！"
+                                ""
                             ]
                         },
                         {
@@ -3741,7 +3587,161 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]じゅる、じゅるっ、ちゅるるるる～～～～！！"
+                                "\\nw[Fan 2]Your mouth skills are too good! I can't resist\nanymore and want to savor it for a long time!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fan 5]Hurry up, we're waiting our turn!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fan 6]That's right! Think about the number of people!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fan 2]Even if you say that... ugh! Even though it's\nShia-chan...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Dalton]We still have plenty of time. Please do it as\nquickly as possible until everyone has had a turn."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fan 2]Ugh, ugh... I get it...! I've been holding back\nfor so long... kuuh...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fan 1]Haa haa haa... I'm going to impregnate you...! I\nwill definitely make you pregnant with my\nchild...!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Shia]*slurp*, *gulp*, *slurp slurp slurp*~!"
                             ]
                         },
                         {
@@ -3893,7 +3893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン１]おっ、おおぉぉぉ……"
+                                "\\nw[Fan 1]Oh, ohhh..."
                             ]
                         },
                         {
@@ -3910,38 +3910,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]んくっ……んくっ……"
+                                "\\nw[Shia]*Mmm... mmm... slurp, mmmmm...*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゅるっ、んくんく……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[ファン２]ああぁぁっ、シアちゃん精液を吸い取ってくれて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううぅぅ！"
+                                ""
                             ]
                         },
                         {
@@ -3958,7 +3934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]ちゅるる……ぷはっ……"
+                                "\\nw[Fan 2]Ahhh, Shia-chan, please suck out my semen...\nughhh!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3975,7 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]んっ、……んくっ……"
+                                "\\nw[Shia]*slurp... puhh...*"
                             ]
                         },
                         {
@@ -3992,7 +3975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン２]シアちゃん……！"
+                                "\\nw[Shia]Mmm, ...nku..."
                             ]
                         },
                         {
@@ -4009,14 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]たっぷり出してくれてサンキューな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味かったぜ"
+                                "\\nw[Fan 2]Shia-chan...!"
                             ]
                         },
                         {
@@ -4033,7 +4009,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン１]シアちゃんにお礼を言って貰えるなんて……！"
+                                "\\nw[Shia]Thank you for giving me plenty. It was delicious."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4050,14 +4033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]人は沢山いるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の奴らの事も考えてさっさと代われ"
+                                "\\nw[Fan 1]I can't believe I'm able to thank Shia-chan...!"
                             ]
                         },
                         {
@@ -4074,7 +4050,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ファン２]は、はい！"
+                                "\\nw[Shia]There are plenty of people. Think about the others\nand hurry up and change."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fan 2]Yes!"
                             ]
                         },
                         {
@@ -4098,14 +4098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]やっぱりシアはみんなの歌姫じゃないとな。"
+                                "\\nw[Dalton]As expected, Shia is everyone's songstress. I'll\nsupport her so she can become famous!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シアが有名になれるように応援するぞ！"
+                                ""
                             ]
                         },
                         {
@@ -4267,14 +4267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]はぁはぁ……"
+                                "\\nw[Citizen]Haa...haa... Shia-chan's panties...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シアちゃんのパンツ……！"
+                                ""
                             ]
                         },
                         {
@@ -4351,7 +4351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こんな近くで見れるなんて……！"
+                                "\\nw[Citizen]I can't believe I can see it up close like\nthis...!"
                             ]
                         },
                         {
@@ -4419,7 +4419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こんな近くで見れるなんて……！"
+                                "\\nw[Citizen]I can't believe I can see it up close like\nthis...!"
                             ]
                         },
                         {
@@ -4496,7 +4496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]シアちゃん～！"
+                                "\\nw[Citizen]Shia-chan~!"
                             ]
                         },
                         {
@@ -4564,7 +4564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]シアちゃん～！"
+                                "\\nw[Citizen]Shia-chan~!"
                             ]
                         },
                         {
@@ -4641,7 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こっち見てくれ～！"
+                                "\\nw[Citizen]Look over here~!"
                             ]
                         },
                         {
@@ -4709,7 +4709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こっち見てくれ～！"
+                                "\\nw[Citizen]Look over here~!"
                             ]
                         },
                         {
@@ -4786,7 +4786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]おお～～！"
+                                "\\nw[Citizen]Ohhh~!"
                             ]
                         },
                         {
@@ -4854,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]おお～～！"
+                                "\\nw[Citizen]Ohhh~!"
                             ]
                         },
                         {
@@ -4931,7 +4931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]オオオオ～～～！！"
+                                "\\nw[Citizen]Oooooohhhh!!"
                             ]
                         },
                         {
@@ -4999,7 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]オオオオ～～～！！"
+                                "\\nw[Citizen]Oooooohhhh!!"
                             ]
                         },
                         {
@@ -5076,7 +5076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]……"
+                                "\\nw[Citizen]......"
                             ]
                         },
                         {
@@ -5144,7 +5144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]……"
+                                "\\nw[Citizen]......"
                             ]
                         },
                         {
@@ -5221,7 +5221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こっち見てくれ～！"
+                                "\\nw[Citizen]Look over here~!"
                             ]
                         },
                         {
@@ -5298,7 +5298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こっち見てくれ～！"
+                                "\\nw[Citizen]Look over here~!"
                             ]
                         },
                         {
@@ -5375,7 +5375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こっち見てくれ～！"
+                                "\\nw[Citizen]Look over here~!"
                             ]
                         },
                         {
@@ -5452,14 +5452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]シアのファンを集めてミニライブを開いてるんだよ。"
+                                "\\nw[Dalton]I'm gathering Shia's fans and holding a mini live.\nSurprisingly, there are fans even in this town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結構この町でもファンがいるんだ"
+                                ""
                             ]
                         },
                         {
@@ -5476,7 +5476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ま、この後の事を考えて男しか集めてはないがな。"
+                                "\\nw[Dalton]Well, considering what's going to happen later,\nI'll only gather men."
                             ]
                         },
                         {
@@ -5553,7 +5553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こっち見てくれ～！"
+                                "\\nw[Citizen]Look over here~!"
                             ]
                         },
                         {
@@ -5630,7 +5630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こっち見てくれ～！"
+                                "\\nw[Citizen]Look over here~!"
                             ]
                         },
                         {
@@ -5707,7 +5707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[市民]こっち見てくれ～！"
+                                "\\nw[Citizen]Look over here~!"
                             ]
                         },
                         {

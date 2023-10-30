@@ -5321,14 +5321,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先から強そうな相手の気配を感じる……"
+                                "I sense the presence of a strong opponent up\nahead... Should we proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進もうか？"
+                                ""
                             ]
                         },
                         {
@@ -5336,8 +5336,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "進まない"
+                                    "Proceed",
+                                    "Don't proceed"
                                 ],
                                 1,
                                 0,
@@ -5517,38 +5517,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]やぁやぁ待ってたよ。"
+                                "\\nw[???]Hey there, I've been waiting for you. Thanks for\nhelping me out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "協力してくれて助かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]随分余裕だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんな目に合わせておいて……"
+                                ""
                             ]
                         },
                         {
@@ -5565,7 +5541,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]あんな目って、何かあったっけ？"
+                                "\\nw[Taro]You seem quite relaxed. After putting me through\nthat..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5582,7 +5565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]気にするまでもないってことか？"
+                                "\\nw[???]Did something happen to those eyes?"
                             ]
                         },
                         {
@@ -5599,7 +5582,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]うん？何を言ってるんだい？"
+                                "\\nw[Taro]Is it not worth worrying about?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[???]Hmm? What are you talking about?"
                             ]
                         },
                         {
@@ -5656,7 +5656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]お前は、あの時の淫魔じゃねえか！"
+                                "\\nw[Shia]You're the succubus from back then!"
                             ]
                         },
                         {
@@ -5724,31 +5724,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]あっ、あの時の人だね。"
+                                "\\nw[???]Ah, you're the person from back then. It's been a\nwhile, hasn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "久しぶりだね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[？？？]良かった、すごくいい声してる。"
+                                ""
                             ]
                         },
                         {
@@ -5765,14 +5748,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]いい声とかお前には関係ないだろ！"
+                                "\\nw[???]Thank goodness, you have a really nice voice."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今すぐ呪いを解け！"
+                                "\\nw[Shia]It doesn't matter if you have a nice voice or not!\nLift the curse right now!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5840,14 +5840,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]えっ、何で？"
+                                "\\nw[???]Huh, why? My throat seems fine..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "喉の調子もよさそうだし……"
+                                ""
                             ]
                         },
                         {
@@ -5915,45 +5915,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]そうだ。"
+                                "\\nw[???]I see. Shall I cast it on you again? It seems like\nthe effect is about to wear off."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もう一回かけてあげよっか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "効果切れそうになってるみたいだし。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Shia]何言ってやがる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "解けっつってるのに掛けなおすとか、余計なことすんじゃねえ！"
+                                ""
                             ]
                         },
                         {
@@ -5970,14 +5946,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]まぁまぁ、遠慮しないでいいから。"
+                                "\\nw[Shia]What are you saying? I told you to lift it, so\ndon't go casting it again. Don't do unnecessary\nthings!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "任せて任せて。"
+                                ""
                             ]
                         },
                         {
@@ -5994,7 +5970,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……話がかみ合ってないな……"
+                                "\\nw[???]Well well, you don't have to hold back. Leave it\nto me, leave it to me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]...The conversation isn't making sense..."
                             ]
                         },
                         {
@@ -6051,45 +6051,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Saria]話しが通じてるかわかりませんが、"
+                                "\\nw[Saria]I'm not sure if we can communicate properly, but\ncan I assume that you're the one who created this\ndungeon?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このダンジョンを作ったのは貴女と言うことでいいですか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[？？？]うん、そうそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あ、もちろん魔導具使ってだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕じゃそんなこと無理だからね！"
+                                ""
                             ]
                         },
                         {
@@ -6106,21 +6075,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Saria]わかりました。"
+                                "\\nw[???]Yeah, that's right. Ah, of course I used magical\ntools. I can't do something like that on my own!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では、拘束させていただきます。"
+                                "\\nw[Saria]Understood. In that case, I will restrain you.\nPlease behave and let yourself be captured."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おとなしく捕まってください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6204,7 +6204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]何で！？"
+                                "\\nw[???]Why!?"
                             ]
                         },
                         {
@@ -6261,31 +6261,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Saria]騒ぎを起こしたからです。"
+                                "\\nw[Saria]It's because you caused a disturbance. There are\nvarious things, but first I will conduct an\ninvestigation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "色々ありますが、まずは事情聴取させてもらいますね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[？？？]嫌だよ！忙しいんだよ！"
+                                ""
                             ]
                         },
                         {
@@ -6302,14 +6285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Saria]そうはいかないです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪いことをしたのだから反省してください。"
+                                "\\nw[???]I don't want to! I'm busy, you know!"
                             ]
                         },
                         {
@@ -6326,14 +6302,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]何でだよ！"
+                                "\\nw[Saria]It won't go that easily. Since you've done\nsomething wrong, please reflect on it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "手伝ってくれたからお礼言うために待ってただけなのに！"
+                                "\\nw[???]Why the hell! I was just waiting to thank you\nbecause you helped me!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6390,7 +6390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Saria]お礼を……ですか？"
+                                "\\nw[Saria]Is it... gratitude?"
                             ]
                         },
                         {
@@ -6407,31 +6407,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]話がかみ合ってないし、話しが通じないタイプかもしれない。"
+                                "\\nw[Taro]The conversation isn't making sense, and it seems\nlike we might not be able to communicate well.\nMaybe it's better to catch you first and then hear\nwhat you have to say."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "とりあえず捕まえてから、話を聞いた方がいいんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Saria]それは……"
+                                ""
                             ]
                         },
                         {
@@ -6448,21 +6431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Saria]……\\|わかりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おとなしくついてきてくれますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうすれば傷つけたりはしませんので。"
+                                "\\nw[Saria]That is..."
                             ]
                         },
                         {
@@ -6479,7 +6448,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]良くないに決まってるだろ！バカ！"
+                                "\\nw[Saria]...Understood. Will you come quietly? If you do, I\nwon't hurt you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6496,7 +6479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]僕は忙しいの、そんなことに構ってる暇はないの！"
+                                "\\nw[???]It's obviously not good! Idiot!"
                             ]
                         },
                         {
@@ -6513,14 +6496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]おとなしく捕まってくれそうもないな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仕方ない、取り押さえるか。"
+                                "\\nw[???]I'm busy, I don't have time to pay attention to\nsuch things!"
                             ]
                         },
                         {
@@ -6537,7 +6513,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]もーバカ！そんな暇ないんだ！"
+                                "\\nw[Taro]It doesn't seem like you'll come quietly... Oh\nwell, I have no choice but to restrain you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6554,7 +6537,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]もういい、知らない！"
+                                "\\nw[???]Ugh, you idiot! I don't have time for that!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[???]Enough, I don't know!"
                             ]
                         },
                         {
@@ -6627,14 +6627,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Saria]あれは召喚魔術です。"
+                                "\\nw[Saria]That is summoning magic. Something is coming!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何か来ます！"
+                                ""
                             ]
                         },
                         {
@@ -6904,7 +6904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]くそっ、逃げられたか"
+                                "\\nw[Taro]Damn it, they escaped."
                             ]
                         },
                         {
@@ -6961,14 +6961,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]こちらの要求を一方的に押し付けすぎたかもしれません。"
+                                "\\nw[Saria]I may have been too forceful with our demands. If\nI had listened a little more, we might have been\nable to negotiate something..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もう少し話を聞いていれば何か交渉できたかもしれません……。"
+                                ""
                             ]
                         },
                         {
@@ -6985,7 +6985,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]それはそうかもしれないが……"
+                                "\\nw[Taro]That may be true, but..."
                             ]
                         },
                         {
@@ -7058,7 +7058,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]地面が揺れて……"
+                                "\\nw[Taro]The ground is shaking..."
                             ]
                         },
                         {
@@ -7122,14 +7122,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]ダンジョンが崩れるのかもしれません！"
+                                "\\nw[Saria]The dungeon might collapse! We need to escape\nquickly!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "急いで脱出しないと！"
+                                ""
                             ]
                         },
                         {
@@ -7146,7 +7146,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]マジかよ……くそっ、急ぐぞ！"
+                                "\\nw[Taro]Seriously... Damn it, let's hurry!"
                             ]
                         },
                         {

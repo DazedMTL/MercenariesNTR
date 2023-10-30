@@ -3412,38 +3412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ここがアルデア街道ね、"
+                                "\\nw[Kuno]So this is the Aldea Highway, huh? It looks well-\nmaintained and doesn't seem dangerous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "整備されてて危険そうには見えないけど"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]魔物は出るから気を付けた方がいいらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目的地は道沿いに西に進んでれば着くらしいから迷わないだろうな。"
+                                ""
                             ]
                         },
                         {
@@ -3460,14 +3436,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]そうね、しっかりした道みたいだし、"
+                                "\\nw[Taro]It seems that we should be careful because\nmonsters come out. It seems that if we continue\nwest along the road, we will reach our\ndestination, so we shouldn't get lost."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "寄り道でもしなきゃ平気ね。"
+                                ""
                             ]
                         },
                         {
@@ -3484,21 +3460,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうだな、魔物にだけ気を付けていくか。"
+                                "\\nw[Kuno]Yeah, it looks like a sturdy road, so we should be\nfine even if we take a detour."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "途中の宿には予約を入れてるらしいから、"
+                                "\\nw[Taro]Yeah, we should be careful only of the monsters.\nIt seems that a reservation has been made at the\ninn along the way, so let's aim to arrive there\ntoday."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日の到着を目標にするぞ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3578,7 +3578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]血の匂い……する……"
+                                "\\nw[Uka]I smell blood..."
                             ]
                         },
                         {
@@ -3595,7 +3595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]何！？"
+                                "\\nw[Taro]What!?"
                             ]
                         },
                         {
@@ -4113,7 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]って、そこの人！？"
+                                "\\nw[Taro]Hey, you there!?"
                             ]
                         },
                         {
@@ -4201,7 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]何か用？"
+                                "\\nw[Female]What do you want?"
                             ]
                         },
                         {
@@ -4218,14 +4218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、血塗れじゃないか！"
+                                "\\nw[Taro]No, it's covered in blood! Are you okay!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫か！？"
+                                ""
                             ]
                         },
                         {
@@ -4242,7 +4242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]ん？"
+                                "\\nw[Female]Hm?"
                             ]
                         },
                         {
@@ -4268,14 +4268,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]ああ、忘れてた。"
+                                "\\nw[Female]Ah, I forgot. Don't worry, this is just splattered\nblood."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、これ返り血だから。"
+                                ""
                             ]
                         },
                         {
@@ -4292,7 +4292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]ありがと、じゃあね。"
+                                "\\nw[Female]Thank you, see you later."
                             ]
                         },
                         {
@@ -4340,7 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、拭けよ！？"
+                                "\\nw[Taro]No, wipe it off!?"
                             ]
                         },
                         {
@@ -4388,7 +4388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]着替えられるところでするよ。"
+                                "\\nw[Female]I'll do it somewhere I can change clothes."
                             ]
                         },
                         {
@@ -4405,7 +4405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、洗浄の魔術とかあるだろ。"
+                                "\\nw[Taro]No, there's magic for cleaning, right?"
                             ]
                         },
                         {
@@ -4422,7 +4422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]ん～、不器用なんだよ。"
+                                "\\nw[Female]Hm~, I'm just clumsy."
                             ]
                         },
                         {
@@ -4439,7 +4439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]じゃあオレがかけるから少しじっとしてて。"
+                                "\\nw[Taro]Alright, then I'll carry you, so stay still for a\nbit."
                             ]
                         },
                         {
@@ -4581,7 +4581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]器用なんだね、ありがと。"
+                                "\\nw[Female]You're so skilled, thank you."
                             ]
                         },
                         {
@@ -4598,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]それじゃあね。"
+                                "\\nw[Female]Well then, see you."
                             ]
                         },
                         {
@@ -4768,7 +4768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]まぁ、怪我人じゃなくてよかったか……"
+                                "\\nw[Taro]Well, I'm glad it's not an injured person..."
                             ]
                         },
                         {
@@ -4832,7 +4832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……"
+                                "\\nw[Uka]......"
                             ]
                         },
                         {

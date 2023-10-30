@@ -9716,14 +9716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【村の警護】"
+                                "Complete the quest [VillageProtection] by\ndefeating three groups of monsters!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物の群れを３グループ討伐せよ！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10701,14 +10701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【村の警護】"
+                                "Quest [VillageProtection] Complete!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10834,7 +10834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 400EXP 300G 1名声を手に入れた。"
+                                "Obtained a reward of 400 EXP, 300G, and 1 fame."
                             ]
                         },
                         {
@@ -11091,14 +11091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【村の警護】"
+                                "Failed Quest [VillageGuard]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -11215,7 +11215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained a reward of 50 EXP."
                             ]
                         },
                         {
@@ -11562,7 +11562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒールを手に入れた！"
+                                "I obtained a heal!"
                             ]
                         },
                         {

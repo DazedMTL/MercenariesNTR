@@ -3235,7 +3235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[船長]早速魔物だ、頼んだぞ、お前ら！"
+                                "\\nw[Captain]There's a monster already, I'm counting on you\nguys!"
                             ]
                         },
                         {
@@ -3274,7 +3274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[船長]また来るぞ、次だ！"
+                                "\\nw[Captain]I'll be back again, next time!"
                             ]
                         },
                         {
@@ -3313,7 +3313,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[船長]次はでかいぞ、頼んだ！"
+                                "\\nw[Captain]The next one is big, I'm counting on you!"
                             ]
                         },
                         {
@@ -3369,14 +3369,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[船長]ふぅ……近くには見えなくなったか……"
+                                "\\nw[Captain]Phew... I can't see it nearby anymore... If it\nappears again, I'll report it right away, so take\na little break."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "また出たらすぐに報告するから、少し休んでてくれ。"
+                                ""
                             ]
                         },
                         {
@@ -3640,7 +3640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[船長]くそっ、一旦港に戻るぞ！"
+                                "\\nw[Captain]Damn it, let's return to the port for now!"
                             ]
                         },
                         {
@@ -3805,14 +3805,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[船長]全く……負けるのは勘弁してくれ。"
+                                "\\nw[Captain]Geez... Spare me the defeat. Make sure to defeat\nthe monster properly next time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "次行くときはちゃんと魔物を倒してくれよ。"
+                                ""
                             ]
                         },
                         {

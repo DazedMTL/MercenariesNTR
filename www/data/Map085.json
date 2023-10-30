@@ -7576,7 +7576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あの兵士を指揮してる女性に話しかけてみるか……"
+                                "\\nw[Taro]Should I try talking to the woman who is\ncommanding those soldiers..."
                             ]
                         },
                         {
@@ -7806,7 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]あの３人……あの怪我で何故生きてるのかしら？"
+                                "\\nw[Conductor]I wonder why those three are still alive after\nthat injury?"
                             ]
                         },
                         {
@@ -8085,38 +8085,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女性指揮官]あら、貴方たちは……"
+                                "\\nw[Female Commander]Oh, what brings all of you here...? Do you need\nsomething from me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私に何か用？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]用というほどでもないんだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなところに兵を連れて何をしてるのかと思ってな。"
+                                ""
                             ]
                         },
                         {
@@ -8133,45 +8109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女性指揮官]ふふふっ……遠くから来たのね？"
+                                "\\nw[Taro]It's not like I have a specific purpose, but I was\njust wondering why you brought soldiers to a place\nlike this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この西で凶暴な魔物達が出たから、退治に行くところなのよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[女性指揮官]……あら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方確か、ディオスの傭兵じゃないかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこの女性二人も。"
+                                ""
                             ]
                         },
                         {
@@ -8188,7 +8133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]えっ……いや、確かにそうだけど……"
+                                "\\nw[Female Commander]Hehehe... You've come from afar, haven't you?\nWe're here because violent monsters have appeared\nin the west, and we're going to exterminate them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8205,38 +8157,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（見ただけでわかるのか……？"
+                                "\\nw[Female Commander]...Oh? Aren't you the mercenaries from Dios? And\nthose two women over there too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ディオスとミスラの国民はほとんど見た目は変わらないけど……）"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[女性指揮官]こんなところで何をしているの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ディオスとうちの国はあまり仲は良くないのだけど。"
+                                ""
                             ]
                         },
                         {
@@ -8253,21 +8188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あっと……この国の傭兵団のオーナーに雇われて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国で傭兵することになったんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回は仕事でリムルンに向かうところだ。"
+                                "\\nw[Taro]Eh... Well, that's true but..."
                             ]
                         },
                         {
@@ -8284,45 +8205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あとこの国の国籍も取ったから、"
+                                "\\nw[Taro](Can you tell just by looking...? The citizens of\nDios and Misura may look similar, but...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一応この国の人間になったな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[女性指揮官]そうなの、ふふっ、ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとディオス方面が怪しい動きをしているから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気になってしまったの。"
+                                ""
                             ]
                         },
                         {
@@ -8339,38 +8229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、大丈夫だ。"
+                                "\\nw[Female Commander]What are you doing in a place like this? The\nrelationship between Dios and our country isn't\nexactly friendly, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オレは太郎、歓楽都市ソルテで傭兵団NTRの団長をしている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[女性指揮官]丁寧にありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は……\\|そうね……"
+                                ""
                             ]
                         },
                         {
@@ -8387,21 +8253,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女性指揮官]本名より通称の方が有名だからそちらで名乗るわね。"
+                                "\\nw[Taro]Ah... I was hired by the owner of this country's\nmercenary group and ended up working as a\nmercenary in this country. This time, I'm heading\nto Rimurun for a job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は\\rb[<指揮者>,コンダクター]。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミスラ国のイージスNo.Ⅱを務めさせてもらってるわ。"
+                                ""
                             ]
                         },
                         {
@@ -8418,7 +8284,141 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]よろしくお願いするわね。"
+                                "\\nw[Taro]Also, I obtained the citizenship of this country,\nso technically I have become a citizen of this\ncountry."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Female Commander]Is that so? Hehe, I'm sorry. I just got a little\ncurious because there have been some suspicious\nmovements from the Dios side."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]No, it's okay. I'm Taro, the leader of the\nmercenary group NTR in the pleasure city of Solte."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Female Commander]Thank you very much. As for me... well..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Female Commander]I'll introduce myself using my nickname since it's\nmore well-known than my real name. I am Conductor.\nI have the honor of serving as Aegis No. II of the\ncountry of Misura."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Conductor]Nice to meet you."
                             ]
                         },
                         {
@@ -8444,7 +8444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]イージス……アンタが……？"
+                                "\\nw[Taro]Aegis... Is that you...?"
                             ]
                         },
                         {
@@ -8461,38 +8461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]ええ、と言っても私は他のイージスの様に強くないわ。"
+                                "\\nw[Conductor]Well, I'm not as strong as the other Aegis. My\nmain role is mostly in the rear."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "基本的に後方での仕事がメインなのよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[<指揮者>]広報の関係で顔出しも結構してるから有名な自覚はあるのだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方は知らなかったみたいね。"
+                                ""
                             ]
                         },
                         {
@@ -8509,38 +8485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あ、ああ……悪いな、"
+                                "\\nw[Conductor]I'm quite aware that I'm well-known due to my\nappearances in public relations, but it seems like\nyou didn't know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "国籍取ってからあんまり時間も経ってないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[<指揮者>]傭兵ならイージスの顔と名前くらいは覚えた方がいいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事で敵対することになったら大変だから。"
+                                ""
                             ]
                         },
                         {
@@ -8557,7 +8509,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]と言っても、半分くらい顔出ししてないのだけれど……"
+                                "\\nw[Taro]Ah, ah... Sorry, it hasn't been much time since I\nobtained my citizenship."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8574,7 +8533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、まぁなるべく敵対しないようにするよ。"
+                                "\\nw[Conductor]If you're a mercenary, it would be wise to\nremember the face and name of an Aegis. It could\nbe troublesome if we end up on opposing sides in a\njob."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8591,7 +8557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]ふふっ……そうしてくれると助かるわ。"
+                                "\\nw[Conductor]Well, even though I don't show my face about half\nthe time..."
                             ]
                         },
                         {
@@ -8608,14 +8574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]貴方達はリムルンへ向かってるのだったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それならもう近いわね。"
+                                "\\nw[Taro]Ah, well, I'll try my best not to become enemies\nwith you."
                             ]
                         },
                         {
@@ -8632,7 +8591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]この北に行けばすぐに到着するわ。"
+                                "\\nw[Conductor]Hehe... It would be helpful if you could do that."
                             ]
                         },
                         {
@@ -8649,14 +8608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうなのか。助かる。"
+                                "\\nw[Conductor]So, you're heading towards Rimuru, huh? In that\ncase, you're already quite close."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んじゃ出発するよ。"
+                                ""
                             ]
                         },
                         {
@@ -8673,7 +8632,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]ええ、気を付けて。"
+                                "\\nw[Conductor]If you go north, you'll arrive soon."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Is that so? Thank goodness. Well then, I'll\ndepart."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Conductor]Yes, be careful."
                             ]
                         },
                         {
@@ -8826,7 +8826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[<指揮者>]リムルンはこの北よ。"
+                                "\\nw[Conductor]Rimurun is in the north."
                             ]
                         },
                         {
@@ -8910,7 +8910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -8987,7 +8987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9064,7 +9064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9141,7 +9141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9218,7 +9218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9295,7 +9295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9372,7 +9372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9449,7 +9449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9526,7 +9526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9603,7 +9603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9680,7 +9680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9757,7 +9757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9834,7 +9834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9911,7 +9911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -9988,7 +9988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -10065,7 +10065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -10142,7 +10142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -10219,7 +10219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -10296,7 +10296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -10373,7 +10373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]……"
+                                "\\nw[Soldier]......"
                             ]
                         },
                         {
@@ -10491,7 +10491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あれは……この国の兵士か？"
+                                "\\nw[Taro]Are those... soldiers of this country?"
                             ]
                         },
                         {
@@ -10548,14 +10548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]たぶんそうね。"
+                                "\\nw[Nonna]Probably. I feel like I recognize the woman at the\nfront..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先頭の女性は見覚えがある気がするけど……"
+                                ""
                             ]
                         },
                         {
@@ -10595,14 +10595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]気になるのなら声を掛けたらどうだ。"
+                                "\\nw[Dalton]If you're curious, why don't you try talking to\nthem? As the leader of the mercenary group, it's\ngood to have a wide network."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前は傭兵団の団長だ、顔は広い方がいいだろうからな。"
+                                ""
                             ]
                         },
                         {
@@ -10619,7 +10619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうだな。話しかけてみるか。"
+                                "\\nw[Taro]Yeah, why not give it a try and talk to them."
                             ]
                         },
                         {
@@ -10764,7 +10764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に用はない"
+                                "There is no need to go any further."
                             ]
                         },
                         {
@@ -10947,7 +10947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に用はない"
+                                "There is no need to go any further."
                             ]
                         },
                         {
@@ -11203,45 +11203,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]サンキューな。"
+                                "\\nw[Shia]Thank you. Thanks to you, the live ended as a\ngreat success."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おかげでライブは大成功で終わったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ああ、力になれてよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで、呪いの解呪を早めるためにうちに来るんだよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にはいかないのか？"
+                                ""
                             ]
                         },
                         {
@@ -11258,38 +11227,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]わりぃ、色々やることが残っててな。"
+                                "\\nw[Taro]Ah, I'm glad I could be of help. So, you're coming\nto my place to speed up the curse's lifting,\nright? Are you not coming together?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、終わったら行くから待っててくれ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]おう、わかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも大丈夫なのか？男に抱かれて治療するって世間にばれたりとか。"
+                                ""
                             ]
                         },
                         {
@@ -11306,21 +11258,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]お前の中でのオレのイメージどんなのなんだよ。"
+                                "\\nw[Shia]Sorry, there are still things I need to take care\nof. Well, I'll come after I finish, so please wait\nfor me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オレは清純て感じじゃねえだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな夢をオレに持ってるやつはいねえって。"
+                                ""
                             ]
                         },
                         {
@@ -11337,14 +11282,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]だから気にすんな。"
+                                "\\nw[Taro]Alright, I understand. But are you sure it's okay?\nWon't it be exposed to the public that you're\nbeing treated by a man?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "傭兵でも風俗嬢もやったことないし楽しみにしてるぜ。"
+                                ""
                             ]
                         },
                         {
@@ -11361,14 +11306,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった、ソルテで待ってる。"
+                                "\\nw[Shia]What kind of image do you have of me inside your\nmind? I'm not exactly the innocent type, am I?\nThere's no one who has such dreams about me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またな。"
+                                "\\nw[Shia]So don't worry about it. I've never been a\nmercenary or a sex worker, so I'm looking forward\nto it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Alright, I got it. I'll wait for you at Solte. See\nyou later."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11425,7 +11425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]おう、またな。"
+                                "\\nw[Shia]Oh, see you later."
                             ]
                         },
                         {
@@ -11482,7 +11482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]また……ね……"
+                                "\\nw[Uka]See you... again..."
                             ]
                         },
                         {

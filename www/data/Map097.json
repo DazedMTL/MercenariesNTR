@@ -2425,14 +2425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]ここは冒険者ギルドです。"
+                                "\\nw[Receptionist]This is the Adventurer's Guild. It's humiliating\nthat the Mercenary Guild shares the same building."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "傭兵ギルドと建物が一緒なのが屈辱です。"
+                                ""
                             ]
                         },
                         {
@@ -2500,7 +2500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]あっ……ドルトンにロドリゴ……"
+                                "\\nw[Receptionist]Ah... Dalton and Rodrigo..."
                             ]
                         },
                         {
@@ -2517,7 +2517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]またよろしく頼むぜ。"
+                                "\\nw[Rodrigo]I'm counting on you again."
                             ]
                         },
                         {
@@ -2534,7 +2534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]は、はい……"
+                                "\\nw[Receptionist]Y-Yes..."
                             ]
                         },
                         {
@@ -2620,14 +2620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]ここは傭兵ギルドです。"
+                                "\\nw[Receptionist]This is the Mercenary Guild. The Adventurer Guild\nand the building are together, so it's really\nstressful for my stomach."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "冒険者ギルドと建物が一緒なのでストレスが胃がやばいです。"
+                                ""
                             ]
                         },
                         {
@@ -2704,14 +2704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]ふむ、冒険者の間では海よりも陸の魔物で"
+                                "\\nw[Rodrigo]Hmmm, it seems there have been issues with land\nmonsters among adventurers rather than sea\ncreatures."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "問題が起こってたらしいな。"
+                                ""
                             ]
                         },
                         {

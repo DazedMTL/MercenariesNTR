@@ -12500,7 +12500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]何故こんなところに学生が……"
+                                "\\nw[Grand]Why are there students in a place like this..."
                             ]
                         },
                         {
@@ -12517,7 +12517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あれは……フィーニスか？"
+                                "\\nw[Taro]Is that... Fina?"
                             ]
                         },
                         {
@@ -12624,7 +12624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]知り合いか？"
+                                "\\nw[Grand]Do I know you?"
                             ]
                         },
                         {
@@ -12641,14 +12641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、少し会っただけだが……"
+                                "\\nw[Taro]Ah, I only met her briefly... I don't know much\nabout her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "詳しくはわからないな。"
+                                ""
                             ]
                         },
                         {
@@ -12665,14 +12665,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]まぁいい、今の目的は<指揮者>だ。"
+                                "\\nw[Grand]Well, never mind. Our current objective is the\n<Conductor>. We can't afford to spend too much\ntime here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここで時間をかけるわけにもいかない。"
+                                ""
                             ]
                         },
                         {
@@ -12720,45 +12720,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]厄介そうなら先に無力化してもいいが……"
+                                "\\nw[Grand]If they seem troublesome, it's fine to neutralize\nthem first... Ami, what about the person in that\nroom? Do they seem to have high magical power?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アミー、そこの部屋にいる奴はどうだ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔力は高そうか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[アミーの声]はい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこの部屋の奴って、グランド達の近くの部屋ですか？"
+                                ""
                             ]
                         },
                         {
@@ -12775,7 +12751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]ああ、一人いるだろう？"
+                                "\\nw[Amy's voice]Yes? Is the person in that room near Grand and the\nothers?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12792,7 +12775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]……\\|……\\|……"
+                                "\\nw[Grand]Ah, there's someone here, right?"
                             ]
                         },
                         {
@@ -12809,14 +12792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]魔力が発見できません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にいるんですか？"
+                                "\\nw[Amy's voice].................."
                             ]
                         },
                         {
@@ -12833,38 +12809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]何？"
+                                "\\nw[Amy's voice]I can't detect any magical power. Are they really\nthere?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かにいるんだが……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（そう言えば、クノ達が出会ったときも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウカが気配に気づけなかったって言ってたな）"
+                                ""
                             ]
                         },
                         {
@@ -12881,14 +12833,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]探知の魔術も万能ではないですからね。"
+                                "\\nw[Grand]What? They're definitely here, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か仕掛けがあるのかもしれません。"
+                                "\\nw[Taro](Come to think of it, when Kuno and the others\nmet, Uka said she couldn't sense their presence)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Amy's voice]Detection magic isn't foolproof, you know. There\nmight be some kind of trap or mechanism."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13166,7 +13166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[フィーニス]あれ、君は確か……"
+                                "\\nw[Finis]Huh, aren't you...?"
                             ]
                         },
                         {
@@ -13183,7 +13183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]うお！？"
+                                "\\nw[Taro]Whoa!?"
                             ]
                         },
                         {
@@ -13251,14 +13251,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]ルミの友人の太郎だったね。"
+                                "\\nw[Finis]So you're Taro, Lumis's friend. Hello."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やっほ。"
+                                ""
                             ]
                         },
                         {
@@ -13285,14 +13285,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]ルミの友人の太郎だっけ？"
+                                "\\nw[Finis]Is it Taro, Lumis's friend? I'm glad to see you're\ndoing well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "元気そうでよかった。"
+                                ""
                             ]
                         },
                         {
@@ -13319,7 +13319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[フィーニス]こんなところで何してるの？"
+                                "\\nw[Finis]What are you doing here?"
                             ]
                         },
                         {
@@ -13336,7 +13336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、ちょっと色々あってな……"
+                                "\\nw[Taro]Ah, well, a lot of things happened..."
                             ]
                         },
                         {
@@ -13353,31 +13353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]（おい、知り合いなんだろ？"
+                                "\\nw[Grand](Hey, do you know them? Investigate a little.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと探りを入れろ）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（ん？あ、ああ、わかった……）"
+                                ""
                             ]
                         },
                         {
@@ -13394,14 +13377,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]えっと……\\|"
+                                "\\nw[Taro](Huh? Ah, yeah, I got it...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前はここで何してるんだ？"
+                                "\\nw[Taro]Um... What are you doing here?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13458,7 +13458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[フィーニス]わたしは仕事だよ。"
+                                "\\nw[Finis]I'm here for work."
                             ]
                         },
                         {
@@ -13475,7 +13475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[フィーニス]苦手な作業をいっぱい振られて困ってたところ。"
+                                "\\nw[Finis]I was in a bind because I was given a lot of tasks\nthat I'm not good at."
                             ]
                         },
                         {
@@ -13492,14 +13492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お、おう、そうなのか。"
+                                "\\nw[Taro]Oh, I see. So you're not one of the soldiers here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここの兵ってわけじゃないのか？"
+                                ""
                             ]
                         },
                         {
@@ -13556,14 +13556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[フィーニス]うん、違うよ。"
+                                "\\nw[Finis]Yeah, you're wrong. First of all, I don't look\nlike a soldier, do I?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そもそも兵士の恰好じゃないでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -13580,7 +13580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]それもそうだな。"
+                                "\\nw[Taro]That's true."
                             ]
                         },
                         {
@@ -13637,7 +13637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[フィーニス]他の人たちは……"
+                                "\\nw[Finis]What about the others..."
                             ]
                         },
                         {
@@ -13694,14 +13694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[フィーニス]……\\|まぁいっか。"
+                                "\\nw[Finis]...Well, whatever. Instead of wandering around\nhere, why don't you focus on your work?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなところうろついてないで仕事してね？"
+                                ""
                             ]
                         },
                         {
@@ -13718,7 +13718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、わかった。"
+                                "\\nw[Taro]Ah, I got it."
                             ]
                         },
                         {
@@ -13897,38 +13897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]普通に見えるのに、何だあいつは……"
+                                "\\nw[Grand]Even though he looks normal, I didn't sense any\npresence from him at all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全然気配がしなかったぞ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[グランド]アミー、さっきまで話してたんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり魔力は感じられなかったのか？"
+                                ""
                             ]
                         },
                         {
@@ -13945,31 +13921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]感じられませんね。"
+                                "\\nw[Grand]Amy, I was talking to him earlier, but can't you\nstill sense any magical power from him?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔術的な不具合かもしれませんし、何とも言えませんが……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[グランド]ふむ……"
+                                ""
                             ]
                         },
                         {
@@ -13986,7 +13945,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]気になるのはわかるが、相手にしてる場合じゃないだろ？"
+                                "\\nw[Amy's voice]I can't sense anything. It might be a magical\nmalfunction or something, I can't say for sure..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14003,14 +13969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]いや、元々気になってることはあったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそもここに<指揮者>が来た理由が謎でな。"
+                                "\\nw[Grand]Hmmm..."
                             ]
                         },
                         {
@@ -14027,7 +13986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そんなこと気にしてどうするんだ？"
+                                "\\nw[Taro]I understand that you're curious, but it's not the\ntime to be concerned about it, right?"
                             ]
                         },
                         {
@@ -14044,7 +14003,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]重要なことだ。"
+                                "\\nw[Grand]Well, there was something that I've been curious\nabout from the start. The reason why the\n<Conductor> came here is a mystery."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14061,14 +14027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]連れてくる部下も少なく、ここの兵たちも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実力的に高いわけでもない……つまり情報部門の兵だと考えられる。"
+                                "\\nw[Taro]What's the point of worrying about something like\nthat?"
                             ]
                         },
                         {
@@ -14085,14 +14044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]つまりは、あまり人に知られたくないわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その情報を掴んだからこそこうして来たわけだが……"
+                                "\\nw[Grand]It's an important matter."
                             ]
                         },
                         {
@@ -14109,21 +14061,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]あいつはその相手じゃないのか？"
+                                "\\nw[Grand]There are few subordinates who bring them along,\nand the soldiers here are not particularly\nstrong... In other words, they can be considered\nas members of the information department."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにいること自体が不自然なやつだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力を感じ取れないこともおかしい。"
+                                ""
                             ]
                         },
                         {
@@ -14140,7 +14085,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Grand]In other words, it means that they don't want many\npeople to know. That's why they came here, because\nthey obtained that information..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14157,38 +14109,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]つまりミスラ国で重要な仕事をしてる可能性がある。"
+                                "\\nw[Grand]Isn't he the one we're looking for? It's strange\nthat he's here in the first place, and it's also\nodd that we can't sense any magical power from\nhim."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<指揮者>と繋がっている可能性も高い。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[グランド]であれば、ここで捕まえるのも手かもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに女なら魅了できるかもしれない。"
+                                ""
                             ]
                         },
                         {
@@ -14205,14 +14140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]幸いこちらに警戒してる様子はなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで拘束して捕まえるのも手だろう。"
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -14229,7 +14157,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いやいや、ちょっと待て。"
+                                "\\nw[Grand]In other words, there is a possibility that they\nare doing important work in the country of Misura.\nThere is also a high possibility that they are\nconnected to the <Conductor>."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14246,38 +14181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]全部推測で関係ないかもしれないだろう。"
+                                "\\nw[Grand]If that's the case, we might as well catch them\nhere. Besides, if they're a woman, we might be\nable to charm them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなことしてる暇ないんじゃないのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（あいつは<喰らうモノ>からクノ達を助けてくれたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな恩人相手に、そんなことさせるわけにはいかない）"
+                                ""
                             ]
                         },
                         {
@@ -14294,38 +14205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（って言うか、<喰らうモノ>足止め出来たなら強いんじゃ？\\|"
+                                "\\nw[Grand]Fortunately, it doesn't seem like they're on guard\nhere. It might be a good idea to restrain and\ncapture them here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こいつらに教えると更に怪しまれそうだから言わないけど……）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[グランド]確かに急いで目的も達したいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでこいつを捕まえればディオスのためになる可能性も高い。"
+                                ""
                             ]
                         },
                         {
@@ -14342,7 +14229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]出来れば捕まえるぞ"
+                                "\\nw[Taro]No, wait a minute."
                             ]
                         },
                         {
@@ -14359,7 +14246,120 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（くそっ……思いとどまらねえか……）"
+                                "\\nw[Taro]It's all just speculation and might not be\nrelevant at all. Don't you think we don't have\ntime for that?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](He saved Kuno and the others from the <Eaters>,\nso I can't let them do something like that to our\nbenefactor.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](Or rather, if they were able to stop the\n<Eaters>, wouldn't that mean they're strong? I\nwon't tell them because it would make them even\nmore suspicious, but...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Grand]Certainly, we want to achieve our goal quickly,\nbut if we capture this person here, it could also\nbe beneficial for Dios."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Grand]If possible, let's catch them."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](Damn it... Can't you reconsider...)"
                             ]
                         },
                         {
@@ -14464,7 +14464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]よし、あの女を拘束するぞ。"
+                                "\\nw[Grand]Alright, let's restrain that woman."
                             ]
                         },
                         {
@@ -14481,7 +14481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（くそ、このまま見てていいのか……？）"
+                                "\\nw[Taro](Damn, is it okay to just watch like this...?)"
                             ]
                         },
                         {
@@ -14489,8 +14489,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "流れに任せる",
-                                    "全力で止める"
+                                    "Go with the flow",
+                                    "Stop with all my might"
                                 ],
                                 1,
                                 0,
@@ -14586,14 +14586,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]う～ん、この調査結果だと国外かな？"
+                                "\\nw[Finis]Hmm, according to this investigation result, it\nseems to be overseas? But..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも……"
+                                ""
                             ]
                         },
                         {
@@ -14615,7 +14615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]（気づいてないな、このまま拘束しろ！）"
+                                "\\nw[Grand](She hasn't noticed, let's restrain her like\nthis!)"
                             ]
                         },
                         {
@@ -14767,7 +14767,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]なっ……ゲロルド、ルーグ！？"
+                                "\\nw[Grand]Ngh... Gerald, Rook!?"
                             ]
                         },
                         {
@@ -14784,7 +14784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]！？"
+                                "\\nw[Taro]!?"
                             ]
                         },
                         {
@@ -14841,7 +14841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]……あれ？"
+                                "\\nw[Finis]......Huh?"
                             ]
                         },
                         {
@@ -14858,7 +14858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]っ……！？"
+                                "\\nw[Grand]Huh...!?"
                             ]
                         },
                         {
@@ -14875,21 +14875,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（動きは早くなかった……"
+                                "\\nw[Taro](Her movements weren't fast... Her attacks didn't\nseem that strong... But...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それほど強い攻撃に見えなかった……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも……）"
+                                ""
                             ]
                         },
                         {
@@ -14906,14 +14906,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]アミー、撤退しろ！"
+                                "\\nw[Grand]Amy, retreat! Fall back!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "退却だ！"
+                                ""
                             ]
                         },
                         {
@@ -14937,31 +14937,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]……？\\|"
+                                "\\nw[Grand]......? Amy? Answer me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アミー？返事をしろ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[フィーニス]う～ん……\\|困ったな……"
+                                ""
                             ]
                         },
                         {
@@ -14978,7 +14961,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]くそっ、捕らえられないなら……！"
+                                "\\nw[Finis]Hmm... I'm in a bind..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Grand]Damn it, if I can't capture you...!"
                             ]
                         },
                         {
@@ -15301,7 +15301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]あっ……"
+                                "\\nw[Finis]Ah..."
                             ]
                         },
                         {
@@ -15318,7 +15318,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]即死かよ……こいつも結構強そうだったのに……"
+                                "\\nw[Taro]Instant death... Even though she seemed quite\nstrong..."
                             ]
                         },
                         {
@@ -15335,7 +15335,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]くそっ、どうする……"
+                                "\\nw[Taro]Damn it, what should I do..."
                             ]
                         },
                         {
@@ -15423,38 +15423,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]危害加えようとしないでね？"
+                                "\\nw[Finis]Please don't try to harm me, okay? I'll react to\nit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "反応しちゃうから"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]（話しは通じそうか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦うのは無理だよな……じゃあ逃げるのは）"
+                                ""
                             ]
                         },
                         {
@@ -15471,14 +15447,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]寝かせた方がいいのかな？"
+                                "\\nw[Taro](I wonder if we can communicate...? Fighting seems\nimpossible... So, should we run away?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でもわたしが触ると高確率で殺しちゃうし……"
+                                ""
                             ]
                         },
                         {
@@ -15495,14 +15471,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（よし、逃げよう。"
+                                "\\nw[Finis]I wonder if it's better to put her to sleep? But\nif I touch her, there's a high chance I'll end up\nkilling her..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それしかない！）"
+                                "\\nw[Taro](Alright, let's run away. That's our only option!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15724,7 +15724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]あっ、待って、その先は……\\|\\^"
+                                "\\nw[Finis]Ah, wait, what's beyond there..."
                             ]
                         },
                         {
@@ -15767,7 +15767,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]がっ……！"
+                                "\\nw[Taro]Ugh...!"
                             ]
                         },
                         {
@@ -15784,7 +15784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]あっ"
+                                "\\nw[Finis]Ah"
                             ]
                         },
                         {
@@ -15813,7 +15813,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]あ……あぁ……"
+                                "\\nw[Taro]Ah... Ahh..."
                             ]
                         },
                         {
@@ -15830,45 +15830,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（走って逃げる先に槍を持った兵士がいたようだ。"
+                                "\\nw[Taro](As I was paying attention to Finis, I didn't\nnotice that there was a soldier with a spear\nwaiting ahead to chase us.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "フィーニスに注意を払っていたために気づけなかった）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]（構えながら動いていたらしい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "呼吸ができない……身体から大切な何かが失われたかのように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "力が入らなくなっている）"
+                                ""
                             ]
                         },
                         {
@@ -15885,38 +15854,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[フィーニス]えっと……\\|これは死んじゃいそう……"
+                                "\\nw[Taro](It seems like I was moving while on guard... I\ncan't breathe... It feels like something important\nhas been lost from my body, and I've lost my\nstrength.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "わたしは治療できないし、誰かに……"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]（こんなところで……\\|死ぬのか……？\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嫌だ……\\|嫌だ……\\|いやだ……）"
+                                ""
                             ]
                         },
                         {
@@ -15933,7 +15885,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（クノ……\\|ノンナ……）"
+                                "\\nw[Finis]Um... I might die from this... I can't heal\nmyself, so someone..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15950,7 +15909,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（おれ……\\|は……）"
+                                "\\nw[Taro](To die here...? I don't want to... I don't want\nto... No...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15967,7 +15933,41 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（……\\|……\\|……）"
+                                "\\nw[Taro](Kuno... Nonna...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro](I... am...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro](.................)"
                             ]
                         },
                         {
@@ -16046,7 +16046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]待て、こんなことしてる場合じゃねえだろ！"
+                                "\\nw[Taro]Wait, this isn't the time for doing something like\nthis!"
                             ]
                         },
                         {
@@ -16063,14 +16063,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]おい、騒ぐな！"
+                                "\\nw[Grand]Hey, don't make a fuss! Tch, step back for now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちっ、一旦下がるぞ！"
+                                ""
                             ]
                         },
                         {
@@ -16118,7 +16118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]くそっ……今度行くときは騒ぐなよ？"
+                                "\\nw[Grand]Damn it... Don't make a fuss next time we go,\nokay?"
                             ]
                         },
                         {
@@ -16135,14 +16135,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]それより目的の方を果たそうぜ。"
+                                "\\nw[Taro]Let's focus on achieving our goal first. We can\ndeal with that later, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その後でもいいだろ？"
+                                ""
                             ]
                         },
                         {
@@ -16159,7 +16159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]ふむ……それもそうかもしれないが……"
+                                "\\nw[Grand]Hmmm... That might be true as well..."
                             ]
                         },
                         {

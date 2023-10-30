@@ -2423,7 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ちゅるっ、じゅるっ、ちゅるる……美味しい♥"
+                                "\\nw[Fross]*slurp*, *gulp*, *slurp*... It's delicious ♥"
                             ]
                         },
                         {
@@ -2440,7 +2440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]はぁ、はぁ、すごい上手いな。"
+                                "\\nw[Man]Haa, haa, you're really good."
                             ]
                         },
                         {
@@ -2457,7 +2457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男２]腰の動きも的確で……うおぉ……"
+                                "\\nw[Man 2]Your hip movements are precise... Uwooo..."
                             ]
                         },
                         {
@@ -2474,7 +2474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]んっ、あれ、太郎さん？"
+                                "\\nw[Fross]Mm, huh, Taro-san?"
                             ]
                         },
                         {
@@ -2491,7 +2491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お、おう……楽しそうだな？"
+                                "\\nw[Taro]Oh, oh... Looks like you're having fun, huh?"
                             ]
                         },
                         {
@@ -2508,31 +2508,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]はい、とても楽しいですよ。"
+                                "\\nw[Fross]Yes, it's very enjoyable. I haven't had the chance\nto put Amor-sama's teachings into practice for a\nlong time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "久しぶりにアモル様の教えを実践できてますし。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]そ、そうか……"
+                                ""
                             ]
                         },
                         {
@@ -2549,7 +2532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（そう言えば発情してると性格変わるっけ……）"
+                                "\\nw[Taro]I-I see..."
                             ]
                         },
                         {
@@ -2566,14 +2549,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（割と発情して暴走して失敗するって話は聞くし、"
+                                "\\nw[Taro](Come to think of it, they say your personality\nchanges when you're in heat...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たぶん放っておいても平気か）"
+                                "\\nw[Taro](I've heard stories about going into heat and\nlosing control, so maybe it'll be fine if I just\nleave her alone.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2715,31 +2715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ちゅるっ、じゅるる……雄の味がしてっ♥"
+                                "\\nw[Fross]*slurp* *slurp*... It tastes like a man ♥ Mmm ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んんっ♥んむっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[男]はぁ、はぁ、アモル教最高だ！"
+                                ""
                             ]
                         },
                         {
@@ -2756,7 +2739,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男２]おほぉ、すげっ！"
+                                "\\nw[Man]Haa, haa, Amor religion is the best!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Man 2]Ohh, amazing!"
                             ]
                         },
                         {
@@ -2857,14 +2857,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]けしからん娘だ、まったく……。"
+                                "\\nw[Male]What an outrageous girl... Even though I have a\nwife, she's tempting me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "妻がいるというのに、誘惑してくるなんてな。"
+                                ""
                             ]
                         },
                         {
@@ -2881,7 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]仕方なくだ！仕方なく相手してやらなくてはな。"
+                                "\\nw[Man]Fine, I have no choice! I have no choice but to\nentertain you."
                             ]
                         },
                         {
@@ -2958,14 +2958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]アモル教って最高だな。"
+                                "\\nw[Male]The Amor religion is the best. It's amazing to\nthink that there are such beautiful followers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんな美人の信者がいるなんてな。"
+                                ""
                             ]
                         },
                         {

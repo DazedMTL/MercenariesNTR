@@ -2476,14 +2476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内を移動できそうだ。"
+                                "It seems like we can move inside the dungeon.\nShould we move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しようか？"
+                                ""
                             ]
                         },
                         {
@@ -2491,8 +2491,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１層へ移動する",
-                                    "移動しない"
+                                    "Move to the 1st floor?",
+                                    "Don't move"
                                 ],
                                 1,
                                 0,
@@ -2630,14 +2630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内を移動できそうだ。"
+                                "It seems like we can move inside the dungeon.\nShould we move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しようか？"
+                                ""
                             ]
                         },
                         {
@@ -2645,9 +2645,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１層へ移動する",
-                                    "３層へ移動する",
-                                    "移動しない"
+                                    "Move to the 1st floor?",
+                                    "Move to the 3rd floor?",
+                                    "Don't move"
                                 ],
                                 2,
                                 0,
@@ -2832,14 +2832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内を移動できそうだ。"
+                                "It seems like we can move inside the dungeon.\nShould we move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しようか？"
+                                ""
                             ]
                         },
                         {
@@ -2847,10 +2847,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１層へ移動する",
-                                    "３層へ移動する",
-                                    "４層へ移動する",
-                                    "移動しない"
+                                    "Move to the 1st floor?",
+                                    "Move to the 3rd floor?",
+                                    "Move to the 4th floor?",
+                                    "Don't move"
                                 ],
                                 3,
                                 0,
@@ -3082,7 +3082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]クリスタルを使ってみるか……？"
+                                "\\nw[Taro]Shall we try using the crystal...?"
                             ]
                         },
                         {
@@ -3090,8 +3090,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "使う",
-                                    "使わない"
+                                    "Use it",
+                                    "Don't use it"
                                 ],
                                 1,
                                 0,
@@ -3329,7 +3329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今はクリスタルを使ってみよう。"
+                                "\\nw[Taro]Let's try using the crystal now."
                             ]
                         },
                         {
@@ -3533,7 +3533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今はクリスタルを使ってみよう。"
+                                "\\nw[Taro]Let's try using the crystal now."
                             ]
                         },
                         {
@@ -3763,7 +3763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]これは入り口にもあったな"
+                                "\\nw[Taro]This was also at the entrance."
                             ]
                         },
                         {
@@ -3780,7 +3780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……プラエも言ってたし、使ってみるか。"
+                                "\\nw[Taro]...Prae also mentioned it, so let's give it a try."
                             ]
                         },
                         {
@@ -3797,7 +3797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]少し気分を落ち着けてからだな……"
+                                "\\nw[Taro]Let's calm down a bit..."
                             ]
                         },
                         {

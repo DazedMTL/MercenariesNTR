@@ -2523,14 +2523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]久しぶりに夫も連休になったし、"
+                                "\\nw[Female]It's been a while since my husband had a long\nholiday, so maybe I should put some effort into\ncooking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "腕によりをかけて作ろうかしら。"
+                                ""
                             ]
                         },
                         {
@@ -2598,7 +2598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]もう、子供も一緒に寝てるって言うのにあの人は……"
+                                "\\nw[Female]Even though the children are already sleeping\ntogether, that person..."
                             ]
                         },
                         {
@@ -2666,7 +2666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]仕事頑張ってもらえるようにいいもの作らないと！"
+                                "\\nw[Female]I have to make something good so that she can work\nhard!"
                             ]
                         },
                         {
@@ -2734,14 +2734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]あの人ったら、仕事始まるって言うのに張り切っちゃって……"
+                                "\\nw[Female]That person, even though they said work was\nstarting, they were so enthusiastic... Cleaning\nwas tough since morning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝から掃除が大変だったわ。"
+                                ""
                             ]
                         },
                         {
@@ -2869,7 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]突然休みになったから、何をすればいいのか……"
+                                "\\nw[Male]Since it suddenly became a day off, what should I\ndo..."
                             ]
                         },
                         {
@@ -2937,14 +2937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]そろそろ船が出せるようになったようだね。"
+                                "\\nw[Man]It seems like the ship is finally ready to set\nsail. We can finally resume work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっと仕事が再開できるよ。"
+                                ""
                             ]
                         },
                         {
@@ -3012,14 +3012,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]あんなに出したはずなのに、"
+                                "\\nw[Male]Even though I should have ejaculated so much, why\ndo I still feel unsatisfied... I wonder why..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何でかすっきりしてないんだよな……何でだろう……"
+                                ""
                             ]
                         },
                         {
@@ -3147,7 +3147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]おとーさんといっぱい遊ぶんだ～"
+                                "\\nw[Male]I want to play a lot with daddy~"
                             ]
                         },
                         {
@@ -3215,7 +3215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]おとーさん、おしごとがんばって～"
+                                "\\nw[Male]Dad, do your best at work~"
                             ]
                         },
                         {
@@ -3343,7 +3343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]おとーさんといっぱい遊ぶんだ～"
+                                "\\nw[Man]I want to play a lot with daddy~"
                             ]
                         },
                         {
@@ -3420,7 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]おとーさんといっぱい遊ぶんだ～"
+                                "\\nw[Male]I want to play a lot with daddy~"
                             ]
                         },
                         {
@@ -3497,7 +3497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]突然休みになったから、何をすればいいのか……"
+                                "\\nw[Male]Since it suddenly became a day off, what should I\ndo..."
                             ]
                         },
                         {
@@ -3624,38 +3624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]はぁはぁ……やっぱり旅の醍醐味って言ったら"
+                                "\\nw[Thorz]Haa haa... When it comes to the true essence of\ntraveling, it's definitely irresponsible\nimpregnation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無責任孕ませだな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Thorz]ふぅふぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲良さそうにしやがって……孕ませてやるからな……！"
+                                ""
                             ]
                         },
                         {
@@ -3672,14 +3648,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]仲よくおれの子供を育てやがれ……！"
+                                "\\nw[Thorz]Huff...huff... Acting all friendly, huh... I'm\ngonna impregnate you...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おれの子供を幸せにしろよ……！"
+                                "\\nw[Thorz]Get along and raise my child...! Make my child\nhappy...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

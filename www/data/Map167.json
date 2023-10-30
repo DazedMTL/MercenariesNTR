@@ -4208,14 +4208,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]山か？"
+                                "\\nw[Taro]Is it a mountain? It seems to be shaking quite a\nlot..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やけに揺れてるようだが……"
+                                ""
                             ]
                         },
                         {
@@ -4232,7 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]近すぎるか、もう少し離して……"
+                                "\\nw[???]It's too close, please move a little further\naway..."
                             ]
                         },
                         {

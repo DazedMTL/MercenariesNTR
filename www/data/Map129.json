@@ -2476,14 +2476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内を移動できそうだ。"
+                                "It seems like we can move inside the dungeon.\nShould we move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しようか？"
+                                ""
                             ]
                         },
                         {
@@ -2491,9 +2491,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１層へ移動する",
-                                    "２層へ移動する",
-                                    "移動しない"
+                                    "Move to the 1st floor?",
+                                    "Move to the 2nd floor?",
+                                    "Don't move"
                                 ],
                                 2,
                                 0,
@@ -2678,14 +2678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内を移動できそうだ。"
+                                "It seems like we can move inside the dungeon.\nShould we move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しようか？"
+                                ""
                             ]
                         },
                         {
@@ -2693,10 +2693,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１層へ移動する",
-                                    "２層へ移動する",
-                                    "４層へ移動する",
-                                    "移動しない"
+                                    "Move to the 1st floor?",
+                                    "Move to the 2nd floor?",
+                                    "Move to the 4th floor?",
+                                    "Don't move"
                                 ],
                                 3,
                                 0,
@@ -3218,7 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]前と同じだな。"
+                                "\\nw[Taro]It's the same as before."
                             ]
                         },
                         {
@@ -3235,7 +3235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]まぁ、休憩しないときついよな……いったん戻るか。"
+                                "\\nw[Taro]Well, if we don't take a break, it'll be tough...\nLet's go back for now."
                             ]
                         },
                         {

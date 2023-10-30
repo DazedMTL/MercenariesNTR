@@ -5599,14 +5599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先から強そうな相手の気配を感じる……"
+                                "I sense the presence of a strong opponent up\nahead... Should we proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進もうか？"
+                                ""
                             ]
                         },
                         {
@@ -5614,8 +5614,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "進まない"
+                                    "Proceed",
+                                    "Don't proceed"
                                 ],
                                 1,
                                 0,
@@ -5807,7 +5807,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]割と強い相手だったけど、それよりも……"
+                                "\\nw[Taro]They were quite a strong opponent, but more\nimportantly..."
                             ]
                         },
                         {
@@ -5892,14 +5892,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]分岐か。"
+                                "\\nw[Taro]It's a branching path. It's only natural, but the\nquestion is which path leads to the core."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あって当然だけど、どの道を行けばコアにつけるかだよな。"
+                                ""
                             ]
                         },
                         {
@@ -5956,7 +5956,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]コアにたどり着けない可能性もあるって言ってたけど。"
+                                "\\nw[Kuno]They said there's a possibility that we won't be\nable to reach the core."
                             ]
                         },
                         {
@@ -6013,21 +6013,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]今はそのことについて考えても仕方ないわ。"
+                                "\\nw[Nonna]There's no point in thinking about that right now.\nThe most likely possibility is the area with dense\nmagic power. But it's difficult to determine which\narea is the densest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "可能性が高いのは魔力の濃い方ね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "でもどこが濃いかは判断するのが難しいわね。"
+                                ""
                             ]
                         },
                         {
@@ -6044,7 +6044,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]そうだな、どうしたもんか……"
+                                "\\nw[Taro]Yeah, what should we do..."
                             ]
                         },
                         {
@@ -6101,7 +6101,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]左……"
+                                "\\nw[Uka]Left..."
                             ]
                         },
                         {
@@ -6118,7 +6118,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ん？左？"
+                                "\\nw[Taro]Huh? Left?"
                             ]
                         },
                         {
@@ -6135,7 +6135,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]うん……左に……何かありそう……"
+                                "\\nw[Uka]Yeah... There seems to be something on the left..."
                             ]
                         },
                         {
@@ -6152,7 +6152,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ふむ、ウカの索敵能力にはいつも助けられてきたしな。"
+                                "\\nw[Taro]Hmm, I've always been helped by Uka's scouting\nability."
                             ]
                         },
                         {
@@ -6169,7 +6169,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]よし、左に行くぞ！"
+                                "\\nw[Taro]Alright, let's go to the left!"
                             ]
                         },
                         {
@@ -6186,7 +6186,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……お～……"
+                                "\\nw[Uka]......Oh~......"
                             ]
                         },
                         {
@@ -6441,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今はこの道を進んでる猶予はないな。"
+                                "\\nw[Taro]There is no time to spare, we must continue on\nthis path."
                             ]
                         },
                         {
@@ -6549,7 +6549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今はこの道を進んでる猶予はないな。"
+                                "\\nw[Taro]There is no time to spare, we must continue on\nthis path."
                             ]
                         },
                         {

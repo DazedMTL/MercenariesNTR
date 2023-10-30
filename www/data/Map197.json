@@ -2374,14 +2374,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]もう日が暮れるな。"
+                                "\\nw[Dalton]It's getting dark already. According to the map,\nwe should be just a little further to the cabin..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "地図によれば小屋まであと少しのはず……"
+                                ""
                             ]
                         },
                         {
@@ -2434,7 +2434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ええ、見えてきたわ。"
+                                "\\nw[Nonna]Yes, I can see it."
                             ]
                         },
                         {
@@ -2451,7 +2451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]さすがエルフは目がいいな。"
+                                "\\nw[Dalton]Elves really do have good eyesight."
                             ]
                         },
                         {
@@ -2468,14 +2468,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]森に慣れてるだけよ。"
+                                "\\nw[Nonna]I'm just used to the forest. Look, it's right in\nfront of us now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほら、もう目の前よ。"
+                                ""
                             ]
                         },
                         {
@@ -2492,14 +2492,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]おっと。"
+                                "\\nw[Dalton]Oh, well then. Looks like we'll be staying here\novernight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それじゃあ今日はここで一泊だな。"
+                                ""
                             ]
                         },
                         {
@@ -2585,7 +2585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]さてと、食事も終わったし今日はやることをやって休むか。"
+                                "\\nw[Dalton]Well then, now that we've finished eating, let's\ndo what we need to do and take a rest."
                             ]
                         },
                         {
@@ -2631,7 +2631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]やること？"
+                                "\\nw[Nonna]What do we need to do?"
                             ]
                         },
                         {
@@ -2648,14 +2648,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]当然セックスだ。"
+                                "\\nw[Dalton]Of course it's sex. It's only natural when there\nare a man and a woman alone together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "男女二人きりでいるんだから当たり前だろ。"
+                                ""
                             ]
                         },
                         {
@@ -2701,38 +2701,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ドルトンは年の割に元気ね。"
+                                "\\nw[Nonna]Dalton, you're quite energetic for your age.\nAren't you starting to feel reluctant about sexual\nactivities?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そろそろ性行為も億劫にはならないの？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]それなら傭兵なんてやめている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦いもセックスも生涯現役のつもりだ。"
+                                ""
                             ]
                         },
                         {
@@ -2749,14 +2725,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]そら、わかったら始めるぞ。"
+                                "\\nw[Dalton]If that's the case, I'll never quit being a\nmercenary. I intend to be active in both battles\nand sex for my whole life."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノンナは恋人以外に抱かれるのも構わないんだろ？"
+                                "\\nw[Dalton]Alright, if you understand, let's get started.\nNonna, it's fine for you to be embraced by someone\nother than your lover, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2838,14 +2838,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ええ、プラエにも魔力を送りたいと思ってたの。"
+                                "\\nw[Nonna]Yes, I wanted to send magical power to Prae too.\nI'm not used to this kind of act, so I would\nappreciate it if you could teach me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こういった行為は慣れてないから、教えてもらえると助かるわ。"
+                                ""
                             ]
                         },
                         {
@@ -2862,21 +2862,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ああ、任せておけ。"
+                                "\\nw[Dalton]Ah, leave it to me. I've been doing this for over\n30 years, so I'll make sure it feels good."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "３０年以上続けているからな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "気持ちよくしてやろう。"
+                                ""
                             ]
                         },
                         {
@@ -2929,7 +2929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ええ、楽しみにしているわ。"
+                                "\\nw[Nonna]Yes, I'm looking forward to it."
                             ]
                         },
                         {
@@ -3078,21 +3078,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -3149,7 +3149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[507]]と\\N[\\V[506]]が一夜を過ごした。"
+                                "\\N[\\V[507]] and \\N[\\V[506]] spent the night\ntogether."
                             ]
                         },
                         {
@@ -3244,21 +3244,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' abilities. (This enhancement state will\nbe lifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -3492,7 +3492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]目的の小屋が見えてきたわ。"
+                                "\\nw[Nonna]I can see the target cabin."
                             ]
                         },
                         {
@@ -3509,31 +3509,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]やっとか。"
+                                "\\nw[Dalton]Finally. It's really tiring, as expected."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さすがに疲れるな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Nonna]ここで一泊ね。"
+                                ""
                             ]
                         },
                         {
@@ -3550,7 +3533,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]うむ、そうだ。"
+                                "\\nw[Nonna]We'll stay here for the night."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Yes, that's right."
                             ]
                         },
                         {
@@ -3636,7 +3636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]さてと、食事も終わったし今日はやることをやって休むか。"
+                                "\\nw[Dalton]Well then, now that we've finished eating, let's\ndo what we need to do today and take a rest."
                             ]
                         },
                         {
@@ -3682,7 +3682,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ええ、セックスね。"
+                                "\\nw[Nonna]Yes, sex."
                             ]
                         },
                         {
@@ -3699,7 +3699,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ふむ、さすがにわかってるようだな。"
+                                "\\nw[Dalton]Hmmm, as expected, you seem to understand."
                             ]
                         },
                         {
@@ -3716,7 +3716,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]もうこの傭兵団に入ってしばらく経ってるもの。"
+                                "\\nw[Nonna]It's been a while since I joined this mercenary\ngroup."
                             ]
                         },
                         {
@@ -3762,14 +3762,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ほら、早めに始めましょう。"
+                                "\\nw[Nonna]Come on, let's start early. We have tomorrow too,\nso time is precious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "明日もあるし、時間がもったいないもの。"
+                                ""
                             ]
                         },
                         {
@@ -3786,7 +3786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ああ、任せておけ。"
+                                "\\nw[Dalton]Ah, leave it to me."
                             ]
                         },
                         {
@@ -3928,21 +3928,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' ability. (This enhancement state will be\nlifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -3999,7 +3999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[507]]と\\N[\\V[506]]が一夜を過ごした。"
+                                "\\N[\\V[507]] and \\N[\\V[506]] spent the night\ntogether."
                             ]
                         },
                         {
@@ -4094,21 +4094,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' ability. (This enhancement state will be\nlifted under conditions such as being\nincapacitated, fully recovering through rest, or\nthe passage of time.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {

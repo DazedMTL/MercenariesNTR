@@ -15359,14 +15359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]おっ、今度は扉がないな。"
+                                "\\nw[Taro]Oh, there's no door this time. This should be\nnormal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これなら普通に……"
+                                ""
                             ]
                         },
                         {
@@ -15392,7 +15392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]って、なんだ！？"
+                                "\\nw[Taro]What the heck!?"
                             ]
                         },
                         {
@@ -15433,7 +15433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]わっ！？"
+                                "\\nw[Nonna]Whoa!?"
                             ]
                         },
                         {
@@ -15450,7 +15450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ノンナ！？"
+                                "\\nw[Taro]Nonna!?"
                             ]
                         },
                         {
@@ -15486,7 +15486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]～～～"
+                                "\\nw[Nonna]~~~"
                             ]
                         },
                         {
@@ -15503,31 +15503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]しまった……！"
+                                "\\nw[Taro]Oh no...! I have to help!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "助けないと！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[プラエの声]待て、これはエロダンジョンの課題じゃな。"
+                                ""
                             ]
                         },
                         {
@@ -15544,7 +15527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]課題？"
+                                "\\nw[Prae's voice]Wait, this isn't an erotic dungeon quest."
                             ]
                         },
                         {
@@ -15561,7 +15544,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]うむ、少しすればわかると思うが……"
+                                "\\nw[Taro]A task?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Prae's voice]Yes, I think you'll understand in a little\nwhile..."
                             ]
                         },
                         {
@@ -15663,7 +15663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]んぶっ、んんっ、んんんっ！"
+                                "\\nw[Nonna]Mmm, ah, ohh!"
                             ]
                         },
                         {
@@ -15694,7 +15694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]これは……！"
+                                "\\nw[Taro]This is...!"
                             ]
                         },
                         {
@@ -15711,14 +15711,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]ふむ、触手じゃな。"
+                                "\\nw[Prae's voice]Hmmm, it's not tentacles. I'm pretty sure this had\nthe effect of generating magic power to weaken\nmonsters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは確か魔力を発生させて魔物を弱らせる効果があったか。"
+                                ""
                             ]
                         },
                         {
@@ -15785,31 +15785,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]んごっ！"
+                                "\\nw[Nonna]Mmm! Ahh, nngh, ohh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んんっ、んぐっ、んごぉぉっ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ノンナ！？"
+                                ""
                             ]
                         },
                         {
@@ -15826,14 +15809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]心配はするだけノンナが犯される時間が増えるだけじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうにかしたいのなら、先に進むことじゃな。"
+                                "\\nw[Taro]Nonna!?"
                             ]
                         },
                         {
@@ -15850,7 +15826,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]くっ……その通りだな……"
+                                "\\nw[Prae's voice]If you're worried, Nonna will only have more time\nbeing violated. If you want to do something about\nit, it's not about moving forward."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15867,7 +15850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]んぶっ、んんっ、んんんんっ！"
+                                "\\nw[Taro]Hmph... That's right..."
                             ]
                         },
                         {
@@ -15884,14 +15867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（目の前で犯されてるノンナを置いていくことに抵抗はあるが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方ない……）"
+                                "\\nw[Nonna]Mmm, ah, ohh!"
                             ]
                         },
                         {
@@ -15908,14 +15884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ノンナ、なるべく急いで行ってくるからな！"
+                                "\\nw[Taro](I resist leaving Nonna being violated right in\nfront of me... but... there's no other choice...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すまん、頑張ってくれ！"
+                                ""
                             ]
                         },
                         {
@@ -15932,7 +15908,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]んぶっ、んんっ、んんんんっ！"
+                                "\\nw[Taro]Nonna, I'll hurry and go as fast as I can! I'm\nsorry, do your best!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Nonna]Mmm, ah, ohh!"
                             ]
                         },
                         {
@@ -17521,7 +17521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "5000Gを手に入れた！"
+                                "I obtained 5000G!"
                             ]
                         },
                         {

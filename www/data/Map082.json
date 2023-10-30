@@ -3857,7 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今は外に出てる場合じゃないな。"
+                                "\\nw[Taro]Now is not the time to go outside."
                             ]
                         },
                         {
@@ -4047,7 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今は宿屋の人に話しかけないとな。"
+                                "\\nw[Taro]Right now, I shouldn't talk to the innkeeper."
                             ]
                         },
                         {
@@ -4155,14 +4155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女主人]休憩で100\\Gになります。"
+                                "\\nw[Mistress]You will earn 100G during the break. Will you take\na rest?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "休んでいきますか？"
+                                ""
                             ]
                         },
                         {
@@ -4170,8 +4170,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4266,7 +4266,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女主人]お金が足りません。"
+                                "\\nw[Mistress]I don't have enough money."
                             ]
                         },
                         {
@@ -4367,38 +4367,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]傭兵団NTRだ。"
+                                "\\nw[Taro]It's a mercenary group NTR. I thought I made a\nreservation, but is everything okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "予約したはずなんだけど、大丈夫か？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[女主人]傭兵団NTRの方々ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫です、二階の部屋を全てお使いください。"
+                                ""
                             ]
                         },
                         {
@@ -4415,14 +4391,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、わかった。"
+                                "\\nw[Mistress]Are you the members of the mercenary group NTR?\nDon't worry, please use all the rooms on the\nsecond floor."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ行くか。"
+                                "\\nw[Taro]Ah, I see. Well then, let's go."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

@@ -2425,14 +2425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ここで戻るわけにはいかないな。"
+                                "\\nw[Taro]I can't go back here. I have to move forward."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進まないと。"
+                                ""
                             ]
                         },
                         {
@@ -2540,14 +2540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]普通に山って言うか、洞窟がある山だったのか。"
+                                "\\nw[Taro]So, is it just a regular mountain or is it a\nmountain with a cave? Looks like the entrance is\nstill here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入り口も残ってるな。"
+                                ""
                             ]
                         },
                         {
@@ -2604,14 +2604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]とりあえず洞窟に入るのがよさそうね。"
+                                "\\nw[Kuno]For now, it seems like entering the cave would be\na good idea. It seems that the nucleus is located\nin the central part."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "核は中心部にあるらしいから。"
+                                ""
                             ]
                         },
                         {
@@ -2628,7 +2628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、気を付けていこう。"
+                                "\\nw[Taro]Ah, let's be careful as we go."
                             ]
                         },
                         {

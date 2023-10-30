@@ -3633,14 +3633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]役所は必ず定時退社。"
+                                "\\nw[Receptionist]It is our policy for everyone at the office to\nleave on time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ポリシーです。"
+                                ""
                             ]
                         },
                         {
@@ -3717,14 +3717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ウェイトレス]はぁ、疲れたぁ……"
+                                "\\nw[Waitress]Ah, I'm tired... I kinda want to go pray soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そろそろお祈りにもいきたいなぁ。"
+                                ""
                             ]
                         },
                         {

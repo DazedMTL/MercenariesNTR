@@ -5610,7 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]これは……間違いないですね、フラーウスの実です。"
+                                "\\nw[Fross]This is... without a doubt, the Fruit of Flaurus."
                             ]
                         },
                         {
@@ -5667,7 +5667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ほんと？じゃあ取ってすぐに戻るわよ。"
+                                "\\nw[Kuno]Really? Then I'll go get it and come back right\naway."
                             ]
                         },
                         {
@@ -5713,7 +5713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フラーウスの実を手に入れた。"
+                                "I obtained the Fruit of Flaurus."
                             ]
                         },
                         {
@@ -5922,7 +5922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]何か……くる……"
+                                "\\nw[Uka]Something... is coming..."
                             ]
                         },
                         {
@@ -6191,14 +6191,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]何とか倒せたけど……"
+                                "\\nw[Kuno]I managed to defeat it somehow... but is this what\ndanger feels like?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "危険ってこういう事だったの？"
+                                ""
                             ]
                         },
                         {
@@ -6255,7 +6255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]まだ……いる……"
+                                "\\nw[Uka]It's still... there..."
                             ]
                         },
                         {
@@ -6272,7 +6272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]えっ？"
+                                "\\nw[Kuno]Huh?"
                             ]
                         },
                         {
@@ -6585,7 +6585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]３匹も！？"
+                                "\\nw[Kuno]Three of them!?"
                             ]
                         },
                         {
@@ -6642,45 +6642,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]もっと……いる……"
+                                "\\nw[Uka]More... are coming... gathering... coming..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "集まって……きてる……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]ええ、マジで！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一匹でも大変だったのに、そんなのが大量に来たらどうすんだよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドルトン、年の功で何とかなったりしないのか？"
+                                ""
                             ]
                         },
                         {
@@ -6697,14 +6666,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]うむ……戻っても行き止まりだ。"
+                                "\\nw[Huma]Seriously!? It was already tough dealing with just\none, so what are we gonna do if a bunch of them\ncome?! Dalton, can't your years of experience help\nus out somehow?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうにか一点突破してかけぬけるしかあるまい。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6721,7 +6697,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]マジかー、しかし３匹もいたらどうすれば……"
+                                "\\nw[Dalton]Hmm... Even if we go back, it's a dead end. We\nhave no choice but to somehow break through one\npoint and run through."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Seriously, but what should we do if there are\nthree of them..."
                             ]
                         },
                         {
@@ -6778,38 +6778,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]こんなのが集まってきてるんでしょ？"
+                                "\\nw[Kuno]If these things are gathering, we need to hurry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だったら急がないと……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "待って……もっとすごいのが……"
+                                ""
                             ]
                         },
                         {
@@ -6826,7 +6802,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]え？"
+                                "\\nw[Uka]......? Wait... something even more amazing is..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Huh?"
                             ]
                         },
                         {
@@ -6930,7 +6930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]やっぱり……違うのも近寄って……"
+                                "\\nw[Uka]As I thought... something different is\napproaching..."
                             ]
                         },
                         {
@@ -6994,31 +6994,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……\\|嘘……でしょ……"
+                                "\\nw[Kuno]......No way... this voice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この声って……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……クノ……？"
+                                ""
                             ]
                         },
                         {
@@ -7035,7 +7018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]まさか……そんな……"
+                                "\\nw[Uka]......Kuno...?"
                             ]
                         },
                         {
@@ -7052,7 +7035,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……どう……したの……？"
+                                "\\nw[Kuno]No way... something like that..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Uka]......What... happened...?"
                             ]
                         },
                         {
@@ -7154,7 +7154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ひぃ！"
+                                "\\nw[Kuno]Eek!"
                             ]
                         },
                         {
@@ -7211,7 +7211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……クノ……大丈夫……？"
+                                "\\nw[Uka]......Kuno... are you okay...?"
                             ]
                         },
                         {
@@ -7228,14 +7228,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]やだ、怖い……怖いよ……"
+                                "\\nw[Kuno]No, it's scary... I'm scared... I can't believe...\nI'm still... in a place like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アタシ、まだ……こんなところで……"
+                                ""
                             ]
                         },
                         {
@@ -7252,7 +7252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……怖いの……？"
+                                "\\nw[Uka]...Are you scared...?"
                             ]
                         },
                         {
@@ -7309,38 +7309,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]……顔色が悪いですね。"
+                                "\\nw[Fross]......You look pale. I want to examine you\nproperly, but right now..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちゃんと診てあげたいですけど、今は……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Rodrigo]とりあえずクノを下がらせててくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレ達で突破する。"
+                                ""
                             ]
                         },
                         {
@@ -7357,7 +7333,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]マジかー、生きるためだし、頑張るしかないかー"
+                                "\\nw[Rodrigo]For now, have Kuno step back. We'll break through\ntogether."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7374,7 +7357,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]うむ、合図をしたら全員で……"
+                                "\\nw[Huma]Seriously, if it's for the sake of survival,\nthere's no choice but to do our best."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Yes, when I give the signal, everyone..."
                             ]
                         },
                         {
@@ -7590,7 +7590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<喰らうモノ>]\\{\\{\\{オオオオオオォォォォォ!!!!\\}"
+                                "\\nw[The One Who Devours]\\{\\{\\{Oooooohhhhhh!!!!\\}"
                             ]
                         },
                         {
@@ -7734,7 +7734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]イヤァァ！"
+                                "\\nw[Kuno]Nooo!"
                             ]
                         },
                         {
@@ -7751,7 +7751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]うげぇ、あの巨体って\\rb[<喰らうモノ>,イーター]じゃねえか？"
+                                "\\nw[Huma]Ugh, isn't that giant body an Eater?"
                             ]
                         },
                         {
@@ -7808,7 +7808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……からっぽ？"
+                                "\\nw[Uka]......Empty?"
                             ]
                         },
                         {
@@ -7825,7 +7825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]あ、おれ達国民だしもしかしたら助けに来たんじゃね？"
+                                "\\nw[Huma]Ah, since we're citizens, maybe we came to help?"
                             ]
                         },
                         {
@@ -7842,45 +7842,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]そんなわけないだろう！"
+                                "\\nw[Dalton]That can't be true! I heard something like that\nfrom Prae a long time ago. The <One Who Devours>\ndoesn't have the ability to distinguish between\nfriend and foe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プラエから昔聞いたことがある。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<喰らうモノ>には敵味方を判別する能力はないと。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]すぐ逃げるぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こいつらが戦ってる横を通り抜ける！"
+                                ""
                             ]
                         },
                         {
@@ -7897,7 +7873,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]イヤ……イヤ……イヤァァ！！"
+                                "\\nw[Dalton]Let's run away immediately! We'll pass through\nwhile they're fighting!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]No... No... Nooo!!"
                             ]
                         },
                         {
@@ -7954,7 +7954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]クノちゃんが動いてくれなくて"
+                                "\\nw[Fross]Kuno-chan isn't moving."
                             ]
                         },
                         {
@@ -7971,7 +7971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ロドリゴ、担いで走ってくれ！"
+                                "\\nw[Dalton]Rodrigo, carry me and run!"
                             ]
                         },
                         {
@@ -7988,7 +7988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]おう、任せろ。"
+                                "\\nw[Rodrigo]Alright, leave it to me."
                             ]
                         },
                         {
@@ -8005,7 +8005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]いくぞ！"
+                                "\\nw[Dalton]Let's go!"
                             ]
                         },
                         {
@@ -8150,7 +8150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]どうだ、引き離せたか？"
+                                "\\nw[Dalton]How is it? Did you manage to separate them?"
                             ]
                         },
                         {
@@ -8207,7 +8207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……大きい人……こっち来てる……"
+                                "\\nw[Uka]......Big person......coming this way......"
                             ]
                         },
                         {
@@ -8224,38 +8224,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ちっ、魔物をもう倒したのか。"
+                                "\\nw[Dalton]Tch, did they already defeat the monsters? But why\nare they chasing after us? There are still other\nmonsters, right?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だが何でこっちを追うんだよ、他にも魔物いるんだろ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……魔物も……倒してる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも……ウカ達よりはやい……"
+                                ""
                             ]
                         },
                         {
@@ -8272,7 +8248,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]くそ、早く走ろうにも……"
+                                "\\nw[Uka]......They're defeating the\nmonsters......but......they're faster than\nus......"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Damn, even if we run quickly..."
                             ]
                         },
                         {
@@ -8329,31 +8329,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]はぁ、はぁ、はぁ……"
+                                "\\nw[Fross]Haa, haa, haa... I don't have much confidence in\nmy physical strength."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "わたし、それほど体力に自信はないです"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Thorz]ぜぇぜぇ……きっつ……"
+                                ""
                             ]
                         },
                         {
@@ -8370,14 +8353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]魔術師連中がいるし、オレもロドリゴも別に速くない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クノは震えて動けないみたいだし……"
+                                "\\nw[Thorz]*panting*... So tired..."
                             ]
                         },
                         {
@@ -8394,7 +8370,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]一番足の速いウカに先にいかせて応援を呼ばせるか？"
+                                "\\nw[Dalton]The magicians are here, and neither me nor Rodrigo\nare particularly fast. Kuno seems to be trembling\nand unable to move..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8411,14 +8394,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]いや、索敵能力が高いウカがいなくなったら"
+                                "\\nw[Dalton]Should we let Uka, who is the fastest, go ahead\nand call for reinforcements?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すぐに魔物にも絡まれて追いつかれるのが早くなるだけか……"
+                                "\\nw[Dalton]No, if Uka, who has a high scouting ability, is\ngone, we will quickly be surrounded by monsters\nand caught up."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8461,7 +8461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]声が……！"
+                                "\\nw[Dalton]A voice...!"
                             ]
                         },
                         {
@@ -8518,38 +8518,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……もう……近い……"
+                                "\\nw[Uka]...Already...close...soon...they'll catch up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "すぐ……追いつかれる……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]くそっ、速すぎるだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こうなったら誰かが足止めするしか"
+                                ""
                             ]
                         },
                         {
@@ -8566,14 +8542,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……ウカ……やる……"
+                                "\\nw[Dalton]Damn, they're too fast. In this situation, someone\nhas to stop them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "先……行ってて……"
+                                ""
                             ]
                         },
                         {
@@ -8590,14 +8566,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]いや待て！"
+                                "\\nw[Uka]......Uka......will...go...ahead..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お前がいないと逃げられ……"
+                                "\\nw[Dalton]Wait! If you're not here, I can't escape..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8633,7 +8633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<喰らうモノ>]\\{\\{\\{オオオオオオォォォォォ!!!!\\}"
+                                "\\nw[The One Who Devours]\\{\\{\\{Oooooohhhhhh!!!!\\}"
                             ]
                         },
                         {
@@ -8690,14 +8690,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……来た……"
+                                "\\nw[Uka]......They're here......I'll go......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いく……"
+                                ""
                             ]
                         },
                         {
@@ -8721,14 +8721,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]すぐそこかよ！"
+                                "\\nw[Dalton]They're right there! Wait, it can't be you...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "待て、お前じゃ……！"
+                                ""
                             ]
                         },
                         {
@@ -8842,7 +8842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……えっ……？"
+                                "\\nw[Uka]......Huh...?"
                             ]
                         },
                         {
@@ -8859,7 +8859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]<喰らうモノ>が……転んだ？"
+                                "\\nw[Dalton]The <One Who Devours>...fell?"
                             ]
                         },
                         {
@@ -8923,7 +8923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]危ないよ、下がってて。"
+                                "\\nw[???]Be careful, stay back."
                             ]
                         },
                         {
@@ -8980,7 +8980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……！"
+                                "\\nw[Uka]......!"
                             ]
                         },
                         {
@@ -9051,14 +9051,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]お前は……何だ？"
+                                "\\nw[Dalton]Who are you...? How did you make the <One Who\nDevours> fall...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやって<喰らうモノ>を転ばせて……"
+                                ""
                             ]
                         },
                         {
@@ -9115,14 +9115,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]貴女は……フィーさん？"
+                                "\\nw[Fross]Are you... Miss Fee? I believe you're a friend of\nLouis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "確かルイさんのお友達の……"
+                                ""
                             ]
                         },
                         {
@@ -9179,14 +9179,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]うん、また会ったね。"
+                                "\\nw[???]Yeah, we meet again. Even if I die at the hands of\na familiar face, I have a bad habit of not waking\nup, so lend me a hand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "知ってる顔に死なれても目覚めが悪いから手助けをね。"
+                                ""
                             ]
                         },
                         {
@@ -9203,7 +9203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]だから君たちは……"
+                                "\\nw[???]So, all of you..."
                             ]
                         },
                         {
@@ -9286,7 +9286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]危ないです、後ろ！"
+                                "\\nw[Fross]Be careful, behind you!"
                             ]
                         },
                         {
@@ -9343,7 +9343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]ん"
+                                "\\nw[???]Huh?"
                             ]
                         },
                         {
@@ -9445,7 +9445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]！"
+                                "\\nw[Fross]!"
                             ]
                         },
                         {
@@ -9462,7 +9462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]足がつく場所の地面を破壊して転ばせてるのか……？"
+                                "\\nw[Dalton]Are you destroying the ground where I can stand\nand making me fall...?"
                             ]
                         },
                         {
@@ -9519,14 +9519,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]君たちは森の入り口まで逃げてくれる？"
+                                "\\nw[???]Can you all run to the entrance of the forest?\nPlease hurry as much as possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なるべく急いでね。"
+                                ""
                             ]
                         },
                         {
@@ -9583,7 +9583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]ですけど、それだとフィーさんが……"
+                                "\\nw[Fross]However, if that's the case, Miss Fee..."
                             ]
                         },
                         {
@@ -9685,38 +9685,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]状況はよくわかんないんだけど、逃げてるんだよね？"
+                                "\\nw[???]I don't really understand the situation, but\nyou're running away, right? If that's the case, I\nwant you to go quickly. Because my borrowed weapon\nis going to break."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ならさっさと行ってほしいんだよね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "借り物の武器が壊れちゃうから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[？？？]それに、そこの子も怖がってるしさ。"
+                                ""
                             ]
                         },
                         {
@@ -9733,7 +9716,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]うぅ……やだぁ……"
+                                "\\nw[???]And besides, that child over there is scared too."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Ugh... I don't want to..."
                             ]
                         },
                         {
@@ -9790,7 +9790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]うっ……"
+                                "\\nw[Fross]Ugh..."
                             ]
                         },
                         {
@@ -9807,21 +9807,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]何かよくわからないが行くぞ！"
+                                "\\nw[Dalton]I don't really understand what's going on, but\nlet's go! They said they'll help us. We'll just be\na burden if we stay here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "手助けしてくれるって言うんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "オレ達じゃ何をしたって足手まといだしな。"
+                                ""
                             ]
                         },
                         {
@@ -9838,21 +9838,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]わかりました……"
+                                "\\nw[Fross]Understood... Thank you very much, Miss Fee!\nPlease take care!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございますフィーさん！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうかお気をつけて！"
+                                ""
                             ]
                         },
                         {
@@ -9909,7 +9909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？]うん、またね～"
+                                "\\nw[???]Yeah, see you later~"
                             ]
                         },
                         {
@@ -9933,7 +9933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<喰らうモノ>]\\{\\{\\{オオオオオオォォォォォ!!!!\\}"
+                                "\\nw[The One Who Devours]\\{\\{\\{Oooooohhhhhh!!!!\\}"
                             ]
                         },
                         {
@@ -10062,7 +10062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]大分走ったが……音が聞こえなくなったな。"
+                                "\\nw[Dalton]We ran quite a bit... but I can't hear any sound\nanymore."
                             ]
                         },
                         {
@@ -10079,14 +10079,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]逃げ切れたみたいじゃね？"
+                                "\\nw[Huma]Looks like we managed to escape, huh? Phew, thank\ngoodness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いやー助かったな。"
+                                ""
                             ]
                         },
                         {
@@ -10143,45 +10143,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]はぁ、はぁ……"
+                                "\\nw[Fross]Haa, haa... Miss Fee, are you okay? I'm really\nworried."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "フィーさん大丈夫でしょうか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "すごく心配です。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]あの様子からは余裕すら感じられた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おそらく問題ないだろう。"
+                                ""
                             ]
                         },
                         {
@@ -10198,7 +10174,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]それよりあの女は知り合いなのか？"
+                                "\\nw[Dalton]From their appearance, they seemed completely at\nease. There's probably no problem."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10215,14 +10198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]えっと……ルイさんのご友人です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたしがリムルンまで来るときにルイさんと一緒に同行してくれてまして……"
+                                "\\nw[Dalton]More importantly, do you know that woman?"
                             ]
                         },
                         {
@@ -10239,38 +10215,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]でも、戦ってるところは見たことなかったです。"
+                                "\\nw[Fross]Um... She is a friend of Louis-san. When I came to\nRimuru, she accompanied me together with Louis-\nsan..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だから強いかどうかはわからないんですけど……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]あ～、さっきやってたことも地面壊してただけだもんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "土の魔術を使えば土を動かすなんて難しくもないしな。"
+                                ""
                             ]
                         },
                         {
@@ -10287,7 +10239,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]はぁ、はぁ……何言ってるんだ魔術の素人か。"
+                                "\\nw[Fross]But, I've never seen her fight before. So I don't\nknow if she's strong or not..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10304,21 +10263,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]普通は魔術であんなに転ばせられるわけないだろう。"
+                                "\\nw[Huma]Ah~ What I was doing earlier was just breaking the\nground. It's not that difficult to move the earth\nusing earth magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そもそもあの巨人は動きも早かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "土の魔術で簡単に相手できるなら誰も苦労しない。"
+                                ""
                             ]
                         },
                         {
@@ -10335,21 +10287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]そもそもあの女は剣を振り回して地面を壊していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔術で行うならわざわざ剣をふるう必要がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの女は魔術士ではないだろう。"
+                                "\\nw[Thorz]Haa, haa... What are you saying, you amateur in\nmagic."
                             ]
                         },
                         {
@@ -10366,14 +10304,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]近接戦闘者は足場が悪ければ弱くなる。"
+                                "\\nw[Thorz]Normally, there's no way you can knock someone\ndown like that with magic. Besides, that giant was\nalso fast. If it were so easy to deal with him\nusing earth magic, no one would have struggled."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これは基本だし、<喰らうモノ>にも通じたのだろう。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10390,7 +10335,62 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]だが、あそこまで簡単に出来るとは……"
+                                "\\nw[Thorz]In the first place, that woman was swinging her\nsword and destroying the ground. If she were using\nmagic, there would be no need to swing a sword\nlike that. I don't think that woman is a magician."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Close combat fighters become weaker if the footing\nis bad. This is a basic principle and it applies\nto <predators> as well."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]But, to be able to do it so easily..."
                             ]
                         },
                         {
@@ -10447,7 +10447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……"
+                                "\\nw[Uka]......"
                             ]
                         },
                         {
@@ -10504,31 +10504,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]ウカちゃん？"
+                                "\\nw[Fross]Uka-chan? You haven't seemed energetic since\nearlier, were you scared after all?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さっきから元気がないですけど、やっぱり怖かったですか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……ううん……わからない……"
+                                ""
                             ]
                         },
                         {
@@ -10545,7 +10528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……わからない……初めてで……身体が……震えて……"
+                                "\\nw[Uka]......No......I don't know......"
                             ]
                         },
                         {
@@ -10562,21 +10545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]大丈夫、もう離れられたから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウカちゃんは心配しなくていいんですよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの大きい人はもうこないですからね？"
+                                "\\nw[Uka]......I don't know......It's my first time......My\nbody is......trembling......"
                             ]
                         },
                         {
@@ -10593,7 +10562,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……大きい人……？"
+                                "\\nw[Fross]Don't worry, you're safe now. Uka-chan, you don't\nhave to worry, okay? That big guy won't come back\nanymore, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10610,7 +10593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……ううん……あの人は……何も思ってない……かも"
+                                "\\nw[Uka]......Big guy...?"
                             ]
                         },
                         {
@@ -10627,7 +10610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]えっ、そうなんですか？それならどうして……"
+                                "\\nw[Uka]......No......That person might not be thinking\nanything......"
                             ]
                         },
                         {
@@ -10644,7 +10627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……女の人……すごく……変だった……"
+                                "\\nw[Fross]Eh, is that so? In that case, why..."
                             ]
                         },
                         {
@@ -10661,7 +10644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]変？"
+                                "\\nw[Uka]......That woman...she was really...strange..."
                             ]
                         },
                         {
@@ -10678,7 +10661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……目の前に……くるまで……気づかなかった……"
+                                "\\nw[Fross]Strange?"
                             ]
                         },
                         {
@@ -10695,14 +10678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……目の前に居ても……わからなかった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見えるし……声も聞こえる……"
+                                "\\nw[Uka]......I didn't notice...until it was right in\nfront of me..."
                             ]
                         },
                         {
@@ -10719,14 +10695,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……それだけ……"
+                                "\\nw[Uka]......Even though it was right in front of me... I\ncouldn't tell... I could see it... and hear its\nvoice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "他には……何も……"
+                                ""
                             ]
                         },
                         {
@@ -10743,7 +10719,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]……"
+                                "\\nw[Uka]......That's all......There's nothing else......"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Fross]......"
                             ]
                         },
                         {
@@ -10800,31 +10800,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]大丈夫ですよ。それは怖いって感じてるってことです。"
+                                "\\nw[Fross]It's okay. That just means you're feeling scared.\nIt's normal to be afraid of things you don't\nunderstand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "わからないのが怖いのは普通なことなんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Fross]ほら、わたしの手を握ってください。"
+                                ""
                             ]
                         },
                         {
@@ -10841,7 +10824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……"
+                                "\\nw[Fross]Look, please hold my hand."
                             ]
                         },
                         {
@@ -10858,14 +10841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]いい子です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうですか、温かいでしょう？"
+                                "\\nw[Uka]......Yeah......"
                             ]
                         },
                         {
@@ -10882,7 +10858,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……"
+                                "\\nw[Fross]You're a good girl. How about it, isn't it warm?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10899,7 +10882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]温かいと少し震えが小さくなりませんか？"
+                                "\\nw[Uka]......Yeah......"
                             ]
                         },
                         {
@@ -10916,7 +10899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……"
+                                "\\nw[Fross]Doesn't the trembling lessen a little when it's\nwarm?"
                             ]
                         },
                         {
@@ -10933,7 +10916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]ええ、それでは外まで手を繋いで行きましょう。"
+                                "\\nw[Uka]......Yeah......"
                             ]
                         },
                         {
@@ -10950,7 +10933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……わかった……"
+                                "\\nw[Fross]Yes, then let's hold hands and go outside."
                             ]
                         },
                         {
@@ -10967,7 +10950,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]ふふっ、身体も近づけていいですからね。"
+                                "\\nw[Uka]......Yeah......I understand......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Fross]Hehe, you can also get closer physically, you\nknow."
                             ]
                         },
                         {
@@ -10998,14 +10998,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]そろそろ森の外だな。"
+                                "\\nw[Dalton]It's about time we're outside the forest. Phew...\nWell, I'm glad things worked out somehow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やれやれ……まぁ何とかなってよかったか……"
+                                ""
                             ]
                         },
                         {
@@ -11139,7 +11139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そんな……"
+                                "\\nw[Kuno]Like that..."
                             ]
                         },
                         {
@@ -11168,14 +11168,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全回復して実を手に入れる前の状態に戻すことができます。"
+                                "You can return to the state before obtaining the\nfruit by fully recovering. Will you go back?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "戻しますか？"
+                                ""
                             ]
                         },
                         {
@@ -11191,8 +11191,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "戦闘前まで戻す",
-                                    "実を手に入れる前まで戻す"
+                                    "Go back to before the battle",
+                                    "Go back to before obtaining the fruit"
                                 ],
                                 -1,
                                 -1,
@@ -11441,7 +11441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]何か……くる……"
+                                "\\nw[Uka]Something... is coming..."
                             ]
                         },
                         {
@@ -11710,14 +11710,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]何とか倒せたけど……"
+                                "\\nw[Kuno]I managed to defeat it somehow... but is this what\ndanger feels like?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "危険ってこういう事だったの？"
+                                ""
                             ]
                         },
                         {
@@ -11774,7 +11774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]まだ……いる……"
+                                "\\nw[Uka]It's still... there..."
                             ]
                         },
                         {
@@ -11791,7 +11791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]えっ？"
+                                "\\nw[Kuno]Huh?"
                             ]
                         },
                         {
@@ -12104,7 +12104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]３匹も！？"
+                                "\\nw[Kuno]Three of them!?"
                             ]
                         },
                         {
@@ -12161,45 +12161,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]もっと……いる……"
+                                "\\nw[Uka]More... are coming... gathering... coming..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "集まって……きてる……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]ええ、マジで！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一匹でも大変だったのに、そんなのが大量に来たらどうすんだよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドルトン、年の功で何とかなったりしないのか？"
+                                ""
                             ]
                         },
                         {
@@ -12216,14 +12185,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]うむ……戻っても行き止まりだ。"
+                                "\\nw[Huma]Seriously!? It was already tough dealing with just\none, so what are we gonna do if a bunch of them\ncome?! Dalton, can't your years of experience help\nus out somehow?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうにか一点突破してかけぬけるしかあるまい。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12240,7 +12216,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]マジかー、しかし３匹もいたらどうすれば……"
+                                "\\nw[Dalton]Hmm... Even if we go back, it's a dead end. We\nhave no choice but to somehow break through one\npoint and run through."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Huma]Seriously, but what should we do if there are\nthree of them..."
                             ]
                         },
                         {
@@ -12297,38 +12297,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]こんなのが集まってきてるんでしょ？"
+                                "\\nw[Kuno]If these things are gathering, we need to hurry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だったら急がないと……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "待って……もっとすごいのが……"
+                                ""
                             ]
                         },
                         {
@@ -12345,7 +12321,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]え？"
+                                "\\nw[Uka]......? Wait... something even more amazing is..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Huh?"
                             ]
                         },
                         {
@@ -12449,7 +12449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]やっぱり……違うのも近寄って……"
+                                "\\nw[Uka]As I thought... something different is\napproaching..."
                             ]
                         },
                         {
@@ -12513,31 +12513,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……\\|嘘……でしょ……"
+                                "\\nw[Kuno]......No way... this voice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この声って……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……クノ……？"
+                                ""
                             ]
                         },
                         {
@@ -12554,7 +12537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]まさか……そんな……"
+                                "\\nw[Uka]......Kuno...?"
                             ]
                         },
                         {
@@ -12571,7 +12554,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……どう……したの……？"
+                                "\\nw[Kuno]No way... something like that..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Uka]......What... happened...?"
                             ]
                         },
                         {
@@ -12673,7 +12673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]ひぃ！"
+                                "\\nw[Kuno]Eek!"
                             ]
                         },
                         {
@@ -12730,7 +12730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……クノ……大丈夫……？"
+                                "\\nw[Uka]......Kuno... Are you okay...?"
                             ]
                         },
                         {
@@ -12747,14 +12747,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]やだ、怖い……怖いよ……"
+                                "\\nw[Kuno]No, it's scary... I'm scared... I'm still... in a\nplace like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アタシ、まだ……こんなところで……"
+                                ""
                             ]
                         },
                         {
@@ -12771,7 +12771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……怖いの……？"
+                                "\\nw[Uka]...Are you scared...?"
                             ]
                         },
                         {
@@ -12828,38 +12828,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]……顔色が悪いですね。"
+                                "\\nw[Fross]......You look pale. I want to examine you\nproperly, but right now..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちゃんと診てあげたいですけど、今は……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Rodrigo]とりあえずクノを下がらせててくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレ達で突破する。"
+                                ""
                             ]
                         },
                         {
@@ -12876,7 +12852,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]マジかー、生きるためだし、頑張るしかないかー"
+                                "\\nw[Rodrigo]For now, have Kuno step back. We'll break through\ntogether."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12893,7 +12876,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]うむ、合図をしたら全員で……"
+                                "\\nw[Huma]Seriously, if it's for the sake of survival,\nthere's no choice but to do our best."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Yes, when I give the signal, everyone..."
                             ]
                         },
                         {
@@ -13109,7 +13109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<喰らうモノ>]\\{\\{\\{オオオオオオォォォォォ!!!!\\}"
+                                "\\nw[The Devourer]\\{\\{\\{Oooooohhhhhh!!!!\\}"
                             ]
                         },
                         {
@@ -13253,7 +13253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]イヤァァ！"
+                                "\\nw[Kuno]Nooo!"
                             ]
                         },
                         {
@@ -13270,7 +13270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]うげぇ、あの巨体って\\rb[<喰らうモノ>,イーター]じゃねえか？"
+                                "\\nw[Huma]Ugh, isn't that massive body an Eater?"
                             ]
                         },
                         {
@@ -13327,7 +13327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……からっぽ？"
+                                "\\nw[Uka]......Empty?"
                             ]
                         },
                         {
@@ -13344,7 +13344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]あ、おれ達国民だしもしかしたら助けに来たんじゃね？"
+                                "\\nw[Huma]Ah, since we're citizens, maybe we came to help?"
                             ]
                         },
                         {
@@ -13361,45 +13361,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]そんなわけないだろう！"
+                                "\\nw[Dalton]That can't be true! I heard something like that\nfrom Prae a long time ago. The <Devourer> doesn't\nhave the ability to distinguish between friend and\nfoe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プラエから昔聞いたことがある。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<喰らうモノ>には敵味方を判別する能力はないと。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]すぐ逃げるぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こいつらが戦ってる横を通り抜ける！"
+                                ""
                             ]
                         },
                         {
@@ -13416,7 +13392,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]イヤ……イヤ……イヤァァ！！"
+                                "\\nw[Dalton]Let's run away right away! We'll pass through\nwhile they're fighting!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]No... No... Nooo!!"
                             ]
                         },
                         {
@@ -13473,7 +13473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]クノちゃんが動いてくれなくて"
+                                "\\nw[Fross]Kuno-chan isn't moving."
                             ]
                         },
                         {
@@ -13490,7 +13490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ロドリゴ、担いで走ってくれ！"
+                                "\\nw[Dalton]Rodrigo, carry me and run!"
                             ]
                         },
                         {
@@ -13507,7 +13507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]おう、任せろ。"
+                                "\\nw[Rodrigo]Alright, leave it to me."
                             ]
                         },
                         {
@@ -13524,7 +13524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]いくぞ！"
+                                "\\nw[Dalton]Let's go!"
                             ]
                         },
                         {
@@ -13669,7 +13669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]どうだ、引き離せたか？"
+                                "\\nw[Dalton]How is it? Did you manage to separate them?"
                             ]
                         },
                         {
@@ -13726,7 +13726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……大きい人……こっち来てる……"
+                                "\\nw[Uka]......Big person......coming this way......"
                             ]
                         },
                         {
@@ -13743,38 +13743,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ちっ、魔物をもう倒したのか。"
+                                "\\nw[Dalton]Tch, did they already defeat the monsters? But why\nare they chasing after us? There are still other\nmonsters, right?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だが何でこっちを追うんだよ、他にも魔物いるんだろ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……魔物も……倒してる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも……ウカ達よりはやい……"
+                                ""
                             ]
                         },
                         {
@@ -13791,7 +13767,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]くそ、早く走ろうにも……"
+                                "\\nw[Uka]......They're defeating the\nmonsters......but......they're faster than\nus......"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Damn, even if we run quickly..."
                             ]
                         },
                         {
@@ -13848,31 +13848,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]はぁ、はぁ、はぁ……"
+                                "\\nw[Fross]*panting* I... I don't have much confidence in my\nphysical strength."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "わたし、それほど体力に自信はないです"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Thorz]ぜぇぜぇ……きっつ……"
+                                ""
                             ]
                         },
                         {
@@ -13889,14 +13872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]魔術士連中がいるし、オレもロドリゴも別に速くない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クノは震えて動けないみたいだし……"
+                                "\\nw[Thorz]*panting* ...I'm exhausted..."
                             ]
                         },
                         {
@@ -13913,7 +13889,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]一番足の速いウカに先にいかせて応援を呼ばせるか？"
+                                "\\nw[Dalton]There are magicians among them, and neither me nor\nRodrigo are particularly fast. Kuno seems to be\ntrembling and unable to move..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13930,14 +13913,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]いや、索敵能力が高いウカがいなくなったら"
+                                "\\nw[Dalton]Should we let Uka, who is the fastest, go ahead\nand call for reinforcements?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すぐに魔物にも絡まれて追いつかれるのが早くなるだけか……"
+                                "\\nw[Dalton]No, if Uka, who has a high scouting ability, is\ngone, we will quickly be surrounded by monsters\nand caught up."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13980,7 +13980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]声が……！"
+                                "\\nw[Dalton]A voice...!"
                             ]
                         },
                         {
@@ -14037,38 +14037,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……もう……近い……"
+                                "\\nw[Uka]...Already...close...soon...they'll catch up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "すぐ……追いつかれる……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]くそっ、速すぎるだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こうなったら誰かが足止めするしか"
+                                ""
                             ]
                         },
                         {
@@ -14085,14 +14061,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……ウカ……やる……"
+                                "\\nw[Dalton]Damn, they're too fast. In this situation, someone\nhas to stop them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "先……行ってて……"
+                                ""
                             ]
                         },
                         {
@@ -14109,14 +14085,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]いや待て！"
+                                "\\nw[Uka]......Uka......will...go...ahead..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お前がいないと逃げられ……"
+                                "\\nw[Dalton]Wait! If you're not here, I won't be able to\nescape..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14152,7 +14152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<喰らうモノ>]\\{\\{\\{オオオオオオォォォォォ!!!!\\}"
+                                "\\nw[The Devourer]\\{\\{\\{Oooooohhhhhh!!!!\\}"
                             ]
                         },
                         {
@@ -14209,14 +14209,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……来た……"
+                                "\\nw[Uka]......They're here......I'll go......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いく……"
+                                ""
                             ]
                         },
                         {
@@ -14240,14 +14240,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]すぐそこかよ！"
+                                "\\nw[Dalton]They're right there! Wait, you're no good...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "待て、お前はだめだ……！"
+                                ""
                             ]
                         },
                         {
@@ -14380,7 +14380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……えっ……？"
+                                "\\nw[Uka]......Huh...?"
                             ]
                         },
                         {
@@ -14397,7 +14397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]<喰らうモノ>が……転んだ？"
+                                "\\nw[Dalton]The <Devourer>...fell?"
                             ]
                         },
                         {
@@ -14421,7 +14421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？の声]援護するから、早く逃げて。"
+                                "\\nw[Voice of ???]I'll cover you, so hurry and run."
                             ]
                         },
                         {
@@ -14478,7 +14478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……！"
+                                "\\nw[Uka]......!"
                             ]
                         },
                         {
@@ -14549,14 +14549,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]遠くから……\\|矢か？"
+                                "\\nw[Dalton]From afar... an arrow? I can hear a voice, but I\ncan't see anyone..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "声は聞こえるが、姿は見えないな……"
+                                ""
                             ]
                         },
                         {
@@ -14573,14 +14573,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]それにこれは……何だ？"
+                                "\\nw[Dalton]And what is this...? How do I make the <Devourer>\nfall...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやって<喰らうモノ>を転ばせて……"
+                                ""
                             ]
                         },
                         {
@@ -14637,7 +14637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]この声は……"
+                                "\\nw[Fross]Whose voice is this...?"
                             ]
                         },
                         {
@@ -14680,7 +14680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]まずい、<喰らうモノ>が……！"
+                                "\\nw[Dalton]Oh no, the <Devourer>...!"
                             ]
                         },
                         {
@@ -14820,7 +14820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]！"
+                                "\\nw[Fross]!"
                             ]
                         },
                         {
@@ -14837,7 +14837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]足がつく前にそこの地面を破壊して転ばせてるのか……？"
+                                "\\nw[Dalton]Are they destroying the ground over there to make\nme fall before I can gain footing...?"
                             ]
                         },
                         {
@@ -14854,14 +14854,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？の声]立ち止まってないで君たちは森の入り口まで逃げてくれる？"
+                                "\\nw[Voice of ???]Don't stop, can you all run to the entrance of the\nforest? Please hurry as much as possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なるべく急いでね。"
+                                ""
                             ]
                         },
                         {
@@ -14918,14 +14918,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]フィーさんですか？"
+                                "\\nw[Fross]Is it Fee-san? Where... and are you okay dealing\nwith them!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どこに……それに相手にして大丈夫なんですか！？"
+                                ""
                             ]
                         },
                         {
@@ -15025,38 +15025,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？の声]状況はよくわかんないんだけど、逃げてるんだよね？"
+                                "\\nw[Voice of ???]I don't really understand the situation, but\nyou're running away, right? If that's the case, I\nwant you to hurry up and go. I have things to do\ntoo, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ならさっさと行ってほしいんだよね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こっちも用事があるからさ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[？？？の声]それに、そこの子も怖がってるよ。"
+                                ""
                             ]
                         },
                         {
@@ -15073,7 +15056,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]うぅ……やだぁ……"
+                                "\\nw[Voice of ???]And that child over there is scared too."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Ugh... Nooo..."
                             ]
                         },
                         {
@@ -15130,7 +15130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]うっ……"
+                                "\\nw[Fross]Ugh..."
                             ]
                         },
                         {
@@ -15147,52 +15147,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]何かよくわからないが行くぞ！"
+                                "\\nw[Dalton]I don't really understand what's going on, but\nlet's go! They said they'll help us. We'll just be\na burden if we stay here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "手助けしてくれるって言うんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "オレ達じゃ何をしたって足手まといだしな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Fross]わかりました……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがとうございますフィーさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうかお気をつけて！"
+                                ""
                             ]
                         },
                         {
@@ -15209,7 +15178,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[？？？の声]うん、またね～"
+                                "\\nw[Fross]Understood... Thank you very much, Fee-san! Please\ntake care!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Voice of ???]Yeah, see you later~"
                             ]
                         },
                         {
@@ -15233,7 +15233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<喰らうモノ>]\\{\\{\\{オオオオオオォォォォォ!!!!\\}"
+                                "\\nw[The Devourer]\\{\\{\\{Oooooohhhhhh!!!!\\}"
                             ]
                         },
                         {
@@ -15400,7 +15400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]大分走ったが……音が聞こえなくなったな。"
+                                "\\nw[Dalton]We ran quite a bit... but I can't hear any sound\nanymore."
                             ]
                         },
                         {
@@ -15417,14 +15417,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Huma]逃げ切れたみたいじゃね？"
+                                "\\nw[Huma]Looks like we managed to escape, huh? Phew, thank\ngoodness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いやー助かったな。"
+                                ""
                             ]
                         },
                         {
@@ -15481,52 +15481,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]はぁ、はぁ……"
+                                "\\nw[Fross]Haa, haa... Fee-san, are you okay? I'm really\nworried."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "フィーさん大丈夫でしょうか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "すごく心配です。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Dalton]あの様子からは余裕すら感じられた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おそらく問題ないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "近くにもいなかったしな。"
+                                ""
                             ]
                         },
                         {
@@ -15543,38 +15512,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]それよりさっきの声の主とは知り合いなのか？"
+                                "\\nw[Dalton]From their appearance, they seemed completely at\nease. There's probably no problem. They weren't\neven nearby."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "女の声だったとは思うが……"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Fross]えっと……ルイさんのご友人です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたしがリムルンまで来るときにルイさんと一緒に同行してくれてまして……"
+                                ""
                             ]
                         },
                         {
@@ -15591,38 +15543,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]でも、戦ってるところは見たことなかったです。"
+                                "\\nw[Dalton]By the way, do you know the person who was the\nsource of that voice earlier? I think it was a\nwoman's voice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だから強いかどうかはわからないんですけど……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Huma]あ～、さっきやってたことも地面壊してただけだもんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "土の魔術を使えば土を動かすなんて難しくもないしな。"
+                                ""
                             ]
                         },
                         {
@@ -15639,7 +15567,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]はぁ、はぁ……何言ってるんだ魔術の素人か。"
+                                "\\nw[Fross]Um... I am a friend of Louis-san. When I came to\nRimuru, Louis-san accompanied me on the journey..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15656,21 +15591,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]普通は魔術であんなに転ばせられるわけないだろう。"
+                                "\\nw[Fross]But, I've never seen them fight before. So I don't\nknow if they're strong or not..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そもそもあの巨人は動きも早かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "土の魔術で簡単に相手できるなら誰も苦労しない。"
+                                ""
                             ]
                         },
                         {
@@ -15687,21 +15615,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]そもそもさっきのは矢で地面を壊していた。"
+                                "\\nw[Huma]Ah~ What I was doing earlier was just breaking the\nground. It's not that difficult to move the earth\nusing earth magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔術で行うならわざわざ矢を撃つ必要がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "土の魔術士ではないだろう。"
+                                ""
                             ]
                         },
                         {
@@ -15718,14 +15639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]近接戦闘者は足場が悪ければ弱くなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これは基本だし、<喰らうモノ>にも通じたのだろうが……"
+                                "\\nw[Thorz]Haa, haa... What are you saying, you amateur in\nmagic."
                             ]
                         },
                         {
@@ -15742,14 +15656,100 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]だが、あそこまで簡単に出来るとは……"
+                                "\\nw[Thorz]Normally, there's no way you can knock someone\ndown like that with magic. Besides, that giant was\nalso fast. If it were so easy to deal with them\nusing earth magic, no one would have struggled."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかも姿が見えないような遠距離から……"
+                                "\\nw[Thorz]In the first place, earlier I was breaking the\nground with arrows. If it was done with magic,\nthere would be no need to shoot arrows. They must\nnot be an earth magician."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]Close combat fighters become weaker if the footing\nis bad. This is a basic principle, and it applies\nto <predators> as well..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Dalton]But to be able to do it so easily... and from such\na long distance that we couldn't even see their\nfigure..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15806,7 +15806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……"
+                                "\\nw[Uka]......"
                             ]
                         },
                         {
@@ -15863,31 +15863,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]ウカちゃん？"
+                                "\\nw[Fross]Uka-chan? You haven't seemed energetic since\nearlier, were you scared after all?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さっきから元気がないですけど、やっぱり怖かったですか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……ううん……わからない……"
+                                ""
                             ]
                         },
                         {
@@ -15904,7 +15887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……わからない……初めてで……身体が……震えて……"
+                                "\\nw[Uka]......No... I don't know..."
                             ]
                         },
                         {
@@ -15921,21 +15904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]大丈夫、もう離れられたから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウカちゃんは心配しなくていいんですよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの大きい人はもうこないですからね？"
+                                "\\nw[Uka]......I don't know......It's my first time......My\nbody is......trembling......"
                             ]
                         },
                         {
@@ -15952,7 +15921,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……大きい人……？"
+                                "\\nw[Fross]Don't worry, you don't have to be concerned\nanymore, Uka-chan. That big person won't come back\nanymore, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15969,7 +15952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……ううん……あの人は……何も思ってない……かも"
+                                "\\nw[Uka]......Big person...?"
                             ]
                         },
                         {
@@ -15986,7 +15969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]えっ、そうなんですか？それならどうして……"
+                                "\\nw[Uka]......No... Maybe that person... doesn't think\nanything..."
                             ]
                         },
                         {
@@ -16003,7 +15986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……女の人……すごく……変だった……"
+                                "\\nw[Fross]Huh, is that so? In that case, why..."
                             ]
                         },
                         {
@@ -16020,7 +16003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]変？"
+                                "\\nw[Uka]......That woman... was really... strange..."
                             ]
                         },
                         {
@@ -16037,14 +16020,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……声聞こえたから……探した……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも……わからなかった……"
+                                "\\nw[Fross]Strange?"
                             ]
                         },
                         {
@@ -16061,38 +16037,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……攻撃も……あったのに……"
+                                "\\nw[Uka]......I heard a voice... so I searched... but... I\ncouldn't find anything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "居場所が……わからなかった……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Uka]……何も……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……わからなかった……"
+                                ""
                             ]
                         },
                         {
@@ -16109,7 +16061,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]……"
+                                "\\nw[Uka]......Even though there were attacks... I couldn't\nfind... my place..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Uka]......I didn't understand anything......"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Fross]......"
                             ]
                         },
                         {
@@ -16173,31 +16173,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]大丈夫ですよ。それは怖いって感じてるってことです。"
+                                "\\nw[Fross]It's okay. That just means you're feeling scared.\nIt's normal to be afraid of things you don't\nunderstand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "わからないのが怖いのは普通なことなんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Fross]ほら、わたしの手を握ってください。"
+                                ""
                             ]
                         },
                         {
@@ -16214,7 +16197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……"
+                                "\\nw[Fross]Look, please hold my hand."
                             ]
                         },
                         {
@@ -16231,14 +16214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]いい子です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうですか、温かいでしょう？"
+                                "\\nw[Uka]......Yeah......"
                             ]
                         },
                         {
@@ -16255,7 +16231,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……"
+                                "\\nw[Fross]You're a good girl. How about it, is it warm?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16272,7 +16255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]温かいと少し震えが小さくなりませんか？"
+                                "\\nw[Uka]......Yeah......"
                             ]
                         },
                         {
@@ -16289,7 +16272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……"
+                                "\\nw[Fross]Does it make your trembling lessen a little when\nit's warm?"
                             ]
                         },
                         {
@@ -16306,7 +16289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]ええ、それでは外まで手を繋いで行きましょう。"
+                                "\\nw[Uka]......Yeah......"
                             ]
                         },
                         {
@@ -16323,7 +16306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……わかった……"
+                                "\\nw[Fross]Alright, then let's hold hands and go outside."
                             ]
                         },
                         {
@@ -16340,7 +16323,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]ふふっ、身体も近づけていいですからね。"
+                                "\\nw[Uka]......Yeah......I understand......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Fross]Hehe, it's okay to get closer physically, you\nknow."
                             ]
                         },
                         {
@@ -16371,14 +16371,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]そろそろ森の外だな。"
+                                "\\nw[Dalton]It's about time we're outside the forest. Phew...\nWell, I'm glad we managed to make it somehow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やれやれ……まぁ何とかなってよかったか……"
+                                ""
                             ]
                         },
                         {
@@ -16512,7 +16512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そんな……"
+                                "\\nw[Kuno]Like that..."
                             ]
                         },
                         {
@@ -16541,14 +16541,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全回復して実を手に入れる前の状態に戻すことができます。"
+                                "You can return to the state before obtaining the\nfruit by fully recovering. Will you go back?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "戻しますか？"
+                                ""
                             ]
                         },
                         {
@@ -16652,8 +16652,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "戦闘前まで戻す",
-                                    "実を手に入れる前まで戻す"
+                                    "Go back to before the battle",
+                                    "Go back to before obtaining the fruit"
                                 ],
                                 -1,
                                 -1,
@@ -17162,14 +17162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17246,14 +17246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17330,14 +17330,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17414,14 +17414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17498,14 +17498,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17582,14 +17582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17666,14 +17666,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17750,14 +17750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17834,14 +17834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17918,14 +17918,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18002,14 +18002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18086,14 +18086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18170,14 +18170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18254,14 +18254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18338,14 +18338,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18422,14 +18422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18506,14 +18506,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {

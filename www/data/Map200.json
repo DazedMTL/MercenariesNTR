@@ -10546,14 +10546,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【西の森の薬草採取】"
+                                "Quest [CollectingMedicinalHerbsintheWesternForest]\nFailed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失敗\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10596,7 +10596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 50EXP を手に入れた。"
+                                "Obtained 50 EXP as a reward."
                             ]
                         },
                         {
@@ -10886,7 +10886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬草を採取した。"
+                                "I collected some medicinal herbs."
                             ]
                         },
                         {
@@ -10929,14 +10929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【西の森の薬草採取】"
+                                "Quest [CollectingMedicinalHerbsintheWesternForest]\nComplete!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "達成！！\\|\\|\\|\\^"
+                                ""
                             ]
                         },
                         {
@@ -10988,7 +10988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬 400EXP 300G 1名声を手に入れた。"
+                                "Received a reward of 400 EXP, 300G, and 1 fame."
                             ]
                         },
                         {

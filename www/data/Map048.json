@@ -3740,14 +3740,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[管理人]隣がうるさいな。"
+                                "\\nw[Administrator]The neighbor is so noisy. Should I raise the rent\nas a nuisance fee?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "迷惑料として家賃を上げてやるべきか。"
+                                ""
                             ]
                         },
                         {
@@ -3781,21 +3781,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[管理人]だらけるが正義さ。"
+                                "\\nw[Administrator]Laziness is justice. I want to live my whole life\non rental income. I hope the vacant rooms get\nfilled."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家賃収入で一生暮らしたいよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "空き部屋埋まらないかな。"
+                                ""
                             ]
                         },
                         {
@@ -3915,14 +3915,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[町人]ああクノさん可愛いよ。"
+                                "\\nw[Townsperson]Ah, Kuno-san is so cute. I want to have sex with\nher...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "パコパコしたい……！"
+                                ""
                             ]
                         },
                         {
@@ -3968,14 +3968,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]あ、うん。"
+                                "\\nw[Kuno]Ah, um... I want to too, but... is it okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "アタシもしたいけど……いい？"
+                                ""
                             ]
                         },
                         {
@@ -4009,14 +4009,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[町人]はぁはぁ、管理人さん可愛いよ。"
+                                "\\nw[Townsperson]Haa haa, Kuno-san is so cute. I want to have\nsex...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "パコパコしたい……！"
+                                ""
                             ]
                         },
                         {
@@ -4062,7 +4062,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]……\\|きもっ……"
+                                "\\nw[Kuno]......Creepy......"
                             ]
                         },
                         {
@@ -4079,14 +4079,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro]（変なにおいするけど、"
+                                "\\nw[Taro](Even though it's a strange smell, I might get\nexcited seeing Kuno being embraced by a man like\nthis...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "こういう男にクノが抱かれるのも興奮するかも……）"
+                                ""
                             ]
                         },
                         {
@@ -4104,8 +4104,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "寝取らせる",
-                                    "やめておく"
+                                    "Let them sleep with someone else",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -4153,7 +4153,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]ああ、いいぞ"
+                                "\\nw[Taro]Ah, that's good."
                             ]
                         },
                         {
@@ -4170,14 +4170,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[町人]やった！"
+                                "\\nw[Townsperson]Yay! Kuno-san, I'll give you lots of pounding!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "クノさん、沢山パコパコしてあげるからね！"
+                                ""
                             ]
                         },
                         {
@@ -4223,7 +4223,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]うん♪"
+                                "\\nw[Kuno]Yes ♪"
                             ]
                         },
                         {
@@ -4257,7 +4257,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]なぁ、この男に抱かれてみないか？"
+                                "\\nw[Taro]Hey, would you like to be embraced by this man?"
                             ]
                         },
                         {
@@ -4303,7 +4303,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]本気で言ってるの？"
+                                "\\nw[Kuno]Are you serious?"
                             ]
                         },
                         {
@@ -4320,31 +4320,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]抱かれてる最中はにおいがきつい魔物でも、"
+                                "\\nw[Taro]Even if it's a monster with a strong smell while\nbeing embraced, you'll start to feel favorably\ntowards it and be okay, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "好意的に思えるようになるし、平気だろ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nw[Kuno]まぁ、そうだけど……"
+                                ""
                             ]
                         },
                         {
@@ -4361,14 +4344,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]ってわけで、クノを抱いてみないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "金があればだけどな。"
+                                "\\nw[Kuno]Well, yeah, but..."
                             ]
                         },
                         {
@@ -4385,14 +4361,38 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[町人]はぁはぁ……何を言ってるんだい？"
+                                "\\nw[Taro]So, why don't you try embracing Kuno? If you have\nthe money, that is."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お金は遊んで暮らせるほどあるけど、おでは管理人さんが……"
+                                "\\nw[Townsperson]Haa haa... What are you talking about? I have\nenough money to live a life of leisure, but the\ninnkeeper..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4425,7 +4425,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[町人]か、かわいい……！"
+                                "\\nw[Townsperson]T-T-That's cute...!"
                             ]
                         },
                         {
@@ -4471,7 +4471,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]え？"
+                                "\\nw[Kuno]Eh?"
                             ]
                         },
                         {
@@ -4488,7 +4488,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[町人]パコパコ……パコパコする……！"
+                                "\\nw[Townsperson]Paco paco... I'm going to paco paco!"
                             ]
                         },
                         {
@@ -4505,7 +4505,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]ちょっと怖いんだけど……"
+                                "\\nw[Kuno]I'm a little scared though..."
                             ]
                         },
                         {
@@ -4558,7 +4558,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]って、えっ！？"
+                                "\\nw[Kuno]Huh, what!?"
                             ]
                         },
                         {
@@ -4611,38 +4611,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]うそ……すごくドキドキする……"
+                                "\\nw[Kuno]No way... I'm getting really excited... And even\nthough I can't see it as cool, there's something\nabout the smell that's nice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "それにかっこよく……\\|は見えないけど、何かにおいも良い……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nw[Taro]（淫魔の相互魅了の力か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "相手を魅了すると、自分も魅了されるんだよな……）"
+                                ""
                             ]
                         },
                         {
@@ -4659,7 +4635,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[町人]はぁはぁ……！"
+                                "\\nw[Taro](Is it the power of mutual enchantment of the\nsuccubus? If you enchant your partner, you\nyourself will also be enchanted...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4676,14 +4659,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]はぁはぁ……すごく抱かれたい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "この人のおち〇ぽ欲しい……♥"
+                                "\\nw[Townsperson]*Haa haa...!*"
                             ]
                         },
                         {
@@ -4700,7 +4676,31 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]ああ、抱かれてきていいぞ。"
+                                "\\nw[Kuno]*Haa haa...* I really want to be embraced... I\nwant this person's c*ck... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\nw[Taro]Ah, you can come and embrace me."
                             ]
                         },
                         {
@@ -4746,7 +4746,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]お願い、来て？"
+                                "\\nw[Kuno]Please, come over?"
                             ]
                         },
                         {
@@ -4763,7 +4763,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[町人]はぁはぁ！！"
+                                "\\nw[Townsperson]*Haa haa!!*"
                             ]
                         },
                         {
@@ -4948,7 +4948,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]駄目だ。"
+                                "\\nw[Taro]No."
                             ]
                         },
                         {
@@ -4965,7 +4965,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[町人]そ、そんな……！"
+                                "\\nw[Townsperson]T-T-That...!"
                             ]
                         },
                         {
@@ -5011,7 +5011,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]うう……残念ね……"
+                                "\\nw[Kuno]Ugh... how disappointing..."
                             ]
                         },
                         {
@@ -5045,7 +5045,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]（やめておこう）"
+                                "\\nw[Taro](Let's stop.)"
                             ]
                         },
                         {
@@ -5099,14 +5099,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[町人]はぁはぁ、管理人さん可愛いよ。"
+                                "\\nw[Townsperson]*Haa haa*, the caretaker is so cute. I want to do\nit *pako pako*...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "パコパコしたい……！"
+                                ""
                             ]
                         },
                         {
@@ -5152,7 +5152,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]……\\|きもっ……"
+                                "\\nw[Kuno]......Creepy......"
                             ]
                         },
                         {
@@ -5214,14 +5214,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[町人]はぁはぁ、管理人さんもクノさんも可愛いよ。"
+                                "\\nw[Townsperson]*Haa haa*, both the caretaker and Kuno-san are so\ncute. I want to do it *pako pako*...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "パコパコしたい……！"
+                                ""
                             ]
                         },
                         {
@@ -5255,14 +5255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町人]はぁはぁ、管理人さん可愛いよ。"
+                                "\\nw[Townsperson]*Haa haa*, the caretaker is so cute. I want to do\nit *pako pako*...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "パコパコしたい……！"
+                                ""
                             ]
                         },
                         {
@@ -5382,38 +5382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]はぁはぁ……可愛い、可愛いよ……！"
+                                "\\nw[Townspeople]Haa... haa... so cute, so cute...! And it feels\ngood... it feels too good, Kuno-san!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに気持ちいい……気持ちよすぎるよクノさん！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]あっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごっ……あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5430,14 +5406,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]大きくもないのに……あっ、あんっ♥"
+                                "\\nw[Kuno]Ah, ah, aahh♥ Amazing... ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気持ちよすぎて……あっ、あっ、ああんっ♥"
+                                "\\nw[Kuno]Even though it's not that big... ah, ahn♥ It feels\ntoo good... ah, ah, aahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5463,38 +5463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](淫魔の魅了の能力……人によって違うらしいが、"
+                                "\\nw[Taro](The succubus' charm ability... It seems to vary\ndepending on the person, but based on our past\nexperiences, I have a rough idea of the succubus'\ncharm that we possess.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今までの経験からオレ達が持ってるＮＴＲの淫魔の魅了は何となくわかった)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro](一番愛してる相手と同じくらいか少し強く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛するようにするんだろう)"
+                                ""
                             ]
                         },
                         {
@@ -5511,38 +5487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](だから妻や恋人がいることではなく、"
+                                "\\nw[Taro](I suppose it's like loving someone as much as the\nperson you love the most, or maybe even a little\nstronger.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "好きな相手がいて、その思いが強い人間ほど強い魅了にかかる)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[町民]最高だよ、クノさん……ふぅふぅ……可愛いよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パコパコ……！パコパコしまくるよ！"
+                                ""
                             ]
                         },
                         {
@@ -5559,38 +5511,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]アタシもっ……あっ、すきっ♥あんっ♥あんっ♥"
+                                "\\nw[Taro](So it's not about having a wife or a lover, but\nrather about having someone you love and having\nstrong feelings for them, that makes the charm of\nthe succubus stronger.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おじさんのおち〇ぽすきぃ……あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro](こいつがそれだけ隣の管理人を愛してたんだろうけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり問題は相互魅了だよな)"
+                                ""
                             ]
                         },
                         {
@@ -5607,45 +5535,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](相手が魅了された段階でこっちも魅了されるんだよな……"
+                                "\\nw[Townspeople]The best, Kuno-san... *panting*... so cute! Paco\npaco...! I'm gonna paco paco you like crazy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "多分同じ愛情の強さになるから、相手によっては危険だ)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro](こっちが持ってる感情よりずっと強い感情を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ってる人間もいるからな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際オレもひどく暴走させられたし……)"
+                                ""
                             ]
                         },
                         {
@@ -5662,38 +5559,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]最高に可愛いよ！"
+                                "\\nw[Kuno]I also... ah, I love it♥ Ahn♥ Ahn♥ I love the old\nman's c*ck... ahn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふぅふぅ……！喘ぐ姿も可愛いよ！クノちゃん、可愛いよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]そんなに褒められたら……ふあっ♥あっ♥あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うれしくなっちゃうっ♥あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -5710,14 +5583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]はぁはぁ……最高に可愛いクノさんに出すよ……！"
+                                "\\nw[Taro](This is probably because he loved the neighboring\nmanager so much... but the real issue is still\nmutual charm, isn't it?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "出す……うううぅぅ！！"
+                                ""
                             ]
                         },
                         {
@@ -5734,7 +5607,134 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あっ……すごっ、あっ、あっ、あっ、あああぁぁ～～♥♥"
+                                "\\nw[Taro](When the other person is charmed, I also get\ncharmed... It's probably because the strength of\nthe charm becomes the same as the intensity of\nlove. Depending on the person, it can be\ndangerous.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](There are people who have emotions much stronger\nthan the ones I possess... In fact, I was also\ndriven to a severe frenzy...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Townspeople]You're the cutest! *panting*...! Even your gasping\nis adorable! Kuno-chan, you're so cute!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]If you praise me that much... fuah♥ ah♥ ahhn♥ I'll\nbecome happy♥ ah, aahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Townspeople]*panting*... We're going to give it to the cutest\nKuno-san...! We're going to give it... ughhh!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Ah... amazing, ah, ah, ah, aaaaahhh~♥♥"
                             ]
                         },
                         {
@@ -5879,7 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あっ……ああぁぁ……おじさんの……すごぉぃ……♥♥"
+                                "\\nw[Kuno]Ah... aahh... the old man's... amazing...♥♥"
                             ]
                         },
                         {
@@ -5896,31 +5896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]はぁはぁ……クノさんが可愛すぎるから……！"
+                                "\\nw[Townspeople]*panting*... Because Kuno-san is too cute...! Your\nvoice, your scent, your appearance, everything\nabout you is adorable...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "声も匂いも姿も、何もかも可愛いよ……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]えへへ……"
+                                ""
                             ]
                         },
                         {
@@ -5937,7 +5920,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]だから、まだまだ続けるよ……！"
+                                "\\nw[Kuno]Hehehe..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Townspeople]So, we'll continue on...!"
                             ]
                         },
                         {
@@ -6004,14 +6004,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あっ、ああんっ♥"
+                                "\\nw[Kuno]Ah, aahh♥ Ojisan... amazing... ah, ah, aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おじさんっ、すごっ……あっ、あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -6048,7 +6048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](クノも楽しめそうだな……)"
+                                "\\nw[Taro](Kuno seems to be enjoying herself too...)"
                             ]
                         },
                         {
@@ -6166,14 +6166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]可愛い、可愛いよクノさん！"
+                                "\\nw[Townspeople]Kuno-san, you're so cute! More, more pa-ko pa-\nko...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっとパコパコ……！"
+                                ""
                             ]
                         },
                         {
@@ -6190,14 +6190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はげしっ……あっ、あっ、ああんっ♥"
+                                "\\nw[Kuno]Haa... Ah, ah, aahh♥ It's amazing... Ah, ah, ah,\naahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごいっ……あっ、あっ、あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -6223,7 +6223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](夢中になってるし、離れておくか……)"
+                                "\\nw[Taro](She seems really absorbed in it, so I'll keep my\ndistance...)"
                             ]
                         },
                         {
@@ -6758,7 +6758,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[傭兵]き、君は……！"
+                                "\\nw[Mercenary]Y-You...!"
                             ]
                         },
                         {
@@ -6804,7 +6804,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]うん、こんばんは"
+                                "\\nw[Kuno]Yes, good evening."
                             ]
                         },
                         {
@@ -6821,38 +6821,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[傭兵]あっ、いや……うん。"
+                                "\\nw[Mercenary]Ah, no... um, yeah. Good evening..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "こんばんは……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\nw[Taro](挙動不審だな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "セックスの期待をしてるけど恥ずかしいって感じか？)"
+                                ""
                             ]
                         },
                         {
@@ -6869,7 +6845,31 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro](どうするかな……)"
+                                "\\nw[Taro](You're acting suspicious... Are you expecting sex\nbut feeling embarrassed?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\nw[Taro](I wonder what to do...)"
                             ]
                         },
                         {
@@ -6903,14 +6903,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[傭兵]近頃隣の部屋から嬌声が聞こえてきて、"
+                                "\\nw[Mercenary]Lately, I've been hearing moans coming from the\nroom next door, and it's making me feel aroused..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ムラムラするんだよな……"
+                                ""
                             ]
                         },
                         {
@@ -6956,7 +6956,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Kuno]へ～、そうなんだ……"
+                                "\\nw[Kuno]Oh, is that so..."
                             ]
                         },
                         {
@@ -6973,14 +6973,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[Taro](こいつは性欲が溜まってそうだし、"
+                                "\\nw[Taro](This person seems sexually frustrated... Should I\ntry to make them cuckold?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "寝取らせてみるか？)"
+                                ""
                             ]
                         },
                         {
@@ -6998,8 +6998,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "寝取らせる",
-                                    "やめておく"
+                                    "Let them be cuckolded",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -7047,7 +7047,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]クノ、気乗りするなら相手するか？"
+                                "\\nw[Taro]Kuno, if you're in the mood, do you want to play\nwith me?"
                             ]
                         },
                         {
@@ -7093,31 +7093,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]ん、いいわよ。"
+                                "\\nw[Kuno]Mmm, fine. You seem to have some great\nexpectations, after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "何かすごい期待してそうだし。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nw[Kuno]ほらアンタ、こっちきて"
+                                ""
                             ]
                         },
                         {
@@ -7134,7 +7117,24 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[傭兵]し、仕方ないな……！"
+                                "\\nw[Kuno]Hey, come over here."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\nw[Mercenary]Well, I guess there's no helping it...!"
                             ]
                         },
                         {
@@ -7168,7 +7168,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]クノ、どうだ？"
+                                "\\nw[Taro]Kuno, how about it?"
                             ]
                         },
                         {
@@ -7214,7 +7214,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]あ、うん。"
+                                "\\nw[Kuno]Ah, yeah."
                             ]
                         },
                         {
@@ -7260,38 +7260,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]ねえアナタ、"
+                                "\\nw[Kuno]Hey, if you're feeling so horny, do you want me to\ntake care of you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "そんなにムラムラしてるなら、相手してあげよっか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nw[傭兵]えっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "そ、それは……"
+                                ""
                             ]
                         },
                         {
@@ -7308,7 +7284,31 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]ほら、力を抜いて……"
+                                "\\nw[Mercenary]Eh!? Th-That is..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\nw[Kuno]Hey, relax..."
                             ]
                         },
                         {
@@ -7473,7 +7473,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro]まぁ、何も挨拶もしたし他に行くか。"
+                                "\\nw[Taro]Well, since we haven't greeted each other and\nthere's nowhere else to go, shall we move on?"
                             ]
                         },
                         {
@@ -7490,7 +7490,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[傭兵]ええ！？"
+                                "\\nw[Mercenary]Eh!?"
                             ]
                         },
                         {
@@ -7536,7 +7536,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Kuno]うん、じゃあね。"
+                                "\\nw[Kuno]Yeah, see you later."
                             ]
                         },
                         {
@@ -7570,7 +7570,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[Taro](やめておくか)"
+                                "\\nw[Taro](I'll leave it at that.)"
                             ]
                         },
                         {
@@ -7624,14 +7624,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[傭兵]あ～疲れた。"
+                                "\\nw[Mercenary]Ugh, I'm tired. But the neighbor next door is\nstill so creepy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "しかし隣の住民は相変わらずきもいな。"
+                                ""
                             ]
                         },
                         {
@@ -7677,7 +7677,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]ふ～ん、隣人トラブルかぁ……"
+                                "\\nw[Kuno]Hmm, neighbor trouble, huh..."
                             ]
                         },
                         {
@@ -7739,7 +7739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[傭兵]ああ、今日は彼女はいないのか……"
+                                "\\nw[Mercenary]Ah, so she's not here today..."
                             ]
                         },
                         {
@@ -7773,14 +7773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]あ～疲れた。"
+                                "\\nw[Mercenary]Ah, I'm tired. But the neighbor next door is still\nso creepy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし隣の住民は相変わらずきもいな。"
+                                ""
                             ]
                         },
                         {
@@ -7900,31 +7900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]し～こ、し～こ……"
+                                "\\nw[Kuno]Shiko, shiko... Hora, kimochi ii?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほ～ら、気持ちいい？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[傭兵]はぁはぁ……これすごい……！"
+                                ""
                             ]
                         },
                         {
@@ -7941,14 +7924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]まだまだこれからよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、し～こ、し～こ♥"
+                                "\\nw[Mercenary]Haa haa... This is amazing...!"
                             ]
                         },
                         {
@@ -7965,14 +7941,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[傭兵]あ、ああぁ……！"
+                                "\\nw[Kuno]We're just getting started, you know? Come on,\nshi~ko, shi~ko ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなにいいから先輩たちは女遊びするのか……！"
+                                ""
                             ]
                         },
                         {
@@ -7989,7 +7965,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]気持ちよくしてあげるわ♥"
+                                "\\nw[Mercenary]Ah, ah...! Is this why the seniors enjoy playing\nwith women so much...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]I'll make you feel good ♥"
                             ]
                         },
                         {
@@ -8015,14 +8015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](慣れてないみたいだな、"
+                                "\\nw[Taro](Seems like you're not used to this, even though\nyou're a mercenary. How unusual.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "傭兵なのに珍しい)"
+                                ""
                             ]
                         },
                         {
@@ -8039,7 +8039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](って、人のこと言えないな……)"
+                                "\\nw[Taro](You can't say that about others...)"
                             ]
                         },
                         {
@@ -8166,14 +8166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]可愛いよっ、クノさん……！"
+                                "\\nw[Townspeople]You're so cute, Kuno-san...! I love you, I love\nyou!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "愛してるよ、愛してる！"
+                                ""
                             ]
                         },
                         {
@@ -8190,14 +8190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]アタシも……あひっ、あひぃ♥"
+                                "\\nw[Kuno]Me too... Ah, ahii♥ Kiss, mmm, kiss, nchu...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅっ、んむっ、ちゅっ、んちゅっ……♥"
+                                ""
                             ]
                         },
                         {
@@ -8223,38 +8223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](夢中になってるな……"
+                                "\\nw[Taro](You're really engrossed in it... According to the\ncontract, I can only lend it for a week, so I'll\nlet you know just in case.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "契約上貸すのは一週間までだし、一応言っておくか)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]おい、そろそろ時間たぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一区切りついたら終われよ。"
+                                ""
                             ]
                         },
                         {
@@ -8271,38 +8247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]はぁはぁ……そんな、まだまだ……！"
+                                "\\nw[Taro]Hey, it's about time. Finish up once you're done\nwith this section."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだまだ続けられる！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[町民]そうだ、延長させてくれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来週まで延長を！"
+                                ""
                             ]
                         },
                         {
@@ -8319,38 +8271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]んっ……まぁクノにも聞かないとな。"
+                                "\\nw[Townspeople]Haa haa... Not yet...! I can still keep going!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "休みも必要だし……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]あっ、延長いいわよっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさんっ、良いからっ、あっ、あっ、あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -8367,7 +8295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうか……"
+                                "\\nw[Townspeople]That's right, let us extend it! Extend it until\nnext week!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8384,7 +8319,72 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](ふむ、どうするか……)"
+                                "\\nw[Taro]Hmm... well, I should ask Kuno too. She needs a\nbreak too..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Ah, an extension is fine! Ah, aahh♥ Uncle, it's\nokay, ah, ah, ahhn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]I see..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](Hmm, what should I do...)"
                             ]
                         },
                         {
@@ -8392,8 +8392,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "延長させる",
-                                    "延長させない"
+                                    "Extend the time",
+                                    "Don't extend it"
                                 ],
                                 1,
                                 0,
@@ -8423,31 +8423,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]わかった、来週まで続けてていいぞ。"
+                                "\\nw[Taro]Alright, you can continue until next week.\nHowever, prioritize the dispatched quests and work\nat the adult entertainment establishments."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ただし、派遣クエストとか風俗店の仕事を優先するけどな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[町民]ああ、ありがとう店長さん！"
+                                ""
                             ]
                         },
                         {
@@ -8464,14 +8447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[町民]パコパコ続けるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クノさん！"
+                                "\\nw[Townspeople]Aah, thank you, Manager-san!"
                             ]
                         },
                         {
@@ -8488,7 +8464,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]うん、してっ……あっ、あっ、あっ、ああんっ♥"
+                                "\\nw[Townspeople]Keep going, Kuno-san! Paco paco!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Yes, I'm... ah, ah, ah, aahh♥"
                             ]
                         },
                         {
@@ -8549,7 +8549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]駄目だ。"
+                                "\\nw[Taro]No."
                             ]
                         },
                         {
@@ -8566,7 +8566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[町民]そ、そんな……！"
+                                "\\nw[Townspeople]S-So, that's...!"
                             ]
                         },
                         {
@@ -8583,7 +8583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]勝手に連れ出したりしたら二度と貸し出さないからな。"
+                                "\\nw[Taro]If you take her out without permission, I won't\nlend her to you again."
                             ]
                         },
                         {
@@ -8600,14 +8600,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[町民]わ、わかったよ……"
+                                "\\nw[Townspeople]F-Fine... If that's the case, then at least for\nnow, do it passionately!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だったらせめて今だけは激しく！"
+                                ""
                             ]
                         },
                         {
@@ -8624,14 +8624,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]おじさん……ひあっ、あっ、あっ、はげしっ♥"
+                                "\\nw[Kuno]Uncle... hiaa, ah, ah, aahh♥ It's amazing, ah, ah,\naaahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "すごいっ、あっ、あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -8770,14 +8770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]クノさん！"
+                                "\\nw[Townspeople]Kuno-san! You're so cute, so adorable! I'll make\nyou feel even better, okay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "可愛い、可愛いよ！もっとよくしてあげるからね！"
+                                ""
                             ]
                         },
                         {
@@ -8794,7 +8794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]はいっ……ちゅっ、んむっ、んちゅっ……♥"
+                                "\\nw[Kuno]Yes... *kiss*, *mmh*, *smooch*...♥"
                             ]
                         },
                         {
@@ -8820,7 +8820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](釘を刺しておいたし、きっと大丈夫か)"
+                                "\\nw[Taro](I've set the nail in place, so it should be\nfine.)"
                             ]
                         },
                         {
@@ -8938,7 +8938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]まだ一緒に入れて嬉しいよ、クノさん……！"
+                                "\\nw[Townspeople]I'm still happy to be able to enter together with\nyou, Kuno-san...!"
                             ]
                         },
                         {
@@ -8955,7 +8955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]アタシも……ちゅむっ、んっ、んんっ、んちゅっ……♥"
+                                "\\nw[Kuno]Me too...chu, ngh, mmm, mmmph...chu...♥"
                             ]
                         },
                         {
@@ -8981,7 +8981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](抱かれてるのは興奮するが、他の事もしないとな……)"
+                                "\\nw[Taro](It's exciting to be embraced, but I should also\ndo other things...)"
                             ]
                         },
                         {
@@ -9099,38 +9099,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]おじさん……あっ、んちゅっ、んんっ♥"
+                                "\\nw[Kuno]Uncle... ah, *kiss*, mmm ♥ amazing ♥ *kiss*, mmm,\n*suck* ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごいっ♥ちゅっ、んっ、ちゅむっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[町民]はぁはぁ……いいよクノさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必死で可愛いよっ、可愛い！"
+                                ""
                             ]
                         },
                         {
@@ -9147,7 +9123,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]おじさんっ、しゅきっ、んんっ、んむっ、んんっ♥"
+                                "\\nw[Townspeople]Haa...haa... It's fine, Kuno-san. You're so cute\nwhen you're desperate, cute!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Uncle... *kiss*, mmm, *suck*, mmm, *suck* ♥"
                             ]
                         },
                         {
@@ -9173,14 +9173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](ずっと交わらせてるからか親密になってるような……"
+                                "\\nw[Taro](Maybe because we've been doing it so much, we've\nbecome closer... If we stop, will things go back\nto how they were...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "離れさせたら元に戻るか……？)"
+                                ""
                             ]
                         },
                         {
@@ -9298,38 +9298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]可愛いよっ、クノ……！"
+                                "\\nw[Townspeople]You're so cute, Kuno...! And it feels so good!\nKuno, I love you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに気持ちよすぎるよ！クノ！愛してる！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]おじさまの好きぃ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おち〇ぽっ、ちゅ、んんっ、しゅきぃ♥ちゅっ♥"
+                                ""
                             ]
                         },
                         {
@@ -9346,7 +9322,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]おじさまっ♥おじさまっ♥あっ、あっ、ああっ♥"
+                                "\\nw[Kuno]I love your c*ck, sir♥ Mmm, it feels so good! I\nlove it♥ Mmmwah♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Oh, sir♥ Sir♥ Ah, ah, aahh♥"
                             ]
                         },
                         {
@@ -9372,14 +9372,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](何か親密になってる気がするな……"
+                                "\\nw[Taro](I feel like we're getting closer... Although the\ncontract only allows me to lend it for a week,\nthere's no need to ask, it's definitely going to\nbe extended.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "契約上貸すのは一週間までだけど、聞くまでもなく延長だよな)"
+                                ""
                             ]
                         },
                         {
@@ -9396,7 +9396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](ふむ、どうするか……)"
+                                "\\nw[Taro](Hmmm, what should I do...)"
                             ]
                         },
                         {
@@ -9404,8 +9404,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "延長させる",
-                                    "延長させない"
+                                    "Extend the time",
+                                    "Don't extend it"
                                 ],
                                 1,
                                 0,
@@ -9435,31 +9435,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](まぁ、放っておけば勝手に延長するか"
+                                "\\nw[Taro](Well, if I leave it alone, it'll probably be\nextended on its own. Besides, I seem to be rich.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "金持ちみたいだしな)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[町民]クノ……！クノ……！"
+                                ""
                             ]
                         },
                         {
@@ -9476,7 +9459,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]おじさまぁ……あっ、あっ、ああんっ♥"
+                                "\\nw[Townspeople]Kuno...! Kuno...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Oh, sir... Ah, ah, aahh♥"
                             ]
                         },
                         {
@@ -9537,31 +9537,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](夕方に引き取るか。"
+                                "\\nw[Taro](Should I pick it up in the evening? I don't have\nmuch strength, so I'll probably have to forcefully\nremove it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "筋力はないし無理やり引きはがせるだろ)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[町民]クノ……！クノ……！"
+                                ""
                             ]
                         },
                         {
@@ -9578,7 +9561,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]おじさまぁ……あっ、あっ、ああんっ♥"
+                                "\\nw[Townspeople]Kuno...! Kuno...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]Oh, sir... Ah, ah, aahh♥"
                             ]
                         },
                         {
@@ -9717,14 +9717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]おじさまっ♥おじさまぁっ♥"
+                                "\\nw[Kuno]Oh, sir♥ Oh, sir♥ *kiss* *smooch* *suck*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅっ♥んちゅっ♥ちゅむっ♥"
+                                ""
                             ]
                         },
                         {
@@ -9741,7 +9741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]可愛い……本当に可愛いよ、クノ！"
+                                "\\nw[Townspeople]So cute... You're really cute, Kuno!"
                             ]
                         },
                         {
@@ -9868,38 +9868,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]おじさまぁ……あっ……♥"
+                                "\\nw[Kuno]Oh, sir... Ah... ♥ It's amazing... Mmm, ah... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごいぃ……んっ、ああっ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[町民]はぁはぁはぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高だよ、結婚してくれ！"
+                                ""
                             ]
                         },
                         {
@@ -9916,14 +9892,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]おじさまっ、あっ、あんっ♥"
+                                "\\nw[Townspeople]Haa haa haa...! It's the best, please marry me!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさまぁぁ♥"
+                                "\\nw[Kuno]Oh, sir... Ah... ♥ Oh, sirrrr ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9949,14 +9949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](本当に夢中だな。"
+                                "\\nw[Taro](You're really into it, huh? Doesn't seem like\nyou'll get tired of it, right?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "飽きたりすることもなさそうか？)"
+                                ""
                             ]
                         },
                         {
@@ -10074,38 +10074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]はぁはぁ……今日は孕ませる……！"
+                                "\\nw[Townspeople]Haa... haa... Today, we're going to impregnate...!\nDefinitely get pregnant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "絶対孕んでよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]はいっ、アナタ……あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタの子供、孕ませて……あっ、ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -10122,7 +10098,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]すごいっ、アナタ……♥あっ、あっ、ああんっ♥"
+                                "\\nw[Kuno]Yes, you... Ah, ahn♥ Let me bear your child... Ah,\nahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Amazing, you... Ah, ah, aahh♥"
                             ]
                         },
                         {
@@ -10148,14 +10148,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](まぁ聞かなくても延長希望ってわかるな。"
+                                "\\nw[Taro](Well, even without asking, I can tell you want an\nextension. What should I do...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしたものか……)"
+                                ""
                             ]
                         },
                         {
@@ -10163,8 +10163,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "延長させる",
-                                    "延長させない"
+                                    "Allow extension",
+                                    "Don't extend it"
                                 ],
                                 1,
                                 0,
@@ -10194,38 +10194,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](このままにしておくか。"
+                                "\\nw[Taro](Should I leave it like this? Kuno seems to be\nfeeling good too.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "クノも気持ちよさそうだしな)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[町民]はぁはぁはぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "愛してるよ、おでだけのクノ……！"
+                                ""
                             ]
                         },
                         {
@@ -10242,7 +10218,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]アナタ……あっ、あっ、ああんっ♥"
+                                "\\nw[Townspeople]Haa... haa... I love you, Kuno, only you...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]You... ah, ah, aahh♥"
                             ]
                         },
                         {
@@ -10303,38 +10303,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](夕方に引き取るか。"
+                                "\\nw[Taro](Should I pick her up in the evening? She doesn't\nhave much strength, so I should be able to\nforcibly separate her.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "筋力はないし無理やり引きはがせるだろ)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[町民]はぁはぁはぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "愛してるよ、おでだけのクノ……！"
+                                ""
                             ]
                         },
                         {
@@ -10351,7 +10327,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]アナタ……あっ、あっ、ああんっ♥"
+                                "\\nw[Townspeople]Haa... haa... I love you, Kuno, only you...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Kuno]You... ah, ah, aahh♥"
                             ]
                         },
                         {
@@ -10490,14 +10490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]アナタ……しゅきっ、んむっ、んんっ♥"
+                                "\\nw[Kuno]You... like this, mmm, nnghh♥ Ahh, aahh, mmm,\nnnghh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、ああっ、んむっ、んんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -10514,7 +10514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]絶対に離さないよ、クノ！"
+                                "\\nw[Townspeople]We will never let you go, Kuno!"
                             ]
                         },
                         {
@@ -10641,14 +10641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]一生離さないよ……"
+                                "\\nw[Townspeople]I'll never let you go... haa haa...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁはぁ……！"
+                                ""
                             ]
                         },
                         {
@@ -10665,7 +10665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ああぁ…………ふあっ……♥"
+                                "\\nw[Kuno]Aahh............fuhh......♥"
                             ]
                         },
                         {
@@ -10691,7 +10691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](どんどん男の動きが激しくなってるな)"
+                                "\\nw[Taro](His movements are getting more intense)"
                             ]
                         },
                         {
@@ -10809,14 +10809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]クノ……クノ……！"
+                                "\\nw[Townspeople]Kuno... Kuno...! Impregnate her, impregnate\nher...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "孕めっ、孕め……！"
+                                ""
                             ]
                         },
                         {
@@ -10833,7 +10833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]……ひっ…………ぉ…………ぁ…………♥"
+                                "\\nw[Kuno]......Hnnn..........Oh..........Ah..........♥"
                             ]
                         },
                         {
@@ -10859,14 +10859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](男は延長希望だろうけど、クノは大丈夫か？"
+                                "\\nw[Taro](The guys probably want to extend, but is Kuno\nokay? Maybe it's better to let her go...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "離した方が良いんじゃ……)"
+                                ""
                             ]
                         },
                         {
@@ -10883,14 +10883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](でもクノは半分意識が飛んでるところを犯されるのが"
+                                "\\nw[Taro](But Kuno did say she likes being violated when\nshe's half-conscious...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "好きって言ってたしな……)"
+                                ""
                             ]
                         },
                         {
@@ -10898,8 +10898,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "延長させる",
-                                    "延長させない"
+                                    "Extend the time",
+                                    "Don't prolong it"
                                 ],
                                 1,
                                 0,
@@ -10929,14 +10929,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](このままにしておくか。"
+                                "\\nw[Taro](Should I just leave it as it is? Kuno seems to be\nenjoying herself.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "クノも気持ちよさそうだしな)"
+                                ""
                             ]
                         },
                         {
@@ -10953,7 +10953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……ぁ…………ぉ…………♥"
+                                "\\nw[Kuno]......Ah............Oh............♥"
                             ]
                         },
                         {
@@ -11014,14 +11014,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](夕方に引き取るか。"
+                                "\\nw[Taro](Should I take her in the evening? She doesn't\nhave much strength, so I should be able to\nforcibly take her away.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "筋力はないし無理やり引きはがせるだろ)"
+                                ""
                             ]
                         },
                         {
@@ -11038,7 +11038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……ぁ…………ぉ…………♥"
+                                "\\nw[Kuno]......Ah............Oh............♥"
                             ]
                         },
                         {
@@ -11177,7 +11177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]……ぉ…………ぁぁ………………♥"
+                                "\\nw[Kuno]......Oh..........Ahh..................♥"
                             ]
                         },
                         {
@@ -11194,7 +11194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]可愛いよ！白目をむいてても可愛いよ……！"
+                                "\\nw[Townspeople]You're so cute! Even with your eyes rolled back,\nyou're still cute...!"
                             ]
                         },
                         {
@@ -11321,7 +11321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町民]クノ……クノ……最高だよ、クノ！"
+                                "\\nw[Townspeople]Kuno... Kuno... You're the best, Kuno!"
                             ]
                         },
                         {
@@ -11338,7 +11338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]………ぉぉ…………ぁ……………"
+                                "\\nw[Kuno].........Ohhh............Ah..............."
                             ]
                         },
                         {
@@ -11364,21 +11364,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](クノが危なそうだけど、"
+                                "\\nw[Taro](Kuno seems to be in danger, but she did say she\nlikes being raped when she's on the verge of\nlosing consciousness due to pleasure...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "快感で意識が飛びかけてるところで犯されるのが好きって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言ってたしな……)"
+                                ""
                             ]
                         },
                         {

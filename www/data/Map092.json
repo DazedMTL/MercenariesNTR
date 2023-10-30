@@ -2465,7 +2465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……いいさわり心地……"
+                                "\\nw[Uka]......It feels so good......"
                             ]
                         },
                         {
@@ -2473,9 +2473,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Let's talk",
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -2505,7 +2505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]それ気に入ったのか？"
+                                "\\nw[Taro]Did you like it?"
                             ]
                         },
                         {
@@ -2522,7 +2522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……寝るとき……抱きたい……"
+                                "\\nw[Uka]......Yeah......When I sleep......I want to be\nheld......"
                             ]
                         },
                         {
@@ -2539,7 +2539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ふむ……"
+                                "\\nw[Taro]Hmmm..."
                             ]
                         },
                         {
@@ -2556,14 +2556,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（確かにウカは寝るとき何か抱きたがるよな……"
+                                "\\nw[Taro](Certainly, Uka always seems to want to be held\nwhen she sleeps... I wonder if a doll of this size\nwould be just right...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このくらいの人形がちょうどいいんだろうか……）"
+                                ""
                             ]
                         },
                         {
@@ -2788,7 +2788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[道具屋]どうぞ見ていってください"
+                                "\\nw[Item Shop]Please take a look at the item shop."
                             ]
                         },
                         {
@@ -2893,7 +2893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[道具屋]またのお越しをお待ちしております"
+                                "\\nw[Item Shop]We look forward to your visit again at the Item\nShop."
                             ]
                         },
                         {
@@ -2981,7 +2981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[魔導球屋]いらっしゃい、交換したいものはある？"
+                                "\\nw[Magic Orb Shop]Welcome, do you have something you want to\nexchange?"
                             ]
                         },
                         {
@@ -3000,12 +3000,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（魔術強）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系"
+                                    "Healing Magic",
+                                    "Attack Magic",
+                                    "Attack Type (Magic Strong)",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weakened Magic"
                                 ],
                                 -1,
                                 0,
@@ -3919,7 +3919,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "やっぱり買わない"
+                                    "No, I won't buy it after all"
                                 ],
                                 0,
                                 -1,
@@ -3978,12 +3978,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系",
-                                    "やっぱりいらない"
+                                    "Healing Magic",
+                                    "Attack Magic",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weakened Magic",
+                                    "No, I don't need it after all"
                                 ],
                                 5,
                                 0,
@@ -4747,12 +4747,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系",
-                                    "やっぱりいらない"
+                                    "Healing Magic",
+                                    "Attack Magic",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weakened Magic",
+                                    "No, I don't need it after all"
                                 ],
                                 5,
                                 0,
@@ -5339,7 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[魔導球屋]ありがとう、また来てくれると嬉しいわ。"
+                                "\\nw[Magic Orb Shop]Thank you, I'll be happy if you come again."
                             ]
                         },
                         {
@@ -5411,7 +5411,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[魔導球屋]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Magic Orb Shop]Oh, it seems the amount of semen you've exchanged\nhas reached a certain number."
                             ]
                         },
                         {
@@ -5428,7 +5428,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[魔導球屋]今度からより良いものが交換できるようにしておくわ。"
+                                "\\nw[Magic Orb Shop]I'll make sure you can exchange for even better\nthings next time."
                             ]
                         },
                         {
@@ -5498,7 +5498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[魔導球屋]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Magic Orb Shop]Oh, it seems the amount of semen you've exchanged\nhas reached a certain number."
                             ]
                         },
                         {
@@ -5515,7 +5515,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[魔導球屋]今度からより良いものが交換できるようにしておくわ。"
+                                "\\nw[Magic Orb Shop]I'll make sure you can exchange for even better\nthings next time."
                             ]
                         },
                         {
@@ -5585,7 +5585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[魔導球屋]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Magic Orb Shop]Oh, it seems the amount of semen you've exchanged\nhas reached a certain number."
                             ]
                         },
                         {
@@ -5602,7 +5602,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[魔導球屋]今度からこの店にあるもの全部と交換できるようにしておくわ。"
+                                "\\nw[Magic Orb Shop]I'll make sure you can exchange for everything in\nthis shop from now on."
                             ]
                         },
                         {

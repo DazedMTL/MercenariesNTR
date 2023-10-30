@@ -15282,7 +15282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -15306,7 +15306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ふむ、また罠なのか？"
+                                "\\nw[Taro]Hmmm, is it another trap?"
                             ]
                         },
                         {
@@ -15323,31 +15323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]扉が閉まってる場所の先は痺れ毒で満ちてるようじゃ。"
+                                "\\nw[Prae's voice]It seems like the area beyond the closed door is\nfilled with paralyzing poison. In order to\nneutralize it, we need to generate magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それを無効化するために魔力を発生させる必要があるようじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]罠じゃなくて課題か……"
+                                ""
                             ]
                         },
                         {
@@ -15364,14 +15347,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]魔力をダンジョンに取り込む装置があるはずじゃが、"
+                                "\\nw[Taro]It's not a trap, but a challenge..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近くに何かあるかのう？"
+                                "\\nw[Prae's voice]There should be a device to absorb magic power in\nthe dungeon, but is there something nearby?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15428,7 +15428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あの椅子か？"
+                                "\\nw[Taro]That chair?"
                             ]
                         },
                         {
@@ -15445,14 +15445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]ふむ、恐らくそうじゃな。"
+                                "\\nw[Prae's voice]Hmmm, perhaps that's not it. Let's have one of the\nfemale party members sit on the chair and see."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一人女の団員を座らせてみるんじゃな。"
+                                ""
                             ]
                         },
                         {
@@ -15469,7 +15469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、わかった。"
+                                "\\nw[Taro]Ah, I see."
                             ]
                         },
                         {
@@ -15546,7 +15546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -15594,7 +15594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]椅子を調べてみるか。"
+                                "\\nw[Taro]Shall I check the chair?"
                             ]
                         },
                         {
@@ -15849,7 +15849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "椅子からはダンジョンに似た魔力を感じる。"
+                                "I feel a magical power similar to a dungeon from\nthe chair."
                             ]
                         },
                         {
@@ -15917,7 +15917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "椅子からはダンジョンに似た魔力を感じる。"
+                                "I feel a magical power similar to a dungeon from\nthe chair."
                             ]
                         },
                         {
@@ -15943,31 +15943,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]押したり持ち上げようとしてみたが動かないな。"
+                                "\\nw[Taro]I tried pushing and lifting it, but it won't move.\nIs it integrated with a part of the dungeon?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンの一部で一体化してるのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[プラエの声]ほれ、誰か一人座らせてみるがよい。"
+                                ""
                             ]
                         },
                         {
@@ -15984,7 +15967,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうだな……"
+                                "\\nw[Prae's voice]Here, let someone sit down."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Yeah..."
                             ]
                         },
                         {
@@ -15992,8 +15992,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "座らせる",
-                                    "やめておく"
+                                    "Make them sit down",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -16023,7 +16023,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]座らせるとすると……"
+                                "\\nw[Taro]If we're going to make someone sit down..."
                             ]
                         },
                         {
@@ -16338,7 +16338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ウカとサリアは淫魔じゃないからないとして……"
+                                "\\nw[Taro]Assuming Uka and Saria are not succubi..."
                             ]
                         },
                         {
@@ -16355,7 +16355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro](一番元気なのは……)"
+                                "\\nw[Taro](The most energetic one is...)"
                             ]
                         },
                         {
@@ -16372,7 +16372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]フロス、頼んでいいか？"
+                                "\\nw[Taro]Fross, can I ask you for a favor?"
                             ]
                         },
                         {
@@ -16476,7 +16476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]はい、わかりました。"
+                                "\\nw[Fross]Yes, understood."
                             ]
                         },
                         {
@@ -16493,7 +16493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]あっさりだな。"
+                                "\\nw[Taro]That was easy."
                             ]
                         },
                         {
@@ -16510,38 +16510,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]わたしは戦闘は得意ではないですしね。"
+                                "\\nw[Fross]I'm not good at fighting, so if I can be of help\nlike this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こうしてお役に立てるのなら。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]まぁ、エロダンジョンだからエロいことが起こると思うが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいか？"
+                                ""
                             ]
                         },
                         {
@@ -16558,7 +16534,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]はい、座ってみますね。"
+                                "\\nw[Taro]Well, since it's an erotic dungeon, I think erotic\nthings will happen. Is that okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Fross]Yes, I'll try sitting down."
                             ]
                         },
                         {
@@ -16594,7 +16594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]何も起きない……？"
+                                "\\nw[Fross]Nothing will happen...?"
                             ]
                         },
                         {
@@ -16630,7 +16630,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]えっ、服が……！？"
+                                "\\nw[Fross]Huh, my clothes...!?"
                             ]
                         },
                         {
@@ -16647,7 +16647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……！"
+                                "\\nw[Taro]......!"
                             ]
                         },
                         {
@@ -16702,7 +16702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]えっ、あっ、えっ………！"
+                                "\\nw[Fross]Eh, ah, eh.........!"
                             ]
                         },
                         {
@@ -16769,7 +16769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]心の準備をしてからにするか。"
+                                "\\nw[Taro]Let's prepare ourselves mentally before we do it."
                             ]
                         },
                         {
@@ -16852,14 +16852,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]か、覚悟はしてましたけど……"
+                                "\\nw[Fross]I-I was prepared, but... you're undressing me,\naren't you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "脱がされてますよね……"
+                                ""
                             ]
                         },
                         {
@@ -16876,7 +16876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あ、ああ……"
+                                "\\nw[Taro]Ah, ah..."
                             ]
                         },
                         {
@@ -16943,31 +16943,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]！？"
+                                "\\nw[Fross]!? It's moving...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動き出して……！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]何か……流し込まれて……！？"
+                                ""
                             ]
                         },
                         {
@@ -16984,7 +16967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Fross]Something... is being poured into me...!?"
                             ]
                         },
                         {
@@ -17001,14 +16984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（ここで何か言って心配するのは違うか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フロスに気持ちよくなってもらわないといけないのだから……）"
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -17025,14 +17001,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]身体熱く……それに動いて……"
+                                "\\nw[Taro](It's not the time to worry about saying something\nhere... I have to make Fross feel good...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んんっ♥ふあっ♥"
+                                ""
                             ]
                         },
                         {
@@ -17049,7 +17025,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]動けないのにそこはっ、ふあっ♥あっ♥ああっ♥"
+                                "\\nw[Fross]My body is hot... and it's moving... mmm ♥ ah ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Even though I can't move, there... fuahh ♥ ah ♥\naahh ♥"
                             ]
                         },
                         {
@@ -17221,7 +17221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]扉が開いた？"
+                                "\\nw[Taro]The door opened?"
                             ]
                         },
                         {
@@ -17238,45 +17238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]扉開いたんですか？あんっ♥"
+                                "\\nw[Fross]Did the door open? If that's the case, please go\nquickly, ah ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だったら早く、行ってください、ああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（誰かここに拘束されてないと痺れ毒が無効化されないんだよな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに前と同じならある程度進めば……魔力を集めれば解放されるはずだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったらなるべく急いで進むしかないか）"
+                                ""
                             ]
                         },
                         {
@@ -17293,14 +17262,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった、先に進む。"
+                                "\\nw[Taro](If someone isn't restrained here, the paralysis\npoison won't be neutralized. And if it's the same\nas before, if I make some progress... and gather\nmagic power, I should be released. In that case, I\nhave no choice but to hurry and move forward as\nquickly as possible.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なるべく急ぐから、任せたぞ！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17317,7 +17293,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]はい、任されました……ふあっ、あっ、あああっ♥"
+                                "\\nw[Taro]Alright, I'll go ahead. I'll hurry as much as\npossible, so leave it to me!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Fross]Yes, I've been entrusted... fuahh, ah, aahhh ♥"
                             ]
                         },
                         {
@@ -17495,7 +17495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ああっ、ふあっ、あっ、ああっ♥"
+                                "\\nw[Fross]Ahh, fuahh, ah, ahh♥"
                             ]
                         },
                         {
@@ -17512,7 +17512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]こんな、おかしくなっちゃ……んぁぁ♥"
+                                "\\nw[Fross]Like this, I'm going to...ahh♥"
                             ]
                         },
                         {
@@ -17529,7 +17529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -17546,7 +17546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（声を掛けない方がいいか……）"
+                                "\\nw[Taro](Maybe I shouldn't call out...)"
                             ]
                         },
                         {
@@ -19181,7 +19181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイレイズボトルを手に入れた！"
+                                "I obtained the High-Rise Bottle!"
                             ]
                         },
                         {

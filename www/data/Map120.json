@@ -2523,7 +2523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]宣伝とか苦手なんだがな。"
+                                "\\nw[Thorz]I'm not good at advertising or anything."
                             ]
                         },
                         {
@@ -2600,7 +2600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[受付]ここは冒険者ギルドの門前支部です。"
+                                "\\nw[Receptionist]This is the branch office of the Adventurer's\nGuild."
                             ]
                         },
                         {
@@ -2677,14 +2677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[冒険者]ここで貰える仕事はほとんど安い奴か"
+                                "\\nw[Adventurer]Most of the jobs you can get here are either cheap\nones or just monster extermination around the\ngate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "門の周りの魔物退治くらいなんだよな。"
+                                ""
                             ]
                         },
                         {
@@ -2761,14 +2761,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[冒険者]門は夜には閉じてしまうからね。"
+                                "\\nw[Adventurer]The gate closes at night, you know. That's why\nthere are various facilities in front of the gate\nlike this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうして門の前にも色んな施設があるんだよ。"
+                                ""
                             ]
                         },
                         {

@@ -2671,14 +2671,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]普通に入り口が開いてるな。"
+                                "\\nw[Taro]The entrance is open as usual. Aren't temples like\nthis supposed to have gates?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こういう神殿は門があるもんじゃないのか？"
+                                ""
                             ]
                         },
                         {
@@ -2735,31 +2735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]確かにそうだけど、ここは古そうね。"
+                                "\\nw[Nonna]That's true, but this place looks old. I think\nthey collected the broken gate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉も壊れたから回収したんだと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]なるほどな"
+                                ""
                             ]
                         },
                         {
@@ -2776,7 +2759,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]迷ってても仕方ないな、さっさと行くか。"
+                                "\\nw[Taro]I see."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]There's no point in hesitating, let's go quickly."
                             ]
                         },
                         {
@@ -2833,7 +2833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh..."
                             ]
                         },
                         {

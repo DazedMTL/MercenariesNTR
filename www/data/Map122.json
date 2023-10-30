@@ -2476,14 +2476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内を移動できそうだ。"
+                                "It seems like we can move inside the dungeon.\nShould we move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しようか？"
+                                ""
                             ]
                         },
                         {
@@ -2491,8 +2491,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "２層へ移動する",
-                                    "移動しない"
+                                    "Move to the 2nd floor?",
+                                    "Don't move"
                                 ],
                                 1,
                                 0,
@@ -2630,14 +2630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内を移動できそうだ。"
+                                "It seems like we can move inside the dungeon.\nShould we move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しようか？"
+                                ""
                             ]
                         },
                         {
@@ -2645,9 +2645,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "２層へ移動する",
-                                    "３層へ移動する",
-                                    "移動しない"
+                                    "Move to the 2nd floor?",
+                                    "Move to the 3rd floor?",
+                                    "Don't move"
                                 ],
                                 2,
                                 0,
@@ -2832,14 +2832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内を移動できそうだ。"
+                                "It seems like we can move inside the dungeon.\nShould we move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しようか？"
+                                ""
                             ]
                         },
                         {
@@ -2847,10 +2847,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "２層へ移動する",
-                                    "３層へ移動する",
-                                    "４層へ移動する",
-                                    "移動しない"
+                                    "Move to the 2nd floor?",
+                                    "Move to the 3rd floor?",
+                                    "Move to the 4th floor?",
+                                    "Don't move"
                                 ],
                                 3,
                                 0,
@@ -3294,31 +3294,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]これは何だ？"
+                                "\\nw[Taro]What is this? Does Prae know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "プラエはわかるか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[プラエの声]ん、何か文字が刻まれておるな。"
+                                ""
                             ]
                         },
                         {
@@ -3335,7 +3318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]……ふむ……"
+                                "\\nw[Prae's voice]Hmm, there seems to be some characters engraved\nhere."
                             ]
                         },
                         {
@@ -3352,7 +3335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかりそうか？"
+                                "\\nw[Prae's voice]......Hmmm......"
                             ]
                         },
                         {
@@ -3369,21 +3352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]どうやらダンジョン内を移動できるようじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他にもこのようなクリスタルがあって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリスタル間を移動できることができるようじゃ。"
+                                "\\nw[Taro]Do you understand?"
                             ]
                         },
                         {
@@ -3400,7 +3369,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]ま、他のクリスタルを見つけなければ動かぬな。"
+                                "\\nw[Prae's voice]It seems that we can move around inside the\ndungeon. There are other crystals like this one,\nand we can move between the crystals."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3417,7 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうか……とりあえず進んでみるしかなさそうだな。"
+                                "\\nw[Prae's voice]Well, if we don't find the other crystals, we\nwon't be able to move."
                             ]
                         },
                         {
@@ -3434,7 +3417,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]うむ、気を付けるのじゃぞ。"
+                                "\\nw[Taro]I see... I guess we have no choice but to proceed\nfor now."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Prae's voice]Yes, be careful."
                             ]
                         },
                         {
@@ -3774,7 +3774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]入り口みたいだな……"
+                                "\\nw[Taro]Looks like the entrance..."
                             ]
                         },
                         {
@@ -3800,14 +3800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]長時間ダンジョンに潜ってたし、"
+                                "\\nw[Taro]I've been exploring the dungeon for a long time,\nso let's go back to the inn and take a break."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一旦宿に戻って休憩するか。"
+                                ""
                             ]
                         },
                         {
@@ -3864,7 +3864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ちょっと、宿に戻ったら話があるんだけど……"
+                                "\\nw[Kuno]Hey, I have something to talk about when we get\nback to the inn..."
                             ]
                         },
                         {
@@ -3881,14 +3881,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あ、ああ。"
+                                "\\nw[Taro]Ah, ah... I understand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わかった。"
+                                ""
                             ]
                         },
                         {

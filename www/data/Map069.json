@@ -8143,7 +8143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]地下への入り口……だな。"
+                                "\\nw[Taro]This is the entrance to the underground... I\nsuppose."
                             ]
                         },
                         {
@@ -8200,31 +8200,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ここまでずっと水場は浅かったわね。"
+                                "\\nw[Nonna]The water level has been shallow all the way here.\nBut it's worrisome to be underground with loose\nsoil in a marshy area, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも湿地帯の緩んだ土で地下なんて不安よね"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]う～ん……魔物の位置はやっぱり下なんだよな。"
+                                ""
                             ]
                         },
                         {
@@ -8241,14 +8224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]水深が浅いってことは地下の可能性が高いと思うけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそもロドリゴを襲ってからこんな場所まで来る理由がわからん。"
+                                "\\nw[Taro]Hmm... The location of the monsters is definitely\nbelow, huh."
                             ]
                         },
                         {
@@ -8265,7 +8241,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ここが巣だとしても、襲った場所からあまりにも遠すぎるよな。"
+                                "\\nw[Taro]If the water level is shallow, it's highly likely\nthat we're underground. But I don't understand why\nwe came all the way to this place after Rodrigo\nwas attacked in the first place."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Even if this is their nest, it's too far from\nwhere they attacked."
                             ]
                         },
                         {
@@ -8322,31 +8322,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]そうね。野良にしては動きが不自然だわ。"
+                                "\\nw[Nonna]That's right. Their movements are unnatural for a\nstray. We should consider the possibility that the\nmonsters are familiars with a master."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物は使い魔で、主人がいる可能性も考えた方がいいわね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]マジか……そうなると厄介だな……"
+                                ""
                             ]
                         },
                         {
@@ -8363,7 +8346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]どうするの？"
+                                "\\nw[Taro]Seriously... If that's the case, it's\ntroublesome..."
                             ]
                         },
                         {
@@ -8380,14 +8363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうだな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず偵察で一人降りてみて安全そうなら探索しよう。"
+                                "\\nw[Nonna]What are we going to do?"
                             ]
                         },
                         {
@@ -8404,14 +8380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]索敵はウカとノンナの感覚が鋭いし任せる。"
+                                "\\nw[Taro]Yeah... For now, let's have one person go down for\nreconnaissance and if it seems safe, we'll proceed\nwith the exploration."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知能の高い相手がいる可能性も考えて罠も警戒してくれ。"
+                                ""
                             ]
                         },
                         {
@@ -8428,7 +8404,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]わかったわ"
+                                "\\nw[Taro]Uka and Nonna have sharp senses for scouting.\nLet's leave it to them. Also, be cautious of traps\nas there is a possibility of encountering\nintelligent opponents."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Nonna]Understood."
                             ]
                         },
                         {
@@ -8485,7 +8485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh......"
                             ]
                         },
                         {
@@ -8502,7 +8502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]トールズとイエローはいつでも動けるようにしててくれ。"
+                                "\\nw[Taro]Make sure Thorz and Yellow are always ready to\nmove."
                             ]
                         },
                         {
@@ -8519,7 +8519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]しかたないな……"
+                                "\\nw[Thorz]I guess there's no other choice..."
                             ]
                         },
                         {
@@ -8536,7 +8536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]わかったよ～"
+                                "\\nw[Huma]Got it~"
                             ]
                         },
                         {
@@ -8553,7 +8553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]じゃあいくか"
+                                "\\nw[Taro]Well then, let's go."
                             ]
                         },
                         {
@@ -8611,21 +8611,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]壁も天井も丈夫そうだな。"
+                                "\\nw[Taro]The walls and ceiling seem sturdy. It doesn't look\nlike a man-made structure... but it feels\nunnatural for something natural to be found\nunderground in a swamp."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人工物ではなさそうだけど……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "湿地に下にある自然物にしては不自然な気はするな。"
+                                ""
                             ]
                         },
                         {
@@ -8682,7 +8682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]精霊の力が強いのかもしれないわね。"
+                                "\\nw[Nonna]Maybe the power of the spirits is strong."
                             ]
                         },
                         {
@@ -8699,14 +8699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]追ってる魔物はまだ下の方だな。"
+                                "\\nw[Taro]The monsters we're chasing are still further down.\nShall we give it a try and explore?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "探索してみるか。"
+                                ""
                             ]
                         },
                         {
@@ -8763,7 +8763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh......"
                             ]
                         },
                         {
@@ -9045,7 +9045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポイズンを手に入れた！"
+                                "I obtained Poison!"
                             ]
                         },
                         {

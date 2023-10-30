@@ -2523,14 +2523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[武器屋]いらっしゃい。"
+                                "\\nw[Weapon Shop]Welcome to the Weapon Shop. We have some good\nitems in stock."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいものが入荷出来てるよ。"
+                                ""
                             ]
                         },
                         {
@@ -2715,7 +2715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[武器屋]またよろしく頼むよ。"
+                                "\\nw[Weapon Shop]Please take care of me again."
                             ]
                         },
                         {
@@ -2792,14 +2792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[防具屋]いらっしゃい。"
+                                "\\nw[Armor Shop]Welcome to the Armor Shop. We've recently received\nsome good items in stock."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "近頃良いものが入荷出来たんです。"
+                                ""
                             ]
                         },
                         {
@@ -3034,7 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[防具屋]ありがとうございました。"
+                                "\\nw[Armor Shop]Thank you for visiting the Armor Shop."
                             ]
                         },
                         {

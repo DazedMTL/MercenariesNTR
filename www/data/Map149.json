@@ -12258,7 +12258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]確かに人がほとんどいないな。"
+                                "\\nw[Taro]There really aren't many people here."
                             ]
                         },
                         {
@@ -12275,7 +12275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]アミー、どこに<指揮者>がいそうかわかるか？"
+                                "\\nw[Grand]Ami, do you know where the conductor might be?"
                             ]
                         },
                         {
@@ -12292,38 +12292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]魔力で探索してみた所、"
+                                "\\nw[Amy's voice]I tried searching with magic, and I feel a strong\nmagical presence to the northeast."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "北東に強い魔力を感じます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[アミーの声]でも、すぐ東には人が多いから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回り込むべきだと思います。"
+                                ""
                             ]
                         },
                         {
@@ -12340,38 +12316,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]回り込む。"
+                                "\\nw[Amy's voice]But there are a lot of people to the east, so I\nthink we should go around."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ルートはわかるのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[アミーの声]一度西の方の階段から３階に上がっていくと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "東の方へ行ける階段がありますね。"
+                                ""
                             ]
                         },
                         {
@@ -12388,31 +12340,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]わかった、それで行こう。"
+                                "\\nw[Grand]Do you know the route to go around?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アミーは魔力で敵の探索を続けてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[アミーの声]はい、わかりました。"
+                                ""
                             ]
                         },
                         {
@@ -12429,7 +12364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]兵と鉢合わせたら……"
+                                "\\nw[Amy's voice]If you go up to the third floor from the stairs in\nthe west, there is a staircase that leads to the\neast."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12446,31 +12388,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]その時は殺さずに無力化する。"
+                                "\\nw[Grand]Understood, let's go with that. Amy, please\ncontinue searching for enemies with your magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<喰らうモノ>と戦うわけにはいかないからな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]わかった。"
+                                ""
                             ]
                         },
                         {
@@ -12487,7 +12412,82 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（<喰らうモノ>か……）"
+                                "\\nw[Amy's voice]Yes, understood."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]If we come across soldiers..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Grand]At that time, we must incapacitate them without\nkilling. We can't afford to fight against <喰らうモノ>."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Understood."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro](<The Devourer>, huh...)"
                             ]
                         },
                         {
@@ -12523,7 +12523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "外章では全滅したり、特定のイベントを起こすとここから再開となります。"
+                                "If the party is wiped out outside, or if a\nspecific event occurs, the story will resume from\nhere."
                             ]
                         },
                         {
@@ -13038,7 +13038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]そこはダメ！"
+                                "\\nw[Amy's voice]That's not allowed!"
                             ]
                         },
                         {
@@ -13100,14 +13100,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]人が多いから、その部屋には入らないで。"
+                                "\\nw[Amy's voice]Because there are a lot of people, don't enter\nthat room. Go around from the west side."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "西の方から回り込んでね。"
+                                ""
                             ]
                         },
                         {
@@ -13184,7 +13184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]そこはダメ！"
+                                "\\nw[Amy's voice]That's not allowed!"
                             ]
                         },
                         {
@@ -13246,14 +13246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]人が多いから、その部屋には入らないで。"
+                                "\\nw[Amy's voice]Because there are a lot of people, don't go into\nthat room. The <Conductor> is probably somewhere\nto the north."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "北の方におそらく<指揮者>がいるわ。"
+                                ""
                             ]
                         },
                         {
@@ -13421,14 +13421,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミーの声]外に出ちゃだめですよ。"
+                                "\\nw[Amy's voice]You must not go outside. Please captivate the\n<conductor> firmly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しっかりと<指揮者>を魅了してきてください。"
+                                ""
                             ]
                         },
                         {
@@ -13949,14 +13949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先には強敵がいそうだ。"
+                                "It seems like there are strong enemies ahead.\nShould we proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進もうか？"
+                                ""
                             ]
                         },
                         {
@@ -13964,8 +13964,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14182,38 +14182,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<指揮者>]騒がしいと思ったら、お客さん？"
+                                "\\nw[Conductor]Oh, if it isn't a noisy customer? Do you have some\nbusiness with me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何か私に用でもあるのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[グランド]ふん、貴様に名乗る名などない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無力化させてもらうぞ！"
+                                ""
                             ]
                         },
                         {
@@ -14230,38 +14206,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<指揮者>]ディオスの軍人ね。"
+                                "\\nw[Grand]Hmph, I have no name to introduce myself to the\nlikes of you. I will render you powerless!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんなことをして、戦争でもするつもりかしら。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[グランド]……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なっ、何のことだ？"
+                                ""
                             ]
                         },
                         {
@@ -14278,38 +14230,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<指揮者>]もっと厄介な問題があるのに……"
+                                "\\nw[Conductor]A soldier of Dios, huh? Are you planning to start\na war with such actions?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうしてディオスは邪魔ばかりするのかしらね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[<指揮者>]いえ、こちらが大きな問題に向き合ってる時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "邪魔してくるのだから、むしろ頭がいいとも言えるわね。"
+                                ""
                             ]
                         },
                         {
@@ -14326,7 +14254,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]くそっ、確信してるようだな……"
+                                "\\nw[Grand]......!? W-What are you talking about?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14343,31 +14278,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]だが魅了してしまえば問題ない！"
+                                "\\nw[Conductor]Even though there are more troublesome issues...\nwhy does Dios always interfere, I wonder."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "行くぞ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[<指揮者>]戦闘は苦手なのだけど……仕方ないわね。"
+                                ""
                             ]
                         },
                         {
@@ -14384,7 +14302,89 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[<指揮者>]人形で相手してあげるわ。"
+                                "\\nw[Conductor]No, since they interfere when we are dealing with\nmajor problems, you could even say they are rather\nclever."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Grand]Damn it, it seems like you're confident..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Grand]But if we can charm them, there won't be any\nproblem! Let's go!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Conductor]I'm not good at fighting... but I guess there's no\nother choice."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Conductor]I'll take care of you with my dolls."
                             ]
                         },
                         {
@@ -14525,7 +14525,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]私の人形が……！"
+                                "\\nw[Conductor]My dolls...!"
                             ]
                         },
                         {
@@ -14542,7 +14542,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]今だ、捕まえるぞ！"
+                                "\\nw[Grand]Now, I'll catch you!"
                             ]
                         },
                         {
@@ -14687,7 +14687,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]うっ……！"
+                                "\\nw[Conductor]Ugh...!"
                             ]
                         },
                         {
@@ -14704,7 +14704,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]よし、捕まえた……！"
+                                "\\nw[Grand]Alright, I caught you...!"
                             ]
                         },
                         {
@@ -14721,7 +14721,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]力づくで抑えつけて……何するつもり？"
+                                "\\nw[Conductor]What do you intend to do by forcibly restraining\nme...?"
                             ]
                         },
                         {
@@ -14738,38 +14738,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]おい、太郎。"
+                                "\\nw[Grand]Hey, Taro. Charm them here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ここで魅了しろ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]はぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなところでやるのかよ！？"
+                                ""
                             ]
                         },
                         {
@@ -14786,38 +14762,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]早い方がいい。"
+                                "\\nw[Taro]Huh?! Are we really doing it here?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ここで魅了できれば後が楽になるからな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[グランド]駄目だったら拘束して運び出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だからまずは試してみろ。"
+                                ""
                             ]
                         },
                         {
@@ -14834,7 +14786,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]だけど……"
+                                "\\nw[Grand]It's better to do it quickly. If we can charm them\nhere, it will be easier later."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14851,14 +14810,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]いいから急げ！"
+                                "\\nw[Grand]If it doesn't work, restrain and carry them out.\nSo first, give it a try."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "時間もどれほどあるかわからないからな。"
+                                ""
                             ]
                         },
                         {
@@ -14875,7 +14834,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……くそっ！"
+                                "\\nw[Taro]But..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Grand]Hurry up! We don't know how much time we have."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]...Damn it!"
                             ]
                         },
                         {
@@ -14948,21 +14948,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「<指揮者>×太郎、押さえつけて無理やり」"
+                                "<Conductor> x Taro, restrain and force them. It's\nan event that we've seen before. Do you want to\nskip the event?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "一度見たことのあるイベントです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -14970,8 +14970,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -15076,7 +15076,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]ふん、人形なしだと力は大したことないようだな。"
+                                "\\nw[Grand]Hmph, it seems that without the doll, your power\nis nothing special."
                             ]
                         },
                         {
@@ -15093,79 +15093,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]くっ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "他の男達の手によって<指揮者>は地面に押さえつけられた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "服も半脱ぎで股を開かせてすぐに犯せる状態になっている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]魅了するなら感じさせないといけないから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "力づくって言うのは難しいんだが……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[グランド]安心しろ、媚薬を用意してある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これを発情するはずだ。"
+                                "\\nw[Conductor]*grunts*..."
                             ]
                         },
                         {
@@ -15182,7 +15110,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そう言って男は<指揮者>の膣に媚薬を塗りたくっていく。"
+                                "<Conductor> was pinned to the ground by the hands\nof other men. Their clothes were partially\nremoved, and their legs were spread open, ready to\nbe violated immediately."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15199,7 +15134,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]っ……！"
+                                "\\nw[Taro]If we want to charm them, we have to make them\nfeel it, so using force is difficult..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15216,55 +15158,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]即効性があるからな。"
+                                "\\nw[Grand]Don't worry, I have prepared an aphrodisiac. This\nshould make them go into heat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "すぐに膣が準備万端になるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]あ、ああ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "<指揮者>の様子を見ているとこちらを見ているだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "抵抗するのも諦めたのか、おとなしいものである。"
+                                ""
                             ]
                         },
                         {
@@ -15281,14 +15182,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし膣口からは愛液がすぐに溢れ出てきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうやら体の準備は整っているらしい。"
+                                "The man said that and proceeded to apply\naphrodisiac to <Conductor>'s pussy."
                             ]
                         },
                         {
@@ -15305,14 +15199,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（乗り気はしないが、魅了できればプラエが助けられるかもしれない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "本気で犯すしかないか……）"
+                                "\\nw[Conductor]...!"
                             ]
                         },
                         {
@@ -15329,7 +15216,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]……"
+                                "\\nw[Grand]Because it has an immediate effect. Your vagina\nwill be ready in no time."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15346,7 +15240,113 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]行くぞ……！"
+                                "\\nw[Taro]Ah, ah..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "<Conductor> seems to be just looking at us. Have\nthey given up on resisting and become docile?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "However, love juice immediately overflowed from\nher vaginal opening. It seems that her body is\nready."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro](I'm not enthusiastic about it, but if we can\ncharm them, there might be a chance to save Prae.\nWe might have no choice but to violate them\nseriously...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Conductor]......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Let's go...!"
                             ]
                         },
                         {
@@ -15403,7 +15403,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]っ……"
+                                "\\nw[Conductor]..."
                             ]
                         },
                         {
@@ -15420,14 +15420,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "<指揮者>の膣にペニスを挿入した。"
+                                "The penis was inserted into <Conductor>'s vagina.\nPerhaps due to the effect of the aphrodisiac, it\ntightens around the penis as if devouring it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "媚薬の影響かペニスに食いつくように締め付けてくる。"
+                                ""
                             ]
                         },
                         {
@@ -15444,14 +15444,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかしきつすぎるわけでもない。"
+                                "However, it's not too tight. Since I know that\nyour body is ready, I will begin the thrusting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "身体の準備が整ってるとわかったので抽送を開始する。"
+                                ""
                             ]
                         },
                         {
@@ -15487,7 +15487,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]……"
+                                "\\nw[Conductor]......"
                             ]
                         },
                         {
@@ -15504,171 +15504,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]くっ……具合が良いな……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膣の具合は実にいいが、<指揮者>に反応はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "媚薬を使っていても始めたばかりですぐに感じるわけではないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "感じさせるために抽送することにした。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[<指揮者>]……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[グランド]反応がないな……即効性の媚薬なんだが。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]そうなのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[グランド]ああ、廃人になられても困るから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "壊れるようなものではないが……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]ふむ……まぁ、時間をかければ確率は上がるんだが……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[グランド]防音の結界は張ってあるが、この場だとな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "部屋を調べるまでとりあえず魅了をかけるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]わかったよ。"
+                                "\\nw[Taro]Mmm... feels good...!"
                             ]
                         },
                         {
@@ -15685,14 +15521,154 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "大きな胸を揉みながら抽送を続けていく。"
+                                "The condition of the vagina is really good, but\n<Conductor> doesn't seem to be responding. Even\nthough I'm using an aphrodisiac, it doesn't mean\nthey'll feel it right away. So, in order to make\nthem feel it, I've decided to start thrusting."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すると膣は反応してすごい締め付けてくるのがわかる。"
+                                "\\nw[Conductor]......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Grand]There's no response... even though it's an\ninstant-acting aphrodisiac."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Is that so, Taro?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Grand]Ah, even if you become a vegetable, it wouldn't be\ngood if you were broken..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Hmmm... well, if we take our time, the chances\nwill increase..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Grand]The soundproof barrier is in place, but in this\nsituation... for now, let's cast a charm spell\nuntil we investigate the room."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]I understand."
                             ]
                         },
                         {
@@ -15709,89 +15685,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし<指揮者>の表情に変化はない。"
+                                "I continue thrusting while groping her big\nbreasts. Then, I can feel her vagina responding\nand tightening intensely."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "感じるのを我慢してる風でもなく、表情に変化がない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "明らかに感じているときの膣の動きなのだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "<指揮者>の反応は無すぎる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]<魔女>の居場所について知っているか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[<指揮者>]……<魔女>？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]ああ、教えてくれるなら楽にしてやるぞ？"
+                                ""
                             ]
                         },
                         {
@@ -15808,89 +15709,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "楽にすると言ってもそんな方法は知らないが、"
+                                "However, there is no change in <Conductor>'s\nexpression. It's not like they're trying to endure\nthe sensation, there is simply no change in their\nexpression."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "でまかせで交渉することにした。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[<指揮者>]知らないわ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]そんなわけないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イージスのトップなんだろう？居場所がわからなければ困るだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[<指揮者>]そうね、困ってるわ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]そんな他人事みたいに……っ！"
+                                ""
                             ]
                         },
                         {
@@ -15907,14 +15733,65 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "話しながら抽送をしていると膣が締め付けてきて気持ちよすぎて"
+                                "The movement of the vagina when it clearly feels,\nbut the response of <Conductor> is too\nnonexistent."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "思わず声が漏れそうになる。"
+                                "\\nw[Taro]Do you know the whereabouts of the witch?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Conductor]....<Witch>?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Ah, if you tell me, I'll make it easy for you."
                             ]
                         },
                         {
@@ -15931,45 +15808,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "<指揮者>が平然としているのにこちらが弱みを見せるわけにはいかない。"
+                                "Even though I don't know of any easy way to make\nit happen, I decided to negotiate with deception."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "何とか我慢して抽送を続けていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]いいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "正直に話さないと困るのはお前だぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうせ魅了して話すんだからな。"
+                                ""
                             ]
                         },
                         {
@@ -15986,31 +15832,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "<指揮者>の反応からもまだ魅了できているとは思えない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "反応がないので魅了できるかもわからないが……"
+                                "\\nw[Conductor]I don't know."
                             ]
                         },
                         {
@@ -16027,7 +15849,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……色々試すしかないか……"
+                                "\\nw[Taro]That can't be true, right? You're the top of\nAegis, aren't you? It would be troublesome if you\ndon't know their whereabouts."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Conductor]I see, you're in trouble."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Acting like it's someone else's problem...!"
                             ]
                         },
                         {
@@ -16044,7 +15907,144 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし膣は反応しているので抽送を激しくしてみることにした。"
+                                "While talking, the vagina tightens as I\nmasturbate, and it feels so good that I can't help\nbut let out a moan."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "<Conductor> remains calm, so I can't show my\nweakness. I'll somehow endure and continue\nmasturbating."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Is it okay? If you don't speak honestly, it will\nbe troublesome for you, you know? Since you're\ngoing to be charmed and talk anyway."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Conductor]......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I can't tell if I can still charm <Conductor> from\ntheir reaction. Since there is no response, I\ndon't know if I can charm them..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]......I guess I have no choice but to try various\nthings......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "However, since the vagina is responding, I decided\nto intensify the thrusting."
                             ]
                         },
                         {
@@ -16080,7 +16080,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]……"
+                                "\\nw[Conductor]......"
                             ]
                         },
                         {
@@ -16097,62 +16097,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "相変わらず<指揮者>の反応がない。"
+                                "<Conductor> still doesn't react. Only the vagina\nis responding, but there is no change in\nexpression and the body doesn't move."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "膣だけは反応しているが、表情も変わらなければ身体も動かない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[グランド]おい、何すました顔してるんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ちょっとは反応しろ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "男がイラついたように<指揮者>の顔をぺちぺちと叩く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかしまるで気絶しているかのように無反応だ。"
+                                ""
                             ]
                         },
                         {
@@ -16169,31 +16121,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]まさか気絶したのか？"
+                                "\\nw[Grand]Hey, what's with that blank expression? React a\nlittle!"
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]そう言う風には見えなかったけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くっ、しかし締りだけはいい……！"
+                                ""
                             ]
                         },
                         {
@@ -16210,14 +16145,55 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "身体だけは悦んでペニスを咥えこんでいるし、"
+                                "The man angrily slaps <Conductor>'s face\nrepeatedly. However, they remain completely\nunresponsive, as if they have fainted."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "乳首も反応して硬くなっている。"
+                                "\\nw[Grand]Could it be that they fainted?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]They didn't seem like it, but... hah, however, the\ntightness is good...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16234,7 +16210,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし表情などが変化しないのでどう考えればいいのか難しい。"
+                                "The body is happily engulfing the penis and the\nnipples are also responding and becoming hard."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16251,31 +16234,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "恋人が相手の時と違ってこちらも気持ちが良いのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あまりに気持ちよくて射精感がどんどん高まっていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]くそっ……一回出すぞ……！"
+                                "It's difficult to know what to think since there\nis no change in expression or anything."
                             ]
                         },
                         {
@@ -16292,7 +16251,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "<指揮者>の腰を掴んで激しく腰を叩きつけていく、"
+                                "When my lover is the one I'm with, it feels so\ngood. The pleasure is increasing rapidly, and the\nfeeling of ejaculation is intensifying."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Damn it... I'm gonna cum once...!"
                             ]
                         },
                         {
@@ -16309,7 +16292,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そのまま膣奥を突いたところで精液を吐き出した。"
+                                "I grab <Conductor>'s waist and vigorously thrust\nmy hips."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I ejaculated just as I thrust deep into her\nvagina."
                             ]
                         },
                         {
@@ -16446,7 +16446,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]……"
+                                "\\nw[Conductor]......"
                             ]
                         },
                         {
@@ -16463,7 +16463,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]くっ……締め付けてきて……！"
+                                "\\nw[Taro]Ah... it's tightening...!"
                             ]
                         },
                         {
@@ -16480,14 +16480,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "膣の収縮で<指揮者>が絶頂を迎えたことはわかった。"
+                                "I understood that <Conductor> reached climax due\nto the contraction of the vagina. However, there\nwas no change in expression."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "しかし表情が動くことはない。"
+                                ""
                             ]
                         },
                         {
@@ -16509,14 +16509,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]ふむ、やはり気絶してるな。"
+                                "\\nw[Grand]Hmmm, as I thought, she's unconscious. Even when I\nwave my hand in front of her, her eyes don't react\nat all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "目の前で手を振っても瞳が全く反応しない。"
+                                ""
                             ]
                         },
                         {
@@ -16533,14 +16533,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]マジか……"
+                                "\\nw[Taro]Seriously... If she's unconscious, charm won't\nwork."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "気絶してたら魅了は無理だな。"
+                                ""
                             ]
                         },
                         {
@@ -16557,14 +16557,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうしようか……と考えていると、"
+                                "As I was contemplating what to do... suddenly, I\nheard a gunshot from above."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "突然上から銃声が聞こえた。"
+                                ""
                             ]
                         },
                         {
@@ -16600,7 +16600,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[<指揮者>]……ゴボッ……"
+                                "\\nw[Conductor]......*gulp*..."
                             ]
                         },
                         {
@@ -16617,7 +16617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]！？"
+                                "\\nw[Taro]!?"
                             ]
                         },
                         {
@@ -16634,82 +16634,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]何だと……！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "音のした方を向くと人形が銃を持っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかし人形は銃を手放して倒れていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]まさか<指揮者>の魔術で……？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[グランド]まずい……これは……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]なっ！？"
+                                "\\nw[Grand]What...!?"
                             ]
                         },
                         {
@@ -16726,38 +16651,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "<指揮者>を見ると胸から血が流れていた。"
+                                "When I turned towards the sound, the doll was\nholding a gun. However, the doll let go of the gun\nand collapsed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "どうやら銃弾は<指揮者>の胸に命中したらしい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[グランド]くそっ……心臓が止まってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まさか気絶した振りをして自殺するとは……"
+                                ""
                             ]
                         },
                         {
@@ -16774,7 +16675,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]魅了されるかもしれないと思ったからか……？"
+                                "\\nw[Taro]Could it be... the conductor's magic...?"
                             ]
                         },
                         {
@@ -16791,7 +16692,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]うそ……だろ……"
+                                "\\nw[Grand]Oh no... This is...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]What!?"
                             ]
                         },
                         {
@@ -16808,14 +16726,72 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "男の言う通り<指揮者>は心臓が止まってるようだ。"
+                                "I looked at the conductor and blood was flowing\nfrom their chest. It seems that the bullet hit the\nconductor's chest."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "呼吸もしていない。"
+                                "\\nw[Grand]Damn it... My heart has stopped. I never expected\nthat she would pretend to faint and then commit\nsuicide..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Grand]Was it because I thought I might be charmed...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]No way... right..."
                             ]
                         },
                         {
@@ -16832,31 +16808,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まさかこんなことになるなんて思わなかった。"
+                                "It seems that the <conductor> is as the man said,\ntheir heart has stopped. They are not breathing\neither."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "罪悪感で胸が苦しくなる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]……"
+                                ""
                             ]
                         },
                         {
@@ -16873,14 +16832,55 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "プラエを助けるために来たのに、"
+                                "I never thought it would come to this. My chest\ntightens with guilt."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これじゃオレは……"
+                                "\\nw[Taro]......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I came here to save Prae, but with this... I..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16953,45 +16953,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]くそっ……自らの心臓を銃で打ち抜くとは……\\|"
+                                "\\nw[Grand]Damn it... To shoot oneself in the heart with a\ngun... Did they hide the body?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "死体は隠したな？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[ゲロルド]ああ、隠した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それと、隠し階段も見つけた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おそらくここに<喰らうモノ>がいるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -17008,7 +16977,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]そうか、よくやった。"
+                                "\\nw[Gerold]Ah, I hid it. Also, I found a hidden staircase.\nThere's probably a <creature> here that will\ndevour us."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17025,14 +17008,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]魅了は出来なかったが、殺害でも最低限の条件は満たしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "後は<喰らうモノ>を殺せば……"
+                                "\\nw[Grand]I see, well done."
                             ]
                         },
                         {
@@ -17049,21 +17025,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ふざけんなよ！"
+                                "\\nw[Grand]I couldn't charm them, but I have fulfilled the\nminimum requirements for killing. All that's left\nis to kill the <creature>..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "オレの目的は全然果たしてないぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "<魔女>と会う方法なんてわからなかったじゃねえか！"
+                                ""
                             ]
                         },
                         {
@@ -17080,7 +17049,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]……そうだな。わかった。"
+                                "\\nw[Taro]Don't mess with me! I haven't fulfilled my\nobjective at all! I didn't know how to meet the\n<witch>!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17097,21 +17080,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]ここは<指揮者>の仕事場だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "<指揮者>はミスラ国の情報部門のトップ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何か情報があるかもしれない。"
+                                "\\nw[Grand]......I see. Understood."
                             ]
                         },
                         {
@@ -17128,14 +17097,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[グランド]下に降りる前に、情報がないか探してみろ。"
+                                "\\nw[Grand]This is the conductor's workplace. The conductor\nis the head of the information department of\nMisura. There might be some information here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それくらいの猶予はあるだろう。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17152,7 +17128,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]わかった、探索する。"
+                                "\\nw[Grand]Before going down, try to find any information.\nThere should be enough time for that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Understood, I will explore."
                             ]
                         },
                         {
@@ -17343,7 +17343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今ここから出るわけにはいかないな……"
+                                "\\nw[Taro]I can't leave from here now..."
                             ]
                         },
                         {
@@ -17451,7 +17451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]この先に降りて平気か？"
+                                "\\nw[Grand]Are you okay getting off here?"
                             ]
                         },
                         {
@@ -17459,8 +17459,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "まだ"
+                                    "Keep going",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,
@@ -17490,7 +17490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……ああ……ここに居ても仕方ないみたいだしな……"
+                                "\\nw[Taro]......Ah... It seems like there's no point in\nstaying here..."
                             ]
                         },
                         {
@@ -17507,14 +17507,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[アミーの声]地下には何らかの妨害がかかってるようです。"
+                                "\\nw[Amy's voice]It seems like there is some kind of interference\nunderground. Be careful because magical\nexploration and communication spells won't reach\nthere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "探索や通信の魔術が届かなくなるので、注意してくださいね。"
+                                ""
                             ]
                         },
                         {
@@ -17531,7 +17531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[グランド]わかった。"
+                                "\\nw[Grand]Understood."
                             ]
                         },
                         {
@@ -17598,7 +17598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（<喰らうモノ>か……）"
+                                "\\nw[Taro](So it's <something that devours>...)"
                             ]
                         },
                         {
@@ -17755,7 +17755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\rb[<魔女>,ウィッチ]と\\rb[<創作者>,クリエイター]との契約について"
+                                "Regarding the contract between the witch and the\ncreator"
                             ]
                         },
                         {
@@ -17772,52 +17772,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<魔女>と<創作者>は南の大陸の元傭兵だが、能力は非常に優秀。"
+                                "The witch and the creator were former mercenaries\nfrom the southern continent, but their abilities\nare extremely excellent. The witch's magical\nresearch abilities and the creator's weapon-making\nskills are remarkable, so they negotiated to\nestablish their base in this country."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<魔女>の魔術研究の能力と、<創作者>の兵器製作の技術はすばらしく、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この国を拠点にして貰うために交渉を行った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どちらに対して足元を見られ、ひどく不利な契約を結ぶことになった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イージスの立場について貰ったが、こちらからの命令権は一切ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも広い土地を譲渡し、豊富な資金の援助を行うこととなった。"
+                                ""
                             ]
                         },
                         {
@@ -17834,38 +17803,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこまでしたというのに、<魔女>については特にひどい状態だ。"
+                                "They were looked down upon and forced to enter\ninto a highly disadvantageous contract. Although\nthey received support from Aegis, they have no\nauthority to give orders. Furthermore, they had to\ngive up a large piece of land and provide abundant\nfinancial assistance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こちらから連絡する手段すら確保されていない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少しましな状態に持っていきたいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連絡が取れないのではどうしようもない。"
+                                ""
                             ]
                         },
                         {
@@ -17882,21 +17834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "情報部門で探してみたが、発見すら困難であることがわかった。"
+                                "Despite going to such lengths, the situation with\nthe <witch> is particularly terrible. We don't\neven have a means of contacting her from here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<魔女>に譲渡した森は実験場となっており、侵入すら困難な場所となった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追加の資金援助についても必要としていないようだ。"
+                                ""
                             ]
                         },
                         {
@@ -17913,14 +17858,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術研究所にたまに研究結果が置いてあるが、"
+                                "I want to bring it to a better state, but if we\ncan't contact her, there's nothing we can do."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その際に<魔女>が出入りしていることは確認できていない。"
+                                ""
                             ]
                         },
                         {
@@ -17937,7 +17882,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結論として、<魔女>に会うためには偶然に頼るしかないようだ。"
+                                "I tried searching in the information department,\nbut it was difficult to even find any information.\nThe forest that was handed over to the <witch> has\nbecome an experimental site, making it a place\nthat is even difficult to infiltrate. It seems\nthat she doesn't even need additional financial\nassistance."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The research results are occasionally left at the\nMagic Research Institute, but we haven't been able\nto confirm whether the <witch> is coming and going\nduring that time."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "As a conclusion, it seems that we can only rely on\nchance to meet the <witch>."
                             ]
                         },
                         {
@@ -17963,14 +17963,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（この内容が本当だとすれば……"
+                                "\\nw[Taro](If this information is true... it means she's\nsomeone we can't find even with the military's\nintelligence network...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "軍の情報網をもってしても見つけ出せないような相手なのかよ……）"
+                                ""
                             ]
                         },
                         {
@@ -18047,7 +18047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エニグマゲートの事件について"
+                                "Regarding the Enigma Gate incident."
                             ]
                         },
                         {
@@ -18064,38 +18064,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近頃魔界と繋ぐエニグマゲートを開く事件が複数発生している。"
+                                "Recently, there have been multiple incidents of\nopening Enigma Gates that connect to the demon\nworld. It is believed to be the work of the same\nculprit, but their whereabouts have not been\ndetermined."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "同一犯とみられるが、足取りは掴めていない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現状は再封印を素早く行えているため大きな問題となっていないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでは大きな問題になる可能性が高い。"
+                                ""
                             ]
                         },
                         {
@@ -18112,28 +18088,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犯人を捜すために捜索をしたが、"
+                                "The current situation is not a major problem\nbecause we are able to quickly reseal them, but if\nwe continue like this, there is a high possibility\nthat it will become a big problem."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "犯人と接触できたと思われる兵が多数行方不明になっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犯人は広範囲の索敵能力を持っていると予想され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人海戦術では犠牲者が増える可能性が高い。"
+                                ""
                             ]
                         },
                         {
@@ -18150,45 +18112,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犯人に殺されない程度の力を持った人員で動くしかないが、"
+                                "Many soldiers who were believed to have made\ncontact with the culprit during the search to find\nthem have gone missing. It is expected that the\nculprit has a wide-ranging reconnaissance ability,\nand there is a high possibility of an increase in\ncasualties with a strategy relying solely on\nnumbers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "行方不明になった部隊には"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イージスの<剣士>単独にも勝てる部隊も含まれている。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最低でも通常のイージスより強力な力を持っていると推測できる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのため追うことができる人物がほとんどいない。"
+                                ""
                             ]
                         },
                         {
@@ -18205,21 +18150,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現状<　　>に任せるしかないが、"
+                                "We have no choice but to move with personnel who\nhave enough power to not be killed by the culprit,\nbut the missing units include squads that can even\ndefeat Aegis' <Swordsman> alone."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "単独では発見が難しいため、解決が困難だと思われる。"
+                                "It can be inferred that they have at least a power\nstronger than the regular Aegis. Therefore, there\nare very few individuals who can pursue them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何らかの対処を考える必要がある。"
+                                "We have no choice but to leave it to the current\nsituation, but it is difficult to find them alone,\nso it is considered difficult to resolve. We need\nto think of some countermeasures."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18245,7 +18245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（<魔女>とは無関係だな）"
+                                "\\nw[Taro](It has nothing to do with the <witch>.)"
                             ]
                         },
                         {
@@ -18322,14 +18322,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで休もうか……"
+                                "Should we rest here... (HP and MP will recover)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ＨＰとＭＰが回復します）"
+                                ""
                             ]
                         },
                         {
@@ -18337,8 +18337,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "休む",
-                                    "休まない"
+                                    "Rest",
+                                    "Don't rest"
                                 ],
                                 1,
                                 0,

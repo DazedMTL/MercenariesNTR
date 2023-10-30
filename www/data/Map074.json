@@ -13375,38 +13375,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]またこの位置に魔物が……"
+                                "\\nw[Kuno]There are monsters in this location again... I\nwonder if there's something here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何かあるのかしら"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Rodrigo]そうなのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、大したことない魔物だったな。"
+                                ""
                             ]
                         },
                         {
@@ -13423,7 +13399,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そうね。"
+                                "\\nw[Rodrigo]Is that so? Well, those monsters weren't anything\nspecial."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13440,14 +13423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]この奥に行っても問題なさそうだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日の目的は試験だからここで戻るわよ。"
+                                "\\nw[Kuno]I see."
                             ]
                         },
                         {
@@ -13464,7 +13440,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]試験結果はどうなんだ？"
+                                "\\nw[Kuno]It seems like there won't be any problems going\nfurther in, but since today's objective is the\nexam, I'll return here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13481,14 +13464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]問題ないんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見た目通り筋力があるし、アタシよりも経験もありそうね。"
+                                "\\nw[Rodrigo]How did the exam results turn out?"
                             ]
                         },
                         {
@@ -13505,7 +13481,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]とりあえず雑用にはならないでしょ。"
+                                "\\nw[Kuno]Isn't it fine? You seem to have the strength and\nexperience to match your appearance, even more so\nthan me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13522,7 +13505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]そうか、そいつは助かるな。"
+                                "\\nw[Kuno]For now, it won't become a menial task, right?"
                             ]
                         },
                         {
@@ -13539,14 +13522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]魔物もいるし雑談も終わり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "街に戻るわよ。"
+                                "\\nw[Rodrigo]I see, that will be helpful."
                             ]
                         },
                         {
@@ -13563,7 +13539,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Rodrigo]おう。"
+                                "\\nw[Kuno]There are monsters here and our small talk is\nover. I'll return to the town."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Rodrigo]Oh."
                             ]
                         },
                         {
@@ -13883,7 +13883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はここから出る時ではない"
+                                "Now is not the time to leave here."
                             ]
                         },
                         {
@@ -13991,7 +13991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はここから出る時ではない"
+                                "Now is not the time to leave here."
                             ]
                         },
                         {
@@ -14153,31 +14153,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ほら着いたわよ。"
+                                "\\nw[Kuno]Look, we've arrived. The exam will start from\nhere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "試験はここから始めるから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Rodrigo]一応オレは冒険者としては結構ベテランなんだけどな。"
+                                ""
                             ]
                         },
                         {
@@ -14194,14 +14177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]その確認のための試験でしょうが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傭兵団に入って使い物にならなくても困るのよね。"
+                                "\\nw[Rodrigo]Well, I consider myself quite a veteran\nadventurer, you know."
                             ]
                         },
                         {
@@ -14218,45 +14194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]試験内容はここの魔物との戦闘ね。"
+                                "\\nw[Kuno]It's probably an exam for that confirmation. Even\nif I join the mercenary group, it would be\ntroublesome if I'm not useful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アタシも一緒に戦うから、アタシと連携できるかもみるわ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]弱すぎても不合格はないってプラエは言ってたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時は雑用が主になるでしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "給料も成果報酬だから少なくなるわよ。"
+                                ""
                             ]
                         },
                         {
@@ -14273,31 +14218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]入団試験って言うか、実力の確認か。"
+                                "\\nw[Kuno]The content of the exam is to battle the monsters\nhere. Since I'll be fighting together, let's see\nif we can coordinate with each other."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし試験官はクノだよな？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]そうよ、何か文句あるの？"
+                                ""
                             ]
                         },
                         {
@@ -14314,14 +14242,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]あんなに愛し合った仲だろ？"
+                                "\\nw[Kuno]Pray said that even if you're too weak, you won't\nfail, but at that time, you'll probably be\nassigned to menial tasks. The salary is also based\non performance, so it will be low."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "判定が甘くなるとか思わなかったのか？"
+                                "\\nw[Rodrigo]It's more like an entrance exam, or rather a\nconfirmation of our abilities. But the examiner is\nKuno, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Kuno]Is there something you want to say?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Rodrigo]Weren't you expecting a lenient judgment\nconsidering how much we loved each other?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14378,7 +14378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あ、愛し合ったって……あれは……"
+                                "\\nw[Kuno]Ah, about us loving each other... that was..."
                             ]
                         },
                         {
@@ -14435,14 +14435,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]と、とにかくアタシが試験官で問題ないの！"
+                                "\\nw[Kuno]A-anyway, there's no problem with me being the\nexaminer! I'll be watching closely, so take it\nseriously!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと見るんだから、真面目にやりなさいよ！"
+                                ""
                             ]
                         },
                         {
@@ -14459,7 +14459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]わかったよ、じゃあ魔力を回復してから……"
+                                "\\nw[Rodrigo]Alright, then let's recover our magic power\nfirst..."
                             ]
                         },
                         {
@@ -14516,14 +14516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]味方がいない上魔物の出る場所で魔力回復するのは"
+                                "\\nw[Kuno]Of course, it's dangerous to recover magic power\nin a place where there are no allies and monsters\nappear, so that will be deducted points, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もちろん危険だから減点だけど？"
+                                ""
                             ]
                         },
                         {
@@ -14540,7 +14540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]わかったよ、真面目にやるか……"
+                                "\\nw[Rodrigo]Alright, I got it. I'll do it seriously..."
                             ]
                         },
                         {

@@ -2427,7 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]しっかり休んでおきなさいよ。"
+                                "\\nw[Kuno]Make sure to rest well."
                             ]
                         },
                         {
@@ -2458,7 +2458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力回復を行うために男たちの相手をして貰おうか？"
+                                "Should I ask the men to accompany me in order to\nrestore my magical power?"
                             ]
                         },
                         {
@@ -2466,8 +2466,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魔力回復を頼む",
-                                    "頼まない"
+                                    "Can you help me restore my magical power?",
+                                    "I won't ask"
                                 ],
                                 1,
                                 -1,
@@ -2537,7 +2537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……仕方ないわね、今回だけよ……"
+                                "\\nw[Kuno]...I guess there's no other choice, just this\nonce..."
                             ]
                         },
                         {
@@ -2644,21 +2644,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' power. (This enhancement state will be\nlifted by conditions such as being incapacitated,\nfully recovering through rest, or the passage of\ntime.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -2817,7 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……ぺたぺた……"
+                                "\\nw[Uka]*squish squish*"
                             ]
                         },
                         {
@@ -2848,14 +2848,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウカは眷属か微妙なため魔力回復を頼めない。"
+                                "Because Uka is a questionable servant, I can't ask\nher for magic power recovery. I'll ask another\nwoman."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他の女性に頼もう。"
+                                ""
                             ]
                         },
                         {
@@ -2972,7 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]休めるときは休んでおかないとね。"
+                                "\\nw[Nonna]You should rest when you have the chance."
                             ]
                         },
                         {
@@ -3003,7 +3003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力回復を行うために男たちの相手をして貰おうか？"
+                                "Should I have the men accompany me to recover my\nmagical power?"
                             ]
                         },
                         {
@@ -3011,8 +3011,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魔力回復を頼む",
-                                    "頼まない"
+                                    "Can you help me recover my magical power?",
+                                    "I won't ask"
                                 ],
                                 1,
                                 -1,
@@ -3082,7 +3082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]……ええ、任せて"
+                                "\\nw[Nonna]...Yes, leave it to me."
                             ]
                         },
                         {
@@ -3189,21 +3189,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' power. (This enhancement state will be\nlifted by conditions such as being incapacitated,\nfully recovering through rest, or the passage of\ntime.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -3362,7 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]しっかり休んでくださいね。"
+                                "\\nw[Fross]Please make sure to rest well."
                             ]
                         },
                         {
@@ -3393,7 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力回復を行うために男たちの相手をして貰おうか？"
+                                "Shall I have the men accompany me to recover my\nmagical power?"
                             ]
                         },
                         {
@@ -3401,8 +3401,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魔力回復を頼む",
-                                    "頼まない"
+                                    "Can you help me recover my magical power?",
+                                    "I won't ask"
                                 ],
                                 1,
                                 -1,
@@ -3472,14 +3472,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]ふふ、わかりました。"
+                                "\\nw[Fross]Hehe, understood. It's my area of expertise."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "得意分野です。"
+                                ""
                             ]
                         },
                         {
@@ -3586,21 +3586,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' power. (This enhancement state will be\nlifted by conditions such as being incapacitated,\nfully recovering through rest, or the passage of\ntime.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -3750,7 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ここで休憩するんですね。"
+                                "\\nw[Fross]So we're taking a break here, huh?"
                             ]
                         },
                         {
@@ -3874,7 +3874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]休めるときに休むのは大事だな。"
+                                "\\nw[Shia]It's important to rest when you can rest."
                             ]
                         },
                         {
@@ -3905,7 +3905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力回復を行うために男たちの相手をして貰おうか？"
+                                "Should I ask the men to accompany me in order to\nrecover my magical power?"
                             ]
                         },
                         {
@@ -3913,8 +3913,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魔力回復を頼む",
-                                    "頼まない"
+                                    "Can you help me recover my magical power?",
+                                    "I won't ask"
                                 ],
                                 1,
                                 -1,
@@ -3984,14 +3984,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]はぁ？\\."
+                                "\\nw[Shia]Huh? Ah, come to think of it, that's how you\nrecover, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あ～、そう言えばそうやって回復するんだったか"
+                                ""
                             ]
                         },
                         {
@@ -4008,7 +4008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]……仕方ねえな……やればいいんだろ"
+                                "\\nw[Shia]......I guess there's no other choice...... I\nshould just do it."
                             ]
                         },
                         {
@@ -4115,21 +4115,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[\\V[111]]は淫魔の能力で一時強化された。"
+                                "\\N[\\V[111]] was temporarily enhanced by the\nsuccubus' power. (This enhancement state will be\nlifted by conditions such as being incapacitated,\nfully recovering through rest, or the passage of\ntime.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（この強化状態は戦闘不能や休憩による全回復や時間経過などの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "条件で解除されます）"
+                                ""
                             ]
                         },
                         {
@@ -4248,14 +4248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]こんなところで肌を合わせるなんてごめんだが、"
+                                "\\nw[Thorz]I'm sorry, but I have no choice but to join forces\nwith you here to recover my magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔力回復するため仕方ないな。"
+                                ""
                             ]
                         },
                         {
@@ -4332,7 +4332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]さて団長、誰の身体を使わせてもらえるのかな？"
+                                "\\nw[Dalton]Now then, Captain, whose body will I be allowed to\nuse?"
                             ]
                         },
                         {
@@ -4409,7 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]いやー、ここの団員はいい身体してるよな"
+                                "\\nw[Huma]Oh, the members of this group have such nice\nbodies."
                             ]
                         },
                         {
@@ -4486,7 +4486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]休憩できる場所があるのはいいな。"
+                                "\\nw[Rodrigo]It's nice to have a place to take a break."
                             ]
                         },
                         {
@@ -4582,28 +4582,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでは回復をすることができます。"
+                                "Here you can recover. By having female members\ninteract with all male members, you can restore\nyour magical power. You can recover by talking to\nfemale members. (only the sexual experience changes, no events occur)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "女団員が男団員全員の相手をさせることで魔力を回復できます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "女団員に話しかけると回復することができます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（性経験が変わるだけでイベントは発生しません）"
+                                ""
                             ]
                         },
                         {
@@ -4620,7 +4620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、ウカは眷属か不明なため選択できません。"
+                                "Also, Uka cannot be selected because she is either\na servant or her status is unknown."
                             ]
                         },
                         {

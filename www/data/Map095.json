@@ -5019,14 +5019,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[町長]ふぅ……次々と厄介事が起こって大変だ。"
+                                "\\nw[Town Mayor]Phew... One troublesome thing after another keeps\nhappening. The other day, a succubus woman came\nand caused a lot of trouble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この前は淫魔の女が来て色々うるさかったし……"
+                                ""
                             ]
                         },
                         {
@@ -5103,14 +5103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[メイド]ご主人様は食にうるさいんですよ。"
+                                "\\nw[Maid]The master is quite picky when it comes to food.\nAs a result, it seems that he has no interest in\ncolors."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その反動か、色には興味がないみたいですけど。"
+                                ""
                             ]
                         },
                         {

@@ -5493,14 +5493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]地面が動かなくなった……"
+                                "\\nw[Taro]The ground stopped moving... and it turned into\nsomething normal too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに地面も普通の物に……"
+                                ""
                             ]
                         },
                         {
@@ -5557,14 +5557,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]コアもきれいさっぱりなくなってる。"
+                                "\\nw[Kuno]The core is completely gone. We defeated the Earth\nBeast!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "地獣を倒せたのよ！"
+                                ""
                             ]
                         },
                         {
@@ -5621,14 +5621,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]街を守れたわね。"
+                                "\\nw[Nonna]We were able to protect the town. I finally feel\nlike I've been able to repay the favor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっと恩返しらしい恩返しができた気がするわ。"
+                                ""
                             ]
                         },
                         {
@@ -5645,14 +5645,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、やったな。"
+                                "\\nw[Taro]Ah, we did it. I've been saved by Prae so many\ntimes, but finally...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "プラエに助けられてばっかりだったけど、やっと……！"
+                                ""
                             ]
                         },
                         {
@@ -5685,14 +5685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]とと、ここで喜ぶところじゃないな。"
+                                "\\nw[Taro]This isn't the time to celebrate. Our job isn't\ndone until we safely return."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無事に戻るまでが仕事だ。"
+                                ""
                             ]
                         },
                         {
@@ -5709,14 +5709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]地獣から普通の山に戻って何か起きるかもしれない。"
+                                "\\nw[Taro]The Earth Beast might cause something to happen\nwhen it returns to a normal mountain. Let's escape\nas soon as possible!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早い所脱出するぞ！"
+                                ""
                             ]
                         },
                         {
@@ -5773,7 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……お～……"
+                                "\\nw[Uka]......Oh~......"
                             ]
                         },
                         {
@@ -6930,38 +6930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリアおめでとうございます。"
+                                "Congratulations on clearing. After clearing, you\nwill be able to do things similar to\nintermissions, which is behind the scenes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クリア後は幕間と同様の事が行える、幕後となります。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エンディングを見たいときは条件を満たして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイに話しかけると見ることができます。"
+                                ""
                             ]
                         },
                         {
@@ -6978,14 +6954,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想は部屋の中にある青い陣から回想部屋に移動することで"
+                                "When you want to see the ending, you can talk to\nLouis after fulfilling the conditions to watch it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見ることができます。"
+                                ""
                             ]
                         },
                         {
@@ -7002,7 +6978,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリア後専用のイベントもあるので、楽しんで頂けると嬉しいです。"
+                                "You can view memories by moving from the blue\ncircle in the room to the flashback room."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I would be happy if you could enjoy the exclusive\nevents after clearing."
                             ]
                         },
                         {

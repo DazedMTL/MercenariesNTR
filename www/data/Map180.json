@@ -18695,7 +18695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ここは……開かないな？"
+                                "\\nw[Taro]This... won't open, huh?"
                             ]
                         },
                         {
@@ -18752,14 +18752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]どこかにスイッチがあるのかもしれないわ。"
+                                "\\nw[Nonna]There might be a switch somewhere. Let's search a\nlittle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し探してみましょう。"
+                                ""
                             ]
                         },
                         {
@@ -19005,7 +19005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ここも開かないってことは……"
+                                "\\nw[Taro]If this doesn't open either..."
                             ]
                         },
                         {
@@ -19062,14 +19062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]またスイッチがあるんだと思うわ。"
+                                "\\nw[Nonna]I think there's another switch. Let's try to find\nit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "探してみましょう。"
+                                ""
                             ]
                         },
                         {
@@ -21377,7 +21377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガイアスタッフを手に入れた！"
+                                "I obtained the Gaia Staff!"
                             ]
                         },
                         {

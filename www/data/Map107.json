@@ -3967,7 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……ここに……強いの……いる……"
+                                "\\nw[Uka]...There's...a strong one...here..."
                             ]
                         },
                         {
@@ -3984,14 +3984,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ふむ、ここか……。"
+                                "\\nw[Taro]Hmmm, so this is the place... Alright, let's\nproceed with caution."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わかった、気を付けていこう。"
+                                ""
                             ]
                         },
                         {
@@ -4008,7 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……おー……"
+                                "\\nw[Uka]......Oh......"
                             ]
                         },
                         {
@@ -4236,7 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あれか……"
+                                "\\nw[Taro]Is that..."
                             ]
                         },
                         {
@@ -4269,7 +4269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]よし、準備を整えたらいくぞ。"
+                                "\\nw[Taro]Alright, let's go once we're ready."
                             ]
                         },
                         {
@@ -4326,7 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh..."
                             ]
                         },
                         {
@@ -4476,7 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]魔物と戦おうか？"
+                                "\\nw[Taro]Shall we fight against the monsters?"
                             ]
                         },
                         {
@@ -4484,8 +4484,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "準備をする"
+                                    "Fight",
+                                    "Prepare"
                                 ],
                                 1,
                                 -1,
@@ -4515,7 +4515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]よし、行くぞ！"
+                                "\\nw[Taro]Alright, let's go!"
                             ]
                         },
                         {
@@ -4673,7 +4673,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ふぅ……倒せたな。"
+                                "\\nw[Taro]Phew... I managed to defeat it."
                             ]
                         },
                         {
@@ -4730,7 +4730,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]これでシアの歌が聴けるわね。"
+                                "\\nw[Nonna]Now we can listen to Shia's song."
                             ]
                         },
                         {
@@ -4747,14 +4747,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ああ、呪いの検証するってことは歌うってことか……"
+                                "\\nw[Taro]Ah, so verifying the curse means singing... When I\nheard it at the Water Temple, I had to restrain my\nvoice, so I'm looking forward to it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "水の神殿で聞いたときは声量を抑えてたから、楽しみだな。"
+                                ""
                             ]
                         },
                         {
@@ -4811,7 +4811,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……子守唄……聞きたい……"
+                                "\\nw[Uka]......I want to hear...a lullaby..."
                             ]
                         },
                         {
@@ -4828,14 +4828,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Huma]「蒼の歌姫」は激しい曲が特徴だから、"
+                                "\\nw[Huma]Since The Songstress of Azure is known for its\nintense songs, I've never heard things like\nlullabies before~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "子守唄とか聞いたことがないな～"
+                                ""
                             ]
                         },
                         {
@@ -4852,7 +4852,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]残念……"
+                                "\\nw[Uka]What a shame..."
                             ]
                         },
                         {
@@ -4909,7 +4909,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]それじゃ、またシアとするのね。"
+                                "\\nw[Kuno]Well then, let's go with Shia again."
                             ]
                         },
                         {
@@ -4926,7 +4926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]相変わらず嫌そうだな……"
+                                "\\nw[Taro]You still look displeased as always..."
                             ]
                         },
                         {
@@ -4943,7 +4943,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]顔に出てた？ごめんね、太郎も仕事なのに。"
+                                "\\nw[Kuno]Did it show on your face? I'm sorry, Taro, even\nthough you're working too."
                             ]
                         },
                         {
@@ -4960,38 +4960,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]アタシはシアに嫉妬してるみたいなのよ。"
+                                "\\nw[Kuno]It seems like I'm jealous of Shia. But I also want\nto be like Shia, so you don't have to worry about\nit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "でも、シアとしてほしいとも思ってるから、気にしなくていいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]そうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まぁ、そういうならいいけど……"
+                                ""
                             ]
                         },
                         {
@@ -5008,14 +4984,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]んじゃ地上に戻るか。"
+                                "\\nw[Taro]Is that so? Well, if you say so..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "急いで戻るときは\\C[2]帰還の石\\C[0]を使うとすぐ戻れるな。"
+                                "\\nw[Taro]Well then, let's return to the surface. When we\nneed to hurry back, we can use the \\C[2]Return\nStone\\C[0] to come back quickly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5072,7 +5072,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]おー……"
+                                "\\nw[Uka]Oh..."
                             ]
                         },
                         {
@@ -5190,7 +5190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]もうちょっと準備をするか"
+                                "\\nw[Taro]Let's prepare a little more."
                             ]
                         },
                         {

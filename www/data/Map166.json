@@ -5542,14 +5542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]地獣ってあんなにでかいのか！？"
+                                "\\nw[Taro]Are earth beasts really that big!? It's like a\nwhole mountain!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まんま山じゃねえかよ！？"
+                                ""
                             ]
                         },
                         {
@@ -5606,14 +5606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あれが動いてるせいで揺れてるってわけ？！"
+                                "\\nw[Kuno]Is it shaking because that thing is moving?! It's\na little too dangerous, don't you think?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとやばすぎるでしょ！？"
+                                ""
                             ]
                         },
                         {
@@ -5681,31 +5681,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]君たちが邪魔するから復活しちゃったじゃないか！"
+                                "\\nw[???]You guys got in the way and ended up reviving me,\ndidn't you?! Geez, geez!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もー、もー！！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]何言ってんだ、お前が復活させたんだろ？！"
+                                ""
                             ]
                         },
                         {
@@ -5722,14 +5705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]はぁ！？何言ってるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "封印の儀式をさっき無理矢理中断させたのは君たちだろ！"
+                                "\\nw[Taro]What are you saying? You're the one who revived\nme, right?!"
                             ]
                         },
                         {
@@ -5746,7 +5722,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……\\|……\\|えっ？"
+                                "\\nw[???]Huh?! What are you saying? It was you guys who\nforcibly interrupted the sealing ritual earlier!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5763,7 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]封印の儀式……？"
+                                "\\nw[Taro]............Huh?"
                             ]
                         },
                         {
@@ -5780,14 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]そうだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力供給を遮断して、今まで地獣が復活のため貯めた魔力を発散させる儀式！"
+                                "\\nw[Taro]The sealing ritual...?"
                             ]
                         },
                         {
@@ -5804,14 +5780,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]さっきの邪魔で魔力供給の遮断が解除されたっぽい！"
+                                "\\nw[???]That's right! It's a ritual to cut off the supply\nof magic and release the magic that the earth\nbeasts have accumulated for their revival!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もー、どれだけ苦労して儀式の魔力を集めたと思ってるんだよ！"
+                                "\\nw[???]It seems like the interruption earlier caused the\ndisruption of the magic supply. Geez, how much\neffort do you think we put into gathering the\nmagic for the ritual!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5868,7 +5868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]あれ……地獣復活させようとしてたんじゃないの？"
+                                "\\nw[Kuno]Huh... Weren't you trying to revive the earth\nbeasts?"
                             ]
                         },
                         {
@@ -5885,38 +5885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]え？何でそう思ったんだ？"
+                                "\\nw[???]Huh? Why did you think that? Did I say something\nlike that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなこと言った？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]いや、言ってないけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か儀式してたから、地獣関係の神殿だし。"
+                                ""
                             ]
                         },
                         {
@@ -5933,38 +5909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]しかも各地で魔力集めてたみたいだし、"
+                                "\\nw[Taro]No, I didn't say that... But we were performing\nsome kind of ritual, and this is the temple\nrelated to the earth beasts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかも人に迷惑かける形でやってたから、何か企んでるのかと……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[？？？]何言ってるんだ君は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元々は魔力はそこら辺の街に行って協力頼んでたよ。"
+                                ""
                             ]
                         },
                         {
@@ -5981,21 +5933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]ただどこの偉い奴も地獣が復活するから魔力が欲しいって言っても"
+                                "\\nw[Taro]Moreover, it seems like they were gathering\nmagical power in various places, and they were\ndoing it in a way that inconvenienced people, so I\nwondered if they were planning something..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "協力してくれなかったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "封印に間に合わせるために方法変えて集めてただけ。"
+                                ""
                             ]
                         },
                         {
@@ -6012,7 +5957,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……\\|もしかして……オレ達の勘違い？"
+                                "\\nw[???]What are you saying? Originally, we were going\naround the nearby towns asking for cooperation\nwith the magical power."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[???]We just had to change our methods and gather\nmagical power in order to seal them because no\nimportant person from anywhere was willing to\ncooperate, even though we said we needed the magic\nfor the revival of the earth beasts."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]......Could it be... our misunderstanding?"
                             ]
                         },
                         {
@@ -6080,31 +6080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]君たちも地獣を復活させたくなかったわけか。"
+                                "\\nw[???]So you didn't want to revive the earth beasts\neither? Honestly, interfering with a\nmisunderstanding like this, how are you going to\nmake it up to us!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全く、勘違いで邪魔してくるなんて、どうしてくれるのさ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[？？？]一度復活したら倒さないと再封印できないのに！"
+                                ""
                             ]
                         },
                         {
@@ -6121,7 +6104,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]えっ……いや……すまん……"
+                                "\\nw[???]Once they're revived, we won't be able to seal\nthem again unless we defeat them!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Eh... No... I'm sorry..."
                             ]
                         },
                         {
@@ -6178,7 +6178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ごめんなさい……"
+                                "\\nw[Kuno]I'm sorry, Kuno..."
                             ]
                         },
                         {
@@ -6195,21 +6195,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]もういい、まだ封印に使う予定の魔力が残ってる。"
+                                "\\nw[???]If it was just a misunderstanding, then leave us\nalone! We still have magical power left that we\nwere planning to use for sealing. This will\ntemporarily immobilize the earth beasts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これで一時的に地獣を動けなくするから。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今まで勘違いしてただけなら、邪魔しないでよ！"
+                                ""
                             ]
                         },
                         {
@@ -6226,7 +6226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お、おう……すまん……"
+                                "\\nw[Taro]Oh, um... I'm sorry..."
                             ]
                         },
                         {
@@ -6420,7 +6420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]揺れが収まった……？"
+                                "\\nw[Taro]Has the shaking stopped...?"
                             ]
                         },
                         {
@@ -6519,38 +6519,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]一時的に動きを止めただけ。"
+                                "\\nw[???]It just temporarily stopped moving. I just woke up\nand I'm still groggy, so it had an effect, but I\ndon't know how long it will last."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "目が覚めたばかりで寝ぼけてるから効いたけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どれだけ持つかはわからないよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]そ、そうか……何かすまん……。"
+                                ""
                             ]
                         },
                         {
@@ -6567,14 +6550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]謝って済む問題じゃないから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレどうにかするの、協力してもらうよ！"
+                                "\\nw[Taro]I-I see... I'm sorry for something..."
                             ]
                         },
                         {
@@ -6591,7 +6567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お、おう……"
+                                "\\nw[???]It's not a problem that can be solved by\napologizing! I'll figure out a way to deal with\nthat, so I need your cooperation!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6608,7 +6591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]って言っても、アレはどうにか出来るのか……？"
+                                "\\nw[Taro]O-Okay..."
                             ]
                         },
                         {
@@ -6625,21 +6608,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]何とかするんだよ！"
+                                "\\nw[Taro]Even if you say that, is there any way to deal\nwith that...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か月も休まずに頑張って魔力を集めたのに、"
+                                "\\nw[???]I'll figure something out! I've been working hard\nwithout taking a break for months to gather magic\npower, and you've just wasted it all!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全部無駄にしてくれたんだからな！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6672,38 +6672,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかったよ、とりあえず一旦戻ろう。"
+                                "\\nw[Taro]Alright, let's go back for now. There's no point\nin worrying about it here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここで悩んでても仕方ないしな……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]（山の大きさの魔物を倒すって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな方法あるのか……？）"
+                                ""
                             ]
                         },
                         {
@@ -6720,14 +6696,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お互いの名前がわからないのは不便だよな。"
+                                "\\nw[Taro](Is there really a way to defeat a monster as big\nas a mountain...?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレは太郎だ、お前は？"
+                                "\\nw[Taro]It's inconvenient not knowing each other's names,\nisn't it? I'm Taro, what about you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6795,7 +6795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[？？？]そうだね。一緒に行動するなら名乗らないとか。"
+                                "\\nw[???]Yeah, that's right. If we're going to work\ntogether, we should introduce ourselves."
                             ]
                         },
                         {
@@ -6812,7 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Jini]ジニーだよ。そう呼んで。"
+                                "\\nw[Jini]It's Jini. Call me that."
                             ]
                         },
                         {
@@ -6829,7 +6829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ああ、よろしく頼む、ジニー。"
+                                "\\nw[Taro]Ah, I'm counting on you, Jini."
                             ]
                         },
                         {
@@ -6862,21 +6862,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（色々あって頭から抜けていたが、"
+                                "\\nw[Taro](I've been preoccupied with various things, but if\nI can go back with this person, I can fulfill the\npurpose of coming here! I need to have Prae\nchecked...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こいつと帰れるならここに来た目的を果たせる！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "プラエを診てもらわないと……！）"
+                                ""
                             ]
                         },
                         {
@@ -7195,14 +7195,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先から強そうな相手の気配を感じる……"
+                                "I feel the presence of a strong opponent ahead...\nShould we proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進もうか？"
+                                ""
                             ]
                         },
                         {
@@ -7210,8 +7210,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "進まない"
+                                    "Proceed",
+                                    "Don't proceed"
                                 ],
                                 1,
                                 0,
@@ -7351,7 +7351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]淫魔がいる！"
+                                "\\nw[Taro]There's a succubus!"
                             ]
                         },
                         {
@@ -7408,7 +7408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]って、何でドラゴンが……"
+                                "\\nw[Kuno]Wait, why is there a dragon...?"
                             ]
                         },
                         {
@@ -7481,31 +7481,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]何か魔術使ってる？"
+                                "\\nw[Kuno]Are you using some kind of magic? A ritual or\nsomething?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "儀式か何か？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]トールズ、どんな効果かわかるか？"
+                                ""
                             ]
                         },
                         {
@@ -7522,14 +7505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Thorz]もちろんわからないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもずっと使ってるし、大規模な儀式なんじゃないのか？"
+                                "\\nw[Taro]Do you know what kind of effect it has, Thors?"
                             ]
                         },
                         {
@@ -7546,7 +7522,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]まさか……\\|地獣を復活させようとしてるのか？"
+                                "\\nw[Thorz]Of course I don't know. But we've been using it\nfor a long time, so maybe it's a large-scale\nritual?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7563,14 +7546,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]おい、やめろ！"
+                                "\\nw[Taro]Could it be... Are you trying to revive the Earth\nBeast?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地獣を復活させてどうすんだ！"
+                                "\\nw[Taro]Hey, stop! What are you going to do by reviving\nthe Earth Beast!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7603,7 +7603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]くそ、集中してて声が聞こえてないみたいだな。"
+                                "\\nw[Taro]Damn, I was so focused that I didn't hear your\nvoice."
                             ]
                         },
                         {
@@ -7660,14 +7660,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]近寄ろうとするとドラゴンが邪魔するわね。"
+                                "\\nw[Kuno]If we try to approach, the dragon will get in the\nway. We won't be able to get close unless we\ndefeat it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "倒さないと近寄れそうもないわ。"
+                                ""
                             ]
                         },
                         {
@@ -7684,14 +7684,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ああ、倒すしかないか……"
+                                "\\nw[Taro]Ah, there's no choice but to defeat it... Let's\ngo!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "行くぞ！"
+                                ""
                             ]
                         },
                         {
@@ -7827,14 +7827,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]よし、動かなくなったな。"
+                                "\\nw[Taro]Alright, it stopped moving. I'll stop it right\naway!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "すぐに止めるぞ！"
+                                ""
                             ]
                         },
                         {
@@ -8062,7 +8062,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]痛っ！？"
+                                "\\nw[???]Ouch!?"
                             ]
                         },
                         {
@@ -8254,14 +8254,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]もー誰だよ！？"
+                                "\\nw[???]Who the hell is it!? That hurt out of nowhere!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "いきなり痛いだろ！"
+                                ""
                             ]
                         },
                         {
@@ -8396,38 +8396,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]あ～、前に邪魔しに来た奴らじゃん。"
+                                "\\nw[???]Ah~ It's those guys who came to bother us before.\nDid they come to bother us again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "また邪魔しに来たの？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]邪魔って、当たり前だろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなところで何してるんだ。"
+                                ""
                             ]
                         },
                         {
@@ -8444,14 +8420,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]何って、儀式してるに決まってるだろ。"
+                                "\\nw[Taro]It's obvious that you're being a nuisance. What\nare you doing here?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そもそも魔力もやっと貯まって……"
+                                "\\nw[???]What do you mean? It's obvious that we're\nperforming a ritual. Besides, we've finally\ngathered enough magic power..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8535,14 +8535,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]って、魔術が中断しちゃったじゃんか。"
+                                "\\nw[???]Wait, the magic ritual got interrupted. Ah~ Geez,\nhow far did we progress..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あ～もう、どこまで進んだっけ……"
+                                ""
                             ]
                         },
                         {
@@ -8559,7 +8559,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]って、また魔術使おうとすんなよ！"
+                                "\\nw[Taro]Hey, don't try to use magic again!"
                             ]
                         },
                         {
@@ -8627,31 +8627,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]も～、うるさい！"
+                                "\\nw[???]Ugh, so annoying! We don't have time for this! If\nwe don't hurry, we won't make it in time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "こっちは時間がないの！急がないと間に合わなくなるの！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[？？？]後で相手してあげるから、邪魔しないで！"
+                                ""
                             ]
                         },
                         {
@@ -8668,7 +8651,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]だからそれをやめろって！"
+                                "\\nw[???]I'll take care of you later, so don't get in the\nway!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]So I told you to stop that!"
                             ]
                         },
                         {
@@ -8736,14 +8736,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]邪魔しに来たの？"
+                                "\\nw[???]Did you come to bother us? Ugh, we'll even defeat\nyour pets... If we're delayed here like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もう、ペットも倒しちゃうし……こんなところで時間取られたら……"
+                                ""
                             ]
                         },
                         {
@@ -8830,7 +8830,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]地面が揺れて……まさかもう儀式が終わって……？"
+                                "\\nw[Taro]The ground is shaking... Could it be that the\nritual is already over...?"
                             ]
                         },
                         {
@@ -8898,7 +8898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[？？？]まずい、もう！？"
+                                "\\nw[???]Oh no, already!?"
                             ]
                         },
                         {
@@ -8962,14 +8962,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]って、おい！"
+                                "\\nw[Taro]Hey, wait! Don't do whatever you want..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "勝手なことを……"
+                                ""
                             ]
                         },
                         {
@@ -9026,7 +9026,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]あの水晶、何か映像を映してるわよ！"
+                                "\\nw[Kuno]That crystal, it's showing some kind of image!"
                             ]
                         },
                         {
@@ -9043,7 +9043,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]何！？"
+                                "\\nw[Taro]What!?"
                             ]
                         },
                         {

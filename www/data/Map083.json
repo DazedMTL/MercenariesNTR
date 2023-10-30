@@ -3857,7 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]クノやノンナと話をするか"
+                                "\\nw[Taro]Should I talk to Kuno and Nonna?"
                             ]
                         },
                         {
@@ -3972,14 +3972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]広い部屋だな。"
+                                "\\nw[Taro]It's a spacious room, isn't it? It seems like we\ncan use the other two rooms as well, so sleeping\nshouldn't be a problem."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他の２部屋も使えるみたいだし、寝るのは困らなさそうか。"
+                                ""
                             ]
                         },
                         {
@@ -3996,7 +3996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]とりあえず、みんな何してるか話してみるか。"
+                                "\\nw[Taro]For now, shall we try talking about what everyone\nis doing?"
                             ]
                         },
                         {
@@ -4160,7 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]やれやれ、こんな長い移動は馬車で済ませたいね。"
+                                "\\nw[Thorz]Oh boy, I'd like to take a carriage for such a\nlong journey."
                             ]
                         },
                         {
@@ -4237,14 +4237,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]若いのにだらしないな。"
+                                "\\nw[Dalton]Even though you're young, you're so sloppy. As a\nmagician, you should also train your body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔術士なら身体も鍛えるべきだというのに。"
+                                ""
                             ]
                         },
                         {
@@ -4321,14 +4321,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]でかいベッドだな。"
+                                "\\nw[Huma]This is a big bed. With this, you can have fun\nwith quite a number of people."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これなら結構な人数でヤれるよな。"
+                                ""
                             ]
                         },
                         {
@@ -4405,14 +4405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]ウカ……"
+                                "\\nw[Rodrigo]Uka... You might have more experience than me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オレよりも経験は豊富なのかもしれないな。"
+                                ""
                             ]
                         },
                         {
@@ -4529,7 +4529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……ん……太郎……悩んでる……？"
+                                "\\nw[Uka]......Hmm......Taro......Are you troubled...?"
                             ]
                         },
                         {
@@ -4546,7 +4546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]大丈夫だ、気にするな"
+                                "\\nw[Taro]It's okay, don't worry."
                             ]
                         },
                         {
@@ -4563,7 +4563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……わかった……"
+                                "\\nw[Taro]...I understand..."
                             ]
                         },
                         {
@@ -4571,8 +4571,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -4739,14 +4739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]太郎、少し話があるの。"
+                                "\\nw[Nonna]Taro, I have something to talk about. Do you have\nsome time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "時間は大丈夫？"
+                                ""
                             ]
                         },
                         {
@@ -4763,7 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]えっとだな……"
+                                "\\nw[Taro]Um..."
                             ]
                         },
                         {
@@ -4771,9 +4771,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "もうちょっと待って"
+                                    "Talk",
+                                    "Check sexual information",
+                                    "Wait a little longer"
                                 ],
                                 2,
                                 0,
@@ -4834,31 +4834,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]クノとも話してたのだけど、"
+                                "\\nw[Nonna]I was talking to Kuno, and it seems like you've\nbeen troubled lately, haven't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "貴方は近頃悩んでいるわね？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]それは……"
+                                ""
                             ]
                         },
                         {
@@ -4875,21 +4858,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]言えないこともあるかもしれない。"
+                                "\\nw[Taro]Well..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも、言ってくれれば力になるわ。"
+                                "\\nw[Nonna]There may be things that you can't say. But if you\ntell us, we'll support you. Both me and Kuno."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私も、クノもね。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4946,7 +4946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そうよ、頼りにしなさいよね。"
+                                "\\nw[Kuno]That's right, rely on us, okay?"
                             ]
                         },
                         {
@@ -4963,7 +4963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ああ、助かる。"
+                                "\\nw[Taro]Ah, thank goodness."
                             ]
                         },
                         {
@@ -4989,21 +4989,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]さっそく一つ相談なんだが、"
+                                "\\nw[Taro]I have one thing to discuss right away. It seems\nlike I've upset Louis and he's started to dislike\nme... Even when I try to talk to him, he\ncompletely ignores me except for work-related\nmatters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ルイの機嫌を損ねてしまって嫌われたみたいで……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "話しかけても仕事に話し以外無視されるんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -5060,7 +5060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]へぇ、ふ～ん……嫌われちゃったんだ。"
+                                "\\nw[Kuno]Oh, really... I've been disliked, huh."
                             ]
                         },
                         {
@@ -5077,14 +5077,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ああ、そうなんだよ。"
+                                "\\nw[Taro]Ah, I see. So, how can I make him like me again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それでどうすれば機嫌を直してくれるかなと……"
+                                ""
                             ]
                         },
                         {
@@ -5141,7 +5141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……ふ～ん……好かれたいんだ"
+                                "\\nw[Kuno]......Hmmm......I want to be liked."
                             ]
                         },
                         {
@@ -5158,7 +5158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]いや、そういうわけでもないけど……"
+                                "\\nw[Taro]Well, it's not exactly like that..."
                             ]
                         },
                         {
@@ -5175,7 +5175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（何か当たりが強いような？）"
+                                "\\nw[Taro](Is there something that's bothering you?)"
                             ]
                         },
                         {
@@ -5192,7 +5192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]何か心当たりはあるの？"
+                                "\\nw[Nonna]Do you have any idea what might be causing it?"
                             ]
                         },
                         {
@@ -5209,7 +5209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]まぁ、あるにはあるんだが……"
+                                "\\nw[Taro]Well, there is something, but..."
                             ]
                         },
                         {
@@ -5226,31 +5226,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（勃起したまま歩いてるところを見られましたとか、"
+                                "\\nw[Taro](There's no way I can tell them that I was seen\nwalking around with an erection...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "二人に言えるわけないだろ……！）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]えっとだな……"
+                                ""
                             ]
                         },
                         {
@@ -5267,7 +5250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]まぁ、ちょっと言えることじゃなくてな……"
+                                "\\nw[Taro]Um, well..."
                             ]
                         },
                         {
@@ -5284,7 +5267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]……言えないようなことを……"
+                                "\\nw[Taro]Well, it's not something I can easily say..."
                             ]
                         },
                         {
@@ -5301,14 +5284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]原因がわからないとちゃんとしたアドバイスは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "難しくなるけど……"
+                                "\\nw[Kuno]...Something I can't say..."
                             ]
                         },
                         {
@@ -5325,38 +5301,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]原因がわかってるならそのことを反省して、"
+                                "\\nw[Nonna]It's difficult to give proper advice if we don't\nknow the cause..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その上でちゃんと謝罪するのが大事よ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]ああ、それは試したんだよな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "謝っても無視されてるんだよな。"
+                                ""
                             ]
                         },
                         {
@@ -5373,14 +5325,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]そうなの……だとすると、続けるのがいいと思うわ。"
+                                "\\nw[Nonna]If you know the cause, it's important to reflect\non that and then apologize properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "誠意を見せて相手に納得してもらうしかないもの。"
+                                ""
                             ]
                         },
                         {
@@ -5397,7 +5349,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]続けるか……そうなるか……"
+                                "\\nw[Taro]Ah, I tried that, but even if I apologize, I'm\nbeing ignored."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Nonna]Is that so... In that case, I think it's best to\ncontinue. You have to show sincerity and make the\nother person understand."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Should I continue... or should I..."
                             ]
                         },
                         {
@@ -5454,38 +5454,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]お詫びに彼女の好きなものをプレゼントしてもいいんじゃない？"
+                                "\\nw[Kuno]How about apologizing by giving her something she\nlikes? Some people believe that sincerity can be\nexpressed through gifts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "誠意はモノって人もいるみたいだし。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]なるほど、好きな物か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルイの好きなものと言うと……"
+                                ""
                             ]
                         },
                         {
@@ -5502,14 +5478,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]……趣味がコスプレって言ってたっけな。"
+                                "\\nw[Taro]I see, something she likes... Speaking of what\nLouis likes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そうなると……何だ？"
+                                ""
                             ]
                         },
                         {
@@ -5526,14 +5502,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]コスプレね……アタシはよくわからないんだけど……"
+                                "\\nw[Taro]...I remember she said her hobby is cosplay. In\nthat case...what should I do?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "変わった服を着るのよね？"
+                                "\\nw[Kuno]Cosplay, huh... I don't really understand it, but\nit's about wearing unique clothes, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5590,7 +5590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]私も詳しくないわ。"
+                                "\\nw[Nonna]I'm not familiar with it either."
                             ]
                         },
                         {
@@ -5607,21 +5607,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そうか……って、"
+                                "\\nw[Taro]I see... Oh, come to think of it, I remember\nsaying that I wanted to get along with a beautiful\nwoman who enjoys cosplay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そう言えばコスプレし甲斐のある見目麗しい女性と仲良くなりたいって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "言ってたっけ。"
+                                ""
                             ]
                         },
                         {
@@ -5678,14 +5678,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]なるほど……\\|"
+                                "\\nw[Kuno]I see... Wait, are you into that kind of thing!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "って、そっち系の人！？"
+                                ""
                             ]
                         },
                         {
@@ -5702,14 +5702,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]いや、性的に興味はないって言ってたな。"
+                                "\\nw[Taro]No, she said she's not interested in anything\nsexual. It seems like she just wants to cosplay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "単にコスプレしたいだけってことらしいけど"
+                                ""
                             ]
                         },
                         {
@@ -5766,7 +5766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そ、そう……"
+                                "\\nw[Kuno]S-So..."
                             ]
                         },
                         {
@@ -5783,38 +5783,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]何て言うか、よくわかんないのよねあの人。"
+                                "\\nw[Kuno]I don't really know how to describe that person.\nShe's generally sarcastic and doesn't talk about\nherself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "基本毒舌だし、自分の事も話さないし。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Kuno]仕事はできるって聞くけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アタシの方からはわからないし……"
+                                ""
                             ]
                         },
                         {
@@ -5831,21 +5807,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]確かによくわからないんだよな……。"
+                                "\\nw[Kuno]I hear she's capable at work, but I can't really\ntell from my perspective..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "怒るとか不機嫌になるとか、そういった感情を見せるタイプじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なかったと思うんだけど……"
+                                ""
                             ]
                         },
                         {
@@ -5862,14 +5831,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]そうよねえ……"
+                                "\\nw[Taro]Yeah, I don't really understand her... I don't\nthink she's the type to get angry or upset and\nshow those kinds of emotions..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そうなるとどうすればいいのか猶更わからなくなるけど……"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5886,14 +5862,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]まぁ、帰ったらまた謝るよ。"
+                                "\\nw[Kuno]Yeah... If that's the case, I'm even more unsure\nabout what to do..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それでも無視されたら……どうすっかな"
+                                "\\nw[Taro]Well, if I apologize again when I get home... but\nif she still ignores me... I wonder what I should\ndo."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5950,38 +5950,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]長く続くなら強引にでも話をする場を作るしかないわね。"
+                                "\\nw[Nonna]If it continues for a long time, we'll have no\nchoice but to forcefully create an opportunity to\ntalk. At that time, let's ask Prae to create a\nspace for discussion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その時はプラエに言って話し合いの場を作ってもらいましょ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]そう……だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わかった、そうするよ。"
+                                ""
                             ]
                         },
                         {
@@ -5998,7 +5974,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ありがとうな、助かったよ。"
+                                "\\nw[Taro]I see... Yeah, got it. I'll do that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Thank you, I appreciate it."
                             ]
                         },
                         {
@@ -6055,7 +6055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ふふふ、力になれたのならよかったわ。"
+                                "\\nw[Nonna]Hehehe, if I could be of help, then thank\ngoodness."
                             ]
                         },
                         {
@@ -6072,14 +6072,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]二人もオレの方に何でも相談してくれよ。"
+                                "\\nw[Taro]Both of you, feel free to come to me with any\nconcerns. If you're in trouble, I want to be able\nto help."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "困ってたら力になりたいからな。"
+                                ""
                             ]
                         },
                         {
@@ -6096,7 +6096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]ありがとう、当てにさせてもらうわ。"
+                                "\\nw[Nonna]Thank you, I'll rely on you."
                             ]
                         },
                         {
@@ -6169,7 +6169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]相談じゃなくて、言っておくことがあるんだけど……"
+                                "\\nw[Kuno]It's not a consultation, but there's something I\nwant to say..."
                             ]
                         },
                         {
@@ -6186,7 +6186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Kuno]アタシ達……"
+                                "\\nw[Kuno]We..."
                             ]
                         },
                         {
@@ -6325,7 +6325,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Nonna]そう、待ってるから早めにお願いね。"
+                                "\\nw[Nonna]Yes, I'll be waiting, so please do it as soon as\npossible."
                             ]
                         },
                         {
@@ -6459,7 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]う～ん、やっぱりアンタ……"
+                                "\\nw[Kuno]Hmm, after all, you..."
                             ]
                         },
                         {
@@ -6476,7 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]どうした？"
+                                "\\nw[Taro]What's wrong?"
                             ]
                         },
                         {
@@ -6493,7 +6493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]いや、後にするわ。"
+                                "\\nw[Kuno]No, I'll do it later."
                             ]
                         },
                         {
@@ -6501,8 +6501,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "立ち去る"
+                                    "View sexual information",
+                                    "Leave"
                                 ],
                                 1,
                                 0,

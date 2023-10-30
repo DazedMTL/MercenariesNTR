@@ -11215,14 +11215,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[御者]このアケル荒野は魔物が多いので、"
+                                "\\nw[Coachman]Since this Akel Wilderness is full of monsters, I\nwill follow after the customers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お客さんが進んだ後をついていきます。"
+                                ""
                             ]
                         },
                         {
@@ -11239,7 +11239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]わかった、先導しよう。"
+                                "\\nw[Taro]Understood, I will lead the way."
                             ]
                         },
                         {
@@ -11533,7 +11533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[御者]お客さんの後をついていくので、どうぞお先に。"
+                                "\\nw[Coachman]I'll follow behind you, so please go ahead."
                             ]
                         },
                         {
@@ -13147,7 +13147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウィンドを手に入れた！"
+                                "I obtained the Wind!"
                             ]
                         },
                         {
@@ -13394,7 +13394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナボトルを手に入れた！"
+                                "I obtained a mana bottle!"
                             ]
                         },
                         {

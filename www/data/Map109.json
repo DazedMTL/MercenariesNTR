@@ -15104,14 +15104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで休もうか……"
+                                "Should we rest here... (HP and MP will recover)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ＨＰとＭＰが回復します）"
+                                ""
                             ]
                         },
                         {
@@ -15119,8 +15119,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "休む",
-                                    "休まない"
+                                    "Rest",
+                                    "Don't rest"
                                 ],
                                 1,
                                 0,
@@ -15463,14 +15463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]これ……なに……？"
+                                "\\nw[Uka]What is this...? It feels strange..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変な感じ……する……"
+                                ""
                             ]
                         },
                         {
@@ -15527,31 +15527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]これはヒーリングツリーですね。"
+                                "\\nw[Fross]This is a Healing Tree. It's a plant that, if you\nrest nearby, can restore your magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この近くで休めば魔力が回復できるという植物です。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]ほとんど見かけることはないはずですが、運がいいです。"
+                                ""
                             ]
                         },
                         {
@@ -15568,7 +15551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]魔力を使ったらここで休めばいいと言うことだな。"
+                                "\\nw[Fross]You shouldn't see it very often, but you're lucky."
                             ]
                         },
                         {
@@ -15585,21 +15568,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]はい、そうですね。"
+                                "\\nw[Dalton]They say that if you use magic, you should rest\nhere."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まずはフラーウスの実を探しましょう。"
+                                "\\nw[Fross]Yes, that's right. First, let's look for the Fruit\nof Flaurus. There's a high possibility that it's\ndeep inside the forest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "森の奥の方にある可能性が高いです。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15745,7 +15745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]これは……？"
+                                "\\nw[Uka]What is this...?"
                             ]
                         },
                         {
@@ -15802,7 +15802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]魔物の死体ですね……"
+                                "\\nw[Fross]It's a monster corpse, isn't it..."
                             ]
                         },
                         {
@@ -15819,31 +15819,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]……\\|軽く調べてみましたが、"
+                                "\\nw[Fross]......I did a quick investigation, but it hasn't\nbeen that long since they died."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "死んでからそれほど時間は経ってませんね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Fross]兵士もここら辺を通ったのかもしれません。"
+                                ""
                             ]
                         },
                         {
@@ -15860,14 +15843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]気を付けた方がよさそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰もいないといいのだが。"
+                                "\\nw[Fross]The soldiers might have passed through this area\nas well."
                             ]
                         },
                         {
@@ -15884,7 +15860,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]わかった……いこー……"
+                                "\\nw[Dalton]It seems like we should be careful. It would be\nnice if there's no one around."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Uka]Alright... Let's go..."
                             ]
                         },
                         {
@@ -17493,14 +17493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17577,14 +17577,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17661,14 +17661,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17745,14 +17745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -17829,14 +17829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死体のようだ。"
+                                "It looks like a corpse. It hasn't been that long\nsince it was defeated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ倒されてからそう時間は経っていない。"
+                                ""
                             ]
                         },
                         {
@@ -18033,7 +18033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グラビディを手に入れた！"
+                                "I obtained Gravide!"
                             ]
                         },
                         {
@@ -18281,7 +18281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テンガロンハットを手に入れた！"
+                                "I got a ten-gallon hat!"
                             ]
                         },
                         {

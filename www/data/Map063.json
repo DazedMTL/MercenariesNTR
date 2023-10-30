@@ -2207,14 +2207,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そろそろ日が暮れるな……"
+                                "\\nw[Taro]It's getting dark soon... Should I rest here\ntoday?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日はここで休むか。"
+                                ""
                             ]
                         },
                         {
@@ -2323,7 +2323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（フロスに話しをしないとな……）"
+                                "\\nw[Taro](I need to talk to Fross...)"
                             ]
                         },
                         {
@@ -2465,14 +2465,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]（何だか嫌な予感がしたが……気にしても仕方ないか"
+                                "\\nw[Taro](I had a bad feeling about this... but there's no\npoint in worrying. Let's just talk to the coachman\nand start our journey.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず御者に話しかけて出発しよう）"
+                                ""
                             ]
                         },
                         {
@@ -2678,14 +2678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[御者]いやぁお見事でした。"
+                                "\\nw[Coachman]Wow, that was impressive. Please continue to do\nyour best starting from tomorrow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "明日からもよろしくお願いしますよ。"
+                                ""
                             ]
                         },
                         {
@@ -3062,7 +3062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]ん……暖かい……"
+                                "\\nw[Uka]Mmm... it's warm..."
                             ]
                         },
                         {
@@ -3079,7 +3079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]火が好きなのか？"
+                                "\\nw[Taro]Do you like fire?"
                             ]
                         },
                         {
@@ -3096,14 +3096,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]熱いの……嫌い……"
+                                "\\nw[Uka]It's hot... I don't like it... It's warm... I like\nit..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "暖かいの……好き……"
+                                ""
                             ]
                         },
                         {
@@ -3227,7 +3227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ちょっと、そんな触らないで……"
+                                "\\nw[Nonna]Hey, don't touch me like that..."
                             ]
                         },
                         {
@@ -3235,8 +3235,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -3363,14 +3363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]どうしても魔力消費が激しくてね。"
+                                "\\nw[Thorz]The magic consumption is just too intense. I'll\nhave to replenish it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "補給しないといけないな。"
+                                ""
                             ]
                         },
                         {
@@ -3438,14 +3438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]エルフだしやっぱり魔術耐性高いか……"
+                                "\\nw[Thorz]Since she's an elf, she must have high magic\nresistance... I wonder what I should do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしたものかな……"
+                                ""
                             ]
                         },
                         {
@@ -3522,14 +3522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]淫魔は性行為で魔力も体力も回復するからさ～。"
+                                "\\nw[Huma]Incubi and succubi can restore their magical power\nand physical strength through sexual activity~.\nLet's do it together to relieve fatigue~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "疲れ取るためにも一緒しようぜ～。"
+                                ""
                             ]
                         },
                         {
@@ -3646,14 +3646,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]野宿はあまり経験がないんです。"
+                                "\\nw[Fross]I don't have much experience with camping. Even\nduring the war, I was in an area with minimal\ndamage."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦争の時も被害の少ない地域にいたので"
+                                ""
                             ]
                         },
                         {
@@ -3661,8 +3661,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "まだやめておく"
+                                    "Talk",
+                                    "I'll still refrain"
                                 ],
                                 1,
                                 -1,
@@ -3692,52 +3692,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]オレはディオスの生まれだからな。"
+                                "\\nw[Taro]I was born in Dios, you know. I've heard that this\ncountry was in a terrible condition, but Dios\nnever invaded us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こっちの国がひどい状況だったのは聞いてるが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ディオスに攻め込んでは来なかったしな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Fross]そうですね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ミスラ国が誕生してからディオスが攻め込んできて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それで結構被害も出たんですよ。"
+                                ""
                             ]
                         },
                         {
@@ -3754,52 +3723,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]それは知ってる。"
+                                "\\nw[Fross]Yes... After the birth of the Misura Kingdom, Dios\ninvaded us, causing quite a bit of damage."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "オレの親も兵士だったからな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "国境から中央の３分の１くらいまで進めてたらしいけどな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]でも結局は二人のイージスに負けたわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦争で活躍した英雄のNo.I\\rb[<元帥>,マーシャル]と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無敵と思える巨人のNo.IX\\rb[<喰らうモノ>,イーター]に。"
+                                ""
                             ]
                         },
                         {
@@ -3816,45 +3754,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]でもその通り道の村や町はひどいことになってましたよ。"
+                                "\\nw[Taro]I know that. My parents were soldiers too. They\nsaid they advanced about one-third of the way from\nthe border to the center."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "元々内乱と戦争が起こってて食料もきついのに、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ディオス軍に略奪されたんですから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Fross]ディオスが故郷と知られれば恨む人もいるかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                ""
                             ]
                         },
                         {
@@ -3871,7 +3785,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]あ、ああ、わかった。"
+                                "\\nw[Taro]But in the end, we were defeated by the two Aegis.\nNo.I Marshal, the hero who excelled in the war,\nand No.IX Eater, the giant who seemed invincible."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3888,7 +3816,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]って、その話じゃなくて話があるんだよ。"
+                                "\\nw[Fross]But it's true that the villages and towns along\nthat route were in a terrible state. There was\nalready civil unrest and war, and food was scarce,\nbut then they were plundered by the Dios army."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3905,7 +3847,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]何ですか？"
+                                "\\nw[Fross]If it becomes known that Dios is your hometown,\nthere might be people who hold a grudge. Please be\ncareful."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3922,7 +3871,58 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]フロスには目的地につくまでオレとセックスしてもらう。"
+                                "\\nw[Taro]Ah, ah, I understand."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Um, that's not what I wanted to talk about."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Fross]What is it, Fross?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Fross, please have sex with me until we reach our\ndestination."
                             ]
                         },
                         {
@@ -4033,7 +4033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]えっと……何ででしょう？"
+                                "\\nw[Fross]Um... What is it?"
                             ]
                         },
                         {
@@ -4050,31 +4050,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]理由は二つある。"
+                                "\\nw[Taro]There are two reasons. First, we will use magic\norbs to ward off monsters ahead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まず一つ目はこの先は魔物除けの魔導球を使うからだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Fross]魔物除けって、あまり効果がないって聞いたことありますけど……"
+                                ""
                             ]
                         },
                         {
@@ -4091,21 +4074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]まぁ、ちょっと来難くなる程度だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "縄張りに入って使っても意味はないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "元々魔物が生息してない地域で使えば寄って来難くなる。"
+                                "\\nw[Fross]I've heard that magic orbs don't have much effect\nin warding off monsters..."
                             ]
                         },
                         {
@@ -4122,38 +4091,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]魔物が多く出る地域は抜けたからな。"
+                                "\\nw[Taro]Well, it's just a little difficult to come by. It\nwouldn't make much sense to use it within our\nterritory, but if we use it in an area where\nmonsters don't inhabit, it will become less likely\nfor them to approach."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "明日からは高い効果が見込める。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]この結界維持には結構な魔力が必要になってくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのために魔力を発生させる必要があるわけだ。"
+                                ""
                             ]
                         },
                         {
@@ -4170,7 +4122,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]そうですか……もう一つは何ですか？"
+                                "\\nw[Taro]We've passed through the area where many monsters\nappear. From tomorrow, we can expect a high\neffect."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4187,28 +4146,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]プラエに魔力を送るためだ。"
+                                "\\nw[Taro]Maintaining this barrier requires a considerable\namount of magical power. That's why we need to\ngenerate magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プラエと契約しているのはオレだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "眷属の二人より、オレが直接淫魔の能力で魔力を得た方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "プラエに送られる魔力量も多くなるだろ。"
+                                ""
                             ]
                         },
                         {
@@ -4225,21 +4170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]……\\|理由はわかりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ですけどそんなにみんなから離れるわけにもいきませんし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "二人きりにはなれないですよね？"
+                                "\\nw[Fross]I see... What is the other reason?"
                             ]
                         },
                         {
@@ -4256,38 +4187,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そこは諦めてくれ。"
+                                "\\nw[Taro]It's to send magical power to Prae. I'm the one\nwho made a contract with Prae. Compared to the two\nfamiliars, I can directly obtain magical power\nthrough the abilities of an incubus, so the amount\nof magical power sent to Prae will be greater."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "正直言えばオレだって恥ずかしいんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]今日は歩きで疲れてるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "明日からはフロスは馬車で移動だから、明日から頼む。"
+                                ""
                             ]
                         },
                         {
@@ -4304,38 +4225,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]……\\|……\\|わかりました。"
+                                "\\nw[Fross]......I understand the reasons. But I can't really\nseparate myself from everyone like that, and we\ncan't be alone together, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "とても恥ずかしいですが、わたしの依頼ですしね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]助かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "協力してる分依頼料は安くなるからな。"
+                                ""
                             ]
                         },
                         {
@@ -4352,7 +4256,103 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]今日は疲れただろうし、ゆっくり休んでくれ。"
+                                "\\nw[Taro]Just give up on that. To be honest, even I feel\nembarrassed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]You must be tired from walking today. Starting\ntomorrow, Fross will be traveling by carriage, so\nI'll rely on you from tomorrow."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Fross]............I understand. It's very embarrassing,\nbut it's my request, after all."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Thank goodness. Since you're helping me, the\nrequest fee will be reduced."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]You must be tired from today, so please rest and\ntake it easy."
                             ]
                         },
                         {
@@ -4409,7 +4409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Fross]はい、ありがとうございます。"
+                                "\\nw[Fross]Yes, thank you very much."
                             ]
                         },
                         {
@@ -4442,14 +4442,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（やっぱり時間がかかりそうだな……"
+                                "\\nw[Taro](It seems like it will take some time after all...\nI hope Kuno will be okay...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "クノも平気だといいんだが……）"
+                                ""
                             ]
                         },
                         {
@@ -4608,7 +4608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[御者]出発しますか？"
+                                "\\nw[Coachman]Are we departing?"
                             ]
                         },
                         {
@@ -4616,8 +4616,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -4647,7 +4647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[御者]では行きますよ。"
+                                "\\nw[Coachman]We're departing now."
                             ]
                         },
                         {
@@ -4713,7 +4713,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[御者]出発するときは言ってください。"
+                                "\\nw[Coachman]Please let me know when we're departing."
                             ]
                         },
                         {
@@ -4840,7 +4840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]ん……蟻が餌を運んでる……"
+                                "\\nw[Uka]Hmm... the ants are carrying food..."
                             ]
                         },
                         {
@@ -4857,7 +4857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]蟻……好きなのか？"
+                                "\\nw[Taro]Do you like ants?"
                             ]
                         },
                         {
@@ -4874,7 +4874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……蟻？……何も思わない……ような？"
+                                "\\nw[Uka]......Ants?......I don't really...have any\nthoughts about them?"
                             ]
                         },
                         {
@@ -4891,7 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そうなのか？"
+                                "\\nw[Taro]Is that so?"
                             ]
                         },
                         {
@@ -5015,7 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]ウカちゃんは変わったことが好きですね……"
+                                "\\nw[Fross]Uka-chan likes unusual things, doesn't she..."
                             ]
                         },
                         {
@@ -5139,7 +5139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]そんなぐいぐい来られても……"
+                                "\\nw[Nonna]Even if you come at me so forcefully..."
                             ]
                         },
                         {
@@ -5147,8 +5147,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -5275,7 +5275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]出発まで時間もあるし、先っちょだけでも！"
+                                "\\nw[Huma]We still have time before departure, so just the\ntip is fine!"
                             ]
                         },
                         {
@@ -5434,7 +5434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今ここから動くのは良くないな。"
+                                "\\nw[Taro]It's not a good idea to move from here."
                             ]
                         },
                         {
@@ -5533,7 +5533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今ここから動くのは良くないな。"
+                                "\\nw[Taro]It's not a good idea to move from here."
                             ]
                         },
                         {
@@ -5641,14 +5641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は行っても意味のない場所だ。"
+                                "There's no point in going any further from here.\nLet's turn back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "引き返そう。"
+                                ""
                             ]
                         },
                         {
@@ -5747,7 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今ここから動くのは良くないな。"
+                                "\\nw[Taro]It's not a good idea to move from here."
                             ]
                         },
                         {
@@ -5846,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今ここから動くのは良くないな。"
+                                "\\nw[Taro]It's not a good idea to move from here."
                             ]
                         },
                         {

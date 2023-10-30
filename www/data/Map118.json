@@ -2563,7 +2563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……ふかふか……"
+                                "\\nw[Uka]......Soft and fluffy......"
                             ]
                         },
                         {
@@ -2571,9 +2571,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -2603,7 +2603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]もしかして人形好きなのか？"
+                                "\\nw[Taro]Do you happen to like dolls?"
                             ]
                         },
                         {
@@ -2620,7 +2620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……そう……なの……？"
+                                "\\nw[Uka]......Is that so......?"
                             ]
                         },
                         {
@@ -2637,7 +2637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]………"
+                                "\\nw[Uka]........."
                             ]
                         },
                         {
@@ -2654,7 +2654,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]………"
+                                "\\nw[Uka]........."
                             ]
                         },
                         {
@@ -2671,7 +2671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]いや、わからないならいいぞ。"
+                                "\\nw[Taro]No, it's fine if you don't understand."
                             ]
                         },
                         {
@@ -2688,7 +2688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……わからない……"
+                                "\\nw[Uka]......Hmm......I don't understand..."
                             ]
                         },
                         {
@@ -2846,7 +2846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……あ……太郎……"
+                                "\\nw[Uka]......Ah......Taro......"
                             ]
                         },
                         {
@@ -2854,9 +2854,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -2886,7 +2886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]抱きたいのか？"
+                                "\\nw[Taro]Do you want to be held?"
                             ]
                         },
                         {
@@ -2903,7 +2903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……ううん……他の子と……並べて……あげたい……"
+                                "\\nw[Uka]......No......I want to be with the other\ngirls......side by side......"
                             ]
                         },
                         {
@@ -2920,7 +2920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……一緒の方が……この子も楽しそう……"
+                                "\\nw[Uka]......It seems like this child is having\nfun......being together with everyone......"
                             ]
                         },
                         {
@@ -2937,14 +2937,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]そうか……"
+                                "\\nw[Taro]I see... (I don't really understand about dolls.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（人形のことはよくわからないな）"
+                                ""
                             ]
                         },
                         {
@@ -3102,7 +3102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……回復……用意するべき……？"
+                                "\\nw[Uka]Should I... prepare... healing?"
                             ]
                         },
                         {
@@ -3110,9 +3110,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "Check sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -3142,7 +3142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]まぁ、そこら辺の管理はオレに任せてくれ。"
+                                "\\nw[Taro]Well, leave the management around here to me."
                             ]
                         },
                         {
@@ -3159,7 +3159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……わかった……"
+                                "\\nw[Uka]...Yes... understood..."
                             ]
                         },
                         {
@@ -3317,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……楽しい……ダンジョン……？"
+                                "\\nw[Uka]......Fun......dungeon......?"
                             ]
                         },
                         {
@@ -3325,9 +3325,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "Check sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -3357,14 +3357,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]いや、珍しいとは思うが……"
+                                "\\nw[Taro]Well, I do find it unusual... but is it fun?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "楽しいのか？"
+                                ""
                             ]
                         },
                         {
@@ -3381,7 +3381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……びっくり箱……みたい……"
+                                "\\nw[Uka]......Hmm......It's like a surprise box......"
                             ]
                         },
                         {
@@ -3548,7 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……宣伝……頑張る……"
+                                "\\nw[Uka]......Promotion......I'll do my best......"
                             ]
                         },
                         {
@@ -3556,9 +3556,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Talk",
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -3588,7 +3588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]あんまり気負わなくていいぞ。"
+                                "\\nw[Taro]You don't have to be so nervous."
                             ]
                         },
                         {
@@ -3605,7 +3605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……わかった……"
+                                "\\nw[Uka]...Yes...I understand..."
                             ]
                         },
                         {
@@ -3732,7 +3732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[道具屋]どうぞ見ていってください"
+                                "\\nw[Item Shop]Please take a look at the item shop."
                             ]
                         },
                         {
@@ -3870,7 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[道具屋]またのお越しをお待ちしております"
+                                "\\nw[Item Shop]We look forward to your visit again at the Item\nShop."
                             ]
                         },
                         {
@@ -3958,7 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[店主]いらっしゃい、交換したいものはある？"
+                                "\\nw[Shopkeeper]Welcome, do you have something you want to\nexchange?"
                             ]
                         },
                         {
@@ -3977,12 +3977,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（魔術強）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系"
+                                    "Healing-type",
+                                    "Attack Type (Magic)",
+                                    "Attack Type (Magic Strong)",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weaker system"
                                 ],
                                 -1,
                                 0,
@@ -4896,7 +4896,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "やっぱり買わない"
+                                    "No, I won't buy it after all"
                                 ],
                                 0,
                                 -1,
@@ -4955,12 +4955,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系",
-                                    "やっぱりいらない"
+                                    "Healing-type",
+                                    "Attack Type (Magic)",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weaker system",
+                                    "No, I don't need anything after all"
                                 ],
                                 5,
                                 0,
@@ -5724,12 +5724,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "回復系",
-                                    "攻撃系（魔術）",
-                                    "攻撃系（物理）",
-                                    "強化系",
-                                    "弱体系",
-                                    "やっぱりいらない"
+                                    "Healing-type",
+                                    "Attack Type (Magic)",
+                                    "Attack Type (Physical)",
+                                    "Enhancement",
+                                    "Weaker system",
+                                    "No, I don't need anything after all"
                                 ],
                                 5,
                                 0,
@@ -6316,7 +6316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[店主]ありがとう、また来てくれると嬉しいわ。"
+                                "\\nw[Shopkeeper]Thank you, I'll be happy if you come again."
                             ]
                         },
                         {
@@ -6388,7 +6388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Shopkeeper]Oh, it seems the amount of semen you've brought\nfor exchange has reached a certain number."
                             ]
                         },
                         {
@@ -6405,7 +6405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]今度からより良いものが交換できるようにしておくわ。"
+                                "\\nw[Shopkeeper]I'll make sure you can exchange for even better\nitems next time."
                             ]
                         },
                         {
@@ -6475,7 +6475,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Shopkeeper]Oh, it seems the amount of semen you've brought\nfor exchange has reached a certain number."
                             ]
                         },
                         {
@@ -6492,7 +6492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]今度からより良いものが交換できるようにしておくわ。"
+                                "\\nw[Shopkeeper]I'll make sure you can exchange for even better\nitems next time."
                             ]
                         },
                         {
@@ -6562,7 +6562,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]あら、交換してくれた精液量が一定数に達したわね。"
+                                "\\nw[Shopkeeper]Oh, it seems the amount of semen you've brought\nfor exchange has reached a certain number."
                             ]
                         },
                         {
@@ -6579,7 +6579,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[店主]今度からこの店にあるもの全部と交換できるようにしておくわ。"
+                                "\\nw[Shopkeeper]I'll make sure you can exchange for everything in\nthis store from now on."
                             ]
                         },
                         {

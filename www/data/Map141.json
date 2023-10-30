@@ -15144,7 +15144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今度は何が……"
+                                "\\nw[Taro]What is it this time..."
                             ]
                         },
                         {
@@ -15188,7 +15188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]もしかして、何も起きない？"
+                                "\\nw[Taro]Could it be that nothing is going to happen?"
                             ]
                         },
                         {
@@ -15214,14 +15214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]まぁ何も起きないなら都合がいいか。"
+                                "\\nw[Taro]Well, if nothing is going to happen, that works\nout fine. Let's move forward then."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進むとしよう。"
+                                ""
                             ]
                         },
                         {
@@ -17300,7 +17300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リジェネⅡを手に入れた！"
+                                "I got Regene II!"
                             ]
                         },
                         {

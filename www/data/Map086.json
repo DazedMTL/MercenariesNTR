@@ -9761,7 +9761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]夜中に街から出るものじゃないな……"
+                                "\\nw[Taro]It's not something to go out in the middle of the\nnight..."
                             ]
                         },
                         {
@@ -9860,14 +9860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今はみんなで町で聞き込みをしているし、"
+                                "\\nw[Taro]Right now, everyone is doing investigations in the\ntown, so it's better not to go outside of the\ntown."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "町の外は出ない方がいいな。"
+                                ""
                             ]
                         },
                         {
@@ -9966,7 +9966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今は宿に行かないとな。"
+                                "\\nw[Taro]I have to go to the inn now."
                             ]
                         },
                         {
@@ -10156,7 +10156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]夜中に街から出るものじゃないな……"
+                                "\\nw[Taro]It's not something to go out in the middle of the\nnight..."
                             ]
                         },
                         {
@@ -10255,14 +10255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今はみんなで町で聞き込みをしているし、"
+                                "\\nw[Taro]Right now, everyone is doing investigations in the\ntown, so it's better not to go outside of the\ntown."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "町の外は出ない方がいいな。"
+                                ""
                             ]
                         },
                         {
@@ -10361,7 +10361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今は宿に行かないとな。"
+                                "\\nw[Taro]I have to go to the inn now."
                             ]
                         },
                         {
@@ -11376,7 +11376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -11684,7 +11684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -11992,7 +11992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -12300,7 +12300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it will open."
                             ]
                         },
                         {
@@ -12608,7 +12608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -12916,7 +12916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -12960,7 +12960,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]何か音がするような……？"
+                                "\\nw[Taro]Did you hear something...?"
                             ]
                         },
                         {
@@ -13051,38 +13051,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Thorz]はぁはぁ……やっぱり旅の醍醐味って言ったら"
+                                "\\nw[Thorz]Haa haa... When it comes to the true essence of a\njourney, it's all about irresponsible\nimpregnation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "無責任孕ませだな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Thorz]ふぅふぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "仲良さそうにしやがって……孕ませてやるからな……！"
+                                ""
                             ]
                         },
                         {
@@ -13099,14 +13075,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Thorz]仲よくおれの子供を育てやがれ……！"
+                                "\\nw[Thorz]Haa haa... They seem so close... I'm going to\nimpregnate them...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おれの子供を幸せにしろよ……！"
+                                "\\nw[Thorz]Get along and raise my children...! Make my\nchildren happy...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13175,7 +13175,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]まぁ、夜中にハッスルする夫婦なんていて当たり前か。"
+                                "\\nw[Taro]Well, it's only natural to have a couple who\nhustles in the middle of the night."
                             ]
                         },
                         {
@@ -13313,14 +13313,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ようやくリムルンに到着したな。"
+                                "\\nw[Taro]Finally arrived in Rimrun, huh? If I remember\ncorrectly, I can meet the client by telling the\ninnkeeper."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確か宿屋の主人に言えば依頼人に会えるんだったか。"
+                                ""
                             ]
                         },
                         {
@@ -13377,7 +13377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]そうね。"
+                                "\\nw[Nonna]Yes, that's right."
                             ]
                         },
                         {
@@ -13394,7 +13394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]とりあえず宿屋へ行ってみるか。"
+                                "\\nw[Taro]Shall I go to the inn for now?"
                             ]
                         },
                         {
@@ -13547,7 +13547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]へ～、それはいいね！"
+                                "\\nw[Huma]Oh, that's great!"
                             ]
                         },
                         {
@@ -13624,7 +13624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]もー、上手いんだから♪"
+                                "\\nw[Female]Mou, you're so good♪"
                             ]
                         },
                         {
@@ -13932,7 +13932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -14240,7 +14240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない。"
+                                "It doesn't seem like it's going to open."
                             ]
                         },
                         {
@@ -14324,14 +14324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]結構焦ってる感じだったな。"
+                                "\\nw[Taro]He seemed quite anxious. I wonder if something\nhappened..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かあったんだろうか……"
+                                ""
                             ]
                         },
                         {
@@ -14388,38 +14388,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]それはわからないわ。"
+                                "\\nw[Nonna]I don't know about that. But in this situation, we\nhave no choice but to find a way to borrow a ship."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でもこうなるとどうにかして船を借りるしかないわね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]しかしこのまま船長に話しても交渉できないよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "断られて終わりだ。"
+                                ""
                             ]
                         },
                         {
@@ -14436,14 +14412,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]何か交渉材料がないとな……"
+                                "\\nw[Taro]However, if we talk to the captain like this, we\nwon't be able to negotiate. We'll just be rejected\nand it'll be over."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何がいいか……"
+                                "\\nw[Taro]We need some negotiation material... What would be\ngood..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14500,7 +14500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]う～ん、そうねえ……"
+                                "\\nw[Nonna]Hmm, well..."
                             ]
                         },
                         {
@@ -14517,7 +14517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]交渉か……"
+                                "\\nw[Dalton]Negotiation, huh..."
                             ]
                         },
                         {
@@ -14550,7 +14550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]何を悩んでおるのじゃ、交渉ならできるじゃろう？"
+                                "\\nw[Prae's voice]What are you worrying about? If it's negotiation,\nwe should be able to do it, right?"
                             ]
                         },
                         {
@@ -14567,7 +14567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]うおっ、プラエ……！？"
+                                "\\nw[Taro]Whoa, Prae...!?"
                             ]
                         },
                         {
@@ -14624,7 +14624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ん、プラエから通信？"
+                                "\\nw[Nonna]Hmm, a communication from Prae?"
                             ]
                         },
                         {
@@ -14641,38 +14641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あ、ああ……そうか、オレにだけ通信してるのか。"
+                                "\\nw[Taro]Ah, I see... So you were only communicating with\nme. Were you watching? And how do we negotiate?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見てたのか？てか交渉って、どうやって？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[プラエの声]ほれ、そこにお主の母親がおるじゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魅力的な身体を持った淫魔の女が。"
+                                ""
                             ]
                         },
                         {
@@ -14689,7 +14665,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……！"
+                                "\\nw[Prae's voice]Look, isn't your mother over there? A seductive\nsuccubus with an attractive body."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14706,14 +14689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]魅力的な異性はそれだけで交渉材料になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性接待など昔からよく行われておるし、効果的じゃぞ？"
+                                "\\nw[Taro]......!"
                             ]
                         },
                         {
@@ -14730,7 +14706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]それは……そうなのか……？"
+                                "\\nw[Prae's voice]Attractive members of the opposite sex can be\nnegotiation material in and of themselves. Sexual\nhospitality and the like have been commonly\npracticed since ancient times, you know? It's\nquite effective, isn't it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14747,14 +14730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]ま、それだけじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい頑張るがよい。"
+                                "\\nw[Taro]Is that so...?"
                             ]
                         },
                         {
@@ -14771,7 +14747,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]おい、プラエ！"
+                                "\\nw[Prae's voice]Well, that's not enough. You better do your best."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Hey, Prae!"
                             ]
                         },
                         {
@@ -14797,21 +14797,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……通信が終わったのか？"
+                                "\\nw[Taro]......Has the communication ended? No, I can\nalways see it one-sidedly from over there, and I\ncan talk to you anytime from here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、あっちからはいつでも一方的に見えるし、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こっちといつでも話せるんだったな……"
+                                ""
                             ]
                         },
                         {
@@ -14868,31 +14868,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]プラエからだったのよね？"
+                                "\\nw[Nonna]It was from Prae, right? What kind of conversation\nwas it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どんな話だったの？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ああ、交渉する方法があるって話で……"
+                                ""
                             ]
                         },
                         {
@@ -14909,14 +14892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]さすがプラエは経験豊富ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな方法って言われたの？"
+                                "\\nw[Taro]Ah, so it's about the method of negotiation..."
                             ]
                         },
                         {
@@ -14933,7 +14909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]あ～っと……\\|色仕掛け……だな……"
+                                "\\nw[Nonna]As expected, Prae is experienced. What kind of\nmethod did she mention?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14950,7 +14933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]……"
+                                "\\nw[Taro]Ah~... it's a seduction... isn't it..."
                             ]
                         },
                         {
@@ -14967,14 +14950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]確かに交渉としては一般的だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金と異性は交渉する上で最も使われる手段だな。"
+                                "\\nw[Nonna]......"
                             ]
                         },
                         {
@@ -14991,7 +14967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]一人の女のために国が潰れるなんてこともあるくらいだしな。"
+                                "\\nw[Dalton]Indeed, it is common as a negotiation tactic.\nMoney and the opposite sex are the most commonly\nused means of negotiation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15008,7 +14991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そういうものなのか？"
+                                "\\nw[Dalton]There are even cases where a country can collapse\nfor the sake of a single woman."
                             ]
                         },
                         {
@@ -15025,14 +15008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ああ、そんなものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん相手は選ぶんだけどな。"
+                                "\\nw[Taro]Is that how it is?"
                             ]
                         },
                         {
@@ -15049,14 +15025,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]そう言えば交渉で金を使っていいってシアは言ってたか……"
+                                "\\nw[Dalton]Ah, that's how it is. Of course, you choose your\npartner though."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その線でも……"
+                                "\\nw[Taro]Come to think of it, did Shia say that it's okay\nto use money in negotiations... In that case..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15113,31 +15113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]お金より先に色仕掛けで試してみるのがいいと思うわ。"
+                                "\\nw[Nonna]I think it's better to try seduction before money.\nI want to minimize expenses as much as possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "出費はなるべく抑えたいしね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]ノンナ……その、良いのか？"
+                                ""
                             ]
                         },
                         {
@@ -15154,14 +15137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]交渉事に色仕掛けを使えるようになるのは重要だと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔になったのだし、魅了の効果も高くなってるはずよ。"
+                                "\\nw[Taro]Nonna... Is it okay?"
                             ]
                         },
                         {
@@ -15178,31 +15154,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]成功するかどうかはわからないけども、"
+                                "\\nw[Nonna]I think it's important to be able to use seduction\nin negotiations. Since I've become a succubus, the\ncharm effect should be even stronger."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今後のことを考えると出来るようになっておいた方がいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Nonna]だから慣れる意味でも、経験しておいた方がいいと思うの。"
+                                ""
                             ]
                         },
                         {
@@ -15219,31 +15178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]確かに……女と付き合ったりセックスするために"
+                                "\\nw[Nonna]I'm not sure if it will be successful, but it's\nbetter to be able to do it considering the future."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やる気になる男の冒険者やら傭兵は多いもんな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]わかった、一旦ノンナに交渉を任せてみていいか。"
+                                ""
                             ]
                         },
                         {
@@ -15260,14 +15202,72 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ええ。"
+                                "\\nw[Nonna]That's why I think it's better to have the\nexperience for the sake of getting used to it."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず船長のいた港へ向かいましょう。"
+                                "\\nw[Taro]Indeed... There are many adventurers and\nmercenaries who become motivated to date or have\nsex with women."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Alright, can I leave the negotiations to Nonna for\nnow?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Nonna]Yes. Let's head to the port where the captain is\nfor now."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15410,7 +15410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]大丈夫、外でするスリルもいいものだよ。"
+                                "\\nw[Huma]It's okay, the thrill of doing it outside is also\ngood."
                             ]
                         },
                         {
@@ -15487,7 +15487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[女]さすがに恥ずかしいって言うか……"
+                                "\\nw[Female]As expected, it's embarrassing..."
                             ]
                         },
                         {
@@ -15564,14 +15564,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[男]ここはリムルンだ。"
+                                "\\nw[Male]This is Rimuru. Lately, monsters have been\nappearing and it's been tough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "近頃魔物が出て大変なんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -15699,14 +15699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]魔物を警戒しているところだ。"
+                                "\\nw[Soldier]We're on alert for monsters. Don't cause a\ncommotion even in the town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "街中でも騒ぐんじゃないぞ。"
+                                ""
                             ]
                         },
                         {
@@ -15774,14 +15774,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[兵士]ふぁぁ……\\|"
+                                "\\nw[Soldier]Fuuuh... focus, focus..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っと、集中集中……"
+                                ""
                             ]
                         },
                         {
@@ -15858,14 +15858,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[老人]よく来たねえ。"
+                                "\\nw[Old man]You've come a long way. Today..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日は……"
+                                ""
                             ]
                         },
                         {
@@ -15882,14 +15882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[老人]おや……\\|若いからもしかしたらと思ったけど、"
+                                "\\nw[Old man]Oh... I thought maybe you were young, but it seems\nI was mistaken. I apologize."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "違うようだねえ。すまないねえ。"
+                                ""
                             ]
                         },
                         {
@@ -16017,21 +16017,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[老婆]この人が怪我した時に淫魔の子が癒してくれてね。"
+                                "\\nw[Old woman]When this person got injured, the succubus child\nhealed them. Since then, whenever they see a young\nperson, they get like this. Even though she has\nalready left town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それからは若い人を見るとこんな調子なのさ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女はもう町から出て行ってしまったのにね。"
+                                ""
                             ]
                         },
                         {

@@ -3511,7 +3511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[\\V[801]]わーいわーい"
+                                "\\nw[\\V[801]]Yay yay!"
                             ]
                         },
                         {
@@ -3519,9 +3519,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しをする",
-                                    "情報を確認する",
-                                    "特に用はない"
+                                    "Have a conversation",
+                                    "Confirm the information",
+                                    "I don't have anything in particular to say"
                                 ],
                                 2,
                                 0,
@@ -3551,7 +3551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[\\V[801]]学園都市ってどんなところだろう～"
+                                "\\nw[\\V[801]]I wonder what kind of place Academy City is~"
                             ]
                         },
                         {
@@ -3588,14 +3588,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父親の名前：\\V[802]"
+                                "Father's name: \\V[802], Mother's name: \\V[803]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "母親の名前：\\V[803]"
+                                ""
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[\\V[801]]こんにちは！"
+                                "\\nw[\\V[801]]Hello!"
                             ]
                         },
                         {
@@ -3694,9 +3694,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しをする",
-                                    "情報を確認する",
-                                    "特に用はない"
+                                    "Talk",
+                                    "Check the information",
+                                    "No particular business"
                                 ],
                                 2,
                                 0,
@@ -3726,7 +3726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[\\V[801]]すぐ引っ越しなんだって"
+                                "\\nw[\\V[801]]I heard you're moving soon."
                             ]
                         },
                         {
@@ -3763,14 +3763,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父親の名前：\\V[802]"
+                                "Father's name: \\V[802], Mother's name: \\V[803]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "母親の名前：\\V[803]"
+                                ""
                             ]
                         },
                         {
@@ -3968,21 +3968,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[院長]子供たちが学園都市へ行くまで一時的に預かっています。"
+                                "\\nw[Director]We are temporarily taking care of the children\nuntil they go to the Academy City. Since we are\nalso taking care of the children belonging to the\nMercenary Guild, your children might be here as\nwell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "傭兵団ギルド所属の子供は預かっているので、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴方達の子供もいるかもしれませんね。"
+                                ""
                             ]
                         },
                         {
@@ -4059,7 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[\\V[806]]わーいわーい"
+                                "\\nw[\\V[806]]Yay yay!"
                             ]
                         },
                         {
@@ -4067,9 +4067,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しをする",
-                                    "情報を確認する",
-                                    "特に用はない"
+                                    "Have a conversation",
+                                    "Confirm the information",
+                                    "I don't have anything in particular to say"
                                 ],
                                 2,
                                 0,
@@ -4099,7 +4099,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[\\V[806]]学園都市ってどんなところだろう～"
+                                "\\nw[\\V[806]]I wonder what kind of place Academy City is~"
                             ]
                         },
                         {
@@ -4136,14 +4136,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父親の名前：\\V[807]"
+                                "Father's name: \\V[807], Mother's name: \\V[808]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "母親の名前：\\V[808]"
+                                ""
                             ]
                         },
                         {
@@ -4234,7 +4234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[\\V[806]]こんにちは！"
+                                "\\nw[\\V[806]]Hello!"
                             ]
                         },
                         {
@@ -4242,9 +4242,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しをする",
-                                    "情報を確認する",
-                                    "特に用はない"
+                                    "Talk",
+                                    "Check the information",
+                                    "No particular business"
                                 ],
                                 2,
                                 0,
@@ -4274,7 +4274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[\\V[806]]すぐ引っ越しなんだって"
+                                "\\nw[\\V[806]]I heard you're moving soon."
                             ]
                         },
                         {
@@ -4311,14 +4311,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父親の名前：\\V[807]"
+                                "Father's name: \\V[807], Mother's name: \\V[808]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "母親の名前：\\V[808]"
+                                ""
                             ]
                         },
                         {
@@ -4418,7 +4418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[\\V[811]]わーいわーい"
+                                "\\nw[\\V[811]]Yay yay!"
                             ]
                         },
                         {
@@ -4426,9 +4426,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しをする",
-                                    "情報を確認する",
-                                    "特に用はない"
+                                    "Have a conversation",
+                                    "Confirm the information",
+                                    "I don't have anything in particular to say"
                                 ],
                                 2,
                                 0,
@@ -4458,7 +4458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[\\V[811]]学園都市ってどんなところだろう～"
+                                "\\nw[\\V[811]]I wonder what kind of place a school city is~"
                             ]
                         },
                         {
@@ -4495,14 +4495,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父親の名前：\\V[812]"
+                                "Father's name: \\V[812], Mother's name: \\V[813]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "母親の名前：\\V[813]"
+                                ""
                             ]
                         },
                         {
@@ -4593,7 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[\\V[811]]こんにちは！"
+                                "\\nw[\\V[811]]Hello!"
                             ]
                         },
                         {
@@ -4601,9 +4601,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しをする",
-                                    "情報を確認する",
-                                    "特に用はない"
+                                    "Talk",
+                                    "Check the information",
+                                    "No particular business"
                                 ],
                                 2,
                                 0,
@@ -4633,7 +4633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[\\V[811]]すぐ引っ越しなんだって"
+                                "\\nw[\\V[811]]I heard you're moving soon."
                             ]
                         },
                         {
@@ -4670,14 +4670,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父親の名前：\\V[812]"
+                                "Father's name: \\V[812], Mother's name: \\V[813]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "母親の名前：\\V[813]"
+                                ""
                             ]
                         },
                         {
@@ -4777,7 +4777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[\\V[816]]わーいわーい"
+                                "\\nw[\\V[816]]Yay yay!"
                             ]
                         },
                         {
@@ -4785,9 +4785,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しをする",
-                                    "情報を確認する",
-                                    "特に用はない"
+                                    "Have a conversation",
+                                    "Confirm the information",
+                                    "I don't have anything in particular to say"
                                 ],
                                 2,
                                 0,
@@ -4817,7 +4817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[\\V[816]]学園都市ってどんなところだろう～"
+                                "\\nw[\\V[816]]I wonder what kind of place a school city is~"
                             ]
                         },
                         {
@@ -4854,14 +4854,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父親の名前：\\V[817]"
+                                "Father's name: \\V[817], Mother's name: \\V[818]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "母親の名前：\\V[818]"
+                                ""
                             ]
                         },
                         {
@@ -4952,7 +4952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[\\V[816]]こんにちは！"
+                                "\\nw[\\V[816]]Hello!"
                             ]
                         },
                         {
@@ -4960,9 +4960,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しをする",
-                                    "情報を確認する",
-                                    "特に用はない"
+                                    "Talk",
+                                    "Check the information",
+                                    "No particular business"
                                 ],
                                 2,
                                 0,
@@ -4992,7 +4992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[\\V[816]]すぐ引っ越しなんだって"
+                                "\\nw[\\V[816]]I heard you're moving soon."
                             ]
                         },
                         {
@@ -5029,14 +5029,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父親の名前：\\V[817]"
+                                "Father's name: \\V[817], Mother's name: \\V[818]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "母親の名前：\\V[818]"
+                                ""
                             ]
                         },
                         {

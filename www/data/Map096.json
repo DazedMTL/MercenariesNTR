@@ -4533,14 +4533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[神父]ようこそいらっしゃいました。"
+                                "\\nw[Priest]Welcome. Do you need something?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か御用でしょうか？"
+                                ""
                             ]
                         },
                         {
@@ -4548,8 +4548,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "出産を頼む",
-                                    "特に用はない"
+                                    "I want to request a childbirth",
+                                    "I don't need anything in particular"
                                 ],
                                 1,
                                 0,
@@ -4579,21 +4579,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]どなたが出産なさるのでしょうか？"
+                                "\\nw[Priest]Who is going to give birth? In this church, only\nthose who have not grown as their belly gets\nbigger can give birth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "当教会ではお腹が大きくなるほど成長していない者しか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "出産は出来ませんよ。"
+                                ""
                             ]
                         },
                         {
@@ -4601,11 +4601,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "クノ",
-                                    "ウカ",
-                                    "ノンナ",
-                                    "フロス",
-                                    "やっぱりやめる"
+                                    "Kuno",
+                                    "Uka",
+                                    "Nonna",
+                                    "Fross",
+                                    "I'll quit after all"
                                 ],
                                 4,
                                 -1,
@@ -4654,7 +4654,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]わかりました、少々お待ちください。"
+                                "\\nw[Priest]Understood, please wait a moment."
                             ]
                         },
                         {
@@ -4713,14 +4713,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]無事に出産ができました。"
+                                "\\nw[Priest]The birth went smoothly. I will responsibly\ndeliver the child to the town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "子供は責任をもって町へとお届けします。"
+                                ""
                             ]
                         },
                         {
@@ -4764,7 +4764,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]その方はまだ胎児の成長が足りないので出産は出来ません。"
+                                "\\nw[Priest]That person cannot give birth yet because the\nfetus has not grown enough."
                             ]
                         },
                         {
@@ -4798,7 +4798,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]その方は妊娠していないようですが……"
+                                "\\nw[Priest]It seems that person is not pregnant..."
                             ]
                         },
                         {
@@ -4852,7 +4852,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[神父]その方はいないようですが……"
+                                "\\nw[Priest]It seems that person is not here..."
                             ]
                         },
                         {
@@ -4918,7 +4918,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]わかりました、少々お待ちください。"
+                                "\\nw[Priest]Understood, please wait a moment."
                             ]
                         },
                         {
@@ -4977,14 +4977,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]無事に出産ができました。"
+                                "\\nw[Priest]The birth went smoothly. I will responsibly\ndeliver the child to the town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "子供は責任をもって町へとお届けします。"
+                                ""
                             ]
                         },
                         {
@@ -5028,7 +5028,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]その方はまだ胎児の成長が足りないので出産は出来ません。"
+                                "\\nw[Priest]That person cannot give birth yet because the\nfetus has not grown enough."
                             ]
                         },
                         {
@@ -5062,7 +5062,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]その方は妊娠していないようですが……"
+                                "\\nw[Priest]It seems that person is not pregnant..."
                             ]
                         },
                         {
@@ -5116,7 +5116,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[神父]その方はいないようですが……"
+                                "\\nw[Priest]It seems that person is not here..."
                             ]
                         },
                         {
@@ -5182,7 +5182,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]わかりました、少々お待ちください。"
+                                "\\nw[Priest]Understood, please wait a moment."
                             ]
                         },
                         {
@@ -5241,14 +5241,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]無事に出産ができました。"
+                                "\\nw[Priest]The birth went smoothly. I will responsibly\ndeliver the child to the town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "子供は責任をもって町へとお届けします。"
+                                ""
                             ]
                         },
                         {
@@ -5292,7 +5292,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]その方はまだ胎児の成長が足りないので出産は出来ません。"
+                                "\\nw[Priest]That person cannot give birth yet because the\nfetus has not grown enough."
                             ]
                         },
                         {
@@ -5326,7 +5326,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]その方は妊娠していないようですが……"
+                                "\\nw[Priest]It seems that person is not pregnant..."
                             ]
                         },
                         {
@@ -5380,7 +5380,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[神父]その方はいないようですが……"
+                                "\\nw[Priest]It seems that person is not here..."
                             ]
                         },
                         {
@@ -5446,7 +5446,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]わかりました、少々お待ちください。"
+                                "\\nw[Priest]Understood, please wait a moment."
                             ]
                         },
                         {
@@ -5505,14 +5505,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nw[神父]無事に出産ができました。"
+                                "\\nw[Priest]The birth went smoothly. I will responsibly\ndeliver the child to the town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "子供は責任をもって町へとお届けします。"
+                                ""
                             ]
                         },
                         {
@@ -5556,7 +5556,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]その方はまだ胎児の成長が足りないので出産は出来ません。"
+                                "\\nw[Priest]That person cannot give birth yet because the\nfetus has not grown enough."
                             ]
                         },
                         {
@@ -5590,7 +5590,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nw[神父]その方は妊娠していないようですが……"
+                                "\\nw[Priest]It seems that person is not pregnant..."
                             ]
                         },
                         {
@@ -5644,7 +5644,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nw[神父]その方はいないようですが……"
+                                "\\nw[Priest]It seems that person is not here..."
                             ]
                         },
                         {
@@ -5691,7 +5691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[神父]神のご加護があらんことを。"
+                                "\\nw[Priest]May the blessings of God be upon you."
                             ]
                         },
                         {
@@ -5731,7 +5731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[神父]神のご加護があらんことを。"
+                                "\\nw[Priest]May the blessings of God be upon you."
                             ]
                         },
                         {
@@ -5825,7 +5825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[シスター]神の御加護がありますように。"
+                                "\\nw[Sister]May God's blessings be upon you."
                             ]
                         },
                         {
@@ -5902,21 +5902,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[シスター]少し前に淫魔の方が来てたんですよ。"
+                                "\\nw[Sister]A while ago, it seems that a succubus came by. It\nseems she was seeking magical power, but in the\nend, it seems we turned her down."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔力を欲しがってたらしいのですけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結局お断りしたみたいです。"
+                                ""
                             ]
                         },
                         {

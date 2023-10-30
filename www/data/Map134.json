@@ -15286,14 +15286,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先から強そうな相手の気配を感じる……"
+                                "I sense the presence of a strong opponent up\nahead... Should we proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進もうか？"
+                                ""
                             ]
                         },
                         {
@@ -15301,8 +15301,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "進まない"
+                                    "Proceed",
+                                    "Don't proceed"
                                 ],
                                 1,
                                 0,
@@ -15487,7 +15487,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ふぅ、何とかなったな。"
+                                "\\nw[Taro]Phew, we managed to pull through."
                             ]
                         },
                         {
@@ -15544,7 +15544,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]強い相手の後だと、前回の事を思い出すけど……"
+                                "\\nw[Kuno]When I think about what happened last time, it\nreminds me of the strong opponent we faced..."
                             ]
                         },
                         {
@@ -15561,7 +15561,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]さすがにそれは……"
+                                "\\nw[Taro]Indeed, that's..."
                             ]
                         },
                         {
@@ -15616,14 +15616,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]やぁやぁお疲れ様。"
+                                "\\nw[Female voice]Hey there, good job on defeating them. Allow me to\npraise you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "よくぞ倒してくれたね、褒めてつかわす！"
+                                ""
                             ]
                         },
                         {
@@ -15649,7 +15649,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]またか……"
+                                "\\nw[Taro]Not again..."
                             ]
                         },
                         {
@@ -15706,7 +15706,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Shia]この声は……オレに呪いをかけた淫魔か！？"
+                                "\\nw[Shia]Is this voice... the succubus that cursed me!?"
                             ]
                         },
                         {
@@ -15723,7 +15723,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]何！？"
+                                "\\nw[Taro]What!?"
                             ]
                         },
                         {
@@ -15740,14 +15740,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]そこのを倒してくれたおかげで準備が整ったようだよ。"
+                                "\\nw[Female voice]Thanks to you defeating those over there, it seems\nlike we're ready. It's about to start, so be\ncareful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "すぐ始まるから、注意するんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -15764,14 +15764,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]では、頑張ってくれたまえ！"
+                                "\\nw[Female voice]Now, do your best! Settle the regrets of those\nlewd spirits."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "淫霊達の無念を晴らしておくれよ。"
+                                ""
                             ]
                         },
                         {
@@ -15828,7 +15828,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……！下……"
+                                "\\nw[Uka]......! Down..."
                             ]
                         },
                         {
@@ -15845,7 +15845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]下……？何もないが"
+                                "\\nw[Taro]Down...? There's nothing here though."
                             ]
                         },
                         {
@@ -15907,31 +15907,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]何だ……突然体が……"
+                                "\\nw[Taro]What... my body suddenly... is it the paralyzing\npoison again!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "また痺れ毒か！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Kuno]違う、何か入ってくるような……うぅ！"
+                                ""
                             ]
                         },
                         {
@@ -15948,7 +15931,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]まずいです、何とかしないと……！"
+                                "\\nw[Kuno]No, it feels like something is entering... ugh!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]This is bad, we need to do something...!"
                             ]
                         },
                         {
@@ -16130,21 +16130,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「サリア×太郎、幽霊に操られて……」"
+                                "Saria x Taro, being controlled by a ghost... It's\nan event that we've seen before. Would you like to\nskip the event?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "一度見たことのあるイベントです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "イベントをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -16152,8 +16152,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -16289,7 +16289,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]きゃあ！？"
+                                "\\nw[Saria]Kyaa!?"
                             ]
                         },
                         {
@@ -16306,31 +16306,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアの身体を壁に押し付けた。"
+                                "Saria's body was pressed against the wall. Both\nhands were held down to prevent her from moving."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "動けないように両手を抑えている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]くっ……すまん、身体が勝手に動く……！"
+                                ""
                             ]
                         },
                         {
@@ -16347,14 +16330,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]わたしも中に何かが入ってくるような感覚があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これは……"
+                                "\\nw[Taro]Ugh... I'm sorry, my body is moving on its own...!"
                             ]
                         },
                         {
@@ -16371,7 +16347,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……魂？"
+                                "\\nw[Saria]I also have a sensation of something entering\ninside me. This is..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16388,7 +16371,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ウカ！？無事なのか？"
+                                "\\nw[Uka]......A spirit?"
                             ]
                         },
                         {
@@ -16405,14 +16388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……うん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "でも……入れない……"
+                                "\\nw[Taro]Uka!? Are you safe?"
                             ]
                         },
                         {
@@ -16429,14 +16405,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]入れないって……部屋から追い出されたのか？"
+                                "\\nw[Uka]...Yes... but... I can't let it in..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "って、身体が勝手に……！"
+                                "\\nw[Taro]You can't enter... Did you get kicked out of the\nroom? And my body is moving on its own...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16453,38 +16453,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアから服をはぎ取っていく。"
+                                "Saria takes off her clothes. Saria doesn't resist\nagainst it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それに対してサリアも抵抗してこない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]多分霊が憑りついてます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "わたしも身体が動かせません……"
+                                ""
                             ]
                         },
                         {
@@ -16501,14 +16477,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]マジか……"
+                                "\\nw[Saria]Maybe a ghost has possessed me. I can't move my\nbody either..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "誰か他に無事な奴は！？"
+                                ""
                             ]
                         },
                         {
@@ -16525,14 +16501,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……みんな……駄目……"
+                                "\\nw[Taro]Seriously... Is there anyone else who is safe!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "えっちしてる……"
+                                "\\nw[Uka]...Everyone... No... They're having sex..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16556,14 +16556,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]くそ……"
+                                "\\nw[Taro]Damn... I can definitely hear a voice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "確かに声が聞こえるな……"
+                                ""
                             ]
                         },
                         {
@@ -16580,21 +16580,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "声の感じからクノはトールズと、ノンナはイエローと、"
+                                "From the way their voices sound, it seems like\nKuno is with Taro, Nonna is with Yellow, and Shia\nis with Dalton. I can't see because my body isn't\nmoving."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "シアはドルトンと交わってるように思える。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "身体が動かないので見れないが。"
+                                ""
                             ]
                         },
                         {
@@ -16611,7 +16611,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]どうすれば……"
+                                "\\nw[Taro]What should I do..."
                             ]
                         },
                         {
@@ -16635,31 +16635,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[プラエの声]何を考えておるのじゃ？"
+                                "\\nw[Prae's voice]What are you thinking? It's the same as before,\nit's a trap in the erotic dungeon. There's no need\nto panic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "前と同じでエロダンジョンの仕掛けじゃ、慌てることはなかろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]プラエ！？"
+                                ""
                             ]
                         },
                         {
@@ -16676,14 +16659,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[プラエの声]魔力を集めて先に進むための仕掛けじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "前と同じように流されておくのが一番じゃな。"
+                                "\\nw[Taro]Prae!?"
                             ]
                         },
                         {
@@ -16700,7 +16676,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[プラエの声]交わってればそのうち解放されるじゃろ。"
+                                "\\nw[Prae's voice]It's a mechanism to gather magic power and proceed\nforward. It's best to go along with it just like\nbefore."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16717,31 +16700,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]いやでも、相手がサリアだし……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サリアの服ももうほとんど脱がせてしまっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サリアは結婚しているはずで、信頼関係を考えるとこの状況は……"
+                                "\\nw[Prae's voice]If you keep having sex, you'll eventually be\nreleased."
                             ]
                         },
                         {
@@ -16758,72 +16717,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]わたしは大丈夫ですから、気にしないでください。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]えっ……マジで？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]憑りつかれてて動けないですし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "先に進むためにも必要なんですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だったら望むところです。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]サリア……\\|くっ！？"
+                                "\\nw[Taro]But, it's Saria..."
                             ]
                         },
                         {
@@ -16840,31 +16734,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何かが……恐らく霊がどんどん体に入ってくるのを感じる。"
+                                "Saria's clothes are almost completely off. Saria\nis supposed to be married, so considering the\ntrust between us, this situation is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そのせいか口も動かなくなってきた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]太郎さん？"
+                                ""
                             ]
                         },
                         {
@@ -16881,7 +16758,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ふへへ、ふへへへ……"
+                                "\\nw[Saria]I'm okay, so please don't worry."
                             ]
                         },
                         {
@@ -16898,7 +16775,55 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]きゃっ！？"
+                                "\\nw[Taro]Huh... Seriously?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]I'm possessed and can't move, so it's necessary to\nproceed, right? If that's the case, then I hope\nyou understand."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Saria...ugh!?"
                             ]
                         },
                         {
@@ -16915,21 +16840,96 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "口まで勝手に動いてしまっている。"
+                                "I feel something... Probably spirits are entering\nmy body one after another. Maybe that's why I\ncan't move my mouth anymore."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そのことに気付いたが、既にどうしようもなく"
+                                "\\nw[Saria]Taro-san?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "身体が勝手にサリアにペニスを挿入した。"
+                                "\\nw[Taro]Hehehe, hehehehe..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Kyaa!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "My mouth was moving on its own. I realized what\nwas happening, but my body had already inserted my\npenis into Saria without any control."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16986,7 +16986,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]あっ……入ってきて……"
+                                "\\nw[Saria]Ah... It's entering..."
                             ]
                         },
                         {
@@ -17003,38 +17003,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアの膣はややきつめの締め付けで非常に気持ちが良かった。"
+                                "Saria's vagina had a slightly tight and very\npleasurable grip. Perhaps it's because she's a\nmarried woman after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "やはり人妻というのもあるのだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]おっほっ、すごい気持ちいいじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これが女のま〇この感触……！"
+                                ""
                             ]
                         },
                         {
@@ -17051,7 +17027,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]えっと……太郎さん？"
+                                "\\nw[Taro]Ohh, it feels so good. This is the sensation of a\nwoman's p*ssy...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Um... Taro-san?"
                             ]
                         },
                         {
@@ -17087,7 +17087,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]きゃぁっ、いきなりそんな激しく……"
+                                "\\nw[Saria]Kyaa! Don't be so rough all of a sudden..."
                             ]
                         },
                         {
@@ -17104,14 +17104,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]おほっ、最高じゃんこの穴！"
+                                "\\nw[Taro]Ohh, this hole is the best! Seriously, my c*ck\nfeels so damn good!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "マジでち〇ぽが気持ちよすぎるだろ！"
+                                ""
                             ]
                         },
                         {
@@ -17128,38 +17128,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]あっ……あんっ♥"
+                                "\\nw[Saria]Ah... Ahn♥ It's like you've completely changed...\nNn♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もう、まるで人が変わったみたいに……んっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "勝手に腰が動いて抽送を行ってしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかも口も勝手に動いているので何も伝えることができない。"
+                                ""
                             ]
                         },
                         {
@@ -17176,117 +17152,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし……ヤバいくらい気持ちが良い。"
+                                "My hips moved on their own and started thrusting.\nMoreover, my mouth was also moving on its own, so\nI couldn't convey anything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "正直昨日クノを抱いてた時とは比べ物にならない快感だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "相性がいいのか、淫魔の相互魅了の能力か、ダンジョンの力か……。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]おおっ、マジで最高過ぎる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなに気持ちいいことが出来るなんて……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]あんっ♥興奮しすぎてますか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "突然そんなに口調が……あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]胸も柔らかいな、ふわふわしてて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "揉み心地が最高だ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]揉みながら犯すの最高だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "最高の感覚だよ！"
+                                ""
                             ]
                         },
                         {
@@ -17303,21 +17176,117 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "勝手に話す言葉通りに気持ちが良い。"
+                                "However... It feels so good, to the point where\nit's dangerous. Honestly, the pleasure I'm\nexperiencing now is incomparable to when I slept\nwith Kuno yesterday. Is it because we have good\nchemistry, or is it due to the succubus' mutual\nattraction ability, or perhaps it's the power of\nthe dungeon..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアは少し戸惑っているように見えるが、余裕があるようにも見える。"
+                                "\\nw[Taro]Ohh, it's seriously the best! I can't believe I\ncan feel this good...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "人妻だからだろうか。"
+                                "\\nw[Saria]Ahn♥ Are you getting too excited...? Your tone\nsuddenly changed so much... Ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Your breasts are soft and fluffy, and they feel\namazing to touch!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]It's the best to violate while groping! It's the\nbest sensation!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17334,14 +17303,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし感じているのは見て取れる。"
+                                "Saria seems a bit confused, but she also appears\nto be composed, as if she's comfortable with the\nwords spoken without permission. Perhaps it's\nbecause she's a married woman."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やはり身体の相性は良いようだ。"
+                                "But it's clear that she's feeling it. It seems\nthat our bodies are indeed compatible."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17358,45 +17358,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]はぁはぁはぁ……！"
+                                "\\nw[Taro]Haa... haa... haa...! It's the best... It's the\nbest!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "最高だ……最高だよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]あんっ、あんっ、あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もしかして霊のせい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だから話せなく……"
+                                ""
                             ]
                         },
                         {
@@ -17413,14 +17382,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]おおっ……出る、出るよ……！"
+                                "\\nw[Saria]Ahn, ahn, ahn♥ Could it be because of the spirit?\nThat's why I can't speak..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おぉおぉぉ！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17437,7 +17413,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]えっ……？あんっ♥膨らんで……"
+                                "\\nw[Taro]Ohh... I'm cumming, I'm cumming...! Ohhh!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Huh...? It's getting bigger...♥"
                             ]
                         },
                         {
@@ -17574,7 +17574,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]ああっ……すごく濃い……♥"
+                                "\\nw[Saria]Ahh... it's so thick...♥"
                             ]
                         },
                         {
@@ -17591,7 +17591,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]おおおお……"
+                                "\\nw[Taro]Ohhhhhh......"
                             ]
                         },
                         {
@@ -17608,14 +17608,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアの膣にたっぷりと射精をしてしまった。"
+                                "I ejaculated plenty inside Saria's vagina. The\namount of semen was clearly abundant, and the\npleasure was so intense that I almost lost\nconsciousness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "精液の量が明らかに多く、しかも快感が強すぎて意識が飛びかけてしまう。"
+                                ""
                             ]
                         },
                         {
@@ -17655,45 +17655,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]子宮に一杯入ってきてる……♥"
+                                "\\nw[Saria]My womb is filled up...♥ I can't believe the owner\nof such a wonderful c*ck...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "こんなに素敵なおち〇ぽの持ち主だなんて……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サリアもすっかりととろんとした表情になっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中出しされて嫌がるようなことはなかったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それともサリアも霊に操られてるのだろうか？"
+                                ""
                             ]
                         },
                         {
@@ -17710,14 +17679,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして身体から何か抜けるような感覚がある。"
+                                "Saria also has a completely melted expression. It\nseems that she didn't resist being creampied. Or\nperhaps Saria is also being controlled by the\nspirit?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "霊が入ったときと逆の感覚なので、霊が抜けたのだろう。"
+                                "And there is a sensation as if something is being\nreleased from my body. Since it's the opposite\nsensation of when the spirit entered, it must be\nthat the spirit has left."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17734,14 +17734,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]まったく、ぬるい責めしやがって。"
+                                "\\nw[Taro]Geez, you're being too gentle with your teasing.\nLet me show you how it's done."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "オレが手本を見せてやるぜ。"
+                                ""
                             ]
                         },
                         {
@@ -17758,14 +17758,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]はぁ……はぁ……手本ですか？"
+                                "\\nw[Saria]Haa... haa... Is that an example? Well... mmm!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それは……んむっ！"
+                                ""
                             ]
                         },
                         {
@@ -17817,7 +17817,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]んっ……んっ、んむっ、んんっ……♥"
+                                "\\nw[Saria]Mmm... Mmm, Nngh, Nnn... ♥"
                             ]
                         },
                         {
@@ -17834,38 +17834,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "勝手に動いてサリアとディープキスをし始めた。"
+                                "I started moving on my own and began deep kissing\nSaria. I could feel her sweet scent, body heat,\nand taste, which greatly aroused me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "サリアの甘い匂いや体温、味が伝わってきてすごく興奮させられる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかもキスをしながら乳首も弄っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それほど力は入れず、軽くなでたりする程度だ。"
+                                ""
                             ]
                         },
                         {
@@ -17882,55 +17858,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さっきまでとは動きが明らかに違う。"
+                                "Moreover, while kissing, he also plays with her\nnipples. He doesn't apply much force, just lightly\nteasing and stroking them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "別の霊が身体がを動かしているのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]女はしっかりと感じさせてからの方がいいんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その方が後々面白くなる……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]んむっ……れろっ……んっ、んむぅ……♥"
+                                ""
                             ]
                         },
                         {
@@ -17947,14 +17882,55 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアの方からも積極的に舌を絡めてきている。"
+                                "It's clear that the movements are different from\nbefore. It's possible that another spirit is\ncontrolling the body."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアも霊に憑りつかれてるので、本人の意思かは謎だが……"
+                                "\\nw[Taro]It's better to make a woman feel it properly. That\nway, it will be more interesting later on..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Mmm... Lick... Nn, mmm... ♥"
                             ]
                         },
                         {
@@ -17971,38 +17947,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "キスや愛撫に加えてペニスもゆっくりと動かしていく。"
+                                "Saria is actively intertwining her tongue with\nmine. Since Saria is also possessed by a spirit,\nit's unclear whether it's her own will or not..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "抽送するほどではなく、軽くねじったり押し付けたりする程度だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]んっ……んんっ……ぷはっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "えっと……ひゃっ！"
+                                ""
                             ]
                         },
                         {
@@ -18019,14 +17971,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "唇を離して今度は耳にキスをする。"
+                                "In addition to kissing and caressing, I slowly\nstart moving my penis. Not thrusting forcefully,\nbut lightly twisting and pressing it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "更に舌を使って耳を愛撫していく。"
+                                "\\nw[Saria]Nn... Nn... Puh... Um... Hyah!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18043,48 +18019,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "更に乳首だけでなく、全身を軽く愛撫していく。"
+                                "I release our lips and now I kiss your ear.\nFurthermore, I use my tongue to caress your ear."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もちろんペニスを押し付けることも続けている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]あっ……ふあっ……あっ、あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]んっ、あっ……ふあっ、あんっ……ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18101,14 +18043,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "丁寧な愛撫をしているとクノの息が少しづつ荒くなってきている。"
+                                "Furthermore, I lightly caress her entire body, not\njust her nipples. Of course, I continue to press\nmy penis against her as well."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それに感じていると膣が動いてペニスが気持ちよくなる。"
+                                "\\nw[Saria]Ah...fua...ah, ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Nn, ah... fua, ahh... aahh♥"
                             ]
                         },
                         {
@@ -18125,7 +18101,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうしてしばらくの間サリアに愛撫をし続けた。"
+                                "As I give her gentle caresses, Kuno's breathing\ngradually becomes rough. Sensing that, her vagina\nstarts moving and my penis feels good."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I continued to caress Saria for a while."
                             ]
                         },
                         {
@@ -18189,14 +18189,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]あっ、あんっ♥"
+                                "\\nw[Saria]Ah, ahn♥ Ahhh... aahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ああぁぁっ……ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18213,14 +18213,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "丁寧な愛撫を続けたことでサリアは敏感になってしまったようだ。"
+                                "By continuing the gentle caresses, it seems that\nSaria has become sensitive. Just by gently\nstroking her, her body trembles with excitement."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "優しくなでているだけで身体がビクビクと震えている。"
+                                ""
                             ]
                         },
                         {
@@ -18237,14 +18237,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]くくくっ、すっかり身体が出来上がってるな。"
+                                "\\nw[Taro]Hehehe, your body is completely ready. Well then,\nI'll corrupt you from now on...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "じゃあこれから堕としてやるよ……！"
+                                ""
                             ]
                         },
                         {
@@ -18280,62 +18280,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]ひゃぁっ、ああああぁぁ♥♥"
+                                "\\nw[Saria]Hyaa, aaaaahhh♥♥ It's intense... hiaa, ah,\naaaahhh♥♥♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "激しい……ひあっ、あっ、あああぁぁ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "腰を動かした途端サリアは軽く絶頂を迎えた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膣がペニスに絡みついてやたらとしごいてきて気持ちが良い。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]ああっ、あんっ、ああんっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これっ、すご……ああっ、あんっ、あんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18352,7 +18304,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "射精感が高まるが身体は勝手に動くのでどうしようもない。"
+                                "As soon as I started moving my hips, Saria lightly\nreached climax. Her vagina tightly wrapped around\nmy penis and vigorously squeezed, it feels so\ngood."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Ahh, ahn, aahh, aahh♥ This... is amazing... ahh,\nahn, ahn♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18369,38 +18352,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアの感じるところがわかるのか、腰を動かす度に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サリアの口からは甘い喘ぎ声が聞こえてくる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]ひゃあんっ♥そこは、まだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ふあっ、ああっ、あっ、ああんっ♥"
+                                "The feeling of ejaculation intensifies, but my\nbody moves on its own, so there's nothing I can\ndo."
                             ]
                         },
                         {
@@ -18417,14 +18369,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "抽送を続けながらサリアの耳を舌で愛撫しながら尻や胸も愛撫していく。"
+                                "I can tell where Saria feels it, and every time I\nmove my hips, sweet moans can be heard from\nSaria's mouth."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やはり体が敏感になっているようで、愛撫でも身体が反応している。"
+                                "\\nw[Saria]Hyaaan♥ Not there yet... fuah, aahh, ah, aaann♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18441,38 +18417,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "女の耳を舐めるなんて考えたこともなかったが、"
+                                "While continuing to thrust, I caress Saria's ears\nwith my tongue and also caress her butt and\nbreasts. It seems that her body has indeed become\nsensitive, as it responds to the caresses."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "サリアの反応を見ているとありかなと思えてくる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]ああんっ♥ああっ、あっ、あっ、ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おくっ、すきっ、ああっ、あっ、あああっ♥"
+                                ""
                             ]
                         },
                         {
@@ -18489,14 +18441,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "射精感が高まっていて今すぐにでも射精がしたい。"
+                                "I had never thought about licking a woman's ears,\nbut seeing Saria's reaction makes me think it\nmight be worth a try."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし霊に身体を操られてるせいか、射精せずに抽送を続けていく。"
+                                "\\nw[Saria]Ahh♥ Ahh, ah, ah, ahh♥ Deeper, I love it, ahh, ah,\nahhh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18513,69 +18489,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "動いて匂いが強くなっているサリアの匂いに興奮が高められる。"
+                                "The feeling of ejaculation is building up and I\nwant to cum right now. However, because I am being\ncontrolled by the spirit, I continue thrusting\nwithout ejaculating."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "今すぐにでもサリアの膣に精液を吐き出してやりたい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]へへっ、どうだ、気持ちよくて仕方がないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おねだりすれば中出ししてやるぜ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]はいっ、あっ、ああっ♥あんっ、あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中出ししてください……ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "わたしの子宮に、精液を注いで……ああぁぁぁ♥"
+                                ""
                             ]
                         },
                         {
@@ -18592,14 +18513,69 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアもすっかりメロメロになってるようだ。"
+                                "I am getting more excited by the scent of Saria,\nwhich becomes stronger as she moves. I want to\nejaculate inside Saria's vagina right now."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やはり人妻だから淫魔の魅了が効いているのだろうか？"
+                                "\\nw[Taro]Hehe, how about it? You must be feeling so good\nthat you can't help it, right? If you beg for it,\nI'll give you a creampie."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Yes, ah, aahh♥ Please creampie me... aahh, aahh♥\nInject your semen into my womb... aaahhh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18616,120 +18592,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いや、同じように霊に操られている可能性もある。"
+                                "It seems that Saria has completely fallen under\nthe spell. Perhaps it's because she's a married\nwoman that the succubus charm is effective?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "となると考えても仕方なさそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]いいぞ、出してやる……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]はっ、ひっ、ああぁぁぁ……♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ふああっ、あっ、ああっ、ああっ、あああぁぁ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]おち〇ぽすごっ、おおっ♥ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あっ、あっ、あっ、あああぁぁぁ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]おくっ、当たって……おぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ああっ♥あああっ♥ああんっ♥ああんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]はぁはぁ……おら、堕ちろ……！堕ちろ……！"
+                                ""
                             ]
                         },
                         {
@@ -18746,14 +18616,120 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "射精感が高まりすぎていて射精がしたいのにできない。"
+                                "Well, it seems there's also a possibility that I'm\nbeing controlled by the spirit. If that's the\ncase, there's no point in worrying about it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そのことが苦しいが同時に気持ち良すぎる。"
+                                "\\nw[Taro]Good, I'll let it out...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Hah, hi, aahhh......♥ Fuuaahh, ah, aahh, aahh,\naaahhh♥♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]Your c*ck feels amazing, ohh♥ Ahh, ah, ah, ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Saria]It's hitting... ohh♥ Ahh♥ Ahhh♥ Aaahh♥ Aaahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Haa... haa... Fall... Fall...!"
                             ]
                         },
                         {
@@ -18770,21 +18746,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "快感が強すぎて目の前が真っ白になってしまう。"
+                                "I'm getting so aroused that I want to ejaculate,\nbut I can't. It's painful, but at the same time,\nit feels too good."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それでも腰の動きが止まらず、視覚がなくなった分"
+                                "The pleasure is so intense that everything in\nfront of me turns pure white. Despite that, my\nhips keep moving, and as my vision disappears, my\nsenses of touch and smell become more acute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "感覚や嗅覚が鋭敏になっていく。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18801,14 +18801,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]ああっ、ひああぁぁぁっ♥♥"
+                                "\\nw[Saria]Aahh, hiaaahhh♥♥ Aahh, ah, ah, aahhh♥♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ああっ、あっ、あっ、ああぁあぁぁ♥♥"
+                                ""
                             ]
                         },
                         {
@@ -18825,7 +18825,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]出すぞ……出すぞ……！"
+                                "\\nw[Taro]I'm going to cum... I'm going to cum...!"
                             ]
                         },
                         {
@@ -18962,7 +18962,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]おっ、ひっ……おおぉぉぉぉぉぉ♥♥♥♥"
+                                "\\nw[Saria]Ohh, hii... Ooooohhhhh♥♥♥♥"
                             ]
                         },
                         {
@@ -18979,21 +18979,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ものすごい勢いで射精が行われた。"
+                                "Ejaculation was performed with tremendous force.\nAt the same time, it seems that Saria is also\nreaching climax, and her penis feels incredibly\ngood."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それと同時にサリアも絶頂を迎えているようで、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ペニスが気持ちよくて仕方がない。"
+                                ""
                             ]
                         },
                         {
@@ -19010,31 +19010,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]あっ……ひあぁっ……あぁぁぁ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サリアの声が脳をより蕩けさせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "サリアが相当感じている証拠だろう。"
+                                "\\nw[Saria]Ahh... hiaahh... aahhh♥♥"
                             ]
                         },
                         {
@@ -19051,7 +19027,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし快感が強すぎるせいでこちらの思考力がなくなっていく。"
+                                "Saria's voice is melting my brain. It must be\nevidence that Saria is feeling quite a lot."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "But because the pleasure is too intense, my\nthinking ability is disappearing."
                             ]
                         },
                         {
@@ -19091,14 +19091,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]ああぁぁ……精液がいっぱい入ってきて……んんっ♥"
+                                "\\nw[Saria]Ahhh... so much semen is filling me up... mmm♥ I\nlove this so much...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これ、とっても好きです……♥"
+                                ""
                             ]
                         },
                         {
@@ -19115,7 +19115,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]へへっ、最高だろう？"
+                                "\\nw[Taro]Heheh, isn't it the best?"
                             ]
                         },
                         {
@@ -19132,14 +19132,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何かが体から抜けるような感覚がある。"
+                                "There is a sensation as if something is leaving my\nbody. However, I can't remember what it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "しかし何かは思い出せない。"
+                                ""
                             ]
                         },
                         {
@@ -19156,14 +19156,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]やっと出番だな。"
+                                "\\nw[Taro]Finally, it's my turn. I'm definitely going to\nimpregnate you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "絶対に孕ませてやる！"
+                                ""
                             ]
                         },
                         {
@@ -19215,38 +19215,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]ああんっ♥すごいっ……♥"
+                                "\\nw[Saria]Ahh♥ It's amazing...♥ It's still so big, and the\nmovements... ah, ahh♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まだずっと大きくてっ、動きもっ、あっ、あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]はぁはぁ、最高の穴だよ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気持ちよすぎる……ふぅふぅ……！"
+                                ""
                             ]
                         },
                         {
@@ -19263,14 +19239,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]おち〇ぽ好きぃっ♥"
+                                "\\nw[Taro]Haa... haa... It's the best hole...! Feels too\ngood... Fuu... fuu...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ああんっ♥あんっ♥ああんっ♥"
+                                ""
                             ]
                         },
                         {
@@ -19287,7 +19263,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]はぁはぁはぁ……おおおっ！！"
+                                "\\nw[Saria]I love c*cks so much! Ahh♥ Ahh♥ Ahh♥ Ahh♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Haa... haa... haa... Oooohh!!"
                             ]
                         },
                         {
@@ -19304,7 +19304,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……………"
+                                "..............."
                             ]
                         },
                         {
@@ -19333,7 +19333,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その後は何も考えられない状態で身体が勝手にサリアを犯し続けた。"
+                                "My body continued to violate Saria without being\nable to think about anything afterwards."
                             ]
                         },
                         {
@@ -19418,31 +19418,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]おっ……へっ……♥"
+                                "\\nw[Saria]Oh... heh... ♥ Ehehe... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "えひっ……えへぇ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "………………"
+                                ""
                             ]
                         },
                         {
@@ -19459,7 +19442,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…………"
+                                ".................."
                             ]
                         },
                         {
@@ -19476,24 +19459,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]はっ！？"
+                                "............"
                             ]
                         },
                         {
@@ -19510,14 +19476,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "思考力が戻った。と言っても鈍くても考えられるようになっただけだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ついでに身体も自分で動かせるようになっている。"
+                                "......"
                             ]
                         },
                         {
@@ -19534,24 +19493,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]えへ……♥ふへぇ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]サリア……"
+                                "\\nw[Taro]Huh!?"
                             ]
                         },
                         {
@@ -19568,21 +19510,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアは既に精液まみれの状態で、"
+                                "My thinking ability has returned. Although it's\nstill a bit slow, I can at least think now. And by\nthe way, I can also move my body on my own."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "白目をむいてビクビクと震えている状態だった。"
+                                "\\nw[Saria]Ehehe...♥ Fufuee...♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "意識があるようには見えない。"
+                                "\\nw[Taro]Saria..."
                             ]
                         },
                         {
@@ -19599,21 +19568,52 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そんなサリアに対して抽送をしていた。"
+                                "Saria was already in a state covered in semen, her\neyes rolled back and trembling uncontrollably. She\ndidn't seem to be conscious."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "無意識に腰を振っていたが、意識が戻った後も止まる気は起きない。"
+                                "I was thrusting into Saria like that.\nUnconsciously moving my hips, but even after\nregaining consciousness, I had no intention of\nstopping. Rather..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "むしろ……"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19649,7 +19649,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]はぁはぁ……サリア……！サリア……！"
+                                "\\nw[Taro]Haa... haa... Saria...! Saria...!"
                             ]
                         },
                         {
@@ -19666,38 +19666,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]あひぃ……♥"
+                                "\\nw[Saria]Ahii...♥ Ohh... ohh...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おほっ……おほぉぉ……♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "腰を激しく動かして一層抽送を激しくする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すると感じているのか、サリアの声が微かに大きくなった気がする。"
+                                ""
                             ]
                         },
                         {
@@ -19714,38 +19690,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "思考力が戻ったからと言って興奮が完全に鎮まったわけではない。"
+                                "I vigorously moved my hips, intensifying the\nthrusts even more. And it seemed like Saria was\nfeeling it, as her voice faintly grew louder."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あくまで思考できなかっただけでサリアを犯してたとき"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "意識は普通にあったし、サリアの痴態も覚えている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]気持ちよすぎるんだよ……くぅ……！"
+                                ""
                             ]
                         },
                         {
@@ -19762,21 +19714,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアの膣の具合はあまりにも良すぎる。"
+                                "Just because my thinking ability has returned\ndoesn't mean that my excitement has completely\nsubsided. Even when I couldn't think, I was fully\nconscious while violating Saria, and I remember\nher lewd state vividly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いや、膣だけではない。匂い、声、感触や体温。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その全てが良すぎる。"
+                                "\\nw[Taro]It feels too good... kuuh...!"
                             ]
                         },
                         {
@@ -19793,38 +19762,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やはり寝取り趣味の影響だろう。"
+                                "Saria's pussy feels way too good. No, it's not\njust her pussy. The scent, the voice, the\nsensation, and the body temperature. Everything\nabout her is just too good."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "寝取られや寝取らせはもちろん興奮するが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "その時に女を相手しているわけではない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Saria]あはぁ……♥あひっ……♥あへっ、おほぉ……♥"
+                                ""
                             ]
                         },
                         {
@@ -19841,14 +19793,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "セックスしてる間に魅了されてしまった。"
+                                "It must be the influence of my cuckold fetish\nafter all. While I do get excited by cuckolding\nand being cuckolded, it doesn't necessarily mean\nthat I'm engaging with another woman at that time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "だから興奮を抑えることができない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19865,7 +19824,48 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]孕め……孕め……！"
+                                "\\nw[Saria]Ahh...♥ Ahii...♥ Ah, ohh...♥"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I was charmed while having sex. That's why I can't\nsuppress my excitement."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Taro]Impregnate... Impregnate...!"
                             ]
                         },
                         {
@@ -20002,7 +20002,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]おっ……ひっ……おおぉぉぉ……♥♥"
+                                "\\nw[Saria]Ohh... Hii... Ohhh...♥♥"
                             ]
                         },
                         {
@@ -20019,21 +20019,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "欲望のままにサリアの膣に精液を吐き出した。"
+                                "I ejaculated my semen into Saria's vagina as my\ndesire dictated. Saria's consciousness seems hazy,\nso there isn't a big reaction, but her vagina is\nmoving to squeeze out the semen from my penis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "サリア意識が朦朧としてそうなので大きな反応はないが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "膣だけはペニスから精液を搾り取ろうと動いている。"
+                                ""
                             ]
                         },
                         {
@@ -20050,31 +20050,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]はぁ……はぁ……はぁ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やはりサリアに中出しするのは最高に気持ちが良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ものすごい満足感で、サリアをより愛おしく感じてしまう。"
+                                "\\nw[Taro]Haa... haa... haa..."
                             ]
                         },
                         {
@@ -20091,21 +20067,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし、このまま連戦することは難しそうだ。"
+                                "As expected, it feels amazing to creampie Saria. I\nfeel an incredible sense of satisfaction and I\ncan't help but feel even more affectionate towards\nSaria."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうも淫魔の力での回復がない気がする。"
+                                "However, it seems difficult to continue fighting\nlike this. I have a feeling that there is no\nrecovery with the power of the succubus. Could it\nbe that we are being drained by the dungeon?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ダンジョンに吸われているのだろうか。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20122,7 +20122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]おっ……おおぉぉ……♥"
+                                "\\nw[Saria]Ohh... Ohhh...♥"
                             ]
                         },
                         {
@@ -20139,7 +20139,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]……"
+                                "\\nw[Taro]......"
                             ]
                         },
                         {
@@ -20168,21 +20168,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サリアは絶対に寝取る。"
+                                "Saria is determined to cuckold. As she pulls out\nthe penis, the door of the room opens and the\ndungeon returns to its original form."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そう決心してペニスを引き抜くと同時に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "部屋の扉が開いてダンジョンが元の形へと戻っていった。"
+                                ""
                             ]
                         },
                         {
@@ -20268,14 +20268,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]ふふん、お疲れ様。おかげで扉が開いたようだよ？"
+                                "\\nw[Female voice]Hehe, good job. Thanks to you, it seems like the\ndoor has opened. It would be great if you could\ncontinue forward."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ぜひとも先に進むといい。"
+                                ""
                             ]
                         },
                         {
@@ -20292,21 +20292,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[女性の声]以前の繰り返しになるが、"
+                                "\\nw[Female voice]I know it's repeating what I said before, but it's\na hassle to go back to where we were before moving\nforward. Please make sure to go down the stairs,\nokay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "先に進む前に戻るとここまでの移動が面倒だからね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "くれぐれも階段を下りてくれよ？"
+                                ""
                             ]
                         },
                         {
@@ -20332,7 +20332,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]はぁ……はぁ……くそっ、どれだけ交わってたんだ……"
+                                "\\nw[Taro]Haa... haa... Damn, how many times did we do it..."
                             ]
                         },
                         {
@@ -20349,7 +20349,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]みんなは……"
+                                "\\nw[Taro]Everyone..."
                             ]
                         },
                         {
@@ -20413,7 +20413,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Kuno]お腹の中で動いてる……"
+                                "\\nw[Kuno]It's moving inside my stomach..."
                             ]
                         },
                         {
@@ -20430,7 +20430,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Thorz]ちっ……！"
+                                "\\nw[Thorz]Tch...!"
                             ]
                         },
                         {
@@ -20494,7 +20494,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]駄目ね……頭が回らないわ"
+                                "\\nw[Nonna]No good... I can't think straight."
                             ]
                         },
                         {
@@ -20511,14 +20511,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Huma]オレの子供が出来たな。"
+                                "\\nw[Huma]I've made a child. I love you, Nonna."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "愛してるよ、ノンナ。"
+                                ""
                             ]
                         },
                         {
@@ -20535,7 +20535,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Nonna]ん……うん……"
+                                "\\nw[Nonna]Mmm... Yes..."
                             ]
                         },
                         {
@@ -20599,7 +20599,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Shia]バカ……腹に触んじゃねえ……"
+                                "\\nw[Shia]Idiot... Don't touch my stomach..."
                             ]
                         },
                         {
@@ -20616,14 +20616,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Dalton]何言ってるんだ、オレ達の子供だろ。"
+                                "\\nw[Dalton]What are you saying? It's our child, right? I love\nyou, so please have another one for me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "愛してるぞ、また産んでくれよ。"
+                                ""
                             ]
                         },
                         {
@@ -20640,7 +20640,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Shia]ん、ああ……"
+                                "\\nw[Shia]Mmm, ah..."
                             ]
                         },
                         {
@@ -20704,7 +20704,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]すごかったです……太郎さんのが一杯入って……"
+                                "\\nw[Saria]That was amazing... Taro-san's was filled to the\nbrim..."
                             ]
                         },
                         {
@@ -20721,7 +20721,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Saria]よかったら、もっと続けて……"
+                                "\\nw[Saria]If you'd like, let's continue..."
                             ]
                         },
                         {
@@ -20752,14 +20752,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]淫魔の能力も働いてるからか、魅了されてるな。"
+                                "\\nw[Taro]Perhaps it's because of the succubus' abilities,\nbut it seems like you're charmed. You seem to be\nin heat for the person you've had intercourse\nwith."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "交わった相手に発情してそうだ。"
+                                ""
                             ]
                         },
                         {
@@ -20776,21 +20776,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]（オレもサリアに対して大分発情してるが……"
+                                "\\nw[Taro](I'm also quite aroused by Saria... but it seems\nlike I recover faster when I receive magic power\nfrom everyone else as well...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "やっぱり他のみんなからも魔力が流れてくる分"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "回復が早いか……）"
+                                ""
                             ]
                         },
                         {
@@ -20847,7 +20847,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……フロス……開放……されてた……"
+                                "\\nw[Uka]......Fross... was... released..."
                             ]
                         },
                         {
@@ -20864,14 +20864,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]ああ、連れてきてくれたのか。"
+                                "\\nw[Taro]Ah, so you brought them here. Thank you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうな。"
+                                ""
                             ]
                         },
                         {
@@ -20888,7 +20888,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]！？"
+                                "\\nw[Taro]!?"
                             ]
                         },
                         {
@@ -20952,7 +20952,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Fross]おひっ……おっ……おほぉ……♥"
+                                "\\nw[Fross]Ohh... Ahh... Oohh... ♥"
                             ]
                         },
                         {
@@ -20969,7 +20969,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]イってるのか……？"
+                                "\\nw[Taro]Is she cumming...?"
                             ]
                         },
                         {
@@ -20986,7 +20986,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……薬漬け……みたいなもの……みたい……？"
+                                "\\nw[Uka]......Like being drugged...like...?"
                             ]
                         },
                         {
@@ -21003,7 +21003,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……魔術と……体液で……改造……？"
+                                "\\nw[Uka]......Magic and... bodily fluids...\nmodification...?"
                             ]
                         },
                         {
@@ -21020,7 +21020,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……調教……？なんだっけ……"
+                                "\\nw[Uka]......Training...? What was it again...?"
                             ]
                         },
                         {
@@ -21037,14 +21037,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]いや、無理に説明しなくていい。"
+                                "\\nw[Taro]No, there's no need to explain forcefully. I'll\nask Prae about it later."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "後でプラエに聞いてみるから。"
+                                ""
                             ]
                         },
                         {
@@ -21061,14 +21061,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]しかしウカの索敵能力はすごいな……"
+                                "\\nw[Taro]But Uka's scouting ability is amazing... She can\neven sense spirits..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "霊もわかるのか……。"
+                                ""
                             ]
                         },
                         {
@@ -21125,7 +21125,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……うん……でも……"
+                                "\\nw[Uka]......Yeah......but......"
                             ]
                         },
                         {
@@ -21142,7 +21142,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……守れなかった……"
+                                "\\nw[Uka]......I couldn't protect..."
                             ]
                         },
                         {
@@ -21159,14 +21159,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]いや、恐らくここで魔力を発生させないと先に進めないんだ。"
+                                "\\nw[Taro]No, we probably can't proceed without generating\nmagic power here. So don't worry about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "だから気にしなくていい。"
+                                ""
                             ]
                         },
                         {
@@ -21183,14 +21183,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]むしろ誰も魔力を発生させてなかったら"
+                                "\\nw[Taro]Rather, if no one was generating magic power, we\nwouldn't be able to proceed here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ここで進めなくなってるところだろうからな。"
+                                ""
                             ]
                         },
                         {
@@ -21247,7 +21247,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……ウカも……手伝えたら……よかった……？"
+                                "\\nw[Uka]......I wonder if I could have helped too...?"
                             ]
                         },
                         {
@@ -21264,38 +21264,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Taro]いや、ウカは淫魔じゃないしな。"
+                                "\\nw[Taro]No, Uka is not a succubus. Besides, there was also\nthe issue of the number of people."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それに人数の問題もあったしな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nw[Taro]他の連中はまだ回復してないか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "少し休憩してから出発するか。"
+                                ""
                             ]
                         },
                         {
@@ -21312,7 +21288,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nw[Uka]……わかった……"
+                                "\\nw[Taro]Are the others still not recovered...? Let's take\na short break before we depart."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nw[Uka]...I understand..."
                             ]
                         },
                         {
@@ -21587,7 +21587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]今は先に進んでみるべきだろうな……"
+                                "\\nw[Taro]I should try to move forward for now..."
                             ]
                         },
                         {

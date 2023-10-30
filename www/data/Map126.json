@@ -3079,14 +3079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開きそうもない……"
+                                "There are some characters engraved on the door\nthat doesn't seem to open..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉に何か文字が刻まれている。"
+                                ""
                             ]
                         },
                         {
@@ -3103,7 +3103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]これは……プラエ、読めるか？"
+                                "\\nw[Taro]Can you read this, Prae?"
                             ]
                         },
                         {
@@ -3138,7 +3138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]プラエ……？"
+                                "\\nw[Taro]Prae...?"
                             ]
                         },
                         {
@@ -3155,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]まさか、また倒れて……！？"
+                                "\\nw[Taro]No way, you collapsed again...!?"
                             ]
                         },
                         {
@@ -3212,38 +3212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]落ち着けよ、プラエは畑仕事とかしてるし"
+                                "\\nw[Shia]Calm down, Prae is always doing farm work and\ncarrying a communication device. She's not\nconstantly watching us or anything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "常に通信機持ってたりこっちをみてるわけじゃねえだろ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]あ、ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう言えばそうか……"
+                                ""
                             ]
                         },
                         {
@@ -3260,31 +3236,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]出かける前に世話役を雇ったし、"
+                                "\\nw[Taro]Ah, I see... now that you mention it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "倒れても治療院には運んでくれるはずだしな……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Shia]ああ、気にしすぎだ。"
+                                ""
                             ]
                         },
                         {
@@ -3301,45 +3260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]しかしどうするかな。"
+                                "\\nw[Taro]I hired a caretaker before going out, and even if\nshe collapses, she should be taken to the\nclinic..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔族の文字なんてプラエしか読めないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Shia]あ～、どうなってんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔族の文字ってそもそもなんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術用の文字とは違うのか？"
+                                ""
                             ]
                         },
                         {
@@ -3356,7 +3284,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]いや、詳しくは知らないけど……"
+                                "\\nw[Shia]Ah, you're worrying too much."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]However, what should we do? Only Prae can read the\ndemon language."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Shia]Ah, what's going on? What exactly are these demon\ncharacters? Are they different from the magic\ncharacters?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Well, I don't know the details, but..."
                             ]
                         },
                         {
@@ -3418,31 +3418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]うおっ、何だこりゃ！？"
+                                "\\nw[Shia]Whoa, what is this!? Is it fog!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "霧か！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]くっ、前が見えない！？"
+                                ""
                             ]
                         },
                         {
@@ -3459,7 +3442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]ちょっ、触んな……うあっ！？"
+                                "\\nw[Taro]Ugh, I can't see ahead!?"
                             ]
                         },
                         {
@@ -3476,14 +3459,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]シア！？"
+                                "\\nw[Shia]Hey, don't touch me... Ahh!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちっ、何か体もしびれて……"
+                                "\\nw[Taro]Shia!? Ah, my body feels numb..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3538,7 +3538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]何だ、身体が勝手に……！？"
+                                "\\nw[Dalton]What's this, my body is moving on its own...!?"
                             ]
                         },
                         {
@@ -3555,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]てめ、何すんだ……やめ……"
+                                "\\nw[Shia]What the hell are you doing... stop..."
                             ]
                         },
                         {
@@ -3610,7 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]～～"
+                                "\\nw[Shia]Ah, you're worrying too much."
                             ]
                         },
                         {
@@ -3627,7 +3627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]シア？いきなり声が遠くなったような……"
+                                "\\nw[Taro]Shia? Suddenly, it feels like your voice has\nbecome distant..."
                             ]
                         },
                         {
@@ -3663,7 +3663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]悪い、身体が勝手に動いて……！"
+                                "\\nw[Dalton]Sorry, my body is moving on its own...!"
                             ]
                         },
                         {
@@ -3680,7 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]ちょ、この音って……！"
+                                "\\nw[Kuno]Wait, this sound...!"
                             ]
                         },
                         {
@@ -3697,7 +3697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]くそ、霧のせいで何も見えないけど、この音は……"
+                                "\\nw[Taro]Damn, I can't see anything because of the fog, but\nthis sound..."
                             ]
                         },
                         {
@@ -3714,31 +3714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]って、何かしびれて動けない……！"
+                                "\\nw[Taro]Ugh, I can't move...! Is there anyone who can\nmove!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰か動ける奴は！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Kuno]アタシも何か痺れて……"
+                                ""
                             ]
                         },
                         {
@@ -3755,7 +3738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ごめんなさい、私も痺れてるわ。"
+                                "\\nw[Kuno]I'm also feeling numb..."
                             ]
                         },
                         {
@@ -3772,7 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]同じです……ごめんなさい。"
+                                "\\nw[Nonna]I'm sorry, I'm also feeling numb."
                             ]
                         },
                         {
@@ -3789,7 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Saria]情けないです……"
+                                "\\nw[Fross]It's the same... I'm sorry."
                             ]
                         },
                         {
@@ -3806,7 +3789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]ああ、動けんな。"
+                                "\\nw[Saria]I'm pathetic..."
                             ]
                         },
                         {
@@ -3823,7 +3806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]ははっ、動けねえな"
+                                "\\nw[Thorz]Ah, I can't move."
                             ]
                         },
                         {
@@ -3840,7 +3823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]むしろ勝手に動いて……はぁ、はぁ、気持ちいい！"
+                                "\\nw[Huma]Haha, I can't move."
                             ]
                         },
                         {
@@ -3857,14 +3840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]……\\|みんなかよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近くに居たから当たり前か……"
+                                "\\nw[Dalton]Rather, moving on its own... hah, hah, it feels\ngood!"
                             ]
                         },
                         {
@@ -3881,7 +3857,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]くそっ、どうしたら……"
+                                "\\nw[Taro]...Everyone's here! It's only natural since we\nwere close by..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3898,7 +3881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……動ける……よ……？"
+                                "\\nw[Taro]Damn, what should I do..."
                             ]
                         },
                         {
@@ -3915,7 +3898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]マジで！？"
+                                "\\nw[Uka]...Can you... move...?"
                             ]
                         },
                         {
@@ -3932,7 +3915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……まじで……"
+                                "\\nw[Taro]Seriously!?"
                             ]
                         },
                         {
@@ -3949,7 +3932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]じゃあ、霧を払えないか？"
+                                "\\nw[Uka]......Seriously......"
                             ]
                         },
                         {
@@ -3966,7 +3949,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……うん……やってみる……"
+                                "\\nw[Taro]Well then, can't we dispel the fog?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Uka]......Yeah...... Let's give it a try......"
                             ]
                         },
                         {
@@ -4047,7 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]おっ、ちょっと薄く……？"
+                                "\\nw[Taro]Oh, it's a bit thin...?"
                             ]
                         },
                         {
@@ -4180,7 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]霧が晴れて……"
+                                "\\nw[Taro]The fog is clearing..."
                             ]
                         },
                         {
@@ -4249,7 +4249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]って、何やってんだ、ドルトン！？"
+                                "\\nw[Taro]What the hell are you doing, Dalton!?"
                             ]
                         },
                         {
@@ -4266,38 +4266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]いや、身体が言うことを効かなくてな……"
+                                "\\nw[Dalton]No, my body won't listen... Ahh, it feels too\ngood...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うおっ、気持ちよすぎ……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]てか壁に埋まってるのはシアか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平気なのか？"
+                                ""
                             ]
                         },
                         {
@@ -4314,14 +4290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]声がぎりぎり聞こえてきてるが、大丈夫らしいぞ。"
+                                "\\nw[Taro]Hey, is Shia okay buried in the wall like that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただ、口に何か突っ込まれたっぽいが……"
+                                ""
                             ]
                         },
                         {
@@ -4338,14 +4314,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]って、今ウカしか動けないんだったな。"
+                                "\\nw[Dalton]I can barely hear her voice, but it seems like\nshe's okay. However, it looks like something was\nshoved into her mouth..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "止められるか？"
+                                "\\nw[Taro]Oh, right now only Uka can move. Can you stop her?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4402,31 +4402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……止めるの……？"
+                                "\\nw[Uka]...Stop...? It feels... good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ち……よさそう……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]いや、普通にこの状況は……"
+                                ""
                             ]
                         },
                         {
@@ -4443,7 +4426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]ん？何じゃこの状況は。"
+                                "\\nw[Taro]No, this situation is..."
                             ]
                         },
                         {
@@ -4460,21 +4443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]プラエか？ちょうどいい、何かガスか何かで動けなくなって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シアをドルトンが犯してる状況になってるんだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か知らないか？"
+                                "\\nw[Prae's voice]Huh? What is this situation?"
                             ]
                         },
                         {
@@ -4491,31 +4460,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]ん、壁に埋め込まれて……\\|"
+                                "\\nw[Taro]Prae, huh? Perfect timing. Something like gas or\nsomething has made us unable to move, and Shia is\nbeing violated by Dalton... Do you know anything\nabout this situation?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ああ、エロダンジョンの仕掛けじゃな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[Taro]いや、それはわかってるけど……"
+                                ""
                             ]
                         },
                         {
@@ -4532,38 +4491,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]この先に痺れる空気が漂ってるから、それを中和するんじゃ。"
+                                "\\nw[Prae's voice]Mmm, being embedded in the wall... Ahh, it's not a\ntrap of the erotic dungeon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その為に一組の男女が性行為し続けて魔力を発生させ続けるんじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[プラエの声]ダンジョン側が勝手に一組決めたってことじゃろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の奴らは先に進めばよい。"
+                                ""
                             ]
                         },
                         {
@@ -4580,7 +4515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]マジで……って、それで放っておいていくっていうのも……"
+                                "\\nw[Taro]No, I understand that but..."
                             ]
                         },
                         {
@@ -4597,21 +4532,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]無理じゃろ。"
+                                "\\nw[Prae's voice]Because there is a numbing atmosphere drifting\nahead, we need to neutralize it. For that purpose,\na pair of a man and a woman must continue to\nengage in sexual activity and continuously\ngenerate magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉壊せなかったのだし、同じような強度じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シアも目的達成せんと抜けんぞ。"
+                                ""
                             ]
                         },
                         {
@@ -4628,7 +4556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]それに中和せんとそこから動けぬままに……"
+                                "\\nw[Prae's voice]It seems like the dungeon has arbitrarily decided\non a pair. The others can proceed ahead."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4645,7 +4580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]ん？ウカだけ動いておらんか？"
+                                "\\nw[Taro]Seriously... leaving her like that..."
                             ]
                         },
                         {
@@ -4662,7 +4597,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……うん……動ける……よ……？"
+                                "\\nw[Prae's voice]It's impossible. Since we couldn't break down the\ndoor, the strength is probably the same. Shia\nwon't be able to escape without achieving the\nobjective."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4679,7 +4628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]ふむ……\\|まぁ、良いか。"
+                                "\\nw[Prae's voice]And without neutralizing it, we won't be able to\nmove from there..."
                             ]
                         },
                         {
@@ -4696,14 +4645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]痺れから回復するためには魔力が必要じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく待ってるんじゃな。"
+                                "\\nw[Prae's voice]Hmm? Isn't Uka the only one not moving?"
                             ]
                         },
                         {
@@ -4720,7 +4662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]くっ……仕方ないか……"
+                                "\\nw[Uka]......Yeah......I can......move......?"
                             ]
                         },
                         {
@@ -4737,14 +4679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[プラエの声]おそらくそこには魔物は来ないと思うが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウカは警戒しておいてくれ。"
+                                "\\nw[Prae's voice]Well... well, I suppose it's fine."
                             ]
                         },
                         {
@@ -4761,7 +4696,72 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……うん……わかった……"
+                                "\\nw[Prae's voice]In order to recover from numbness, we need magical\npower. Don't wait for too long."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Taro]Ugh... I guess there's no other choice..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Prae's voice]I don't think any monsters will come there, but\nUka, please stay on guard."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Uka]......Yeah......I got it......"
                             ]
                         },
                         {
@@ -4814,31 +4814,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]ん？シアの様子が……"
+                                "\\nw[Dalton]Huh? Shia's condition... What is this!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これは！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]どうした？"
+                                ""
                             ]
                         },
                         {
@@ -4855,14 +4838,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Dalton]シアが産まれるって……"
+                                "\\nw[Taro]What's wrong?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっ、身体が……！"
+                                "\\nw[Dalton]Shia is going to give birth... Ugh, my body...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4891,38 +4891,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]はっ？"
+                                "\\nw[Taro]Huh? Giving birth..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "産まれるって……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[プラエの声]出産の儀式あるじゃろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれに似た奴じゃな。"
+                                ""
                             ]
                         },
                         {
@@ -4939,7 +4915,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[プラエの声]大量の魔力があればすぐに産ませることも……"
+                                "\\nw[Prae's voice]There seems to be a birthing ritual. It's similar\nto that one."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Prae's voice]If there is a large amount of magical power, we\ncan make her give birth immediately..."
                             ]
                         },
                         {
@@ -4975,45 +4975,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]うおっ、マジで産まれて……！？"
+                                "\\nw[Taro]Whoa, she's really giving birth...!? Is it okay to\ndo it in a place like this!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんな場所で大丈夫なのかよ！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[プラエの声]出産の儀式と同じで平気じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、放置と言うわけにはいかぬし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウカ、赤子を地上まで運んでくれるかのう？"
+                                ""
                             ]
                         },
                         {
@@ -5030,7 +4999,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Uka]……うん……わかった……"
+                                "\\nw[Prae's voice]It's similar to the birthing ritual, so it should\nbe fine. Well, we can't just leave her alone...\nUka, could you bring the baby to the surface?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Uka]......Yeah......I got it......"
                             ]
                         },
                         {
@@ -5152,7 +5152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]問題なく動けるようになったか……"
+                                "\\nw[Taro]Are you able to move without any problems...?"
                             ]
                         },
                         {
@@ -5169,7 +5169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ドルトン、行ってくるからシアにもよろしく伝えてくれ。"
+                                "\\nw[Taro]Dalton, I'm going now, so please tell Shia I said\nhello."
                             ]
                         },
                         {
@@ -5186,14 +5186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]おお、わかった……"
+                                "\\nw[Dalton]Oh, I see... It's tough for an old person like me\nto have my body moved without rest..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "休みなく体が動かされて年寄りにはつらいな……"
+                                ""
                             ]
                         },
                         {
@@ -5701,14 +5701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]ふぅふぅ……身体が勝手に動く……！"
+                                "\\nw[Dalton]*panting* My body moves on its own...! It feels\ntoo good, it's becoming addictive...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良すぎて癖になってしまうぞ、これは……！"
+                                ""
                             ]
                         },
                         {
@@ -5725,14 +5725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](シアの様子はわからないけど、"
+                                "\\nw[Taro](I'm not sure about Shia, but we should hurry...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "急いだほうがいいよな……)"
+                                ""
                             ]
                         },
                         {

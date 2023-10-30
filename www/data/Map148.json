@@ -3687,31 +3687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]やはり人数が少ないようだな。"
+                                "\\nw[Grand]It seems that there are few people after all.\nThere is only one guard."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見張りが一人しかいない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[グランド]アミー、何とかなりそうか？"
+                                ""
                             ]
                         },
                         {
@@ -3728,7 +3711,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミー]はい、任せてください。"
+                                "\\nw[Grand]Ami, can you manage somehow?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nw[Amy]Yes, leave it to me."
                             ]
                         },
                         {
@@ -3861,31 +3861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[グランド]よし、眠ったようだな。"
+                                "\\nw[Grand]Alright, it seems they're asleep. Let's proceed as\nplanned."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このまま突入するぞ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nw[グランド]アミーは少し下がって状況を見ていてくれ。"
+                                ""
                             ]
                         },
                         {
@@ -3902,14 +3885,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミー]わかりました。"
+                                "\\nw[Grand]Ami, please step back and observe the situation."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "御武運を。"
+                                "\\nw[Amy]Understood. Good luck."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4092,14 +4092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ゲロルド]オレはあの戦争で<喰らうモノ>を見た。"
+                                "\\nw[Gerold]I witnessed <something horrifying> in that war.\nThe entire unit was wiped out... Only I survived,\nlooking pathetic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その時の部隊は全滅してな……オレだけが無様に生き残ったのさ。"
+                                ""
                             ]
                         },
                         {
@@ -4227,14 +4227,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[ルーグ]オレの親父が<喰らうモノ>に殺されたんだ。"
+                                "\\nw[Luge]My old man was killed by <those who devour>. This\ntime, I will definitely take revenge."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今回で必ず仇をとってみせる。"
+                                ""
                             ]
                         },
                         {
@@ -4482,14 +4482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[アミー]私はここから少し離れた場所で待機します。"
+                                "\\nw[Amy]I will wait here a little distance away. Please do\nyour best."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頑張ってくださいね。"
+                                ""
                             ]
                         },
                         {

@@ -3324,7 +3324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]ふう……さすがに海の上だと勝手が違うな……"
+                                "\\nw[Taro]Phew... As expected, things are different on the\nsea..."
                             ]
                         },
                         {
@@ -3341,14 +3341,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]他のやつらも平気だろうか……"
+                                "\\nw[Taro]I wonder if the others are okay... I should check\non Shia's condition."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シアの様子は見ておかないとな"
+                                ""
                             ]
                         },
                         {
@@ -3534,7 +3534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Shia]……"
+                                "\\nw[Shia]......"
                             ]
                         },
                         {
@@ -3542,8 +3542,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "すぐに話す",
-                                    "後で話す"
+                                    "Tell me right away",
+                                    "I'll talk later"
                                 ],
                                 1,
                                 0,
@@ -3573,7 +3573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]何でこんなところにいるんだ？"
+                                "\\nw[Taro]Why are you here?"
                             ]
                         },
                         {
@@ -3590,7 +3590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]……"
+                                "\\nw[Shia]......"
                             ]
                         },
                         {
@@ -3739,31 +3739,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]周りに人はいないな。"
+                                "\\nw[Shia]There's no one around. It's because I don't want\nanyone to hear my voice."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "声を聞かれたら困るからだ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]お、おう……"
+                                ""
                             ]
                         },
                         {
@@ -3780,7 +3763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（耳元で小声で囁いてくるからちょっとやばいな……）"
+                                "\\nw[Taro]O-Okay..."
                             ]
                         },
                         {
@@ -3797,7 +3780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]あとどれくらいで到着しそうなんだ？"
+                                "\\nw[Taro](She's whispering in my ear in a low voice, it's a\nlittle dangerous...)"
                             ]
                         },
                         {
@@ -3814,14 +3797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]魔物と風次第らしいが、半日くらいらしい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "近いとは言ってたが、それなりの距離はあるみたいだな。"
+                                "\\nw[Shia]How much longer until we arrive?"
                             ]
                         },
                         {
@@ -3838,14 +3814,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]半日か、わかった。"
+                                "\\nw[Taro]It seems like it depends on the monsters and the\nwind, but it's about half a day? They said it's\nclose, but it seems like there's still a\nconsiderable distance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔物の方は問題なさそうか？"
+                                ""
                             ]
                         },
                         {
@@ -3862,7 +3838,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]ああ、オレ達なら倒せそうだ"
+                                "\\nw[Shia]Half a day, understood. Are there any problems\nwith the monsters?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nw[Taro]Ah, it seems like we can defeat them."
                             ]
                         },
                         {
@@ -3960,7 +3960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]何だこの揺れは！？"
+                                "\\nw[Shia]What is this shaking!?"
                             ]
                         },
                         {
@@ -4017,7 +4017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]シア、壁が……！"
+                                "\\nw[Taro]Shia, the wall...!"
                             ]
                         },
                         {
@@ -4034,7 +4034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]は？"
+                                "\\nw[Shia]Huh?"
                             ]
                         },
                         {
@@ -4075,7 +4075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Shia]がっ……壁が壊れ……んぐぅ！"
+                                "\\nw[Shia]Gah... the wall is breaking... nggh!"
                             ]
                         },
                         {
@@ -4092,7 +4092,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]シア！？"
+                                "\\nw[Taro]Shia!?"
                             ]
                         },
                         {
@@ -4109,7 +4109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]くっ、うああ！？"
+                                "\\nw[Taro]Ugh, ughh!"
                             ]
                         },
                         {
@@ -4164,31 +4164,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（くそっ、海に引っ張り込まれた……！"
+                                "\\nw[Taro](Damn, I've been dragged into the sea...! I have\nto save Shia and get back!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "シアを助けて戻らないと）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nw[Taro]（しかし何でシアを……）"
+                                ""
                             ]
                         },
                         {
@@ -4205,14 +4188,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nw[Taro]（いや、考えてる場合じゃない……"
+                                "\\nw[Taro](But why Shia...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "手早くシアを捕まえた魔物を倒さないと！）"
+                                "\\nw[Taro](No, there's no time to think... We have to\nquickly defeat the monster that captured Shia!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4371,7 +4371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]上に行っても仕方ないな……"
+                                "\\nw[Taro]There's no point in going up..."
                             ]
                         },
                         {
@@ -4479,7 +4479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]下に行っても仕方ないな……"
+                                "\\nw[Taro]There's no point in going down..."
                             ]
                         },
                         {
@@ -4627,14 +4627,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Kuno]船は揺れるわね、"
+                                "\\nw[Kuno]The boat is rocking, it feels strange."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か変な感じ。"
+                                ""
                             ]
                         },
                         {
@@ -4642,8 +4642,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -4810,7 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Nonna]ちゃんと島までつけるといいわね。"
+                                "\\nw[Nonna]It would be good if you can safely make it to the\nisland."
                             ]
                         },
                         {
@@ -4818,8 +4818,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Check sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -4986,7 +4986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……うっぷ……きもぢわるい……"
+                                "\\nw[Uka]......Ugh......It feels disgusting......"
                             ]
                         },
                         {
@@ -5003,7 +5003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro]お、おい、やばければ海に吐いていいからな。"
+                                "\\nw[Taro]H-Hey, if you're feeling sick, you can puke in the\nsea, okay?"
                             ]
                         },
                         {
@@ -5020,7 +5020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Uka]……ゔん……わがっだ……"
+                                "\\nw[Uka]......Ugh......It's gross......"
                             ]
                         },
                         {
@@ -5028,8 +5028,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "View sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -5196,14 +5196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Fross]わたしは大がかりな治療の専門で応急処置等は苦手なんですよね。"
+                                "\\nw[Fross]I specialize in complex treatments and I'm not\ngood at first aid. I can't treat things like\nseasickness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "船酔い等は治療できないんですよ。"
+                                ""
                             ]
                         },
                         {
@@ -5211,8 +5211,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "性情報を見る",
-                                    "何もしない"
+                                    "Check sexual information",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -5339,21 +5339,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Thorz]気持ち悪くなんてない……気持ち悪くなんてない……"
+                                "\\nw[Thorz]It's not disgusting... It's not disgusting... It's\nnot disgusting... I'm fine... I'm fine... I'm\nfine... I'm not drunk... I'm not drunk..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ち悪くなんてない……大丈夫……大丈夫だ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おれは大丈夫だ……酔わない……酔ってない……"
+                                ""
                             ]
                         },
                         {
@@ -5370,7 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Taro](すげえ気持ち悪そうな顔してるな……)"
+                                "\\nw[Taro](You're making a really disgusted face...)"
                             ]
                         },
                         {
@@ -5447,14 +5447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Dalton]この年でも海の戦いの経験はほとんどなくてな。"
+                                "\\nw[Dalton]Even at my age, I have very little experience with\nnaval battles. This rocking is quite troublesome."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この揺れは厄介だな。"
+                                ""
                             ]
                         },
                         {
@@ -5531,14 +5531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Huma]おおっと、平衡感覚がまずいぜ。"
+                                "\\nw[Huma]Oops, my sense of balance is bad. It seems like\ndoing something erotic wouldn't be fun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こりゃエロいことしても面白くなさそうだな。"
+                                ""
                             ]
                         },
                         {
@@ -5615,21 +5615,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[Rodrigo]オレは冒険者としては結構長く続けているが、"
+                                "\\nw[Rodrigo]I've been an adventurer for quite a long time, but\nthere's hardly any experience on the sea. It's an\nenvironment with no escape, and if there are women\nhere, I can have my way with them as much as I\nwant...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "海の上はほとんどなくてな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "逃げ場のない環境だし、ここなら女がいれば堕とし放題じゃ……！"
+                                ""
                             ]
                         },
                         {
@@ -5706,14 +5706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nw[船員]いい身体してんじゃんか、"
+                                "\\nw[Crew member]You've got a nice body, don't you? How about\nhaving some fun with me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうよ、オレと一発楽しんでいこうぜ！"
+                                ""
                             ]
                         },
                         {
