@@ -210,7 +210,7 @@ if (!TMPlugin.InterpreterBase) {
 
   Game_CharacterBase.prototype.setNamePop = function (namePop, shiftY) {
     if (namePop) {
-      namePop = $gameMap._interpreter.convertEscapeCharactersTM(namePop);
+      namePop = $gameMap._interpreter.convertEscapeCharactersTM(namePop).replace(/_/g, ' ');
     }
     this._namePop = namePop;
     this._namePopY = shiftY || 0;
