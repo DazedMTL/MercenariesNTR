@@ -275,6 +275,24 @@ Window_Base.prototype.drawTextEx = function (text, x, y) {
     }
 };
 
+Window_Base.prototype.drawTextExHelp = function (text, x, y, item) {
+    if (text) {
+        var textState = { index: 0, x: x, y: y, left: x };
+        textState.text = this.convertEscapeCharacters(text);
+        textState.height = this.calcTextHeight(textState, false);
+        this.resetFontSettings();
+        if (item) {
+            this.contents.fontSize = 22
+        }
+        while (textState.index < textState.text.length) {
+            this.processCharacter(textState);
+        }
+        return textState.x - x;
+    } else {
+        return 0;
+    }
+};
+
 Window_Base.prototype.convertEscapeCharacters = function (text) {
     text = text.replace(/\\/g, '\x1b');
     text = text.replace(/\x1b\x1b/g, '\\');
@@ -1485,10 +1503,10 @@ Window_Help.prototype.initialize = function (numLines) {
     this._text = '';
 };
 
-Window_Help.prototype.setText = function (text) {
+Window_Help.prototype.setText = function (text, item) {
     if (this._text !== text) {
         this._text = text;
-        this.refresh();
+        this.refresh(item);
     }
 };
 
@@ -1497,12 +1515,12 @@ Window_Help.prototype.clear = function () {
 };
 
 Window_Help.prototype.setItem = function (item) {
-    this.setText(item ? item.description : '');
+    this.setText(item ? item.description : '', item);
 };
 
-Window_Help.prototype.refresh = function () {
+Window_Help.prototype.refresh = function (item) {
     this.contents.clear();
-    this.drawTextEx(this._text, this.textPadding(), 0);
+    this.drawTextExHelp(this._text, this.textPadding(), 0, item);
 };
 
 //-----------------------------------------------------------------------------
