@@ -89,7 +89,7 @@
             }
         ],
         "gold": 5,
-        "name": "盗賊",
+        "name": "Thief",
         "note": "",
         "params": [
             20,
@@ -191,7 +191,7 @@
             }
         ],
         "gold": 6,
-        "name": "バット",
+        "name": "Bat",
         "note": "",
         "params": [
             22,
@@ -293,7 +293,7 @@
             }
         ],
         "gold": 5,
-        "name": "マッドドッグ",
+        "name": "Mad Dog",
         "note": "",
         "params": [
             20,
@@ -395,7 +395,7 @@
             }
         ],
         "gold": 6,
-        "name": "マッドプラント",
+        "name": "Mad Plant",
         "note": "",
         "params": [
             22,
@@ -497,7 +497,7 @@
             }
         ],
         "gold": 12,
-        "name": "フォレストドッグ",
+        "name": "Forest Dog",
         "note": "",
         "params": [
             30,
@@ -604,7 +604,7 @@
             }
         ],
         "gold": 13,
-        "name": "フォレストホーネット",
+        "name": "Forest Hornet",
         "note": "",
         "params": [
             35,
@@ -711,7 +711,7 @@
             }
         ],
         "gold": 14,
-        "name": "フォレストスネーク",
+        "name": "Forest Snake",
         "note": "",
         "params": [
             40,
@@ -820,7 +820,7 @@
             }
         ],
         "gold": 17,
-        "name": "マッドバード",
+        "name": "Mad Bird",
         "note": "",
         "params": [
             62,
@@ -922,7 +922,7 @@
             }
         ],
         "gold": 20,
-        "name": "マッドラビット",
+        "name": "Mad Rabbit",
         "note": "",
         "params": [
             66,
@@ -1024,7 +1024,7 @@
             }
         ],
         "gold": 25,
-        "name": "食人キノコ",
+        "name": "Cannibal Mushroom",
         "note": "",
         "params": [
             66,
@@ -1133,7 +1133,7 @@
             }
         ],
         "gold": 27,
-        "name": "洞窟コウモリ",
+        "name": "Cave Bat",
         "note": "",
         "params": [
             71,
@@ -1242,7 +1242,7 @@
             }
         ],
         "gold": 32,
-        "name": "洞窟精霊",
+        "name": "Cave Spirit",
         "note": "",
         "params": [
             70,
@@ -1351,7 +1351,7 @@
             }
         ],
         "gold": 34,
-        "name": "ドロツキー",
+        "name": "Dorotsukii",
         "note": "",
         "params": [
             81,
@@ -1453,7 +1453,7 @@
             }
         ],
         "gold": 35,
-        "name": "コココッケー",
+        "name": "Kokokokke",
         "note": "",
         "params": [
             84,
@@ -1562,7 +1562,7 @@
             }
         ],
         "gold": 37,
-        "name": "グドロブ",
+        "name": "Gudrob",
         "note": "",
         "params": [
             88,
@@ -1671,7 +1671,7 @@
             }
         ],
         "gold": 54,
-        "name": "シロクアー",
+        "name": "Shirokua",
         "note": "",
         "params": [
             196,
@@ -1778,7 +1778,7 @@
             }
         ],
         "gold": 41,
-        "name": "ゲルレ",
+        "name": "Gelre",
         "note": "",
         "params": [
             99,
@@ -1892,7 +1892,7 @@
             }
         ],
         "gold": 49,
-        "name": "イギュン",
+        "name": "Igyun",
         "note": "",
         "params": [
             102,
@@ -2006,7 +2006,7 @@
             }
         ],
         "gold": 60,
-        "name": "サハギン",
+        "name": "Sahagin",
         "note": "",
         "params": [
             147,
@@ -2120,7 +2120,7 @@
             }
         ],
         "gold": 51,
-        "name": "スイーン",
+        "name": "Sween",
         "note": "",
         "params": [
             115,
@@ -2234,7 +2234,7 @@
             }
         ],
         "gold": 57,
-        "name": "水蜘蛛",
+        "name": "Water Spider",
         "note": "",
         "params": [
             127,
@@ -2343,7 +2343,7 @@
             }
         ],
         "gold": 75,
-        "name": "洞窟盗賊",
+        "name": "Cave Thief",
         "note": "",
         "params": [
             144,
@@ -2457,7 +2457,7 @@
             }
         ],
         "gold": 89,
-        "name": "ヴェンコココッケー",
+        "name": "Venkokokkē",
         "note": "",
         "params": [
             111,
@@ -2571,7 +2571,7 @@
             }
         ],
         "gold": 96,
-        "name": "フォーゲル",
+        "name": "Vogel",
         "note": "",
         "params": [
             118,
@@ -2685,7 +2685,7 @@
             }
         ],
         "gold": 109,
-        "name": "エレオス",
+        "name": "Eleos",
         "note": "",
         "params": [
             168,
@@ -2792,7 +2792,7 @@
             }
         ],
         "gold": 100,
-        "name": "ゲゲルレ",
+        "name": "Gegelre",
         "note": "",
         "params": [
             122,
@@ -2906,7 +2906,7 @@
             }
         ],
         "gold": 114,
-        "name": "デルサハギン",
+        "name": "Delsahagin",
         "note": "",
         "params": [
             167,
@@ -3020,7 +3020,7 @@
             }
         ],
         "gold": 104,
-        "name": "ヴェンスピリット",
+        "name": "Venspirit",
         "note": "",
         "params": [
             131,
@@ -3134,7 +3134,7 @@
             }
         ],
         "gold": 211,
-        "name": "ティダス",
+        "name": "Tidus",
         "note": "",
         "params": [
             320,
@@ -3248,7 +3248,7 @@
             }
         ],
         "gold": 124,
-        "name": "ヘウエム",
+        "name": "Heuem",
         "note": "",
         "params": [
             150,
@@ -3362,7 +3362,7 @@
             }
         ],
         "gold": 134,
-        "name": "ポーカンタ",
+        "name": "Pokeranta",
         "note": "",
         "params": [
             242,
@@ -3476,7 +3476,7 @@
             }
         ],
         "gold": 332,
-        "name": "グローブス",
+        "name": "Gloobs",
         "note": "",
         "params": [
             743,
@@ -3583,7 +3583,7 @@
             }
         ],
         "gold": 98,
-        "name": "ラウルスバット",
+        "name": "Raul's Bat",
         "note": "",
         "params": [
             199,
@@ -3697,7 +3697,7 @@
             }
         ],
         "gold": 105,
-        "name": "マンイーター",
+        "name": "Man Eater",
         "note": "",
         "params": [
             212,
@@ -3811,7 +3811,7 @@
             }
         ],
         "gold": 134,
-        "name": "トレント",
+        "name": "Torrent",
         "note": "",
         "params": [
             269,
@@ -3925,7 +3925,7 @@
             }
         ],
         "gold": 109,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "note": "",
         "params": [
             246,
@@ -4039,7 +4039,7 @@
             }
         ],
         "gold": 110,
-        "name": "ゴブリンメイジ",
+        "name": "Goblin Mage",
         "note": "",
         "params": [
             233,
@@ -4153,7 +4153,7 @@
             }
         ],
         "gold": 123,
-        "name": "ゴブリンファイター",
+        "name": "Goblin Fighter",
         "note": "",
         "params": [
             384,
@@ -4262,7 +4262,7 @@
             }
         ],
         "gold": 188,
-        "name": "ハードゴブリン",
+        "name": "Hard Goblin",
         "note": "",
         "params": [
             322,
@@ -4378,7 +4378,7 @@
             }
         ],
         "gold": 198,
-        "name": "ハードゴブリンメイジ",
+        "name": "Hard Goblin Mage",
         "note": "",
         "params": [
             299,
@@ -4487,7 +4487,7 @@
             }
         ],
         "gold": 276,
-        "name": "ハードゴブリンファイター",
+        "name": "Hard Goblin Fighter",
         "note": "",
         "params": [
             522,
@@ -4601,7 +4601,7 @@
             }
         ],
         "gold": 142,
-        "name": "ゴブリンオトモ",
+        "name": "Goblin Companion",
         "note": "",
         "params": [
             255,
@@ -4727,7 +4727,7 @@
             }
         ],
         "gold": 245,
-        "name": "マナアース",
+        "name": "Mana Earth",
         "note": "",
         "params": [
             345,
@@ -4858,7 +4858,7 @@
             }
         ],
         "gold": 245,
-        "name": "マナファイア",
+        "name": "Mana Fire",
         "note": "",
         "params": [
             345,
@@ -4984,7 +4984,7 @@
             }
         ],
         "gold": 245,
-        "name": "マナウォータ",
+        "name": "Manawater",
         "note": "",
         "params": [
             345,
@@ -5110,7 +5110,7 @@
             }
         ],
         "gold": 245,
-        "name": "マナウィンド",
+        "name": "Manawind",
         "note": "",
         "params": [
             345,
@@ -5219,7 +5219,7 @@
             }
         ],
         "gold": 274,
-        "name": "イリシオ",
+        "name": "Ilysio",
         "note": "",
         "params": [
             440,
@@ -5328,7 +5328,7 @@
             }
         ],
         "gold": 281,
-        "name": "カーゼブ",
+        "name": "Cazeub",
         "note": "",
         "params": [
             455,
@@ -5437,7 +5437,7 @@
             }
         ],
         "gold": 299,
-        "name": "ホリスモス",
+        "name": "Holismos",
         "note": "",
         "params": [
             467,
@@ -5546,7 +5546,7 @@
             }
         ],
         "gold": 311,
-        "name": "ビレトス",
+        "name": "Biretos",
         "note": "",
         "params": [
             480,
@@ -5655,7 +5655,7 @@
             }
         ],
         "gold": 343,
-        "name": "ウォリアー",
+        "name": "Warrior",
         "note": "",
         "params": [
             700,
@@ -5769,7 +5769,7 @@
             }
         ],
         "gold": 368,
-        "name": "アーチャー",
+        "name": "Archer",
         "note": "",
         "params": [
             500,
@@ -5885,7 +5885,7 @@
             }
         ],
         "gold": 378,
-        "name": "ウィザード",
+        "name": "Wizard",
         "note": "",
         "params": [
             450,
@@ -5994,7 +5994,7 @@
             }
         ],
         "gold": 489,
-        "name": "ジェネラル",
+        "name": "General",
         "note": "",
         "params": [
             1000,
@@ -6108,7 +6108,7 @@
             }
         ],
         "gold": 355,
-        "name": "ゾンビー",
+        "name": "Zombie",
         "note": "",
         "params": [
             521,
@@ -6222,7 +6222,7 @@
             }
         ],
         "gold": 377,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             557,
@@ -6343,7 +6343,7 @@
             }
         ],
         "gold": 398,
-        "name": "ゴースト",
+        "name": "Ghost",
         "note": "",
         "params": [
             584,
@@ -6464,7 +6464,7 @@
             }
         ],
         "gold": 422,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             633,
@@ -6585,7 +6585,7 @@
             }
         ],
         "gold": 439,
-        "name": "ゲイザー",
+        "name": "Gazer",
         "note": "",
         "params": [
             633,
@@ -6711,7 +6711,7 @@
             }
         ],
         "gold": 422,
-        "name": "クリムゾンスライム",
+        "name": "Crimson Slime",
         "note": "",
         "params": [
             633,
@@ -6837,7 +6837,7 @@
             }
         ],
         "gold": 437,
-        "name": "ゾンビ神官",
+        "name": "Zombie Priest",
         "note": "",
         "params": [
             722,
@@ -6963,7 +6963,7 @@
             }
         ],
         "gold": 454,
-        "name": "ゾンビ剣士",
+        "name": "Zombie Swordsman",
         "note": "",
         "params": [
             822,
@@ -7082,7 +7082,7 @@
             }
         ],
         "gold": 439,
-        "name": "ゾンビ兵士",
+        "name": "Zombie Soldier",
         "note": "",
         "params": [
             859,
@@ -7201,7 +7201,7 @@
             }
         ],
         "gold": 563,
-        "name": "アースラット",
+        "name": "Earthrat",
         "note": "",
         "params": [
             1000,
@@ -7327,7 +7327,7 @@
             }
         ],
         "gold": 568,
-        "name": "アースバット",
+        "name": "Earth Bat",
         "note": "",
         "params": [
             1025,
@@ -7453,7 +7453,7 @@
             }
         ],
         "gold": 576,
-        "name": "アーススネーク",
+        "name": "Earth Snake",
         "note": "",
         "params": [
             1059,
@@ -7579,7 +7579,7 @@
             }
         ],
         "gold": 588,
-        "name": "アーススパイダー",
+        "name": "Earth Spider",
         "note": "",
         "params": [
             1110,
@@ -7698,7 +7698,7 @@
             }
         ],
         "gold": 588,
-        "name": "アースローグ",
+        "name": "Earth Rogue",
         "note": "",
         "params": [
             1211,
@@ -7824,7 +7824,7 @@
             }
         ],
         "gold": 593,
-        "name": "アースメイジ",
+        "name": "Earth Mage",
         "note": "",
         "params": [
             911,
@@ -7950,7 +7950,7 @@
             }
         ],
         "gold": 610,
-        "name": "アースアサシン",
+        "name": "Earth Assassin",
         "note": "",
         "params": [
             1001,
@@ -8076,7 +8076,7 @@
             }
         ],
         "gold": 643,
-        "name": "アースアーマー",
+        "name": "Earth Armor",
         "note": "",
         "params": [
             1301,
@@ -8202,7 +8202,7 @@
             }
         ],
         "gold": 656,
-        "name": "アースパペット",
+        "name": "Earth Puppet",
         "note": "",
         "params": [
             1522,
@@ -8328,7 +8328,7 @@
             }
         ],
         "gold": 662,
-        "name": "アースミミック",
+        "name": "Earth Mimmic",
         "note": "",
         "params": [
             1621,
@@ -8454,7 +8454,7 @@
             }
         ],
         "gold": 687,
-        "name": "アースインプ",
+        "name": "Earth Imp",
         "note": "",
         "params": [
             1711,
@@ -8580,7 +8580,7 @@
             }
         ],
         "gold": 702,
-        "name": "アースアース",
+        "name": "Earth Earth",
         "note": "",
         "params": [
             1010,
@@ -8711,7 +8711,7 @@
             }
         ],
         "gold": 3122,
-        "name": "アースガーゴイル",
+        "name": "Earth Gargoyle",
         "note": "",
         "params": [
             3422,
@@ -8856,7 +8856,7 @@
             }
         ],
         "gold": 3421,
-        "name": "アースラミア",
+        "name": "Earthlamia",
         "note": "",
         "params": [
             4211,
@@ -8994,7 +8994,7 @@
             }
         ],
         "gold": 3721,
-        "name": "アースミノタウロス",
+        "name": "Earth Minotaur",
         "note": "",
         "params": [
             5000,
@@ -9103,7 +9103,7 @@
             }
         ],
         "gold": 343,
-        "name": "兵士",
+        "name": "Soldier",
         "note": "",
         "params": [
             700,
@@ -9212,7 +9212,7 @@
             }
         ],
         "gold": 343,
-        "name": "兵士長",
+        "name": "Sergeant",
         "note": "",
         "params": [
             1000,
@@ -10395,7 +10395,7 @@
             }
         ],
         "gold": 0,
-        "name": "地獣の守護者",
+        "name": "Guardian of the Earth Beast",
         "note": "",
         "params": [
             500,
@@ -10467,7 +10467,7 @@
             }
         ],
         "gold": 0,
-        "name": "地獣の守護者",
+        "name": "Guardian of the Earth Beast",
         "note": "",
         "params": [
             500,
@@ -10529,7 +10529,7 @@
             }
         ],
         "gold": 0,
-        "name": "<喰らうモノ>",
+        "name": "Eater",
         "note": "<ATK: 2222>",
         "params": [
             50000,
@@ -10638,7 +10638,7 @@
             }
         ],
         "gold": 50,
-        "name": "盗賊ボス",
+        "name": "Thief Boss",
         "note": "",
         "params": [
             80,
@@ -10747,7 +10747,7 @@
             }
         ],
         "gold": 100,
-        "name": "フォレストウルフ",
+        "name": "Forest Wolf",
         "note": "",
         "params": [
             250,
@@ -10856,7 +10856,7 @@
             }
         ],
         "gold": 222,
-        "name": "ダンジョンウルフ",
+        "name": "Dungeon Wolf",
         "note": "",
         "params": [
             400,
@@ -10977,7 +10977,7 @@
             }
         ],
         "gold": 200,
-        "name": "プルプレウス",
+        "name": "Purpleus",
         "note": "",
         "params": [
             1000,
@@ -11091,7 +11091,7 @@
             }
         ],
         "gold": 150,
-        "name": "フングス",
+        "name": "Fungus",
         "note": "",
         "params": [
             400,
@@ -11219,7 +11219,7 @@
             }
         ],
         "gold": 500,
-        "name": "ストルティオ",
+        "name": "Stultio",
         "note": "",
         "params": [
             1200,
@@ -11335,7 +11335,7 @@
             }
         ],
         "gold": 0,
-        "name": "傭兵",
+        "name": "Mercenary",
         "note": "",
         "params": [
             600,
@@ -11444,7 +11444,7 @@
             }
         ],
         "gold": 300,
-        "name": "洞窟盗賊ボス",
+        "name": "Cave Bandit Boss",
         "note": "",
         "params": [
             1000,
@@ -11577,7 +11577,7 @@
             }
         ],
         "gold": 1000,
-        "name": "シードラゴン",
+        "name": "Seedragon",
         "note": "",
         "params": [
             2200,
@@ -11715,7 +11715,7 @@
             }
         ],
         "gold": 2000,
-        "name": "エルストルティオ",
+        "name": "Elstortio",
         "note": "",
         "params": [
             2600,
@@ -11839,7 +11839,7 @@
             }
         ],
         "gold": 3000,
-        "name": "ビッグゴブリン",
+        "name": "Big Goblin",
         "note": "",
         "params": [
             5300,
@@ -11960,7 +11960,7 @@
             }
         ],
         "gold": 1500,
-        "name": "強化マンイーター",
+        "name": "Enhanced Man-Eater",
         "note": "",
         "params": [
             2200,
@@ -12086,7 +12086,7 @@
             }
         ],
         "gold": 2000,
-        "name": "強化トレント",
+        "name": "Enhanced Torrent",
         "note": "",
         "params": [
             2500,
@@ -12200,7 +12200,7 @@
             }
         ],
         "gold": 2500,
-        "name": "ハードビッグゴブリン",
+        "name": "Hard Big Goblin",
         "note": "",
         "params": [
             5000,
@@ -12321,7 +12321,7 @@
             }
         ],
         "gold": 1500,
-        "name": "ビッグオトモ",
+        "name": "Big Otomo",
         "note": "",
         "params": [
             2600,
@@ -12461,7 +12461,7 @@
             }
         ],
         "gold": 2666,
-        "name": "マナライト",
+        "name": "Manalight",
         "note": "",
         "params": [
             5000,
@@ -12601,7 +12601,7 @@
             }
         ],
         "gold": 2666,
-        "name": "マナダーク",
+        "name": "Mana Dark",
         "note": "",
         "params": [
             5000,
@@ -12729,7 +12729,7 @@
             }
         ],
         "gold": 5888,
-        "name": "ベヒーモス",
+        "name": "Behemoth",
         "note": "",
         "params": [
             9888,
@@ -12864,7 +12864,7 @@
             }
         ],
         "gold": 7000,
-        "name": "ラミア",
+        "name": "Lamia",
         "note": "",
         "params": [
             15000,
@@ -12997,7 +12997,7 @@
             }
         ],
         "gold": 6666,
-        "name": "タナトス",
+        "name": "Thanatos",
         "note": "",
         "params": [
             15000,
@@ -13130,7 +13130,7 @@
             }
         ],
         "gold": 7000,
-        "name": "粘体ガーゴイル",
+        "name": "Sticky Gargoyle",
         "note": "",
         "params": [
             17000,
@@ -13265,7 +13265,7 @@
             }
         ],
         "gold": 10000,
-        "name": "ドラゴン",
+        "name": "Dragon",
         "note": "",
         "params": [
             23000,
@@ -13396,7 +13396,7 @@
             }
         ],
         "gold": 7500,
-        "name": "アースウルフ",
+        "name": "Earth Wolf",
         "note": "",
         "params": [
             18000,
@@ -13541,7 +13541,7 @@
             }
         ],
         "gold": 12000,
-        "name": "アースロード",
+        "name": "Earth Road",
         "note": "",
         "params": [
             27500,
@@ -13693,7 +13693,7 @@
             }
         ],
         "gold": 15000,
-        "name": "アースデーモン",
+        "name": "Earth Demon",
         "note": "",
         "params": [
             31000,
@@ -13838,7 +13838,7 @@
             }
         ],
         "gold": 15000,
-        "name": "地獣の守護者",
+        "name": "Guardian of the Earth Beast",
         "note": "",
         "params": [
             36000,
@@ -13997,7 +13997,7 @@
             }
         ],
         "gold": 20000,
-        "name": "地獣の守護者",
+        "name": "Guardian of the Earth Beast",
         "note": "",
         "params": [
             50000,
@@ -14113,7 +14113,7 @@
             }
         ],
         "gold": 0,
-        "name": "傭兵",
+        "name": "Mercenary",
         "note": "",
         "params": [
             2000,
@@ -14248,7 +14248,7 @@
             }
         ],
         "gold": 5000,
-        "name": "ゴーレム",
+        "name": "Golem",
         "note": "",
         "params": [
             5969,
@@ -14357,7 +14357,7 @@
             }
         ],
         "gold": 489,
-        "name": "山賊",
+        "name": "Bandit",
         "note": "",
         "params": [
             1000,
@@ -14473,7 +14473,7 @@
             }
         ],
         "gold": 2000,
-        "name": "山賊ボス",
+        "name": "Bandit Boss",
         "note": "",
         "params": [
             10000,
@@ -14611,7 +14611,7 @@
             }
         ],
         "gold": 400,
-        "name": "ウルストルティオ",
+        "name": "Ulstortio",
         "note": "",
         "params": [
             4000,
@@ -14734,7 +14734,7 @@
             }
         ],
         "gold": 200,
-        "name": "ミスチヴァス",
+        "name": "Mischivas",
         "note": "",
         "params": [
             1000,
@@ -14867,7 +14867,7 @@
             }
         ],
         "gold": 600,
-        "name": "コルヌ",
+        "name": "Cornu",
         "note": "",
         "params": [
             7500,
@@ -14991,7 +14991,7 @@
             }
         ],
         "gold": 1200,
-        "name": "テルゴブリン",
+        "name": "Terugoblin",
         "note": "",
         "params": [
             35000,
@@ -15119,7 +15119,7 @@
             }
         ],
         "gold": 4000,
-        "name": "エルキマイラ",
+        "name": "Elchimera",
         "note": "",
         "params": [
             15000,
@@ -15266,7 +15266,7 @@
             }
         ],
         "gold": 8000,
-        "name": "マナセイント",
+        "name": "Mana Saint",
         "note": "",
         "params": [
             13000,
@@ -15413,7 +15413,7 @@
             }
         ],
         "gold": 8000,
-        "name": "マナカオス",
+        "name": "Manakaosu",
         "note": "",
         "params": [
             13000,
@@ -15541,7 +15541,7 @@
             }
         ],
         "gold": 10000,
-        "name": "テラベヒーモス",
+        "name": "Terrabeast",
         "note": "",
         "params": [
             32222,
@@ -15676,7 +15676,7 @@
             }
         ],
         "gold": 15000,
-        "name": "ラミアグレート",
+        "name": "Lamia Great",
         "note": "",
         "params": [
             50000,
@@ -15809,7 +15809,7 @@
             }
         ],
         "gold": 12000,
-        "name": "超粘ガーゴイル",
+        "name": "Super Sticky Gargoyle",
         "note": "",
         "params": [
             30000,
@@ -15944,7 +15944,7 @@
             }
         ],
         "gold": 10000,
-        "name": "キロドラゴン",
+        "name": "Kilodragon",
         "note": "",
         "params": [
             60000,
@@ -16089,7 +16089,7 @@
             }
         ],
         "gold": 20000,
-        "name": "テッラロード",
+        "name": "Terraroad",
         "note": "",
         "params": [
             35000,
@@ -16241,7 +16241,7 @@
             }
         ],
         "gold": 22000,
-        "name": "テッラデーモン",
+        "name": "Terrademon",
         "note": "",
         "params": [
             70000,
@@ -16386,7 +16386,7 @@
             }
         ],
         "gold": 25000,
-        "name": "地獣の守護王",
+        "name": "Guardian King of the Earth Beasts",
         "note": "",
         "params": [
             50000,
@@ -16545,7 +16545,7 @@
             }
         ],
         "gold": 30000,
-        "name": "地獣の守護神",
+        "name": "Guardian Deity of the Earth Beast",
         "note": "<ATK: 1200>\n<MAK: 1200>",
         "params": [
             99999,
@@ -19831,7 +19831,7 @@
             }
         ],
         "gold": 0,
-        "name": "こうもり",
+        "name": "Bat",
         "note": "",
         "params": [
             1,

@@ -4,7 +4,7 @@
     {
         "id": 2,
         "expanded": false,
-        "name": "真っ暗",
+        "name": "Pitch black",
         "order": 1,
         "parentId": 0,
         "scrollX": 1319.142857142857,
@@ -14,7 +14,7 @@
     {
         "id": 4,
         "expanded": false,
-        "name": "クエストリザルト",
+        "name": "Quest Result",
         "order": 2,
         "parentId": 2,
         "scrollX": 1344,
@@ -23,7 +23,7 @@
     {
         "id": 5,
         "expanded": false,
-        "name": "集会所",
+        "name": "Gathering Hall",
         "order": 151,
         "parentId": 35,
         "scrollX": 991.7142857142857,
@@ -32,7 +32,7 @@
     {
         "id": 6,
         "expanded": false,
-        "name": "過去３人の家",
+        "name": "The houses of the past three people.",
         "order": 162,
         "parentId": 66,
         "scrollX": 1063,
@@ -41,7 +41,7 @@
     {
         "id": 7,
         "expanded": false,
-        "name": "歓楽都市ソルテ",
+        "name": "Pleasure City Solte",
         "order": 4,
         "parentId": 0,
         "scrollX": 1305.4285714285713,
@@ -50,7 +50,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "宿屋1F",
+        "name": "Inn 1F",
         "order": 24,
         "parentId": 10,
         "scrollX": 1319.142857142857,
@@ -59,7 +59,7 @@
     {
         "id": 9,
         "expanded": false,
-        "name": "宿屋2F",
+        "name": "Inn 2F",
         "order": 25,
         "parentId": 8,
         "scrollX": 1157,
@@ -68,7 +68,7 @@
     {
         "id": 10,
         "expanded": true,
-        "name": "武具屋",
+        "name": "Weapon Shop",
         "order": 23,
         "parentId": 7,
         "scrollX": 1319.142857142857,
@@ -77,7 +77,7 @@
     {
         "id": 11,
         "expanded": false,
-        "name": "道具屋",
+        "name": "Item Shop",
         "order": 26,
         "parentId": 10,
         "scrollX": 1319.142857142857,
@@ -86,7 +86,7 @@
     {
         "id": 12,
         "expanded": false,
-        "name": "お屋敷",
+        "name": "Mansion",
         "order": 27,
         "parentId": 10,
         "scrollX": 1305.4285714285713,
@@ -95,7 +95,7 @@
     {
         "id": 13,
         "expanded": false,
-        "name": "ギルド",
+        "name": "Guild",
         "order": 28,
         "parentId": 10,
         "scrollX": 1319.142857142857,
@@ -104,7 +104,7 @@
     {
         "id": 14,
         "expanded": true,
-        "name": "傭兵詰所外",
+        "name": "Outside the Mercenary Barracks",
         "order": 5,
         "parentId": 7,
         "scrollX": 1319.142857142857,
@@ -113,7 +113,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "傭兵詰所１F",
+        "name": "Mercenary Quarters 1F",
         "order": 6,
         "parentId": 14,
         "scrollX": 1319.142857142857,
@@ -123,7 +123,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "傭兵詰所２F",
+        "name": "Mercenary Quarters 2F",
         "order": 19,
         "parentId": 14,
         "scrollX": 1319.142857142857,
@@ -132,7 +132,7 @@
     {
         "id": 18,
         "expanded": true,
-        "name": "開始真っ暗",
+        "name": "Start in complete darkness",
         "order": 3,
         "parentId": 2,
         "scrollX": 1157,
@@ -141,7 +141,7 @@
     {
         "id": 19,
         "expanded": false,
-        "name": "盗賊洞窟前",
+        "name": "In front of the Thief's Cave",
         "order": 157,
         "parentId": 66,
         "scrollX": 1344,
@@ -150,7 +150,7 @@
     {
         "id": 20,
         "expanded": false,
-        "name": "盗賊洞窟前焚火",
+        "name": "Bonfire in front of the Thief's Cave",
         "order": 158,
         "parentId": 19,
         "scrollX": 985,
@@ -159,7 +159,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "盗賊の洞窟",
+        "name": "Thief's Cave",
         "order": 159,
         "parentId": 19,
         "scrollX": 985,
@@ -168,7 +168,7 @@
     {
         "id": 22,
         "expanded": false,
-        "name": "盗賊の洞窟２",
+        "name": "Thief's Cave 2",
         "order": 160,
         "parentId": 19,
         "scrollX": 841.7142857142857,
@@ -177,7 +177,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "盗賊の洞窟最奥",
+        "name": "Deepest part of the Thief's Cave",
         "order": 161,
         "parentId": 19,
         "scrollX": 985,
@@ -186,7 +186,7 @@
     {
         "id": 24,
         "expanded": false,
-        "name": "国境の森１",
+        "name": "Forest of the Border 1",
         "order": 163,
         "parentId": 6,
         "scrollX": 1063,
@@ -195,7 +195,7 @@
     {
         "id": 25,
         "expanded": false,
-        "name": "国境の森２",
+        "name": "Forest of the Border 2",
         "order": 164,
         "parentId": 6,
         "scrollX": 947,
@@ -204,7 +204,7 @@
     {
         "id": 26,
         "expanded": true,
-        "name": "国境の森３",
+        "name": "Forest of the Border 3",
         "order": 165,
         "parentId": 6,
         "scrollX": 963,
@@ -213,7 +213,7 @@
     {
         "id": 27,
         "expanded": false,
-        "name": "崖の下最奥",
+        "name": "Deepest Cliff",
         "order": 167,
         "parentId": 6,
         "scrollX": 1063,
@@ -222,7 +222,7 @@
     {
         "id": 28,
         "expanded": false,
-        "name": "国境の森４",
+        "name": "Forest of the Border 4",
         "order": 166,
         "parentId": 6,
         "scrollX": 814,
@@ -231,7 +231,7 @@
     {
         "id": 29,
         "expanded": false,
-        "name": "マップ選択",
+        "name": "Map Selection",
         "order": 47,
         "parentId": 0,
         "scrollX": 1319.142857142857,
@@ -240,7 +240,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "プロペ森林入口",
+        "name": "Prope Forest Entrance",
         "order": 48,
         "parentId": 29,
         "scrollX": 1047,
@@ -249,7 +249,7 @@
     {
         "id": 31,
         "expanded": false,
-        "name": "プロペ森林２",
+        "name": "Proppe Forest 2",
         "order": 49,
         "parentId": 30,
         "scrollX": 1054.2857142857142,
@@ -258,7 +258,7 @@
     {
         "id": 32,
         "expanded": true,
-        "name": "プロペ森林最奥",
+        "name": "Deepest part of the Prope Forest",
         "order": 50,
         "parentId": 30,
         "scrollX": 855.4285714285713,
@@ -267,7 +267,7 @@
     {
         "id": 33,
         "expanded": false,
-        "name": "クエスト用マップ",
+        "name": "Quest Map",
         "order": 117,
         "parentId": 0,
         "scrollX": 1319.142857142857,
@@ -276,7 +276,7 @@
     {
         "id": 34,
         "expanded": false,
-        "name": "クエ１隣町周辺",
+        "name": "Surroundings of Quest 1 Neighboring Town",
         "order": 118,
         "parentId": 33,
         "scrollX": 1032,
@@ -285,7 +285,7 @@
     {
         "id": 35,
         "expanded": false,
-        "name": "クエストイベント用マップ",
+        "name": "Quest Event Map",
         "order": 150,
         "parentId": 0,
         "scrollX": 1045.7142857142856,
@@ -294,7 +294,7 @@
     {
         "id": 36,
         "expanded": true,
-        "name": "酒場",
+        "name": "Tavern",
         "order": 152,
         "parentId": 35,
         "scrollX": 991.7142857142857,
@@ -303,7 +303,7 @@
     {
         "id": 37,
         "expanded": false,
-        "name": "宿の部屋",
+        "name": "Inn room",
         "order": 153,
         "parentId": 35,
         "scrollX": 991.7142857142857,
@@ -313,7 +313,7 @@
     {
         "id": 39,
         "expanded": false,
-        "name": "宿屋（ぼろ）",
+        "name": "Inn (Shabby)",
         "order": 29,
         "parentId": 10,
         "scrollX": 1319.142857142857,
@@ -322,7 +322,7 @@
     {
         "id": 40,
         "expanded": false,
-        "name": "カフェ",
+        "name": "Cafe",
         "order": 30,
         "parentId": 10,
         "scrollX": 1157,
@@ -331,7 +331,7 @@
     {
         "id": 41,
         "expanded": false,
-        "name": "兵舎",
+        "name": "Barracks",
         "order": 31,
         "parentId": 10,
         "scrollX": 991.7142857142857,
@@ -340,7 +340,7 @@
     {
         "id": 42,
         "expanded": false,
-        "name": "兵舎地下",
+        "name": "Barracks Basement",
         "order": 32,
         "parentId": 41,
         "scrollX": 991.7142857142857,
@@ -349,7 +349,7 @@
     {
         "id": 43,
         "expanded": false,
-        "name": "役所",
+        "name": "Government Office",
         "order": 33,
         "parentId": 10,
         "scrollX": 1157,
@@ -358,7 +358,7 @@
     {
         "id": 44,
         "expanded": false,
-        "name": "役所２Ｆ",
+        "name": "Government Office 2nd Floor",
         "order": 34,
         "parentId": 43,
         "scrollX": 911.1428571428571,
@@ -367,7 +367,7 @@
     {
         "id": 45,
         "expanded": false,
-        "name": "教会",
+        "name": "Church",
         "order": 35,
         "parentId": 10,
         "scrollX": 1157,
@@ -376,7 +376,7 @@
     {
         "id": 46,
         "expanded": false,
-        "name": "治療院",
+        "name": "Clinic",
         "order": 36,
         "parentId": 10,
         "scrollX": 1157,
@@ -385,7 +385,7 @@
     {
         "id": 47,
         "expanded": false,
-        "name": "治療院２F",
+        "name": "Clinic 2F",
         "order": 37,
         "parentId": 46,
         "scrollX": 1063,
@@ -394,7 +394,7 @@
     {
         "id": 48,
         "expanded": false,
-        "name": "アパート１F",
+        "name": "Apartment 1F",
         "order": 38,
         "parentId": 10,
         "scrollX": 1045.7142857142856,
@@ -403,7 +403,7 @@
     {
         "id": 49,
         "expanded": false,
-        "name": "アパート２F",
+        "name": "Apartment 2F",
         "order": 39,
         "parentId": 48,
         "scrollX": 991.7142857142857,
@@ -412,7 +412,7 @@
     {
         "id": 50,
         "expanded": false,
-        "name": "盛り場",
+        "name": "Entertainment district",
         "order": 40,
         "parentId": 10,
         "scrollX": 1157,
@@ -421,7 +421,7 @@
     {
         "id": 51,
         "expanded": false,
-        "name": "テント右",
+        "name": "Right of the tent",
         "order": 41,
         "parentId": 10,
         "scrollX": 1157,
@@ -430,7 +430,7 @@
     {
         "id": 52,
         "expanded": false,
-        "name": "テント中",
+        "name": "Inside the tent",
         "order": 42,
         "parentId": 51,
         "scrollX": 1016.5714285714286,
@@ -439,7 +439,7 @@
     {
         "id": 53,
         "expanded": false,
-        "name": "テント左",
+        "name": "Left Tent",
         "order": 43,
         "parentId": 10,
         "scrollX": 1157,
@@ -448,7 +448,7 @@
     {
         "id": 54,
         "expanded": false,
-        "name": "傭兵詰所地下",
+        "name": "Mercenary Barracks Basement",
         "order": 21,
         "parentId": 14,
         "scrollX": 1319.142857142857,
@@ -457,7 +457,7 @@
     {
         "id": 55,
         "expanded": false,
-        "name": "カペル山入り口",
+        "name": "Entrance to Mount Kaper",
         "order": 52,
         "parentId": 29,
         "scrollX": 1063,
@@ -466,7 +466,7 @@
     {
         "id": 56,
         "expanded": false,
-        "name": "カペル山下",
+        "name": "Kapel Yamashita",
         "order": 53,
         "parentId": 55,
         "scrollX": 971.9999999999999,
@@ -475,7 +475,7 @@
     {
         "id": 57,
         "expanded": false,
-        "name": "カペル山中腹",
+        "name": "Midway up Mount Kaper",
         "order": 54,
         "parentId": 55,
         "scrollX": 971.9999999999999,
@@ -484,7 +484,7 @@
     {
         "id": 58,
         "expanded": false,
-        "name": "カペル山洞窟1",
+        "name": "Capel Mountain Cave 1",
         "order": 55,
         "parentId": 55,
         "scrollX": 841.7142857142857,
@@ -493,7 +493,7 @@
     {
         "id": 59,
         "expanded": false,
-        "name": "カペル山洞窟２",
+        "name": "Capel Mountain Cave 2",
         "order": 56,
         "parentId": 55,
         "scrollX": 934.2857142857142,
@@ -502,7 +502,7 @@
     {
         "id": 60,
         "expanded": false,
-        "name": "カペル山山頂",
+        "name": "Capel Mountain Summit",
         "order": 57,
         "parentId": 55,
         "scrollX": 855.4285714285713,
@@ -511,7 +511,7 @@
     {
         "id": 61,
         "expanded": false,
-        "name": "アケル荒野入り口",
+        "name": "Entrance to Akel Wilderness",
         "order": 58,
         "parentId": 29,
         "scrollX": 1157,
@@ -520,7 +520,7 @@
     {
         "id": 62,
         "expanded": false,
-        "name": "アケル荒野２",
+        "name": "Akel Wilderness 2",
         "order": 59,
         "parentId": 61,
         "scrollX": 1227.4285714285713,
@@ -529,7 +529,7 @@
     {
         "id": 63,
         "expanded": false,
-        "name": "キャンプ地",
+        "name": "Campsite",
         "order": 60,
         "parentId": 61,
         "scrollX": 1157,
@@ -538,7 +538,7 @@
     {
         "id": 64,
         "expanded": false,
-        "name": "馬車の中",
+        "name": "Inside the carriage",
         "order": 61,
         "parentId": 61,
         "scrollX": 1063,
@@ -547,7 +547,7 @@
     {
         "id": 65,
         "expanded": false,
-        "name": "アガート湿地帯１",
+        "name": "Agato Wetlands 1",
         "order": 169,
         "parentId": 67,
         "scrollX": 1009.7142857142857,
@@ -556,7 +556,7 @@
     {
         "id": 66,
         "expanded": false,
-        "name": "メイン用マップ",
+        "name": "Main Map",
         "order": 156,
         "parentId": 0,
         "scrollX": 1045.7142857142856,
@@ -565,7 +565,7 @@
     {
         "id": 67,
         "expanded": false,
-        "name": "アガート湿地帯入り口",
+        "name": "Agato Wetland Entrance",
         "order": 168,
         "parentId": 66,
         "scrollX": 1344,
@@ -574,7 +574,7 @@
     {
         "id": 68,
         "expanded": false,
-        "name": "アガート湿地帯２",
+        "name": "Agart Wetlands 2",
         "order": 170,
         "parentId": 67,
         "scrollX": 933,
@@ -583,7 +583,7 @@
     {
         "id": 69,
         "expanded": false,
-        "name": "アガート湿地帯３",
+        "name": "Agart Wetlands 3",
         "order": 171,
         "parentId": 67,
         "scrollX": 841.7142857142857,
@@ -592,7 +592,7 @@
     {
         "id": 70,
         "expanded": false,
-        "name": "アガート湿地帯地下",
+        "name": "Agato Wetland Underground",
         "order": 172,
         "parentId": 67,
         "scrollX": 1119,
@@ -601,7 +601,7 @@
     {
         "id": 71,
         "expanded": false,
-        "name": "アガート湿地帯地下２",
+        "name": "Agart Wetlands Underground 2",
         "order": 173,
         "parentId": 67,
         "scrollX": 1227,
@@ -610,7 +610,7 @@
     {
         "id": 72,
         "expanded": false,
-        "name": "アガート湿地帯地下３",
+        "name": "Agart Wetlands Underground 3",
         "order": 174,
         "parentId": 67,
         "scrollX": 1196.5714285714284,
@@ -619,7 +619,7 @@
     {
         "id": 73,
         "expanded": false,
-        "name": "アガート湿地帯最奥",
+        "name": "Deepest part of Agart Wetlands",
         "order": 175,
         "parentId": 67,
         "scrollX": 855.4285714285713,
@@ -628,7 +628,7 @@
     {
         "id": 74,
         "expanded": true,
-        "name": "プロペ森林入口試験用",
+        "name": "Prope Forest Entrance Test",
         "order": 51,
         "parentId": 30,
         "scrollX": 1047,
@@ -637,7 +637,7 @@
     {
         "id": 75,
         "expanded": false,
-        "name": "共通テント",
+        "name": "Common Tent",
         "order": 62,
         "parentId": 29,
         "scrollX": 985,
@@ -646,7 +646,7 @@
     {
         "id": 76,
         "expanded": false,
-        "name": "孤児院",
+        "name": "Orphanage",
         "order": 44,
         "parentId": 10,
         "scrollX": 1319.142857142857,
@@ -655,7 +655,7 @@
     {
         "id": 77,
         "expanded": false,
-        "name": "アルデア街道入り口",
+        "name": "Ardea Highway Entrance",
         "order": 63,
         "parentId": 29,
         "scrollX": 1031,
@@ -664,7 +664,7 @@
     {
         "id": 78,
         "expanded": false,
-        "name": "アルデア街道１",
+        "name": "Ardea Highway 1",
         "order": 64,
         "parentId": 77,
         "scrollX": 1009.7142857142857,
@@ -673,7 +673,7 @@
     {
         "id": 79,
         "expanded": false,
-        "name": "アルデア街道２",
+        "name": "Aldea Highway 2",
         "order": 65,
         "parentId": 77,
         "scrollX": 1009.7142857142857,
@@ -682,7 +682,7 @@
     {
         "id": 80,
         "expanded": false,
-        "name": "アルデア街道３",
+        "name": "Aldea Highway 3",
         "order": 66,
         "parentId": 77,
         "scrollX": 1009.7142857142857,
@@ -691,7 +691,7 @@
     {
         "id": 81,
         "expanded": false,
-        "name": "アルデア街道宿",
+        "name": "Aldea Highway Inn",
         "order": 67,
         "parentId": 77,
         "scrollX": 1063,
@@ -700,7 +700,7 @@
     {
         "id": 82,
         "expanded": true,
-        "name": "アルデア宿１F",
+        "name": "Ardea Inn 1F",
         "order": 68,
         "parentId": 81,
         "scrollX": 1063,
@@ -709,7 +709,7 @@
     {
         "id": 83,
         "expanded": false,
-        "name": "アルデア宿２F",
+        "name": "Ardea Inn 2nd Floor",
         "order": 69,
         "parentId": 81,
         "scrollX": 1016.5714285714286,
@@ -718,7 +718,7 @@
     {
         "id": 84,
         "expanded": false,
-        "name": "アルデア街道４",
+        "name": "Ardea Highway 4",
         "order": 70,
         "parentId": 77,
         "scrollX": 1390.2857142857142,
@@ -727,7 +727,7 @@
     {
         "id": 85,
         "expanded": false,
-        "name": "アルデア街道５",
+        "name": "Ardea Highway 5",
         "order": 71,
         "parentId": 77,
         "scrollX": 1069,
@@ -736,7 +736,7 @@
     {
         "id": 86,
         "expanded": false,
-        "name": "都市リムルン",
+        "name": "City Rimurun",
         "order": 176,
         "parentId": 66,
         "scrollX": 1344,
@@ -745,7 +745,7 @@
     {
         "id": 87,
         "expanded": true,
-        "name": "リムルン港",
+        "name": "Rimrun Port",
         "order": 177,
         "parentId": 86,
         "scrollX": 1069,
@@ -754,7 +754,7 @@
     {
         "id": 88,
         "expanded": false,
-        "name": "リムルン宿屋１F",
+        "name": "Rimrun Inn 1F",
         "order": 188,
         "parentId": 86,
         "scrollX": 1063,
@@ -763,7 +763,7 @@
     {
         "id": 89,
         "expanded": false,
-        "name": "リムルン宿屋２F",
+        "name": "Rimrun Inn 2nd Floor",
         "order": 189,
         "parentId": 88,
         "scrollX": 1063,
@@ -772,7 +772,7 @@
     {
         "id": 90,
         "expanded": false,
-        "name": "リムルン酒場",
+        "name": "Rimrun Tavern",
         "order": 190,
         "parentId": 86,
         "scrollX": 1063,
@@ -781,7 +781,7 @@
     {
         "id": 91,
         "expanded": false,
-        "name": "リムルン武具屋",
+        "name": "Rimrun Armory",
         "order": 191,
         "parentId": 86,
         "scrollX": 911.1428571428571,
@@ -790,7 +790,7 @@
     {
         "id": 92,
         "expanded": false,
-        "name": "リムルン道具屋",
+        "name": "Rimrun Tool Shop",
         "order": 192,
         "parentId": 86,
         "scrollX": 1063,
@@ -799,7 +799,7 @@
     {
         "id": 93,
         "expanded": false,
-        "name": "リムルン民家左",
+        "name": "Left of Rimrun Residence",
         "order": 193,
         "parentId": 86,
         "scrollX": 911.1428571428571,
@@ -808,7 +808,7 @@
     {
         "id": 94,
         "expanded": false,
-        "name": "リムルン民家右",
+        "name": "Right of Rimurun's House",
         "order": 194,
         "parentId": 86,
         "scrollX": 1063,
@@ -817,7 +817,7 @@
     {
         "id": 95,
         "expanded": false,
-        "name": "リムルン屋敷",
+        "name": "Rimurun Mansion",
         "order": 195,
         "parentId": 86,
         "scrollX": 1063,
@@ -826,7 +826,7 @@
     {
         "id": 96,
         "expanded": false,
-        "name": "リムルン教会",
+        "name": "Rimrun Church",
         "order": 196,
         "parentId": 86,
         "scrollX": 911.1428571428571,
@@ -835,7 +835,7 @@
     {
         "id": 97,
         "expanded": false,
-        "name": "リムルンギルド",
+        "name": "Rimuru",
         "order": 197,
         "parentId": 86,
         "scrollX": 911.1428571428571,
@@ -844,7 +844,7 @@
     {
         "id": 98,
         "expanded": true,
-        "name": "海",
+        "name": "Sea",
         "order": 178,
         "parentId": 87,
         "scrollX": 1069,
@@ -853,7 +853,7 @@
     {
         "id": 99,
         "expanded": false,
-        "name": "船内",
+        "name": "On the ship",
         "order": 179,
         "parentId": 98,
         "scrollX": 1023.4285714285713,
@@ -862,7 +862,7 @@
     {
         "id": 100,
         "expanded": false,
-        "name": "海岸",
+        "name": "Coast",
         "order": 180,
         "parentId": 98,
         "scrollX": 1069,
@@ -871,7 +871,7 @@
     {
         "id": 101,
         "expanded": true,
-        "name": "水の神殿",
+        "name": "Water Temple",
         "order": 181,
         "parentId": 98,
         "scrollX": 1063,
@@ -880,7 +880,7 @@
     {
         "id": 102,
         "expanded": true,
-        "name": "水の神殿内部",
+        "name": "Inside the Water Temple",
         "order": 182,
         "parentId": 101,
         "scrollX": 1069,
@@ -889,7 +889,7 @@
     {
         "id": 103,
         "expanded": false,
-        "name": "クライン島",
+        "name": "Klein Island",
         "order": 183,
         "parentId": 87,
         "scrollX": 1233,
@@ -898,7 +898,7 @@
     {
         "id": 104,
         "expanded": false,
-        "name": "クライン地下１Ｆ",
+        "name": "Klein Basement 1F",
         "order": 184,
         "parentId": 103,
         "scrollX": 1078.2857142857142,
@@ -907,7 +907,7 @@
     {
         "id": 105,
         "expanded": false,
-        "name": "クライン地下２Ｆ",
+        "name": "Klein Underground 2F",
         "order": 185,
         "parentId": 103,
         "scrollX": 1558.2857142857142,
@@ -916,7 +916,7 @@
     {
         "id": 106,
         "expanded": false,
-        "name": "クライン地下３Ｆ",
+        "name": "Klein Underground 3rd Floor",
         "order": 186,
         "parentId": 103,
         "scrollX": 841.7142857142857,
@@ -925,7 +925,7 @@
     {
         "id": 107,
         "expanded": false,
-        "name": "クライン地下最下層",
+        "name": "Klein Underground Bottom Layer",
         "order": 187,
         "parentId": 103,
         "scrollX": 855.4285714285713,
@@ -934,7 +934,7 @@
     {
         "id": 108,
         "expanded": false,
-        "name": "ラウルス森林",
+        "name": "Raulus Forest",
         "order": 198,
         "parentId": 66,
         "scrollX": 1141,
@@ -943,7 +943,7 @@
     {
         "id": 109,
         "expanded": false,
-        "name": "ラウルス森林１",
+        "name": "Raulus Forest 1",
         "order": 199,
         "parentId": 108,
         "scrollX": 879.4285714285713,
@@ -952,7 +952,7 @@
     {
         "id": 110,
         "expanded": false,
-        "name": "ラウルス森林２",
+        "name": "Raulus Forest 2",
         "order": 200,
         "parentId": 108,
         "scrollX": 1047,
@@ -961,7 +961,7 @@
     {
         "id": 111,
         "expanded": false,
-        "name": "ラウルス森林最奥",
+        "name": "Deepest part of the Raulus Forest",
         "order": 201,
         "parentId": 108,
         "scrollX": 1063,
@@ -970,7 +970,7 @@
     {
         "id": 112,
         "expanded": false,
-        "name": "風俗働かせ決め部屋",
+        "name": "Room to Decide on Making Sex Work",
         "order": 22,
         "parentId": 14,
         "scrollX": 991.7142857142857,
@@ -979,7 +979,7 @@
     {
         "id": 113,
         "expanded": false,
-        "name": "都市ロンゲー前",
+        "name": "Longe City",
         "order": 202,
         "parentId": 66,
         "scrollX": 1157,
@@ -988,7 +988,7 @@
     {
         "id": 114,
         "expanded": false,
-        "name": "ロンゲー宿屋",
+        "name": "Longe Inn",
         "order": 203,
         "parentId": 113,
         "scrollX": 1063,
@@ -997,7 +997,7 @@
     {
         "id": 115,
         "expanded": false,
-        "name": "ロンゲー宿屋隣",
+        "name": "Next to the Longe Inn",
         "order": 204,
         "parentId": 113,
         "scrollX": 1063,
@@ -1006,7 +1006,7 @@
     {
         "id": 116,
         "expanded": false,
-        "name": "ロンゲーテント",
+        "name": "Longe Tent",
         "order": 205,
         "parentId": 113,
         "scrollX": 1063,
@@ -1015,7 +1015,7 @@
     {
         "id": 117,
         "expanded": false,
-        "name": "ロンゲー武具屋",
+        "name": "Longe Armory",
         "order": 206,
         "parentId": 113,
         "scrollX": 1063,
@@ -1024,7 +1024,7 @@
     {
         "id": 118,
         "expanded": false,
-        "name": "ロンゲー道具屋",
+        "name": "Longe Tool Shop",
         "order": 207,
         "parentId": 113,
         "scrollX": 855.4285714285713,
@@ -1033,7 +1033,7 @@
     {
         "id": 119,
         "expanded": false,
-        "name": "ロンゲー小教会",
+        "name": "Longe Church",
         "order": 208,
         "parentId": 113,
         "scrollX": 1063,
@@ -1042,7 +1042,7 @@
     {
         "id": 120,
         "expanded": false,
-        "name": "ロンゲーギルド",
+        "name": "Longe Guild",
         "order": 209,
         "parentId": 113,
         "scrollX": 1063,
@@ -1051,7 +1051,7 @@
     {
         "id": 121,
         "expanded": false,
-        "name": "ロンゲー倉庫",
+        "name": "Longe Warehouse",
         "order": 210,
         "parentId": 113,
         "scrollX": 1063,
@@ -1060,7 +1060,7 @@
     {
         "id": 122,
         "expanded": false,
-        "name": "コイトゥス迷宮入り口",
+        "name": "Koitus Labyrinth Entrance",
         "order": 212,
         "parentId": 66,
         "scrollX": 1344,
@@ -1069,7 +1069,7 @@
     {
         "id": 123,
         "expanded": true,
-        "name": "コイトゥス迷宮1-左下",
+        "name": "Koitus Labyrinth 1 - Bottom Left",
         "order": 213,
         "parentId": 122,
         "scrollX": 1328,
@@ -1078,7 +1078,7 @@
     {
         "id": 124,
         "expanded": true,
-        "name": "コイトゥス迷宮1-左上",
+        "name": "Koitus Labyrinth 1 - Upper Left",
         "order": 214,
         "parentId": 123,
         "scrollX": 1047,
@@ -1087,7 +1087,7 @@
     {
         "id": 125,
         "expanded": false,
-        "name": "コイトゥス迷宮1-右上",
+        "name": "Koitus Labyrinth 1 - Upper Right",
         "order": 216,
         "parentId": 123,
         "scrollX": 841.7142857142857,
@@ -1096,7 +1096,7 @@
     {
         "id": 126,
         "expanded": false,
-        "name": "コイトゥス迷宮1-中",
+        "name": "Koitus Labyrinth 1-Middle",
         "order": 215,
         "parentId": 124,
         "scrollX": 1344,
@@ -1105,7 +1105,7 @@
     {
         "id": 127,
         "expanded": false,
-        "name": "コイトゥス迷宮1-右下",
+        "name": "Koitus Labyrinth 1 - Lower Right",
         "order": 217,
         "parentId": 123,
         "scrollX": 1075,
@@ -1114,7 +1114,7 @@
     {
         "id": 128,
         "expanded": false,
-        "name": "コイトゥス迷宮入り口２",
+        "name": "Koitus Labyrinth Entrance 2",
         "order": 218,
         "parentId": 122,
         "scrollX": 1063,
@@ -1123,7 +1123,7 @@
     {
         "id": 129,
         "expanded": false,
-        "name": "コイトゥス迷宮入り口３",
+        "name": "Koitus Labyrinth Entrance 3",
         "order": 223,
         "parentId": 122,
         "scrollX": 1063,
@@ -1132,7 +1132,7 @@
     {
         "id": 130,
         "expanded": false,
-        "name": "コイトゥス迷宮入り口４",
+        "name": "Koitus Labyrinth Entrance 4",
         "order": 228,
         "parentId": 122,
         "scrollX": 1063,
@@ -1141,7 +1141,7 @@
     {
         "id": 131,
         "expanded": true,
-        "name": "コイトゥス迷宮2-左下",
+        "name": "Koitus Labyrinth 2 - Bottom Left",
         "order": 219,
         "parentId": 128,
         "scrollX": 1558.2857142857142,
@@ -1150,7 +1150,7 @@
     {
         "id": 132,
         "expanded": true,
-        "name": "コイトゥス迷宮2-右下",
+        "name": "Koitus Labyrinth 2 - Bottom Right",
         "order": 220,
         "parentId": 128,
         "scrollX": 1558.2857142857142,
@@ -1159,7 +1159,7 @@
     {
         "id": 133,
         "expanded": true,
-        "name": "コイトゥス迷宮2-右上",
+        "name": "Koitus Labyrinth 2 - Upper Right",
         "order": 221,
         "parentId": 128,
         "scrollX": 1558.2857142857142,
@@ -1168,7 +1168,7 @@
     {
         "id": 134,
         "expanded": true,
-        "name": "コイトゥス迷宮2-右上上",
+        "name": "Koitus Labyrinth 2 - Upper Right",
         "order": 222,
         "parentId": 128,
         "scrollX": 1353,
@@ -1177,7 +1177,7 @@
     {
         "id": 135,
         "expanded": true,
-        "name": "コイトゥス迷宮3-右下",
+        "name": "Koitus Labyrinth 3 - Lower Right",
         "order": 224,
         "parentId": 129,
         "scrollX": 841.7142857142857,
@@ -1186,7 +1186,7 @@
     {
         "id": 136,
         "expanded": true,
-        "name": "コイトゥス迷宮3-右上",
+        "name": "Koitus Labyrinth 3 - Upper Right",
         "order": 225,
         "parentId": 129,
         "scrollX": 841.7142857142857,
@@ -1195,7 +1195,7 @@
     {
         "id": 137,
         "expanded": true,
-        "name": "コイトゥス迷宮3-左上",
+        "name": "Koitus Labyrinth 3 - Upper Left",
         "order": 226,
         "parentId": 129,
         "scrollX": 1353,
@@ -1204,7 +1204,7 @@
     {
         "id": 138,
         "expanded": true,
-        "name": "コイトゥス迷宮3-左下",
+        "name": "Koitus Labyrinth 3 - Bottom Left",
         "order": 227,
         "parentId": 129,
         "scrollX": 1353,
@@ -1213,7 +1213,7 @@
     {
         "id": 139,
         "expanded": true,
-        "name": "コイトゥス迷宮4-終",
+        "name": "Coitus Labyrinth 4 - End",
         "order": 235,
         "parentId": 130,
         "scrollX": 1063,
@@ -1222,7 +1222,7 @@
     {
         "id": 140,
         "expanded": true,
-        "name": "都市ロンゲー前２",
+        "name": "City Longe Before 2",
         "order": 211,
         "parentId": 113,
         "scrollX": 1063,
@@ -1231,7 +1231,7 @@
     {
         "id": 141,
         "expanded": true,
-        "name": "コイトゥス迷宮4-1",
+        "name": "Koitus Labyrinth 4-1",
         "order": 229,
         "parentId": 130,
         "scrollX": 841.7142857142857,
@@ -1240,7 +1240,7 @@
     {
         "id": 142,
         "expanded": true,
-        "name": "コイトゥス迷宮4-2",
+        "name": "Koitus Labyrinth 4-2",
         "order": 230,
         "parentId": 130,
         "scrollX": 1157.142857142857,
@@ -1249,7 +1249,7 @@
     {
         "id": 143,
         "expanded": true,
-        "name": "コイトゥス迷宮4-3(行き止まり",
+        "name": "Koitus Labyrinth 4-3 (Dead End)",
         "order": 231,
         "parentId": 130,
         "scrollX": 841.7142857142857,
@@ -1258,7 +1258,7 @@
     {
         "id": 144,
         "expanded": true,
-        "name": "コイトゥス迷宮4-4",
+        "name": "Koitus Labyrinth 4-4",
         "order": 232,
         "parentId": 130,
         "scrollX": 841.7142857142857,
@@ -1267,7 +1267,7 @@
     {
         "id": 145,
         "expanded": true,
-        "name": "コイトゥス迷宮4-5",
+        "name": "Koitus Labyrinth 4-5",
         "order": 233,
         "parentId": 130,
         "scrollX": 841.7142857142857,
@@ -1276,7 +1276,7 @@
     {
         "id": 146,
         "expanded": true,
-        "name": "コイトゥス迷宮4-6",
+        "name": "Coitus Labyrinth 4-6",
         "order": 234,
         "parentId": 130,
         "scrollX": 841.7142857142857,
@@ -1285,7 +1285,7 @@
     {
         "id": 147,
         "expanded": false,
-        "name": "小屋-断章",
+        "name": "Cabin - Fragment",
         "order": 236,
         "parentId": 66,
         "scrollX": 1045.7142857142856,
@@ -1294,7 +1294,7 @@
     {
         "id": 148,
         "expanded": true,
-        "name": "アケロー砦前",
+        "name": "Akero Fort Entrance",
         "order": 237,
         "parentId": 147,
         "scrollX": 1063,
@@ -1303,7 +1303,7 @@
     {
         "id": 149,
         "expanded": false,
-        "name": "アケロー１Ｆ",
+        "name": "Akero 1F",
         "order": 238,
         "parentId": 148,
         "scrollX": 1080.857142857143,
@@ -1312,7 +1312,7 @@
     {
         "id": 150,
         "expanded": false,
-        "name": "アケロー２Ｆ",
+        "name": "Akero 2F",
         "order": 239,
         "parentId": 148,
         "scrollX": 1047,
@@ -1321,7 +1321,7 @@
     {
         "id": 151,
         "expanded": false,
-        "name": "アケロー３Ｆ",
+        "name": "Akero 3F",
         "order": 240,
         "parentId": 148,
         "scrollX": 1080.857142857143,
@@ -1330,7 +1330,7 @@
     {
         "id": 152,
         "expanded": false,
-        "name": "大地の神殿入り口",
+        "name": "Entrance of the Temple of the Earth",
         "order": 72,
         "parentId": 29,
         "scrollX": 1069,
@@ -1339,7 +1339,7 @@
     {
         "id": 153,
         "expanded": false,
-        "name": "大地の神殿１Ｆ",
+        "name": "Temple of the Earth 1F",
         "order": 73,
         "parentId": 152,
         "scrollX": 742,
@@ -1348,7 +1348,7 @@
     {
         "id": 154,
         "expanded": false,
-        "name": "大地の神殿Ｂ１Ｆ－１",
+        "name": "Temple of the Earth B1F-1",
         "order": 74,
         "parentId": 152,
         "scrollX": 971.3333333333334,
@@ -1357,7 +1357,7 @@
     {
         "id": 155,
         "expanded": false,
-        "name": "大地の神殿Ｂ１Ｆ－２",
+        "name": "Temple of the Earth B1F-2",
         "order": 75,
         "parentId": 154,
         "scrollX": 925.7142857142857,
@@ -1366,7 +1366,7 @@
     {
         "id": 156,
         "expanded": false,
-        "name": "大地の神殿Ｂ１Ｆ－３",
+        "name": "Temple of the Earth B1F-3",
         "order": 76,
         "parentId": 154,
         "scrollX": 1907.9999999999998,
@@ -1375,7 +1375,7 @@
     {
         "id": 157,
         "expanded": false,
-        "name": "大地の神殿Ｂ２Ｆ－１",
+        "name": "Temple of the Earth B2F-1",
         "order": 77,
         "parentId": 152,
         "scrollX": 1907.3333333333333,
@@ -1384,7 +1384,7 @@
     {
         "id": 158,
         "expanded": false,
-        "name": "大地の神殿Ｂ２Ｆ－２",
+        "name": "Temple of the Earth B2F-2",
         "order": 78,
         "parentId": 157,
         "scrollX": 841.7142857142857,
@@ -1393,7 +1393,7 @@
     {
         "id": 159,
         "expanded": false,
-        "name": "大地の神殿Ｂ２Ｆ－３",
+        "name": "Temple of the Earth B2F-3",
         "order": 79,
         "parentId": 157,
         "scrollX": 1558.2857142857142,
@@ -1402,7 +1402,7 @@
     {
         "id": 160,
         "expanded": false,
-        "name": "大地の神殿Ｂ２Ｆ－４",
+        "name": "Temple of the Earth B2F-4",
         "order": 80,
         "parentId": 157,
         "scrollX": 841.7142857142857,
@@ -1411,7 +1411,7 @@
     {
         "id": 161,
         "expanded": false,
-        "name": "大地の神殿Ｂ２Ｆ－５",
+        "name": "Temple of the Earth B2F-5",
         "order": 81,
         "parentId": 157,
         "scrollX": 1702.2857142857142,
@@ -1420,7 +1420,7 @@
     {
         "id": 162,
         "expanded": false,
-        "name": "大地の神殿Ｂ３Ｆ－０",
+        "name": "Temple of the Earth B3F-0",
         "order": 82,
         "parentId": 152,
         "scrollX": 985,
@@ -1429,7 +1429,7 @@
     {
         "id": 163,
         "expanded": true,
-        "name": "大地の神殿Ｂ３Ｆ－１",
+        "name": "Temple of the Earth B3F-1",
         "order": 83,
         "parentId": 162,
         "scrollX": 1623.6,
@@ -1438,7 +1438,7 @@
     {
         "id": 164,
         "expanded": true,
-        "name": "大地の神殿Ｂ３Ｆ－２",
+        "name": "Temple of the Earth B3F-2",
         "order": 84,
         "parentId": 162,
         "scrollX": 842,
@@ -1447,7 +1447,7 @@
     {
         "id": 165,
         "expanded": true,
-        "name": "大地の神殿Ｂ３Ｆ－３",
+        "name": "Temple of the Earth B3F-3",
         "order": 85,
         "parentId": 162,
         "scrollX": 971.3333333333334,
@@ -1456,7 +1456,7 @@
     {
         "id": 166,
         "expanded": false,
-        "name": "大地の神殿Ｂ３Ｆ最深部",
+        "name": "Deepest part of the Great Earth Temple B3F",
         "order": 86,
         "parentId": 162,
         "scrollX": 1063,
@@ -1465,7 +1465,7 @@
     {
         "id": 167,
         "expanded": false,
-        "name": "地獣Ａ",
+        "name": "Beast A",
         "order": 87,
         "parentId": 166,
         "scrollX": 1063,
@@ -1474,7 +1474,7 @@
     {
         "id": 168,
         "expanded": true,
-        "name": "地獣表示用",
+        "name": "Beast Display",
         "order": 88,
         "parentId": 166,
         "scrollX": 1063,
@@ -1483,7 +1483,7 @@
     {
         "id": 169,
         "expanded": true,
-        "name": "地獣入り口",
+        "name": "Beast Entrance",
         "order": 89,
         "parentId": 29,
         "scrollX": 1045.7142857142856,
@@ -1492,7 +1492,7 @@
     {
         "id": 170,
         "expanded": false,
-        "name": "地獣1-1",
+        "name": "Beastland 1-1",
         "order": 90,
         "parentId": 169,
         "scrollX": 1604.5714285714284,
@@ -1501,7 +1501,7 @@
     {
         "id": 171,
         "expanded": false,
-        "name": "地獣1-2(右",
+        "name": "Beastland 1-2 (Right)",
         "order": 91,
         "parentId": 170,
         "scrollX": 842,
@@ -1510,7 +1510,7 @@
     {
         "id": 172,
         "expanded": false,
-        "name": "地獣1-3(左",
+        "name": "Beast Ground 1-3 (Left)",
         "order": 92,
         "parentId": 170,
         "scrollX": 842,
@@ -1519,7 +1519,7 @@
     {
         "id": 173,
         "expanded": true,
-        "name": "地獣1-4(右上",
+        "name": "Beastland 1-4 (Upper Right)",
         "order": 93,
         "parentId": 170,
         "scrollX": 1032,
@@ -1528,7 +1528,7 @@
     {
         "id": 174,
         "expanded": true,
-        "name": "地獣1-5(左上",
+        "name": "Beastland 1-5 (Top Left)",
         "order": 94,
         "parentId": 170,
         "scrollX": 1032,
@@ -1537,7 +1537,7 @@
     {
         "id": 175,
         "expanded": true,
-        "name": "地獣1-6(上上",
+        "name": "Beast Ground 1-6 (Upper Upper)",
         "order": 95,
         "parentId": 170,
         "scrollX": 1309.7142857142856,
@@ -1546,7 +1546,7 @@
     {
         "id": 176,
         "expanded": true,
-        "name": "地獣1-7(上上上",
+        "name": "Beast Ground 1-7 (Upper Upper Upper)",
         "order": 96,
         "parentId": 170,
         "scrollX": 1518.8571428571427,
@@ -1555,7 +1555,7 @@
     {
         "id": 177,
         "expanded": true,
-        "name": "地獣1-8(最奥",
+        "name": "Beast Ground 1-8 (Innermost)",
         "order": 97,
         "parentId": 170,
         "scrollX": 1045.7142857142856,
@@ -1564,7 +1564,7 @@
     {
         "id": 178,
         "expanded": true,
-        "name": "地獣2-1",
+        "name": "Beast Land 2-1",
         "order": 98,
         "parentId": 169,
         "scrollX": 1275.4285714285713,
@@ -1573,7 +1573,7 @@
     {
         "id": 179,
         "expanded": false,
-        "name": "地獣2-2左上",
+        "name": "Beast 2-2 Upper Left",
         "order": 99,
         "parentId": 178,
         "scrollX": 1032,
@@ -1582,7 +1582,7 @@
     {
         "id": 180,
         "expanded": true,
-        "name": "地獣2-3(右上",
+        "name": "Beastland 2-3 (Upper Right)",
         "order": 100,
         "parentId": 178,
         "scrollX": 1032,
@@ -1591,7 +1591,7 @@
     {
         "id": 181,
         "expanded": true,
-        "name": "地獣2-4(右上右",
+        "name": "Beastland 2-4 (Upper Right)",
         "order": 101,
         "parentId": 178,
         "scrollX": 1032,
@@ -1600,7 +1600,7 @@
     {
         "id": 182,
         "expanded": true,
-        "name": "地獣2-5(右上左",
+        "name": "Beastland 2-5 (Upper Right Left)",
         "order": 102,
         "parentId": 178,
         "scrollX": 1604.3999999999999,
@@ -1609,7 +1609,7 @@
     {
         "id": 183,
         "expanded": true,
-        "name": "地獣2-6(最奥",
+        "name": "Beastland 2-6 (Innermost)",
         "order": 103,
         "parentId": 178,
         "scrollX": 1275.6,
@@ -1618,7 +1618,7 @@
     {
         "id": 184,
         "expanded": true,
-        "name": "地獣2-6(最奥２",
+        "name": "Beastland 2-6 (Innermost 2)",
         "order": 104,
         "parentId": 178,
         "scrollX": 832,
@@ -1627,7 +1627,7 @@
     {
         "id": 185,
         "expanded": true,
-        "name": "地獣3-1",
+        "name": "Beastland 3-1",
         "order": 105,
         "parentId": 169,
         "scrollX": 1604.5714285714284,
@@ -1636,7 +1636,7 @@
     {
         "id": 186,
         "expanded": false,
-        "name": "地獣3-2(左２Ｆ",
+        "name": "Beastland 3-2 (Left 2F)",
         "order": 106,
         "parentId": 185,
         "scrollX": 1690.2857142857142,
@@ -1645,7 +1645,7 @@
     {
         "id": 187,
         "expanded": false,
-        "name": "地獣3-3(左３Ｆ",
+        "name": "Beastland 3-3 (Left 3F)",
         "order": 107,
         "parentId": 185,
         "scrollX": 1344.8571428571427,
@@ -1654,7 +1654,7 @@
     {
         "id": 188,
         "expanded": false,
-        "name": "地獣3-4(左左４Ｆ",
+        "name": "Beastland 3-4 (Left Left 4F)",
         "order": 108,
         "parentId": 185,
         "scrollX": 1305.4285714285713,
@@ -1663,7 +1663,7 @@
     {
         "id": 189,
         "expanded": false,
-        "name": "地獣3-5(左右４Ｆ",
+        "name": "Beastland 3-5 (Left and Right 4F)",
         "order": 109,
         "parentId": 185,
         "scrollX": 1886.5714285714284,
@@ -1672,7 +1672,7 @@
     {
         "id": 190,
         "expanded": false,
-        "name": "地獣3-6(右２Ｆ",
+        "name": "Beastland 3-6 (2nd floor right)",
         "order": 110,
         "parentId": 185,
         "scrollX": 1574.5714285714284,
@@ -1681,7 +1681,7 @@
     {
         "id": 191,
         "expanded": true,
-        "name": "地獣3-7(最奥",
+        "name": "Beast Ground 3-7 (Innermost)",
         "order": 111,
         "parentId": 185,
         "scrollX": 1275.6,
@@ -1690,7 +1690,7 @@
     {
         "id": 192,
         "expanded": true,
-        "name": "地獣4-1",
+        "name": "Beastland 4-1",
         "order": 112,
         "parentId": 169,
         "scrollX": 1604.5714285714284,
@@ -1699,7 +1699,7 @@
     {
         "id": 193,
         "expanded": false,
-        "name": "地獣4-2",
+        "name": "Beast Land 4-2",
         "order": 113,
         "parentId": 192,
         "scrollX": 1032,
@@ -1708,7 +1708,7 @@
     {
         "id": 194,
         "expanded": false,
-        "name": "地獣4-3",
+        "name": "Beast Land 4-3",
         "order": 114,
         "parentId": 192,
         "scrollX": 1032,
@@ -1717,7 +1717,7 @@
     {
         "id": 195,
         "expanded": true,
-        "name": "地獣4-4(最奥",
+        "name": "Beastland 4-4 (Innermost)",
         "order": 115,
         "parentId": 192,
         "scrollX": 1045.7142857142856,
@@ -1726,7 +1726,7 @@
     {
         "id": 196,
         "expanded": true,
-        "name": "地獣4-4(最奥イベ用",
+        "name": "Beastland 4-4 (Event Area)",
         "order": 116,
         "parentId": 195,
         "scrollX": 985,
@@ -1735,7 +1735,7 @@
     {
         "id": 197,
         "expanded": false,
-        "name": "小屋",
+        "name": "Cabin",
         "order": 154,
         "parentId": 35,
         "scrollX": 1157,
@@ -1744,7 +1744,7 @@
     {
         "id": 198,
         "expanded": false,
-        "name": "クエ２村の周り",
+        "name": "Around Quest 2 Village",
         "order": 119,
         "parentId": 33,
         "scrollX": 971.9999999999999,
@@ -1753,7 +1753,7 @@
     {
         "id": 199,
         "expanded": false,
-        "name": "クエ３西の森１",
+        "name": "Quest 3, Forest West 1",
         "order": 120,
         "parentId": 33,
         "scrollX": 1031,
@@ -1762,7 +1762,7 @@
     {
         "id": 200,
         "expanded": false,
-        "name": "クエ３西の森２",
+        "name": "Quest 3, Forest West 2",
         "order": 121,
         "parentId": 199,
         "scrollX": 1063,
@@ -1771,7 +1771,7 @@
     {
         "id": 201,
         "expanded": false,
-        "name": "クエ４洞窟",
+        "name": "Quest 4 Cave",
         "order": 122,
         "parentId": 33,
         "scrollX": 1344,
@@ -1780,7 +1780,7 @@
     {
         "id": 202,
         "expanded": false,
-        "name": "クエ４洞窟２",
+        "name": "Quest 4 Cave 2",
         "order": 123,
         "parentId": 201,
         "scrollX": 1063,
@@ -1789,7 +1789,7 @@
     {
         "id": 203,
         "expanded": false,
-        "name": "風俗イベ実行場所",
+        "name": "Location for the adult entertainment event",
         "order": 20,
         "parentId": 17,
         "scrollX": 911.1428571428571,
@@ -1798,7 +1798,7 @@
     {
         "id": 204,
         "expanded": false,
-        "name": "教会の近くの家",
+        "name": "House near the church",
         "order": 45,
         "parentId": 10,
         "scrollX": 1157,
@@ -1807,7 +1807,7 @@
     {
         "id": 205,
         "expanded": false,
-        "name": "クエ４洞窟Ｂ",
+        "name": "Quest 4 Cave B",
         "order": 124,
         "parentId": 201,
         "scrollX": 1063,
@@ -1816,7 +1816,7 @@
     {
         "id": 206,
         "expanded": true,
-        "name": "クエ４洞窟Ｂ２",
+        "name": "Quest 4 Cave B2",
         "order": 125,
         "parentId": 205,
         "scrollX": 1063,
@@ -1825,7 +1825,7 @@
     {
         "id": 207,
         "expanded": false,
-        "name": "クエ５森",
+        "name": "Quest 5 Forest",
         "order": 126,
         "parentId": 33,
         "scrollX": 1344,
@@ -1834,7 +1834,7 @@
     {
         "id": 208,
         "expanded": false,
-        "name": "魔導具屋",
+        "name": "Magic Tool Shop",
         "order": 46,
         "parentId": 10,
         "scrollX": 991.7142857142857,
@@ -1843,7 +1843,7 @@
     {
         "id": 209,
         "expanded": true,
-        "name": "クエ６近くの村",
+        "name": "Village near Quest 6",
         "order": 127,
         "parentId": 33,
         "scrollX": 991.7142857142857,
@@ -1852,7 +1852,7 @@
     {
         "id": 210,
         "expanded": false,
-        "name": "広めの家",
+        "name": "Spacious House",
         "order": 155,
         "parentId": 35,
         "scrollX": 991.7142857142857,
@@ -1861,7 +1861,7 @@
     {
         "id": 211,
         "expanded": false,
-        "name": "クエ７訓練場",
+        "name": "Quest 7 Training Grounds",
         "order": 128,
         "parentId": 33,
         "scrollX": 985.7142857142857,
@@ -1870,7 +1870,7 @@
     {
         "id": 212,
         "expanded": false,
-        "name": "クエ８隣町周辺",
+        "name": "Surroundings of Quest 8 Neighboring Town",
         "order": 129,
         "parentId": 33,
         "scrollX": 1047,
@@ -1879,7 +1879,7 @@
     {
         "id": 213,
         "expanded": false,
-        "name": "クエ９洞窟",
+        "name": "Quest 9 Cave",
         "order": 130,
         "parentId": 33,
         "scrollX": 1063,
@@ -1888,7 +1888,7 @@
     {
         "id": 214,
         "expanded": false,
-        "name": "クエ９洞窟２",
+        "name": "Quest 9 Cave 2",
         "order": 131,
         "parentId": 213,
         "scrollX": 971.9999999999999,
@@ -1897,7 +1897,7 @@
     {
         "id": 215,
         "expanded": false,
-        "name": "傭兵詰所１F-自動イベ専用",
+        "name": "Mercenary Quarters 1F - Auto Event Exclusive",
         "order": 7,
         "parentId": 15,
         "scrollX": 1319.142857142857,
@@ -1906,7 +1906,7 @@
     {
         "id": 216,
         "expanded": false,
-        "name": "クエ３－１隣町周辺",
+        "name": "Quest 3-1 Neighboring Town Area",
         "order": 132,
         "parentId": 33,
         "scrollX": 1328,
@@ -1915,7 +1915,7 @@
     {
         "id": 217,
         "expanded": false,
-        "name": "クエ３－２訓練場",
+        "name": "Quest 3-2 Training Ground",
         "order": 133,
         "parentId": 33,
         "scrollX": 1344,
@@ -1924,7 +1924,7 @@
     {
         "id": 218,
         "expanded": false,
-        "name": "クエ３－３村の周り",
+        "name": "Around the Village of Quest 3-3",
         "order": 134,
         "parentId": 33,
         "scrollX": 1063,
@@ -1933,7 +1933,7 @@
     {
         "id": 219,
         "expanded": false,
-        "name": "クエ３－４北の森１",
+        "name": "Quest 3-4, Northern Forest 1",
         "order": 135,
         "parentId": 33,
         "scrollX": 1063,
@@ -1942,7 +1942,7 @@
     {
         "id": 220,
         "expanded": false,
-        "name": "クエ３－４北の森２",
+        "name": "Quest 3-4, Northern Forest 2",
         "order": 136,
         "parentId": 219,
         "scrollX": 1063,
@@ -1951,7 +1951,7 @@
     {
         "id": 221,
         "expanded": false,
-        "name": "クエ４－２訓練場",
+        "name": "Quest 4-2 Training Grounds",
         "order": 138,
         "parentId": 33,
         "scrollX": 1344,
@@ -1960,7 +1960,7 @@
     {
         "id": 222,
         "expanded": false,
-        "name": "クエ４－１隣町周辺",
+        "name": "Quest 4-1 Neighboring Town Area",
         "order": 137,
         "parentId": 33,
         "scrollX": 1104,
@@ -1969,7 +1969,7 @@
     {
         "id": 223,
         "expanded": false,
-        "name": "クエ４－３西の森１",
+        "name": "Quest 4-3 West Forest 1",
         "order": 139,
         "parentId": 33,
         "scrollX": 1344,
@@ -1978,7 +1978,7 @@
     {
         "id": 224,
         "expanded": false,
-        "name": "クエ４－３西の森２",
+        "name": "Quest 4-3 West Forest 2",
         "order": 140,
         "parentId": 223,
         "scrollX": 971.9999999999999,
@@ -1987,7 +1987,7 @@
     {
         "id": 225,
         "expanded": true,
-        "name": "クエ４ー４山",
+        "name": "Quest 4-4 Mountain",
         "order": 141,
         "parentId": 33,
         "scrollX": 1344,
@@ -1996,7 +1996,7 @@
     {
         "id": 226,
         "expanded": false,
-        "name": "クエ４ー４洞窟",
+        "name": "Quest 4-4 Cave",
         "order": 142,
         "parentId": 225,
         "scrollX": 1344,
@@ -2005,7 +2005,7 @@
     {
         "id": 227,
         "expanded": true,
-        "name": "クエ４ー４洞窟Ｂ",
+        "name": "Quest 4-4 Cave B",
         "order": 143,
         "parentId": 225,
         "scrollX": 1063,
@@ -2014,7 +2014,7 @@
     {
         "id": 228,
         "expanded": true,
-        "name": "クエ４洞窟Ｂ２",
+        "name": "Quest 4 Cave B2",
         "order": 144,
         "parentId": 227,
         "scrollX": 1344,
@@ -2023,7 +2023,7 @@
     {
         "id": 229,
         "expanded": false,
-        "name": "回想部屋",
+        "name": "Flashback Room",
         "order": 8,
         "parentId": 15,
         "scrollX": 1305.4285714285713,
@@ -2032,7 +2032,7 @@
     {
         "id": 230,
         "expanded": false,
-        "name": "ドット絵回想",
+        "name": "Dot Art Flashback",
         "order": 9,
         "parentId": 229,
         "scrollX": 1141.7142857142856,
@@ -2041,7 +2041,7 @@
     {
         "id": 231,
         "expanded": false,
-        "name": "回想ギルド",
+        "name": "Flashback Guild",
         "order": 10,
         "parentId": 229,
         "scrollX": 1157,
@@ -2050,7 +2050,7 @@
     {
         "id": 232,
         "expanded": false,
-        "name": "回想広めの家",
+        "name": "House of Memories",
         "order": 11,
         "parentId": 229,
         "scrollX": 1045.7142857142856,
@@ -2059,7 +2059,7 @@
     {
         "id": 233,
         "expanded": false,
-        "name": "回想傭兵詰所１F",
+        "name": "Mercenary Quarters 1F",
         "order": 12,
         "parentId": 229,
         "scrollX": 1292.5714285714284,
@@ -2068,7 +2068,7 @@
     {
         "id": 234,
         "expanded": false,
-        "name": "回想宿屋2F",
+        "name": "Inn 2F",
         "order": 13,
         "parentId": 229,
         "scrollX": 1045.7142857142856,
@@ -2077,7 +2077,7 @@
     {
         "id": 235,
         "expanded": true,
-        "name": "回想詰所外",
+        "name": "Flashback - Outside the Storage Room",
         "order": 14,
         "parentId": 229,
         "scrollX": 1157,
@@ -2086,7 +2086,7 @@
     {
         "id": 236,
         "expanded": false,
-        "name": "回想テント左",
+        "name": "Left of the Flashback Tent",
         "order": 15,
         "parentId": 229,
         "scrollX": 991.7142857142857,
@@ -2095,7 +2095,7 @@
     {
         "id": 237,
         "expanded": false,
-        "name": "回想教会",
+        "name": "Flashback Church",
         "order": 16,
         "parentId": 229,
         "scrollX": 1045.7142857142856,
@@ -2104,7 +2104,7 @@
     {
         "id": 238,
         "expanded": false,
-        "name": "クエ５－２隣町周辺",
+        "name": "Quest 5-2 Neighboring Town Area",
         "order": 145,
         "parentId": 33,
         "scrollX": 1141,
@@ -2113,7 +2113,7 @@
     {
         "id": 239,
         "expanded": true,
-        "name": "クエ５－３遺跡１",
+        "name": "Quest 5-3 Ruins 1",
         "order": 146,
         "parentId": 33,
         "scrollX": 1032,
@@ -2122,7 +2122,7 @@
     {
         "id": 240,
         "expanded": false,
-        "name": "クエ５－３遺跡２",
+        "name": "Quest 5-3 Ruins 2",
         "order": 147,
         "parentId": 239,
         "scrollX": 1305.4285714285713,
@@ -2131,7 +2131,7 @@
     {
         "id": 241,
         "expanded": false,
-        "name": "クエ５－３遺跡３",
+        "name": "Quest 5-3 Ruins 3",
         "order": 148,
         "parentId": 239,
         "scrollX": 1305.4285714285713,
@@ -2140,7 +2140,7 @@
     {
         "id": 242,
         "expanded": false,
-        "name": "クエ５－３遺跡４",
+        "name": "Quest 5-3 Ruins 4",
         "order": 149,
         "parentId": 239,
         "scrollX": 1319.142857142857,
@@ -2149,7 +2149,7 @@
     {
         "id": 243,
         "expanded": true,
-        "name": "回想アパート１F",
+        "name": "Flashback Apartment 1F",
         "order": 17,
         "parentId": 229,
         "scrollX": 1045.7142857142856,
@@ -2158,7 +2158,7 @@
     {
         "id": 244,
         "expanded": false,
-        "name": "回想傭兵詰所２F",
+        "name": "Mercenary Quarters 2F",
         "order": 18,
         "parentId": 229,
         "scrollX": 1045.7142857142856,

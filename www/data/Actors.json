@@ -24,10 +24,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "クノ",
-        "nickname": "ヒュマ(淫魔)",
+        "name": "Kuno",
+        "nickname": "Huma (Succubus)",
         "note": "<face_picture:tati_saria_a001>\n<stand_picture:menu_kuno_001>\n<装備スロット:5-1>",
-        "profile": "傭兵としてそこそこの経験を積んだ女性。太郎の幼馴染でもある。\n装備武器：剣、拳、鞭、杖　防具：重装"
+        "profile": "A woman who has gained some experience as a mercenary. She is also Taro's childhood\nfriend. Equipped weapons: sword, fist, whip, staff. Armor: heavy armor."
     },
     {
         "id": 2,
@@ -53,10 +53,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ウカ",
-        "nickname": "フェレクス",
+        "name": "Uka",
+        "nickname": "Fereks",
         "note": "<stand_picture:menu_uka_001>\n<装備スロット:5-1>",
-        "profile": "幼少期に傭兵に拾われて傭兵をしてきた女性。夜の経験も豊富。\n装備武器：剣、短剣、斧、杖　防具：ALL"
+        "profile": "A woman who was picked up by mercenaries during her childhood and has been a mercenary\never since. She also has extensive experience in the night. Equipped weapons: sword,\ndagger, axe, staff. Armor: ALL."
     },
     {
         "id": 3,
@@ -82,10 +82,10 @@
         ],
         "initialLevel": 6,
         "maxLevel": 99,
-        "name": "ノンナ",
-        "nickname": "エルフ(淫魔)",
+        "name": "Nonna",
+        "nickname": "Elf (Succubus)",
         "note": "<stand_picture:menu_non_001>\n<装備スロット:5-1>",
-        "profile": "クノと太郎の育ての親。傭兵としての経験は長く、実力もある。\n装備武器：剣、弓、メイス、杖　防具：魔術"
+        "profile": "Kuno and Taro's foster parent. She has extensive experience as a mercenary and is skilled.\nEquipped weapons: sword, bow, mace, staff Armor: magic"
     },
     {
         "id": 4,
@@ -111,10 +111,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "プラエ",
-        "nickname": "淫魔",
+        "name": "Prae",
+        "nickname": "Succubus",
         "note": "<stand_picture:menu_pura_001>\n<装備スロット:5-1>",
-        "profile": "淫魔の女性。かなり長生きらしいがどれくらいかは謎"
+        "profile": "Female demon. It seems she has a pretty long lifespan, but how long exactly is a mystery."
     },
     {
         "id": 5,
@@ -140,10 +140,10 @@
         ],
         "initialLevel": 6,
         "maxLevel": 99,
-        "name": "フロス",
-        "nickname": "アクィス(淫魔)",
+        "name": "Fross",
+        "nickname": "Aquis (Succubus)",
         "note": "<stand_picture:menu_huro_001>\n<装備スロット:5-1>",
-        "profile": "街で治癒術士をしている女性。物腰が柔らかで親しまれている。\n装備武器：鞭、弓、メイス、杖　防具：魔術"
+        "profile": "A woman who works as a healing magician in the town. She is known for her gentle demeanor\nand is well-liked. Equipped Weapons: Whip, Bow, Mace, Staff Armor: Magic"
     },
     {
         "id": 6,
@@ -174,10 +174,10 @@
         ],
         "initialLevel": 11,
         "maxLevel": 99,
-        "name": "シア",
-        "nickname": "ヒュマ(淫魔)",
+        "name": "Shia",
+        "nickname": "Huma (Succubus)",
         "note": "<stand_picture:menu_sia_001>\n<装備スロット:5-1>",
-        "profile": "蒼の歌姫と呼ばれるとても有名な女性。その歌声は多くの人を魅了する。\n装備武器：斧、鞭、弓、杖　防具：魔術"
+        "profile": "She is a very famous woman who is called the Songstress of Azure. Her singing voice\ncaptivates many people. Equipped Weapons: Axe, Whip, Bow, Staff Armor: Magic"
     },
     {
         "id": 7,
@@ -197,10 +197,10 @@
         "traits": [],
         "initialLevel": 30,
         "maxLevel": 99,
-        "name": "サリア",
-        "nickname": "ヒュマ",
+        "name": "Saria",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_sari_001>\n<装備スロット:5-1>",
-        "profile": "とある街で兵隊長をしている女騎士。"
+        "profile": "A female knight who serves as a captain of the soldiers in a certain town."
     },
     {
         "id": 8,
@@ -220,10 +220,10 @@
         "traits": [],
         "initialLevel": 11,
         "maxLevel": 99,
-        "name": "サナ",
-        "nickname": "ヒュマ",
+        "name": "Sana",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_sia_001>\n<装備スロット:5-1>",
-        "profile": "何でも屋メニミスを家族で経営している錬金術師。"
+        "profile": "An alchemist who runs a family-owned business called Nandemoya Menimisu."
     },
     {
         "id": 9,
@@ -243,10 +243,10 @@
         "traits": [],
         "initialLevel": 11,
         "maxLevel": 99,
-        "name": "ジニー",
-        "nickname": "淫魔",
+        "name": "Ginny",
+        "nickname": "Succubus",
         "note": "<stand_picture:menu_sia_001>\n<装備スロット:5-1>",
-        "profile": "謎の淫魔"
+        "profile": "Mysterious Succubus"
     },
     {
         "id": 10,
@@ -585,10 +585,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ランド",
-        "nickname": "ヒュマ(淫魔)",
+        "name": "Land",
+        "nickname": "Huma (Succubus)",
         "note": "<stand_picture:menu_man_001>\n<magicSlot:1>\n<装備スロット:5-1>",
-        "profile": "幼い頃から傭兵をしていた。良くも悪くも普通の腕前である。\n装備武器：剣、斧、拳、杖　防具：重装"
+        "profile": "I have been a mercenary since I was young. I have average skills, neither good nor bad.\nEquipped weapons: sword, axe, fist, staff. Armor: heavy armor."
     },
     {
         "id": 22,
@@ -674,10 +674,10 @@
         ],
         "initialLevel": 6,
         "maxLevel": 99,
-        "name": "トールズ",
-        "nickname": "ヒュマ",
+        "name": "Tohru's",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_002>\n<装備スロット:5-1>",
-        "profile": "眠りの魔術士としてそこそこ名の知られた傭兵。\n装備武器：剣、短剣、鞭、杖　防具：魔術"
+        "profile": "A moderately well-known mercenary as a sleep magician. Equipped weapons: sword, dagger,\nwhip, staff. Armor: magic."
     },
     {
         "id": 23,
@@ -763,10 +763,10 @@
         ],
         "initialLevel": 6,
         "maxLevel": 99,
-        "name": "ドルトン",
-        "nickname": "ヒュマ",
+        "name": "Dalton",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_005>\n<装備スロット:5-1>",
-        "profile": "老練な傭兵。長年の経験による確かな技術を持つ。性欲は強い。\n装備武器：斧、拳、弓、杖　防具：重装"
+        "profile": "A seasoned mercenary. Possessing reliable skills from years of experience. Has a strong\nsexual desire. Equipped weapons: Axe, Fist, Bow, Staff. Armor: Heavy armor."
     },
     {
         "id": 24,
@@ -852,10 +852,10 @@
         ],
         "initialLevel": 6,
         "maxLevel": 99,
-        "name": "イエロー",
-        "nickname": "ヒュマ",
+        "name": "Yellow",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_004>\n<装備スロット:5-1>",
-        "profile": "ちゃらい傭兵。女遊びが好きで風俗店によく入り浸っている。\n装備武器：剣、短剣、弓、杖　防具：重装"
+        "profile": "A promiscuous mercenary. She enjoys playing with women and often frequents brothels.\nEquipped weapons: sword, dagger, bow, staff. Armor: heavy armor."
     },
     {
         "id": 25,
@@ -941,10 +941,10 @@
         ],
         "initialLevel": 8,
         "maxLevel": 99,
-        "name": "ロドリゴ",
-        "nickname": "ヒュマ",
+        "name": "Rodrigo",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
-        "profile": "冒険者として長い経験を持つ二メートルを超える巨漢。\n装備武器：剣、斧、メイス、杖　防具：重装"
+        "profile": "A giant of over two meters tall with extensive experience as an adventurer. Equipped with\nweapons: sword, axe, mace, staff. Armor: heavy armor."
     },
     {
         "id": 26,
@@ -1030,10 +1030,10 @@
         ],
         "initialLevel": 35,
         "maxLevel": 99,
-        "name": "グランド",
-        "nickname": "ヒュマ",
+        "name": "Grand",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
-        "profile": "隣国ディオスの諜報員。高い戦闘力を持つ。"
+        "profile": "A spy from the neighboring country Dios. Possesses high combat abilities."
     },
     {
         "id": 27,
@@ -1119,10 +1119,10 @@
         ],
         "initialLevel": 28,
         "maxLevel": 99,
-        "name": "ルーグ",
-        "nickname": "ヒュマ",
+        "name": "Luge",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
-        "profile": "隣国ディオスの諜報員。魔術が得意。"
+        "profile": "A spy from the neighboring country Dios. Skilled in magic."
     },
     {
         "id": 28,
@@ -1208,10 +1208,10 @@
         ],
         "initialLevel": 28,
         "maxLevel": 99,
-        "name": "ゲロルド",
-        "nickname": "ヒュマ",
+        "name": "Gerold",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
-        "profile": "隣国ディオスの諜報員。防御が強い。"
+        "profile": "A spy from the neighboring country Dios. She has strong defense."
     },
     {
         "id": 29,
@@ -1297,10 +1297,10 @@
         ],
         "initialLevel": 35,
         "maxLevel": 99,
-        "name": "カイ",
-        "nickname": "ヒュマ",
+        "name": "Kai",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
-        "profile": "元冒険者の何でも屋。\nハーレムを作りたいと考えている"
+        "profile": "Former adventurer turned jack-of-all-trades. I'm thinking of creating a harem."
     },
     {
         "id": 30,
@@ -1386,10 +1386,10 @@
         ],
         "initialLevel": 35,
         "maxLevel": 99,
-        "name": "イケス",
-        "nickname": "ヒュマ",
+        "name": "Ikesu",
+        "nickname": "Huma",
         "note": "<stand_picture:menu_man_003>\n<装備スロット:5-1>",
-        "profile": "生真面目な冒険者\nとてもイケメンで実力も高い"
+        "profile": "A very handsome and skilled adventurer who is very serious."
     },
     {
         "id": 31,
@@ -1409,10 +1409,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "テイル",
+        "name": "Tail",
         "nickname": "",
         "note": "",
-        "profile": "冒険者の男。\n寝取らせ趣味"
+        "profile": "Adventurer man. Cuckolding fetish."
     },
     {
         "id": 32,
@@ -1700,10 +1700,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ウラ",
-        "nickname": "なし",
+        "name": "Ura",
+        "nickname": "None",
         "note": "<stand_picture:menu_man_001>\n<magicSlot:1>",
-        "profile": "子供"
+        "profile": "child"
     },
     {
         "id": 42,
@@ -1991,8 +1991,8 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "スペード",
-        "nickname": "なし",
+        "name": "Spade",
+        "nickname": "None",
         "note": "<stand_picture:menu_man_001>\n名前変更男１（クノの相手",
         "profile": ""
     },
@@ -2075,8 +2075,8 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "グランド",
-        "nickname": "なし",
+        "name": "Grand",
+        "nickname": "None",
         "note": "<stand_picture:menu_man_001>\n名前変更男２ウカの相手？",
         "profile": ""
     },
@@ -2159,8 +2159,8 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "クラブ",
-        "nickname": "なし",
+        "name": "Club",
+        "nickname": "None",
         "note": "<stand_picture:menu_man_001>\n名前変更男３ノンナの相手",
         "profile": ""
     },
@@ -2243,8 +2243,8 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "クール",
-        "nickname": "なし",
+        "name": "Cool",
+        "nickname": "None",
         "note": "<stand_picture:menu_man_001>\n名前変更男４プラエの相手？",
         "profile": ""
     },
@@ -2327,8 +2327,8 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ダイヤ",
-        "nickname": "なし",
+        "name": "Dia",
+        "nickname": "None",
         "note": "<stand_picture:menu_man_001>\n名前変更男５フロスの相手",
         "profile": ""
     },
@@ -2411,8 +2411,8 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ハート",
-        "nickname": "なし",
+        "name": "Heart",
+        "nickname": "None",
         "note": "<stand_picture:menu_man_001>\n名前変更男６シアの相手",
         "profile": ""
     },

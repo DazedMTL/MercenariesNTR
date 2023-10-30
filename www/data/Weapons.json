@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 6,
-        "description": "装備LV.1 スロット数:1 攻撃力+6 防御力+1 魔力防御+1 \n最大HP+10 命中率+2",
+        "description": "Equipment LV.1 Slot: 1 Attack +6 Defense +1 Magic Defense +1 Maximum HP +10 Accuracy +2",
         "etypeId": 1,
         "traits": [
             {
@@ -23,7 +23,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "<kms_orbslot: 1, 0>\n<magicSlot:1>\n<requiredLevel:1>\n<装備スロット:5+1>",
         "params": [
             10,
@@ -41,7 +41,7 @@
     {
         "id": 2,
         "animationId": 6,
-        "description": "装備LV.6 スロット数:1 攻撃力+18 防御力+3 魔力防御+3 \n最大HP+20 命中率+4",
+        "description": "Equipment LV.6 Slot: 1 Attack +18 Defense +3 Magic Defense +3 Maximum HP +20 Accuracy +4",
         "etypeId": 1,
         "traits": [
             {
@@ -61,7 +61,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ロングソード",
+        "name": "Longsword",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<装備スロット:5+1>",
         "params": [
             20,
@@ -79,7 +79,7 @@
     {
         "id": 3,
         "animationId": 6,
-        "description": "装備LV.6 スロット数:3 攻撃力+18 防御力+3 魔力防御+3 \n最大HP+20 命中率+3",
+        "description": "Equipment LV.6 Number of slots: 3 Attack power +18 Defense +3 Magic defense +3 Maximum HP\n+20 Accuracy +3",
         "etypeId": 1,
         "traits": [
             {
@@ -99,7 +99,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "カットラス",
+        "name": "Cutlass",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:6>\n<装備スロット:5+3>",
         "params": [
             20,
@@ -117,7 +117,7 @@
     {
         "id": 4,
         "animationId": 6,
-        "description": "装備LV.6 スロット数:4 攻撃力+19 命中率+4",
+        "description": "Equipment LV.6 Number of slots: 4 Attack power +19 Accuracy +4",
         "etypeId": 1,
         "traits": [
             {
@@ -137,7 +137,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ショーテル",
+        "name": "Short Sword",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:6>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -155,7 +155,7 @@
     {
         "id": 5,
         "animationId": 6,
-        "description": "装備LV.11 スロット数:1 攻撃力+36 防御力+6 魔力防御+6 \n最大HP+40 命中率+10",
+        "description": "Equipment LV.11 Number of slots: 1 Attack power +36 Defense +6 Magic defense +6 Maximum HP\n+40 Accuracy +10",
         "etypeId": 1,
         "traits": [
             {
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "グラディウス",
+        "name": "Gradius",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<装備スロット:5+1>",
         "params": [
             40,
@@ -193,7 +193,7 @@
     {
         "id": 6,
         "animationId": 6,
-        "description": "装備LV.11 スロット数:3 攻撃力+45 防御力+8 魔力防御+8 \n最大HP+50 命中率+12",
+        "description": "Equipment LV.11 Number of slots: 3 Attack power +45 Defense +8 Magic defense +8 Maximum HP\n+50 Accuracy +12",
         "etypeId": 1,
         "traits": [
             {
@@ -213,7 +213,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ヴァングラディウス",
+        "name": "Vangladius",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<装備スロット:5+3>",
         "params": [
             50,
@@ -264,7 +264,7 @@
     {
         "id": 8,
         "animationId": 6,
-        "description": "装備LV.16 スロット数:2 攻撃力+63 防御力+10 魔力防御+10 \n最大HP+70 命中率+15",
+        "description": "Equipment LV.16 Number of slots: 2 Attack power +63 Defense +10 Magic defense +10 Maximum\nHP +70 Accuracy +15",
         "etypeId": 1,
         "traits": [
             {
@@ -284,7 +284,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "バスタードソード",
+        "name": "Bastard Sword",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<装備スロット:5+2>",
         "params": [
             70,
@@ -302,7 +302,7 @@
     {
         "id": 9,
         "animationId": 6,
-        "description": "装備LV.16 スロット数:4 攻撃力+80 防御力+12 魔力防御+12 \n最大HP+85 命中率+18",
+        "description": "Equipment LV.16 Number of slots: 4 Attack power +80 Defense +12 Magic defense +12 Maximum\nHP +85 Accuracy +18",
         "etypeId": 1,
         "traits": [
             {
@@ -322,7 +322,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "コイトゥスソード",
+        "name": "Coitus Sword",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:16>\n<装備スロット:5+4>",
         "params": [
             85,
@@ -373,7 +373,7 @@
     {
         "id": 11,
         "animationId": 6,
-        "description": "装備LV.21 スロット数:2 攻撃力+99 防御力+15 魔力防御+15 \n最大HP+100 命中率+22",
+        "description": "Equipment LV.21 Number of slots: 2 Attack power +99 Defense power +15 Magic defense +15\nMaximum HP +100 Accuracy rate +22",
         "etypeId": 1,
         "traits": [
             {
@@ -393,7 +393,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "フランベルジュ",
+        "name": "Flamberge",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<装備スロット:5+2>",
         "params": [
             100,
@@ -411,7 +411,7 @@
     {
         "id": 12,
         "animationId": 6,
-        "description": "装備LV.21 スロット数:4 攻撃力+119 防御力+18 魔力防御+18 \n最大HP+120 命中率+25",
+        "description": "Equipment LV.21 Number of slots: 4 Attack power +119 Defense power +18 Magic defense +18\nMaximum HP +120 Hit rate +25",
         "etypeId": 1,
         "traits": [
             {
@@ -431,7 +431,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "デュランダル",
+        "name": "Durandal",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:21>\n<装備スロット:5+4>",
         "params": [
             120,
@@ -482,7 +482,7 @@
     {
         "id": 14,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:2 攻撃力+138 防御力+21 魔力防御+21 \n最大HP+140 命中率+28",
+        "description": "Equipment LV.26 Number of slots: 2 Attack power +138 Defense +21 Magic defense +21 Maximum\nHP +140 Accuracy +28",
         "etypeId": 1,
         "traits": [
             {
@@ -502,7 +502,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ダマスカスソード",
+        "name": "Damascus Sword",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<装備スロット:5+2>",
         "params": [
             140,
@@ -520,7 +520,7 @@
     {
         "id": 15,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:4 攻撃力+165 防御力+25 魔力防御+25 \n最大HP+170 命中率+31",
+        "description": "Equipment LV.26 Number of slots: 4 Attack power +165 Defense +25 Magic defense +25 Maximum\nHP +170 Accuracy +31",
         "etypeId": 1,
         "traits": [
             {
@@ -540,7 +540,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ガイアソード",
+        "name": "Gaia Sword",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
         "params": [
             170,
@@ -558,7 +558,7 @@
     {
         "id": 16,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:4 攻撃力+157 防御力+29 魔力防御+29 \n最大HP+183 命中率+29",
+        "description": "Equipment LV.26 Number of slots: 4 Attack power +157 Defense +29 Magic defense +29 Maximum\nHP +183 Accuracy +29",
         "etypeId": 1,
         "traits": [
             {
@@ -578,7 +578,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ラミアンソード",
+        "name": "Lamia Sword",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
         "params": [
             183,
@@ -728,7 +728,7 @@
     {
         "id": 21,
         "animationId": 6,
-        "description": "装備LV.1 スロット数:1 攻撃力+4 敏捷性+2 命中率+4 回避率+2\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.1 Slot: 1 Attack +4 Agility +2 Hit Rate +4 Evasion Rate +2 Normal Attack:\nWith Agility Modifier",
         "etypeId": 1,
         "traits": [
             {
@@ -753,7 +753,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ナイフ",
+        "name": "Knife",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<skill_id:21>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -771,7 +771,7 @@
     {
         "id": 22,
         "animationId": 6,
-        "description": "装備LV.6 スロット数:1 攻撃力+13 敏捷性+5 命中率+6 回避率+3\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.6 Number of slots: 1 Attack power +13 Agility +5 Hit rate +6 Evasion rate +3\nNormal attack: With agility adjustment.",
         "etypeId": 1,
         "traits": [
             {
@@ -796,7 +796,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ダガー",
+        "name": "Dagger",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<skill_id:21>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -880,7 +880,7 @@
     {
         "id": 25,
         "animationId": 6,
-        "description": "装備LV.11 スロット数:1 攻撃力+26 敏捷性+10 命中率+15 回避率+5\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.11 Slot: 1 Attack Power +26 Agility +10 Hit Rate +15 Evasion Rate +5 Normal\nAttack: With Agility Modifier",
         "etypeId": 1,
         "traits": [
             {
@@ -905,7 +905,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ククリ",
+        "name": "Kukuri",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<skill_id:21>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -923,7 +923,7 @@
     {
         "id": 26,
         "animationId": 6,
-        "description": "装備LV.11 スロット数:4 攻撃力+34 敏捷性+12 命中率+17 回避率+7\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.11 Number of slots: 4 Attack power +34 Agility +12 Hit rate +17 Evasion rate\n+7 Normal attack: Agility modifier applies",
         "etypeId": 1,
         "traits": [
             {
@@ -948,7 +948,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ミセリコルデ",
+        "name": "Miseri Cord",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:11>\n<skill_id:21>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -999,7 +999,7 @@
     {
         "id": 28,
         "animationId": 6,
-        "description": "装備LV.16 スロット数:2 攻撃力+47 敏捷性+17 命中率+22 回避率+8\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.16 Number of slots: 2 Attack power +47 Agility +17 Hit rate +22 Evasion rate\n+8 Normal attack: Agility modifier applies",
         "etypeId": 1,
         "traits": [
             {
@@ -1024,7 +1024,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ハンターナイフ",
+        "name": "Hunter Knife",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<skill_id:21>\n<装備スロット:5+2>",
         "params": [
             0,
@@ -1108,7 +1108,7 @@
     {
         "id": 31,
         "animationId": 6,
-        "description": "装備LV.21 スロット数:2 攻撃力+78 敏捷性+25 命中率+30 回避率+11\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.21 Number of slots: 2 Attack power +78 Agility +25 Hit rate +30 Evasion rate\n+11 Normal attack: Agility modifier applies",
         "etypeId": 1,
         "traits": [
             {
@@ -1133,7 +1133,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ハンターククリ",
+        "name": "Hunter Claw",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<skill_id:21>\n<装備スロット:5+2>",
         "params": [
             0,
@@ -1151,7 +1151,7 @@
     {
         "id": 32,
         "animationId": 6,
-        "description": "装備LV.21 スロット数:4 攻撃力+92 敏捷性+29 命中率+35 回避率+12\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.21 Number of slots: 4 Attack power +92 Agility +29 Hit rate +35 Evasion rate\n+12 Normal attack: Agility modifier applies",
         "etypeId": 1,
         "traits": [
             {
@@ -1176,7 +1176,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ウメガイ",
+        "name": "Plum Shell",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:21>\n<skill_id:21>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -1227,7 +1227,7 @@
     {
         "id": 34,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:2 攻撃力+111 敏捷性+34 命中率+40 回避率+14\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.26 Number of slots: 2 Attack power +111 Agility +34 Hit rate +40 Evasion rate\n+14 Normal attack: Agility modifier applies",
         "etypeId": 1,
         "traits": [
             {
@@ -1252,7 +1252,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ダマスカスダガー",
+        "name": "Damascus Dagger",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<skill_id:21>\n<装備スロット:5+2>",
         "params": [
             0,
@@ -1270,7 +1270,7 @@
     {
         "id": 35,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:4 攻撃力+131 敏捷性+40 命中率+45 回避率+16\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.26 Number of slots: 4 Attack power +131 Agility +40 Hit rate +45 Evasion rate\n+16 Normal attack: Agility modifier applies",
         "etypeId": 1,
         "traits": [
             {
@@ -1295,7 +1295,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ガイアナイフ",
+        "name": "Gaia Knife",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<skill_id:21>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -1313,7 +1313,7 @@
     {
         "id": 36,
         "animationId": 11,
-        "description": "装備LV.26 スロット数:0 攻撃力+141 敏捷性+40 命中率+45 回避率+16\n通常攻撃時：敏捷性補正あり",
+        "description": "Equipment LV.26 Number of slots: 0 Attack power +141 Agility +40 Hit rate +45 Evasion rate\n+16 Normal attack: Agility modifier applies",
         "etypeId": 1,
         "traits": [
             {
@@ -1343,7 +1343,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ノードゥス",
+        "name": "Nodus",
         "note": "<kms_orbslot: 0, 0>\n<requiredLevel:26>\n<skill_id:21>\n<装備スロット:5+0>",
         "params": [
             0,
@@ -1493,7 +1493,7 @@
     {
         "id": 41,
         "animationId": 16,
-        "description": "装備LV.1 スロット数:1 攻撃力+2 敏捷性+1 最大HP+5 最大MP+2\n通常攻撃時：２回攻撃",
+        "description": "Equipment LV.1 Slot: 1 Attack +2 Agility +1 Max HP +5 Max MP +2 Normal attack: Attacks\ntwice.",
         "etypeId": 1,
         "traits": [
             {
@@ -1513,7 +1513,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "バグナウ",
+        "name": "Bagnau",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<装備スロット:5+1>",
         "params": [
             5,
@@ -1531,7 +1531,7 @@
     {
         "id": 42,
         "animationId": 1,
-        "description": "装備LV.6 スロット数:1 攻撃力+8 敏捷性+2 最大HP+10 最大MP+5\n通常攻撃時：２回攻撃",
+        "description": "Equipment LV.6 Number of slots: 1 Attack power +8 Agility +2 Maximum HP +10 Maximum MP +5\nNormal attack: Attacks twice.",
         "etypeId": 1,
         "traits": [
             {
@@ -1551,7 +1551,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "セスタス",
+        "name": "Cestus",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<装備スロット:5+1>",
         "params": [
             10,
@@ -1635,7 +1635,7 @@
     {
         "id": 45,
         "animationId": 1,
-        "description": "装備LV.11 スロット数:1 攻撃力+16 敏捷性+5 最大HP+20 最大MP+10\n通常攻撃時：２回攻撃",
+        "description": "Equipment LV.11 Number of slots: 1 Attack power +16 Agility +5 Maximum HP +20 Maximum MP\n+10 Normal attack: Attacks twice.",
         "etypeId": 1,
         "traits": [
             {
@@ -1655,7 +1655,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ナックル",
+        "name": "Knuckles",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<装備スロット:5+1>",
         "params": [
             20,
@@ -1739,7 +1739,7 @@
     {
         "id": 48,
         "animationId": 1,
-        "description": "装備LV.16 スロット数:2 攻撃力+31 敏捷性+9 最大HP+35 最大MP+20 \n命中率+5 通常攻撃時：２回攻撃",
+        "description": "Equipment LV.16 Number of slots: 2 Attack power +31 Agility +9 Maximum HP +35 Maximum MP\n+20  Accuracy +5 Normal attack: Attacks twice.",
         "etypeId": 1,
         "traits": [
             {
@@ -1764,7 +1764,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "強化セスタス",
+        "name": "Enhanced Cestus",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<装備スロット:5+2>",
         "params": [
             35,
@@ -1782,7 +1782,7 @@
     {
         "id": 49,
         "animationId": 1,
-        "description": "装備LV.16 スロット数:4 攻撃力+38 敏捷性+12 最大HP+42 最大MP+23 \n命中率+6 通常攻撃時：２回攻撃",
+        "description": "Equipment LV.16 Number of slots: 4 Attack power +38 Agility +12 Maximum HP +42 Maximum MP\n+23 Accuracy +6 Normal attacks: Attack twice.",
         "etypeId": 1,
         "traits": [
             {
@@ -1807,7 +1807,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "コイトゥスクロー",
+        "name": "Coitus Claw",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:16>\n<装備スロット:5+4>",
         "params": [
             42,
@@ -1825,7 +1825,7 @@
     {
         "id": 50,
         "animationId": 1,
-        "description": "装備LV.16 スロット数:4 攻撃力+41 敏捷性+13 最大HP+40 最大MP+20 \n命中率+8 通常攻撃時：２回攻撃",
+        "description": "Equipment LV.16 Number of slots: 4 Attack power +41 Agility +13 Maximum HP +40 Maximum MP\n+20 Accuracy +8 Normal attacks: Attack twice.",
         "etypeId": 1,
         "traits": [
             {
@@ -1850,7 +1850,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ストルティオクロー",
+        "name": "Stultioclaw",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:16>\n<装備スロット:5+4>",
         "params": [
             40,
@@ -1868,7 +1868,7 @@
     {
         "id": 51,
         "animationId": 1,
-        "description": "装備LV.21 スロット数:2 攻撃力+48 敏捷性+14 最大HP+50 最大MP+27 \n命中率+7 通常攻撃時：２回攻撃",
+        "description": "Equipment LV.21 Number of slots: 2 Attack power +48 Agility +14 Maximum HP +50 Maximum MP\n+27 Accuracy +7 Normal attacks: 2 attacks",
         "etypeId": 1,
         "traits": [
             {
@@ -1893,7 +1893,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ドラゴンナックル",
+        "name": "Dragon Knuckles",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<装備スロット:5+2>",
         "params": [
             50,
@@ -1977,7 +1977,7 @@
     {
         "id": 54,
         "animationId": 16,
-        "description": "装備LV.26 スロット数:2 攻撃力+68 敏捷性+18 最大HP+70 最大MP+36 命中率+10\n通常攻撃時：２回攻撃",
+        "description": "Equipment LV.26 Number of slots: 2 Attack power +68 Agility +18 Max HP +70 Max MP +36 Hit\nrate +10 Normal attack: Attacks twice.",
         "etypeId": 1,
         "traits": [
             {
@@ -2002,7 +2002,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ダマスカスクロー",
+        "name": "Damascus Claw",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<装備スロット:5+2>",
         "params": [
             70,
@@ -2020,7 +2020,7 @@
     {
         "id": 55,
         "animationId": 16,
-        "description": "装備LV.26 スロット数:4 攻撃力+82 敏捷性+20 最大HP+84 最大MP+40 \n命中率+12 通常攻撃時：２回攻撃",
+        "description": "Equipment LV.26 Number of slots: 4 Attack power +82 Agility +20 Maximum HP +84 Maximum MP\n+40  Accuracy +12 Normal attack: Attacks twice",
         "etypeId": 1,
         "traits": [
             {
@@ -2045,7 +2045,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ガイアナックル",
+        "name": "Gaia Knuckles",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
         "params": [
             84,
@@ -2228,7 +2228,7 @@
     {
         "id": 61,
         "animationId": 6,
-        "description": "装備LV.1 スロット数:1 攻撃力+8 防御力-2  魔力防御-2 敏捷性-2\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.1 Slot: 1 Attack +8 Defense -2 Magic Defense -2 Agility -2 Critical Rate +30\nNormal attacks are less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2248,7 +2248,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ハンドアクス",
+        "name": "Hand Axe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<skill_id:22>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -2266,7 +2266,7 @@
     {
         "id": 62,
         "animationId": 6,
-        "description": "装備LV.6 スロット数:1 攻撃力+23 防御力-4  魔力防御-4 敏捷性-4\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.6 Slot: 1 Attack +23 Defense -4 Magic Defense -4 Agility -4 Critical Rate +30\nNormal attacks are less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2286,7 +2286,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バトルアクス",
+        "name": "Battle Axe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<skill_id:22>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -2370,7 +2370,7 @@
     {
         "id": 65,
         "animationId": 6,
-        "description": "装備LV.11 スロット数:1 攻撃力+46 防御力-8  魔力防御-8 敏捷性-8\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.11 Slot: 1 Attack +46 Defense -8 Magic Defense -8 Agility -8 Critical Rate\n+30 Normal Attacks: Less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2390,7 +2390,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バタフライアクス",
+        "name": "Butterfly Axe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<skill_id:22>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -2408,7 +2408,7 @@
     {
         "id": 66,
         "animationId": 6,
-        "description": "装備LV.11 スロット数:2 攻撃力+70 防御力-15  魔力防御-15 敏捷性-15\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.11 Number of slots: 2 Attack power +70 Defense -15 Magic defense -15 Agility\n-15 Critical rate +30 Normal attacks are less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2428,7 +2428,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "フォールンアクス",
+        "name": "Fallen Axe",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:11>\n<skill_id:22>\n<装備スロット:5+2>",
         "params": [
             0,
@@ -2479,7 +2479,7 @@
     {
         "id": 68,
         "animationId": 6,
-        "description": "装備LV.16 スロット数:1 攻撃力+78 防御力-12  魔力防御-12 敏捷性-12\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.16 Slot: 1 Attack +78 Defense -12 Magic Defense -12 Agility -12 Critical Rate\n+30 Normal attacks are less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2499,7 +2499,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "グレートアクス",
+        "name": "Great Axe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:16>\n<skill_id:22>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -2583,7 +2583,7 @@
     {
         "id": 71,
         "animationId": 6,
-        "description": "装備LV.21 スロット数:1 攻撃力+121 防御力-16  魔力防御-16 敏捷性-16\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.21 Slot: 1 Attack +121 Defense -16 Magic Defense -16 Agility -16 Critical\nRate +30 Normal attacks are less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2603,7 +2603,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ギガントアクス",
+        "name": "Gigant Axe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:21>\n<skill_id:22>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -2621,7 +2621,7 @@
     {
         "id": 72,
         "animationId": 6,
-        "description": "装備LV.21 スロット数:3 攻撃力+140 防御力-18  魔力防御-18 敏捷性-18\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.21 Number of slots: 3 Attack power +140 Defense -18 Magic defense -18 Agility\n-18 Critical rate +30 Normal attacks are less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2641,7 +2641,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ゴブリンハンマー",
+        "name": "Goblin Hammer",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:21>\n<skill_id:22>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -2692,7 +2692,7 @@
     {
         "id": 74,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:1 攻撃力+166 防御力-20  魔力防御-20 敏捷性-20\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.26 Slot: 1 Attack +166 Defense -20 Magic Defense -20 Agility -20 Critical\nRate +30 Normal attacks are less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2712,7 +2712,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ダマスカスアクス",
+        "name": "Damascus Axe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:26>\n<skill_id:22>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -2730,7 +2730,7 @@
     {
         "id": 75,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:3 攻撃力+192 防御力-23  魔力防御-23 敏捷性-23\n会心率+30 通常攻撃時：敵防御の影響を受けにくい",
+        "description": "Equipment LV.26 Number of slots: 3 Attack power +192 Defense -23 Magic defense -23 Agility\n-23 Critical rate +30 Normal attacks are less affected by enemy defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -2750,7 +2750,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ガイアアクス",
+        "name": "Gaia Axe",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:26>\n<skill_id:22>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -2933,7 +2933,7 @@
     {
         "id": 81,
         "animationId": 6,
-        "description": "装備LV.1 スロット数:1 攻撃力+6\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.1 Slot: 1 Attack Power +6 Normal attacks: Damage decreases but becomes a\ngroup attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -2948,7 +2948,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "皮の鞭",
+        "name": "Leather Whip",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<skill_id:23>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -2966,7 +2966,7 @@
     {
         "id": 82,
         "animationId": 6,
-        "description": "装備LV.6 スロット数:1 攻撃力+18\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.6 Number of slots: 1 Attack power +18 Normal attacks: Damage decreases but\nbecomes a group attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -2981,7 +2981,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "茨の鞭",
+        "name": "Thorn Whip",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<skill_id:23>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -2999,7 +2999,7 @@
     {
         "id": 83,
         "animationId": 6,
-        "description": "装備LV.6 スロット数:3 攻撃力+17\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.6 Number of slots: 3 Attack power +17 Normal attacks: Damage decreases but\nbecomes a group attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -3014,7 +3014,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "フルーメン",
+        "name": "Flumen",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:6>\n<skill_id:23>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -3065,7 +3065,7 @@
     {
         "id": 85,
         "animationId": 6,
-        "description": "装備LV.11 スロット数:1 攻撃力+36\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.11 Number of slots: 1 Attack power +36 Normal attacks: Damage decreases but\nbecomes a group attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -3080,7 +3080,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "チェーンウィップ",
+        "name": "Chain Whip",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<skill_id:23>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -3164,7 +3164,7 @@
     {
         "id": 88,
         "animationId": 6,
-        "description": "装備LV.16 スロット数:2 攻撃力+63 命中率+5\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.16 Number of slots: 2 Attack power +63 Accuracy +5 Normal attacks: Damage\ndecreases but becomes a group attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -3184,7 +3184,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "鋼の鞭",
+        "name": "Steel Whip",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<skill_id:23>\n<装備スロット:5+2>",
         "params": [
             0,
@@ -3268,7 +3268,7 @@
     {
         "id": 91,
         "animationId": 6,
-        "description": "装備LV.21 スロット数:2 攻撃力+99 命中率+7\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.21 Number of slots: 2 Attack power +99 Accuracy +7 Normal attacks: Damage\ndecreases but becomes a group attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -3288,7 +3288,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "白蛇の鞭",
+        "name": "White Snake Whip",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<skill_id:23>\n<装備スロット:5+2>",
         "params": [
             0,
@@ -3306,7 +3306,7 @@
     {
         "id": 92,
         "animationId": 6,
-        "description": "装備LV.21 スロット数:4 攻撃力+119 命中率+8\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.21 Number of slots: 4 Attack power +119 Accuracy +8 Normal attacks: Damage\ndecreases but becomes a group attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -3326,7 +3326,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "打神鞭",
+        "name": "Divine Whip",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:21>\n<skill_id:23>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -3377,7 +3377,7 @@
     {
         "id": 94,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:2 攻撃力+138 命中率+10\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.26 Number of slots: 2 Attack power +138 Accuracy +10 Normal attacks: Damage\ndecreases but becomes a group attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -3397,7 +3397,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "ダマスカスウィップ",
+        "name": "Damascus Whip",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<skill_id:23>\n<装備スロット:5+2>",
         "params": [
             0,
@@ -3415,7 +3415,7 @@
     {
         "id": 95,
         "animationId": 6,
-        "description": "装備LV.26 スロット数:4 攻撃力+165 命中率+13\n通常攻撃時：ダメージは下がるが全体攻撃",
+        "description": "Equipment LV.26 Number of slots: 4 Attack power +165 Hit rate +13 Normal attack: Damage\ndecreases but becomes a group attack.",
         "etypeId": 1,
         "traits": [
             {
@@ -3435,7 +3435,7 @@
             }
         ],
         "iconIndex": 100,
-        "name": "ガイアウィップ",
+        "name": "Gaia Whip",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<skill_id:23>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -3618,7 +3618,7 @@
     {
         "id": 101,
         "animationId": 11,
-        "description": "装備LV.1 スロット数:0 攻撃力+10 防御力-6 魔力防御-6 \n命中率+4 回避率-5",
+        "description": "Equipment LV.1 Slot number: 0 Attack power +10 Defense -6 Magic defense -6  Accuracy +4\nEvasion -5",
         "etypeId": 1,
         "traits": [
             {
@@ -3648,7 +3648,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ショートボウ",
+        "name": "Short Bow",
         "note": "<kms_orbslot: 0, 0>\n<requiredLevel:1>",
         "params": [
             0,
@@ -3666,7 +3666,7 @@
     {
         "id": 102,
         "animationId": 11,
-        "description": "装備LV.6 スロット数:0 攻撃力+30 防御力-15 魔力防御-15 \n命中率+6 回避率-8",
+        "description": "Equipment LV.6 Number of slots: 0 Attack power +30 Defense -15 Magic defense -15 Accuracy\n+6 Evasion -8",
         "etypeId": 1,
         "traits": [
             {
@@ -3696,7 +3696,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ロングボウ",
+        "name": "Longbow",
         "note": "<kms_orbslot: 0, 0>\n<requiredLevel:6>",
         "params": [
             0,
@@ -3780,7 +3780,7 @@
     {
         "id": 105,
         "animationId": 11,
-        "description": "装備LV.11 スロット数:0 攻撃力+60 防御力-25 魔力防御-25 \n命中率+15 回避率-11",
+        "description": "Equipment LV.11 Slot number: 0 Attack power +60 Defense power -25 Magic defense -25\nAccuracy +15 Evasion -11",
         "etypeId": 1,
         "traits": [
             {
@@ -3810,7 +3810,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "コンポジットボウ",
+        "name": "Composite Bow",
         "note": "<kms_orbslot: 0, 0>\n<requiredLevel:11>",
         "params": [
             0,
@@ -3894,7 +3894,7 @@
     {
         "id": 108,
         "animationId": 11,
-        "description": "装備LV.16 スロット数:1 攻撃力+105 防御力-37 魔力防御-37 \n命中率+28 回避率-15",
+        "description": "Equipment LV.16 Slot: 1 Attack +105 Defense -37 Magic Defense -37 Accuracy +28 Evasion -15",
         "etypeId": 1,
         "traits": [
             {
@@ -3924,7 +3924,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ハンターボウ",
+        "name": "Hunter Bow",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:16>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -3942,7 +3942,7 @@
     {
         "id": 109,
         "animationId": 11,
-        "description": "装備LV.16 スロット数:3 攻撃力+135 防御力-42 魔力防御-42 \n命中率+34 回避率-17",
+        "description": "Equipment LV.16 Slot number: 3 Attack power +135 Defense -42 Magic defense -42 Accuracy\n+34 Evasion -17",
         "etypeId": 1,
         "traits": [
             {
@@ -3972,7 +3972,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "コイトゥスボウ",
+        "name": "Coitus Bow",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:16>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -4023,7 +4023,7 @@
     {
         "id": 111,
         "animationId": 11,
-        "description": "装備LV.21 スロット数:1 攻撃力+165 防御力-50 魔力防御-50 \n命中率+40 回避率-20",
+        "description": "Equipment LV.21 Slot: 1 Attack +165 Defense -50 Magic Defense -50 Accuracy +40 Evasion -20",
         "etypeId": 1,
         "traits": [
             {
@@ -4053,7 +4053,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "グレートボウ",
+        "name": "Great Bow",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:21>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -4137,7 +4137,7 @@
     {
         "id": 114,
         "animationId": 11,
-        "description": "装備LV.26 スロット数:1 攻撃力+230 防御力-65 魔力防御-65 \n命中率+55 回避率-25",
+        "description": "Equipment LV.26 Slot number: 1 Attack power +230 Defense power -65 Magic defense -65\nAccuracy +55 Evasion rate -25",
         "etypeId": 1,
         "traits": [
             {
@@ -4167,7 +4167,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ダマスカスボウ",
+        "name": "Damascus Bow",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:26>\n<装備スロット:5+1>",
         "params": [
             0,
@@ -4185,7 +4185,7 @@
     {
         "id": 115,
         "animationId": 11,
-        "description": "装備LV.26 スロット数:3 攻撃力+270 防御力-72 魔力防御-72 \n命中率+64 回避率-29",
+        "description": "Equipment LV.26 Number of slots: 3 Attack power +270 Defense -72 Magic defense -72\nAccuracy +64 Evasion -29",
         "etypeId": 1,
         "traits": [
             {
@@ -4215,7 +4215,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ガイアボウ",
+        "name": "Gaia Bow",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:26>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -4266,7 +4266,7 @@
     {
         "id": 117,
         "animationId": 11,
-        "description": "装備LV.36 スロット数:3 攻撃力+330 防御力-95 魔力防御-95 \n命中率+77 回避率-34",
+        "description": "Equipment LV.36 Number of slots: 3 Attack power +330 Defense power -95 Magic defense -95\nAccuracy +77 Evasion -34",
         "etypeId": 1,
         "traits": [
             {
@@ -4296,7 +4296,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "テッラボウ",
+        "name": "Terra Bow",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:36>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -4413,7 +4413,7 @@
     {
         "id": 121,
         "animationId": 1,
-        "description": "装備LV.1 スロット数:3 防御力-6  魔力攻撃+6 魔力防御-3 最大MP+5\n",
+        "description": "Equipment LV.1 Slot: 3 Defense -6 Magic Attack +6 Magic Defense -3 Max MP +5",
         "etypeId": 1,
         "traits": [
             {
@@ -4433,7 +4433,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ウッドスタッフ",
+        "name": "Wood Staff",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:1>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -4451,7 +4451,7 @@
     {
         "id": 122,
         "animationId": 1,
-        "description": "装備LV.6 スロット数:3 防御力-15 魔力攻撃+18 魔力防御-7 最大MP+10\n",
+        "description": "Equipment LV.6 Number of slots: 3 Defense -15 Magic attack +18 Magic defense -7 Maximum MP\n+10",
         "etypeId": 1,
         "traits": [
             {
@@ -4471,7 +4471,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "魔術士の杖",
+        "name": "Mage's Staff",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:6>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -4555,7 +4555,7 @@
     {
         "id": 125,
         "animationId": 1,
-        "description": "装備LV.11 スロット数:3 防御力-25 魔力攻撃+36 魔力防御-12 最大MP+20\n",
+        "description": "Equipment LV.11 Slot number: 3 Defense -25 Magic attack +36 Magic defense -12 Maximum MP\n+20",
         "etypeId": 1,
         "traits": [
             {
@@ -4575,7 +4575,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "神秘の杖",
+        "name": "Staff of Mystery",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:11>\n<装備スロット:5+3>",
         "params": [
             0,
@@ -4659,7 +4659,7 @@
     {
         "id": 128,
         "animationId": 1,
-        "description": "装備LV.16 スロット数:4 防御力-37 魔力攻撃+63 魔力防御-18 最大MP+35\n",
+        "description": "Equipment LV.16 Number of slots: 4 Defense -37 Magic attack +63 Magic defense -18 Maximum\nMP +35",
         "etypeId": 1,
         "traits": [
             {
@@ -4679,7 +4679,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "フォーススタッフ",
+        "name": "Force Staff",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:16>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -4697,7 +4697,7 @@
     {
         "id": 129,
         "animationId": 1,
-        "description": "装備LV.16 スロット数:5 防御力-42 魔力攻撃+80 魔力防御-21 最大MP+45\n",
+        "description": "Equipment LV.16 Number of slots: 5 Defense -42 Magic attack +80 Magic defense -21 Maximum\nMP +45",
         "etypeId": 1,
         "traits": [
             {
@@ -4717,7 +4717,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "コイトゥススタッフ",
+        "name": "Coitus Staff",
         "note": "<kms_orbslot: 5, 0>\n<requiredLevel:16>\n<装備スロット:5+5>",
         "params": [
             0,
@@ -4768,7 +4768,7 @@
     {
         "id": 131,
         "animationId": 1,
-        "description": "装備LV.21 スロット数:4 防御力-50 魔力攻撃+99 魔力防御-25 最大MP+55\n",
+        "description": "Equipment LV.21 Number of slots: 4 Defense -50 Magic attack +99 Magic defense -25 Maximum\nMP +55",
         "etypeId": 1,
         "traits": [
             {
@@ -4788,7 +4788,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "プライドスタッフ",
+        "name": "Pride Staff",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:21>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -4872,7 +4872,7 @@
     {
         "id": 134,
         "animationId": 1,
-        "description": "装備LV.26 スロット数:4 防御力-65 魔力攻撃+138 魔力防御-32 最大MP+77\n",
+        "description": "Equipment LV.26 Number of slots: 4 Defense -65 Magic attack +138 Magic defense -32 Maximum\nMP +77",
         "etypeId": 1,
         "traits": [
             {
@@ -4892,7 +4892,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "スキールニルの杖",
+        "name": "Staff of Skyrnir",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
         "params": [
             0,
@@ -4910,7 +4910,7 @@
     {
         "id": 135,
         "animationId": 1,
-        "description": "装備LV.26 スロット数:5 防御力-72 魔力攻撃+165 魔力防御-36 最大MP+88\n",
+        "description": "Equipment LV.26 Number of slots: 5 Defense -72 Magic attack +165 Magic defense -36 Maximum\nMP +88",
         "etypeId": 1,
         "traits": [
             {
@@ -4930,7 +4930,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ガイアスタッフ",
+        "name": "Gaia Staff",
         "note": "<kms_orbslot: 5, 0>\n<requiredLevel:26>\n<装備スロット:5+5>",
         "params": [
             0,
@@ -5113,7 +5113,7 @@
     {
         "id": 141,
         "animationId": 1,
-        "description": "装備LV.1 スロット数:1 攻撃力+5 魔力攻撃+4 最大HP+5 最大MP+3",
+        "description": "Equipment LV.1 Slot: 1 Attack +5 Magic Attack +4 Max HP +5 Max MP +3",
         "etypeId": 1,
         "traits": [
             {
@@ -5128,7 +5128,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "鉄のメイス",
+        "name": "Iron Mace",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<装備スロット:5+1>",
         "params": [
             5,
@@ -5146,7 +5146,7 @@
     {
         "id": 142,
         "animationId": 1,
-        "description": "装備LV.6 スロット数:1 攻撃力+15 魔力攻撃+12 最大HP+10 最大MP+6",
+        "description": "Equipment LV.6 Slot: 1 Attack +15 Magic Attack +12 Max HP +10 Max MP +6",
         "etypeId": 1,
         "traits": [
             {
@@ -5161,7 +5161,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "トゲのメイス",
+        "name": "Thorn Mace",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<装備スロット:5+1>",
         "params": [
             10,
@@ -5245,7 +5245,7 @@
     {
         "id": 145,
         "animationId": 1,
-        "description": "装備LV.11 スロット数:1 攻撃力+30 魔力攻撃+24 最大HP+20 最大MP+12",
+        "description": "Equipment LV.11 Slot: 1 Attack Power +30 Magic Attack +24 Max HP +20 Max MP +12",
         "etypeId": 1,
         "traits": [
             {
@@ -5260,7 +5260,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ウォーメイス",
+        "name": "War Mace",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<装備スロット:5+1>",
         "params": [
             20,
@@ -5278,7 +5278,7 @@
     {
         "id": 146,
         "animationId": 1,
-        "description": "装備LV.11 スロット数:3 攻撃力+31 魔力攻撃+33 最大HP+25 最大MP+16",
+        "description": "Equipment LV.11 Number of slots: 3 Attack power +31 Magic attack +33 Maximum HP +25\nMaximum MP +16",
         "etypeId": 1,
         "traits": [
             {
@@ -5293,7 +5293,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "プルプレメイス",
+        "name": "Purple Mace",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:11>\n<装備スロット:5+3>",
         "params": [
             25,
@@ -5344,7 +5344,7 @@
     {
         "id": 148,
         "animationId": 1,
-        "description": "装備LV.16 スロット数:2 攻撃力+54 魔力攻撃+42 最大HP+35 最大MP+21",
+        "description": "Equipment LV.16 Number of slots: 2 Attack power +54 Magic attack +42 Maximum HP +35\nMaximum MP +21",
         "etypeId": 1,
         "traits": [
             {
@@ -5359,7 +5359,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "グレートメイス",
+        "name": "Great Mace",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<装備スロット:5+2>",
         "params": [
             35,
@@ -5443,7 +5443,7 @@
     {
         "id": 151,
         "animationId": 1,
-        "description": "装備LV.21 スロット数:2 攻撃力+85 魔力攻撃+66 最大HP+50 最大MP+33",
+        "description": "Equipment LV.21 Number of slots: 2 Attack power +85 Magic attack +66 Maximum HP +50\nMaximum MP +33",
         "etypeId": 1,
         "traits": [
             {
@@ -5458,7 +5458,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "テンプルメイス",
+        "name": "Temple Mace",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<装備スロット:5+2>",
         "params": [
             50,
@@ -5542,7 +5542,7 @@
     {
         "id": 154,
         "animationId": 1,
-        "description": "装備LV.26 スロット数:2 攻撃力+121 魔力攻撃+92 最大HP+70 最大MP+46",
+        "description": "Equipment LV.26 Number of slots: 2 Attack power +121 Magic attack +92 Maximum HP +70\nMaximum MP +46",
         "etypeId": 1,
         "traits": [
             {
@@ -5557,7 +5557,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ダマスカスメイス",
+        "name": "Damascus Mace",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<装備スロット:5+2>",
         "params": [
             70,
@@ -5575,7 +5575,7 @@
     {
         "id": 155,
         "animationId": 1,
-        "description": "装備LV.26 スロット数:4 攻撃力+142 魔力攻撃+107 最大HP+81 最大MP+52",
+        "description": "Equipment LV.26 Number of slots: 4 Attack power +142 Magic attack +107 Maximum HP +81\nMaximum MP +52",
         "etypeId": 1,
         "traits": [
             {
@@ -5590,7 +5590,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ガイアメイス",
+        "name": "Gaia Mace",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
         "params": [
             81,
@@ -7093,7 +7093,7 @@
     {
         "id": 201,
         "animationId": 0,
-        "description": "ファイアが使えるようになる",
+        "description": "I become able to use Fire.",
         "etypeId": 1,
         "traits": [
             {
@@ -7113,7 +7113,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "魔導球-ファイア",
+        "name": "Magic Orb - Fire",
         "note": "",
         "params": [
             0,
@@ -7131,7 +7131,7 @@
     {
         "id": 202,
         "animationId": 0,
-        "description": "スパークが使えるようになる",
+        "description": "I become able to use Spark.",
         "etypeId": 1,
         "traits": [
             {
@@ -7151,7 +7151,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "魔導球-スパーク",
+        "name": "Magic Orb - Spark",
         "note": "",
         "params": [
             0,
@@ -10385,7 +10385,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "==パッシヴスキル効果==",
+        "name": "== Passive Skill Effect ==",
         "note": "",
         "params": [
             0,
@@ -10403,7 +10403,7 @@
     {
         "id": 301,
         "animationId": 0,
-        "description": "攻撃力+2",
+        "description": "Attack power +2",
         "etypeId": 1,
         "traits": [
             {
@@ -10418,7 +10418,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "攻撃力＋2",
+        "name": "Attack Power +2",
         "note": "",
         "params": [
             10,

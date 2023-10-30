@@ -3,11 +3,11 @@
     {
         "id": 1,
         "atypeId": 4,
-        "description": "装備LV.1 スロット数:2 防御力+3 魔力防御+3 最大HP+8",
+        "description": "Equipment LV.1 Slot number: 2 Defense +3 Magic defense +3 Maximum HP +8",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "傭兵の服",
+        "name": "Mercenary's Clothes",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:1>\n<装備スロット:5+2>",
         "params": [
             8,
@@ -24,7 +24,7 @@
     {
         "id": 2,
         "atypeId": 2,
-        "description": "装備LV.1 スロット数:1 防御力+6 魔力防御+3 最大HP+15",
+        "description": "Equipment LV.1 Slot: 1 Defense +6 Magic Defense +3 Max HP +15",
         "etypeId": 2,
         "traits": [
             {
@@ -34,7 +34,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "傭兵の鎧",
+        "name": "Mercenary Armor",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<装備スロット:5+1>",
         "params": [
             15,
@@ -51,11 +51,11 @@
     {
         "id": 3,
         "atypeId": 3,
-        "description": "装備LV.1 スロット数:1 防御力+3 魔力防御+6 最大HP+11 最大MP+4",
+        "description": "Equipment LV.1 Slot: 1 Defense +3 Magic Defense +6 Max HP +11 Max MP +4",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 139,
-        "name": "傭兵の法衣",
+        "name": "Mercenary Robe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:1>\n<装備スロット:5+1>",
         "params": [
             11,
@@ -72,7 +72,7 @@
     {
         "id": 4,
         "atypeId": 4,
-        "description": "装備LV.4 スロット数:1 防御力+12 魔力防御+12 最大HP+20",
+        "description": "Equipment LV.4 Slot number: 1 Defense +12 Magic defense +12 Maximum HP +20",
         "etypeId": 2,
         "traits": [
             {
@@ -82,7 +82,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "強化ベスト",
+        "name": "Strengthened Vest",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:4>\n<装備スロット:5+1>",
         "params": [
             20,
@@ -99,11 +99,11 @@
     {
         "id": 5,
         "atypeId": 4,
-        "description": "装備LV.6 スロット数:2 防御力+9 魔力防御+9 最大HP+15",
+        "description": "Equipment LV.6 Number of slots: 2 Defense +9 Magic defense +9 Maximum HP +15",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "特殊作業衣",
+        "name": "Special Work Clothes",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:6>\n<装備スロット:5+2>",
         "params": [
             15,
@@ -120,7 +120,7 @@
     {
         "id": 6,
         "atypeId": 2,
-        "description": "装備LV.6 スロット数:1 防御力+18 魔力防御+9 最大HP+30",
+        "description": "Equipment LV.6 Slot number: 1 Defense +18 Magic defense +9 Maximum HP +30",
         "etypeId": 2,
         "traits": [
             {
@@ -130,7 +130,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "アイアンメイル",
+        "name": "Iron Mail",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<装備スロット:5+1>",
         "params": [
             30,
@@ -147,11 +147,11 @@
     {
         "id": 7,
         "atypeId": 3,
-        "description": "装備LV.6 スロット数:1 防御力+9 魔力防御+18 最大HP+23 最大MP+12",
+        "description": "Equipment LV.6 Slot: 1 Defense +9 Magic Defense +18 Max HP +23 Max MP +12",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 139,
-        "name": "魔術士の法衣",
+        "name": "Mage's Robe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:6>\n<装備スロット:5+1>",
         "params": [
             23,
@@ -168,7 +168,7 @@
     {
         "id": 8,
         "atypeId": 2,
-        "description": "装備LV.6 スロット数:2 防御力+20 魔力防御+10 最大HP+35",
+        "description": "Equipment LV.6 Number of slots: 2 Defense +20 Magic defense +10 Maximum HP +35",
         "etypeId": 2,
         "traits": [
             {
@@ -178,7 +178,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ラケルタメイル",
+        "name": "Raktameil",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:6>\n<装備スロット:5+2>",
         "params": [
             35,
@@ -249,7 +249,7 @@
     {
         "id": 11,
         "atypeId": 4,
-        "description": "装備LV.9 スロット数:1 防御力+27 魔力防御+27 最大HP+40",
+        "description": "Equipment LV.9 Slot number: 1 Defense +27 Magic defense +27 Maximum HP +40",
         "etypeId": 2,
         "traits": [
             {
@@ -259,7 +259,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "鎖帷子",
+        "name": "Chain Haori",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:9>\n<装備スロット:5+1>",
         "params": [
             40,
@@ -276,11 +276,11 @@
     {
         "id": 12,
         "atypeId": 4,
-        "description": "装備LV.11 スロット数3 防御力+21 魔力防御+21 最大HP+30",
+        "description": "Equipment LV.11, 3 slots, Defense +21, Magic Defense +21, Max HP +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "コットンタブレット",
+        "name": "Cotton Tablet",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:11>\n<装備スロット:5+3>",
         "params": [
             30,
@@ -297,7 +297,7 @@
     {
         "id": 13,
         "atypeId": 2,
-        "description": "装備LV.11 スロット数:1 防御力+42 魔力防御+21 最大HP+60",
+        "description": "Equipment LV.11 Slot number: 1 Defense +42 Magic defense +21 Maximum HP +60",
         "etypeId": 2,
         "traits": [
             {
@@ -307,7 +307,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "バンデッドメイル",
+        "name": "Banded Mail",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<装備スロット:5+1>",
         "params": [
             60,
@@ -324,11 +324,11 @@
     {
         "id": 14,
         "atypeId": 3,
-        "description": "装備LV.11 スロット数:1 防御力+21 魔力防御+42 最大HP+45 最大MP+24",
+        "description": "Equipment LV.11 Slot number: 1 Defense +21 Magic defense +42 Maximum HP +45 Maximum MP +24",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 139,
-        "name": "ウールローブ",
+        "name": "Wool Robe",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:11>\n<装備スロット:5+1>",
         "params": [
             45,
@@ -345,11 +345,11 @@
     {
         "id": 15,
         "atypeId": 3,
-        "description": "装備LV.11 スロット数:3 防御力+24 魔力防御+48 最大HP+50 最大MP+29",
+        "description": "Equipment LV.11 Number of slots: 3 Defense +24 Magic defense +48 Maximum HP +50 Maximum MP\n+29",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 139,
-        "name": "シュバルツローブ",
+        "name": "Schwarze Robe",
         "note": "<kms_orbslot: 3, 0>\n<requiredLevel:11>\n<装備スロット:5+3>",
         "params": [
             50,
@@ -420,7 +420,7 @@
     {
         "id": 18,
         "atypeId": 4,
-        "description": "装備LV.14 スロット数:1 防御力+48 魔力防御+48 最大HP+70",
+        "description": "Equipment LV.14 Slot: 1 Defense +48 Magic Defense +48 Max HP +70",
         "etypeId": 2,
         "traits": [
             {
@@ -430,7 +430,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "シャインベスト",
+        "name": "Shine Vest",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:14>\n<装備スロット:5+1>",
         "params": [
             70,
@@ -447,11 +447,11 @@
     {
         "id": 19,
         "atypeId": 4,
-        "description": "装備LV.16 スロット数:4 防御力+36 魔力防御+36 最大HP+53",
+        "description": "Equipment LV.16 Number of slots: 4 Defense +36 Magic defense +36 Maximum HP +53",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "クールコート",
+        "name": "Cool Coat",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:16>\n<装備スロット:5+4>",
         "params": [
             53,
@@ -468,7 +468,7 @@
     {
         "id": 20,
         "atypeId": 2,
-        "description": "装備LV.16 スロット数:2 防御力+72 魔力防御+36 最大HP+105",
+        "description": "Equipment LV.16 Number of slots: 2 Defense +72 Magic defense +36 Maximum HP +105",
         "etypeId": 2,
         "traits": [
             {
@@ -478,7 +478,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ヘヴィメイル",
+        "name": "Heavy Mail",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<装備スロット:5+2>",
         "params": [
             105,
@@ -495,11 +495,11 @@
     {
         "id": 21,
         "atypeId": 3,
-        "description": "装備LV.16 スロット数:2 防御力+36 魔力防御+72 最大HP+79 最大MP+40",
+        "description": "Equipment LV.16 Number of slots: 2 Defense +36 Magic defense +72 Maximum HP +79 Maximum MP\n+40",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 139,
-        "name": "神秘の法衣",
+        "name": "Mystical Robe",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:16>\n<装備スロット:5+2>",
         "params": [
             79,
@@ -516,11 +516,11 @@
     {
         "id": 22,
         "atypeId": 4,
-        "description": "装備LV.16 スロット数:5 防御力+50 魔力防御+50 最大HP+77",
+        "description": "Equipment LV.16 Number of slots: 5 Defense +50 Magic defense +50 Maximum HP +77",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "ホワイトコート",
+        "name": "White Coat",
         "note": "<kms_orbslot: 5, 0>\n<requiredLevel:16>\n<装備スロット:5+5>",
         "params": [
             77,
@@ -591,7 +591,7 @@
     {
         "id": 25,
         "atypeId": 4,
-        "description": "装備LV.19 スロット数:1 防御力+80 魔力防御+80 最大HP+135",
+        "description": "Equipment LV.19 Slot: 1 Defense +80 Magic Defense +80 Max HP +135",
         "etypeId": 2,
         "traits": [
             {
@@ -601,7 +601,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "フラワーシャツ",
+        "name": "Flower Shirt",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:19>\n<装備スロット:5+1>",
         "params": [
             135,
@@ -618,11 +618,11 @@
     {
         "id": 26,
         "atypeId": 4,
-        "description": "装備LV.21 スロット数:4 防御力+60 魔力防御+60 最大HP+98",
+        "description": "Equipment LV.21 Number of slots: 4 Defense +60 Magic defense +60 Maximum HP +98",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "ブラックコート",
+        "name": "Black Coat",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:21>\n<装備スロット:5+4>",
         "params": [
             98,
@@ -639,7 +639,7 @@
     {
         "id": 27,
         "atypeId": 2,
-        "description": "装備LV.21 スロット数:2 防御力+120 魔力防御+60 最大HP+195",
+        "description": "Equipment LV.21 Number of slots: 2 Defense +120 Magic defense +60 Maximum HP +195",
         "etypeId": 2,
         "traits": [
             {
@@ -649,7 +649,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ドラゴンメイル",
+        "name": "Dragon Mail",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<装備スロット:5+2>",
         "params": [
             195,
@@ -666,11 +666,11 @@
     {
         "id": 28,
         "atypeId": 3,
-        "description": "装備LV.21 スロット数:2 防御力+60 魔力防御+120 最大HP+149 最大MP+60",
+        "description": "Equipment LV.21 Number of slots: 2 Defense +60 Magic defense +120 Maximum HP +149 Maximum\nMP +60",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 139,
-        "name": "クリムゾンローブ",
+        "name": "Crimson Robe",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:21>\n<装備スロット:5+2>",
         "params": [
             149,
@@ -687,7 +687,7 @@
     {
         "id": 29,
         "atypeId": 2,
-        "description": "装備LV.21 スロット数:4 防御力+150 魔力防御+75 最大HP+270",
+        "description": "Equipment LV.21 Number of slots: 4 Defense +150 Magic defense +75 Maximum HP +270",
         "etypeId": 2,
         "traits": [
             {
@@ -697,7 +697,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ドレイクメイル",
+        "name": "Drake Mail",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:21>\n<装備スロット:5+4>",
         "params": [
             270,
@@ -768,7 +768,7 @@
     {
         "id": 32,
         "atypeId": 4,
-        "description": "装備LV.24 スロット数:1 防御力+120 魔力防御+120 最大HP+250",
+        "description": "Equipment LV.24 Number of slots: 1 Defense +120 Magic defense +120 Maximum HP +250",
         "etypeId": 2,
         "traits": [
             {
@@ -778,7 +778,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "神秘の戦闘服",
+        "name": "Mysterious Battle Outfit",
         "note": "<kms_orbslot: 1, 0>\n<requiredLevel:24>\n<装備スロット:5+1>",
         "params": [
             250,
@@ -795,11 +795,11 @@
     {
         "id": 33,
         "atypeId": 4,
-        "description": "装備LV.26 スロット数:4 防御力+90 魔力防御+90 最大HP+188",
+        "description": "Equipment LV.26 Number of slots: 4 Defense +90 Magic defense +90 Maximum HP +188",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "カーボンスーツ",
+        "name": "Carbon Suit",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
         "params": [
             188,
@@ -816,7 +816,7 @@
     {
         "id": 34,
         "atypeId": 2,
-        "description": "装備LV.26 スロット数:2 防御力+180 魔力防御+90 最大HP+375",
+        "description": "Equipment LV.26 Number of slots: 2 Defense +180 Magic defense +90 Maximum HP +375",
         "etypeId": 2,
         "traits": [
             {
@@ -826,7 +826,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ダマスカスメイル",
+        "name": "Damascus Mail",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<装備スロット:5+2>",
         "params": [
             375,
@@ -843,11 +843,11 @@
     {
         "id": 35,
         "atypeId": 3,
-        "description": "装備LV.26 スロット数:2 防御力+90 魔力防御+180 最大HP+281 最大MP+80",
+        "description": "Equipment LV.26 Number of slots: 2 Defense +90 Magic Defense +180 Maximum HP +281 Maximum\nMP +80",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 139,
-        "name": "ミラクルローブ",
+        "name": "Miracle Robe",
         "note": "<kms_orbslot: 2, 0>\n<requiredLevel:26>\n<装備スロット:5+2>",
         "params": [
             281,
@@ -864,7 +864,7 @@
     {
         "id": 36,
         "atypeId": 2,
-        "description": "装備LV.26 スロット数:4 防御力+220 魔力防御+110 最大HP+487",
+        "description": "Equipment LV.26 Number of slots: 4 Defense +220 Magic defense +110 Maximum HP +487",
         "etypeId": 2,
         "traits": [
             {
@@ -874,7 +874,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ガイアアーマ",
+        "name": "Gaia Armor",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
         "params": [
             487,
@@ -891,11 +891,11 @@
     {
         "id": 37,
         "atypeId": 3,
-        "description": "装備LV.26 スロット数:4 防御力+110 魔力防御+220 最大HP+354 最大MP+93",
+        "description": "Equipment LV.26 Number of slots: 4 Defense +110 Magic Defense +220 Maximum HP +354 Maximum\nMP +93",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 139,
-        "name": "ガイアローブ",
+        "name": "Gaia Robe",
         "note": "<kms_orbslot: 4, 0>\n<requiredLevel:26>\n<装備スロット:5+4>",
         "params": [
             354,
@@ -993,7 +993,7 @@
     {
         "id": 41,
         "atypeId": 2,
-        "description": "装備LV.1  防御力+2 魔力防御+2 最大HP+5",
+        "description": "Equipment LV.1 Defense +2 Magic Defense +2 Max HP +5",
         "etypeId": 3,
         "traits": [
             {
@@ -1003,7 +1003,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "傭兵の兜",
+        "name": "Mercenary Helmet",
         "note": "<requiredLevel:1>",
         "params": [
             5,
@@ -1020,7 +1020,7 @@
     {
         "id": 42,
         "atypeId": 1,
-        "description": "装備LV.1  防御力+1 魔力防御+1 敏捷性+5 最大HP+3 回避率+2",
+        "description": "Equipment LV.1 Defense +1 Magic Defense +1 Agility +5 Max HP +3 Evasion Rate +2",
         "etypeId": 3,
         "traits": [
             {
@@ -1030,7 +1030,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "傭兵のバンダナ",
+        "name": "Mercenary Bandana",
         "note": "<requiredLevel:1>",
         "params": [
             3,
@@ -1047,11 +1047,11 @@
     {
         "id": 43,
         "atypeId": 3,
-        "description": "装備LV.1  防御力+1 魔力攻撃+1 魔力防御+1 最大HP+3 最大MP+2",
+        "description": "Equipment LV.1 Defense +1 Magic Attack +1 Magic Defense +1 Max HP +3 Max MP +2",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "傭兵の帽子",
+        "name": "Mercenary's Hat",
         "note": "<requiredLevel:1>",
         "params": [
             3,
@@ -1068,7 +1068,7 @@
     {
         "id": 44,
         "atypeId": 4,
-        "description": "装備LV.4  防御力+4 魔力防御+4 最大HP+8",
+        "description": "Equipment LV.4 Defense +4 Magic Defense +4 Max HP +8",
         "etypeId": 3,
         "traits": [
             {
@@ -1078,7 +1078,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "ヘッドギア",
+        "name": "Headgear",
         "note": "<requiredLevel:4>",
         "params": [
             8,
@@ -1095,7 +1095,7 @@
     {
         "id": 45,
         "atypeId": 2,
-        "description": "装備LV.6  防御力+6 魔力防御+6 最大HP+10",
+        "description": "Equipment LV.6 Defense +6 Magic Defense +6 Max HP +10",
         "etypeId": 3,
         "traits": [
             {
@@ -1105,7 +1105,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "アイアンヘルム",
+        "name": "Iron Helm",
         "note": "<requiredLevel:6>",
         "params": [
             10,
@@ -1122,7 +1122,7 @@
     {
         "id": 46,
         "atypeId": 1,
-        "description": "装備LV.6  防御力+3 魔力防御+3 敏捷性+10 最大HP+5 回避率+4",
+        "description": "Equipment LV.6 Defense +3 Magic Defense +3 Agility +10 Max HP +5 Evasion Rate +4",
         "etypeId": 3,
         "traits": [
             {
@@ -1132,7 +1132,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "鉄の額当て",
+        "name": "Iron Headband",
         "note": "<requiredLevel:6>",
         "params": [
             5,
@@ -1149,11 +1149,11 @@
     {
         "id": 47,
         "atypeId": 3,
-        "description": "装備LV.6  防御力+3 魔力攻撃+6 魔力防御+4 最大HP+5 最大MP+6",
+        "description": "Equipment LV.6 Defense +3 Magic Attack +6 Magic Defense +4 Max HP +5 Max MP +6",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "魔術士の帽子",
+        "name": "Magician's Hat",
         "note": "<requiredLevel:6>",
         "params": [
             5,
@@ -1251,7 +1251,7 @@
     {
         "id": 51,
         "atypeId": 4,
-        "description": "装備LV.9  防御力+10 魔力防御+10 最大HP+15",
+        "description": "Equipment LV.9 Defense +10 Magic Defense +10 Max HP +15",
         "etypeId": 3,
         "traits": [
             {
@@ -1261,7 +1261,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "カウボーイハット",
+        "name": "Cowboy Hat",
         "note": "<requiredLevel:9>",
         "params": [
             15,
@@ -1278,7 +1278,7 @@
     {
         "id": 52,
         "atypeId": 2,
-        "description": "装備LV.11 防御力+14 魔力防御+14 最大HP+20",
+        "description": "Equipment LV.11 Defense +14 Magic Defense +14 Maximum HP +20",
         "etypeId": 3,
         "traits": [
             {
@@ -1288,7 +1288,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "バンデッドヘルム",
+        "name": "Banded Helm",
         "note": "<requiredLevel:11>",
         "params": [
             20,
@@ -1305,7 +1305,7 @@
     {
         "id": 53,
         "atypeId": 1,
-        "description": "装備LV.11 防御力+7 魔力防御+7 敏捷性+15 最大HP+10 回避率+7",
+        "description": "Equipment LV.11 Defense +7 Magic Defense +7 Agility +15 Max HP +10 Evasion Rate +7",
         "etypeId": 3,
         "traits": [
             {
@@ -1315,7 +1315,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "パープルバンダナ",
+        "name": "Purple Bandana",
         "note": "<requiredLevel:11>",
         "params": [
             10,
@@ -1332,11 +1332,11 @@
     {
         "id": 54,
         "atypeId": 3,
-        "description": "装備LV.11 防御力+7 魔力攻撃+12 魔力防御+7 最大HP+10 最大MP+12",
+        "description": "Equipment LV.11 Defense +7 Magic Attack +12 Magic Defense +7 Max HP +10 Max MP +12",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "銀の髪飾り",
+        "name": "Silver Hair Ornament",
         "note": "<requiredLevel:11>",
         "params": [
             10,
@@ -1353,7 +1353,7 @@
     {
         "id": 55,
         "atypeId": 4,
-        "description": "装備LV.11  防御力+13 魔力防御+13 最大HP+28",
+        "description": "Equipment LV.11 Defense +13 Magic Defense +13 Max HP +28",
         "etypeId": 3,
         "traits": [
             {
@@ -1363,7 +1363,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "テンガロンハット",
+        "name": "Ten-gallon Hat",
         "note": "<requiredLevel:11>",
         "params": [
             28,
@@ -1434,7 +1434,7 @@
     {
         "id": 58,
         "atypeId": 4,
-        "description": "装備LV.14 防御力+18 魔力防御+18 最大HP+28",
+        "description": "Equipment LV.14 Defense +18 Magic Defense +18 Max HP +28",
         "etypeId": 3,
         "traits": [
             {
@@ -1444,7 +1444,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "レッドキャップ",
+        "name": "Red Cap",
         "note": "<requiredLevel:14>",
         "params": [
             28,
@@ -1461,7 +1461,7 @@
     {
         "id": 59,
         "atypeId": 2,
-        "description": "装備LV.16 防御力+24 魔力防御+24 最大HP+35",
+        "description": "Equipment LV.16 Defense +24 Magic Defense +24 Max HP +35",
         "etypeId": 3,
         "traits": [
             {
@@ -1471,7 +1471,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ヘヴィヘルム",
+        "name": "Heavy Helm",
         "note": "<requiredLevel:16>",
         "params": [
             35,
@@ -1488,7 +1488,7 @@
     {
         "id": 60,
         "atypeId": 1,
-        "description": "装備LV.16 防御力+12 魔力防御+12 敏捷性+20 最大HP+18 回避率+11",
+        "description": "Equipment LV.16 Defense +12 Magic Defense +12 Agility +20 Max HP +18 Evasion Rate +11",
         "etypeId": 3,
         "traits": [
             {
@@ -1498,7 +1498,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "疾風の鉢巻き",
+        "name": "Headband of the Swift Wind",
         "note": "<requiredLevel:16>",
         "params": [
             18,
@@ -1515,11 +1515,11 @@
     {
         "id": 61,
         "atypeId": 3,
-        "description": "装備LV.16 防御力+12 魔力攻撃+21 魔力防御+12 最大HP+18 最大MP+20",
+        "description": "Equipment LV.16 Defense +12 Magic Attack +21 Magic Defense +12 Max HP +18 Max MP +20",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "金の髪飾り",
+        "name": "Gold Hair Ornament",
         "note": "<requiredLevel:16>",
         "params": [
             18,
@@ -1536,7 +1536,7 @@
     {
         "id": 62,
         "atypeId": 2,
-        "description": "装備LV.16 防御力+30 魔力防御+30 最大HP+44",
+        "description": "Equipment LV.16 Defense +30 Magic Defense +30 Maximum HP +44",
         "etypeId": 3,
         "traits": [
             {
@@ -1546,7 +1546,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ハードヘルム",
+        "name": "Hard Helm",
         "note": "<requiredLevel:16>",
         "params": [
             44,
@@ -1617,7 +1617,7 @@
     {
         "id": 65,
         "atypeId": 4,
-        "description": "装備LV.19 防御力+30 魔力防御+30 最大HP+50",
+        "description": "Equipment LV.19 Defense +30 Magic Defense +30 Max HP +50",
         "etypeId": 3,
         "traits": [
             {
@@ -1627,7 +1627,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "レアークラウン",
+        "name": "Rare Crown",
         "note": "<requiredLevel:19>",
         "params": [
             50,
@@ -1644,7 +1644,7 @@
     {
         "id": 66,
         "atypeId": 2,
-        "description": "装備LV.21 防御力+40 魔力防御+40 最大HP+65",
+        "description": "Equipment LV.21 Defense +40 Magic Defense +40 Max HP +65",
         "etypeId": 3,
         "traits": [
             {
@@ -1654,7 +1654,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ドラゴンヘルム",
+        "name": "Dragon Helm",
         "note": "<requiredLevel:21>",
         "params": [
             65,
@@ -1671,7 +1671,7 @@
     {
         "id": 67,
         "atypeId": 1,
-        "description": "装備LV.21 防御力+20 魔力防御+20 敏捷性+25 最大HP+33 回避率+15",
+        "description": "Equipment LV.21 Defense +20 Magic Defense +20 Agility +25 Max HP +33 Evasion Rate +15",
         "etypeId": 3,
         "traits": [
             {
@@ -1681,7 +1681,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "イーグルバンダナ",
+        "name": "Eagle Bandana",
         "note": "<requiredLevel:21>",
         "params": [
             33,
@@ -1698,11 +1698,11 @@
     {
         "id": 68,
         "atypeId": 3,
-        "description": "装備LV.21 防御力+20 魔力攻撃+33 魔力防御+20 最大HP+33 最大MP+30",
+        "description": "Equipment LV.21 Defense +20 Magic Attack +33 Magic Defense +20 Max HP +33 Max MP +30",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "水晶の髪飾り",
+        "name": "Crystal Hair Ornament",
         "note": "<requiredLevel:21>",
         "params": [
             33,
@@ -1719,11 +1719,11 @@
     {
         "id": 69,
         "atypeId": 3,
-        "description": "装備LV.21 防御力+25 魔力攻撃+40 魔力防御+25 最大HP+48 最大MP+35",
+        "description": "Equipment LV.21 Defense +25 Magic Attack +40 Magic Defense +25 Max HP +48 Max MP +35",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "瑪瑙の髪飾り",
+        "name": "Agate Hair Ornament",
         "note": "<requiredLevel:21>",
         "params": [
             48,
@@ -1794,7 +1794,7 @@
     {
         "id": 72,
         "atypeId": 4,
-        "description": "装備LV.24 防御力+45 魔力防御+45 最大HP+95",
+        "description": "Equipment LV.24 Defense +45 Magic Defense +45 Maximum HP +95",
         "etypeId": 3,
         "traits": [
             {
@@ -1804,7 +1804,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "ダマスカスヘッド",
+        "name": "Damascus Head",
         "note": "<requiredLevel:24>",
         "params": [
             95,
@@ -1821,7 +1821,7 @@
     {
         "id": 73,
         "atypeId": 2,
-        "description": "装備LV.26 防御力+60 魔力防御+60 最大HP+125",
+        "description": "Equipment LV.26 Defense +60 Magic Defense +60 Max HP +125",
         "etypeId": 3,
         "traits": [
             {
@@ -1831,7 +1831,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ダマスカスヘルム",
+        "name": "Damascus Helm",
         "note": "<requiredLevel:26>",
         "params": [
             125,
@@ -1848,7 +1848,7 @@
     {
         "id": 74,
         "atypeId": 1,
-        "description": "装備LV.26 防御力+30 魔力防御+30 敏捷性+30 最大HP+63 回避率+19",
+        "description": "Equipment LV.26 Defense +30 Magic Defense +30 Agility +30 Max HP +63 Evasion Rate +19",
         "etypeId": 3,
         "traits": [
             {
@@ -1858,7 +1858,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "ダマスカスバイザー",
+        "name": "Damascus Visor",
         "note": "<requiredLevel:26>",
         "params": [
             63,
@@ -1875,11 +1875,11 @@
     {
         "id": 75,
         "atypeId": 3,
-        "description": "装備LV.26 防御力+30 魔力攻撃+46 魔力防御+30 最大HP+63 最大MP+40",
+        "description": "Equipment LV.26 Defense +30 Magic Attack +46 Magic Defense +30 Max HP +63 Max MP +40",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "聖魔の帽子",
+        "name": "Holy Demon Hat",
         "note": "<requiredLevel:26>",
         "params": [
             63,
@@ -1896,7 +1896,7 @@
     {
         "id": 76,
         "atypeId": 2,
-        "description": "装備LV.26 防御力+72 魔力防御+72 最大HP+153",
+        "description": "Equipment LV.26 Defense +72 Magic Defense +72 Maximum HP +153",
         "etypeId": 3,
         "traits": [
             {
@@ -1906,7 +1906,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ガイアヘルム",
+        "name": "Gaia Helm",
         "note": "<requiredLevel:26>",
         "params": [
             153,
@@ -1923,11 +1923,11 @@
     {
         "id": 77,
         "atypeId": 3,
-        "description": "装備LV.26 防御力+36 魔力攻撃+54 魔力防御+36 最大HP+76 最大MP+46",
+        "description": "Equipment LV.26 Defense +36 Magic Attack +54 Magic Defense +36 Max HP +76 Max MP +46",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "ガイアフード",
+        "name": "Gaia Hood",
         "note": "<requiredLevel:26>",
         "params": [
             76,
@@ -2025,7 +2025,7 @@
     {
         "id": 81,
         "atypeId": 2,
-        "description": "装備LV.1  防御力+2 魔力防御+2 最大HP+5",
+        "description": "Equipment LV.1 Defense +2 Magic Defense +2 Max HP +5",
         "etypeId": 4,
         "traits": [
             {
@@ -2035,7 +2035,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "アームガード",
+        "name": "Arm Guard",
         "note": "<requiredLevel:1>",
         "params": [
             5,
@@ -2052,7 +2052,7 @@
     {
         "id": 82,
         "atypeId": 1,
-        "description": "装備LV.1  攻撃力+2 防御力+1 魔力防御+1 最大HP+3",
+        "description": "Equipment LV.1 Attack +2 Defense +1 Magic Defense +1 Max HP +3",
         "etypeId": 4,
         "traits": [
             {
@@ -2062,7 +2062,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ブロンズバングル",
+        "name": "Bronze Bangle",
         "note": "<requiredLevel:1>",
         "params": [
             3,
@@ -2079,7 +2079,7 @@
     {
         "id": 83,
         "atypeId": 1,
-        "description": "装備LV.1  防御力+1 魔力防御+1 最大HP+3 命中率+2",
+        "description": "Equipment LV.1 Defense +1 Magic Defense +1 Max HP +3 Accuracy +2",
         "etypeId": 4,
         "traits": [
             {
@@ -2089,7 +2089,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "レザーグローブ",
+        "name": "Leather Gloves",
         "note": "<requiredLevel:1>",
         "params": [
             3,
@@ -2106,7 +2106,7 @@
     {
         "id": 84,
         "atypeId": 4,
-        "description": "装備LV.4  防御力+4 魔力防御+4 最大HP+8",
+        "description": "Equipment LV.4 Defense +4 Magic Defense +4 Max HP +8",
         "etypeId": 4,
         "traits": [
             {
@@ -2116,7 +2116,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "レザーハンド",
+        "name": "Leather Gloves",
         "note": "<requiredLevel:4>",
         "params": [
             8,
@@ -2133,7 +2133,7 @@
     {
         "id": 85,
         "atypeId": 2,
-        "description": "装備LV.6  防御力+6 魔力防御+6 最大HP+10",
+        "description": "Equipment LV.6 Defense +6 Magic Defense +6 Max HP +10",
         "etypeId": 4,
         "traits": [
             {
@@ -2143,7 +2143,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ガントレット",
+        "name": "Gauntlet",
         "note": "<requiredLevel:6>",
         "params": [
             10,
@@ -2160,7 +2160,7 @@
     {
         "id": 86,
         "atypeId": 1,
-        "description": "装備LV.6  攻撃力+6 防御力+3 魔力防御+3 最大HP+5",
+        "description": "Equipment LV.6 Attack +6 Defense +3 Magic Defense +3 Max HP +5",
         "etypeId": 4,
         "traits": [
             {
@@ -2170,7 +2170,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "アイアンバングル",
+        "name": "Iron Bangle",
         "note": "<requiredLevel:6>",
         "params": [
             5,
@@ -2187,7 +2187,7 @@
     {
         "id": 87,
         "atypeId": 1,
-        "description": "装備LV.6  防御力+3 魔力防御+3 最大HP+5 命中率+5",
+        "description": "Equipment LV.6 Defense +3 Magic Defense +3 Max HP +5 Accuracy +5",
         "etypeId": 4,
         "traits": [
             {
@@ -2197,7 +2197,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "ハンターグローブ",
+        "name": "Hunter Gloves",
         "note": "<requiredLevel:6>",
         "params": [
             5,
@@ -2214,7 +2214,7 @@
     {
         "id": 88,
         "atypeId": 3,
-        "description": "装備LV.6  魔力攻撃+5 魔力防御+3 最大MP+5",
+        "description": "Equipment LV.6 Magic Attack +5 Magic Defense +3 Maximum MP +5",
         "etypeId": 4,
         "traits": [
             {
@@ -2224,7 +2224,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "マジックグローブ",
+        "name": "Magic Glove",
         "note": "<requiredLevel:6>",
         "params": [
             0,
@@ -2295,7 +2295,7 @@
     {
         "id": 91,
         "atypeId": 4,
-        "description": "装備LV.9  防御力+10 魔力防御+10 最大HP+15",
+        "description": "Equipment LV.9 Defense +10 Magic Defense +10 Max HP +15",
         "etypeId": 4,
         "traits": [
             {
@@ -2305,7 +2305,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ウォーハンド",
+        "name": "Warhand",
         "note": "<requiredLevel:9>",
         "params": [
             15,
@@ -2322,7 +2322,7 @@
     {
         "id": 92,
         "atypeId": 2,
-        "description": "装備LV.11  防御力+14 魔力防御+14 最大HP+20",
+        "description": "Equipment LV.11 Defense +14 Magic Defense +14 Maximum HP +20",
         "etypeId": 4,
         "traits": [
             {
@@ -2332,7 +2332,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "バンデッドガード",
+        "name": "Banded Guard",
         "note": "<requiredLevel:11>",
         "params": [
             20,
@@ -2349,7 +2349,7 @@
     {
         "id": 93,
         "atypeId": 1,
-        "description": "装備LV.11  攻撃力+12 防御力+7 魔力防御+7 最大HP+10",
+        "description": "Equipment LV.11 Attack +12 Defense +7 Magic Defense +7 Max HP +10",
         "etypeId": 4,
         "traits": [
             {
@@ -2359,7 +2359,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "シルバーバングル",
+        "name": "Silver Bangle",
         "note": "<requiredLevel:11>",
         "params": [
             10,
@@ -2376,7 +2376,7 @@
     {
         "id": 94,
         "atypeId": 1,
-        "description": "装備LV.11  防御力+7 魔力防御+7 最大HP+10 命中率+12",
+        "description": "Equipment LV.11 Defense +7 Magic Defense +7 Max HP +10 Accuracy +12",
         "etypeId": 4,
         "traits": [
             {
@@ -2386,7 +2386,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "レンジャーグローブ",
+        "name": "Ranger Gloves",
         "note": "<requiredLevel:11>",
         "params": [
             10,
@@ -2484,7 +2484,7 @@
     {
         "id": 98,
         "atypeId": 4,
-        "description": "装備LV.14 防御力+18 魔力防御+18 最大HP+28",
+        "description": "Equipment LV.14 Defense +18 Magic Defense +18 Max HP +28",
         "etypeId": 4,
         "traits": [
             {
@@ -2494,7 +2494,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "シャドウハンド",
+        "name": "Shadow Hand",
         "note": "<requiredLevel:14>",
         "params": [
             28,
@@ -2511,7 +2511,7 @@
     {
         "id": 99,
         "atypeId": 2,
-        "description": "装備LV.16  防御力+24 魔力防御+24 最大HP+35",
+        "description": "Equipment LV.16 Defense +24 Magic Defense +24 Maximum HP +35",
         "etypeId": 4,
         "traits": [
             {
@@ -2521,7 +2521,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ヘヴィガントレット",
+        "name": "Heavy Gauntlet",
         "note": "<requiredLevel:16>",
         "params": [
             35,
@@ -2538,7 +2538,7 @@
     {
         "id": 100,
         "atypeId": 1,
-        "description": "装備LV.16  攻撃力+21 防御力+12 魔力防御+12 最大HP+18",
+        "description": "Equipment LV.16 Attack +21 Defense +12 Magic Defense +12 Max HP +18",
         "etypeId": 4,
         "traits": [
             {
@@ -2548,7 +2548,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "力の腕輪",
+        "name": "Power Bracelet",
         "note": "<requiredLevel:16>",
         "params": [
             18,
@@ -2565,7 +2565,7 @@
     {
         "id": 101,
         "atypeId": 1,
-        "description": "装備LV.16  防御力+12 魔力防御+12 最大HP+18 命中率+18",
+        "description": "Equipment LV.16 Defense +12 Magic Defense +12 Max HP +18 Accuracy +18",
         "etypeId": 4,
         "traits": [
             {
@@ -2575,7 +2575,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "器用さの手袋",
+        "name": "Dexterity Gloves",
         "note": "<requiredLevel:16>",
         "params": [
             18,
@@ -2592,7 +2592,7 @@
     {
         "id": 102,
         "atypeId": 1,
-        "description": "装備LV.16  防御力+17 魔力防御+17 最大HP+25 回避率+18",
+        "description": "Equipment LV.16 Defense +17 Magic Defense +17 Max HP +25 Evasion Rate +18",
         "etypeId": 4,
         "traits": [
             {
@@ -2602,7 +2602,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "ラビッドハンド",
+        "name": "Rabid Hand",
         "note": "<requiredLevel:16>",
         "params": [
             25,
@@ -2673,7 +2673,7 @@
     {
         "id": 105,
         "atypeId": 4,
-        "description": "装備LV.19 防御力+30 魔力防御+30 最大HP+50",
+        "description": "Equipment LV.19 Defense +30 Magic Defense +30 Max HP +50",
         "etypeId": 4,
         "traits": [
             {
@@ -2683,7 +2683,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "グローハンド",
+        "name": "Glow Hand",
         "note": "<requiredLevel:19>",
         "params": [
             50,
@@ -2700,7 +2700,7 @@
     {
         "id": 106,
         "atypeId": 2,
-        "description": "装備LV.21  防御力+40 魔力防御+40 最大HP+65",
+        "description": "Equipment LV.21 Defense +40 Magic Defense +40 Max HP +65",
         "etypeId": 4,
         "traits": [
             {
@@ -2710,7 +2710,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ドラゴンガード",
+        "name": "Dragon Guard",
         "note": "<requiredLevel:21>",
         "params": [
             65,
@@ -2727,7 +2727,7 @@
     {
         "id": 107,
         "atypeId": 1,
-        "description": "装備LV.21  攻撃力+33 防御力+20 魔力防御+20 最大HP+33",
+        "description": "Equipment LV.21 Attack +33 Defense +20 Magic Defense +20 Max HP +33",
         "etypeId": 4,
         "traits": [
             {
@@ -2737,7 +2737,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "パワーバングル",
+        "name": "Power Bangle",
         "note": "<requiredLevel:21>",
         "params": [
             33,
@@ -2754,7 +2754,7 @@
     {
         "id": 108,
         "atypeId": 1,
-        "description": "装備LV.21  防御力+20 魔力防御+20 最大HP+33 命中率+25",
+        "description": "Equipment LV.21 Defense +20 Magic Defense +20 Max HP +33 Accuracy +25",
         "etypeId": 4,
         "traits": [
             {
@@ -2764,7 +2764,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "シューグローブ",
+        "name": "Shoe Gloves",
         "note": "<requiredLevel:21>",
         "params": [
             33,
@@ -2781,7 +2781,7 @@
     {
         "id": 109,
         "atypeId": 1,
-        "description": "装備LV.21  攻撃力+40 防御力+25 魔力防御+25 最大HP+48",
+        "description": "Equipment LV.21 Attack +40 Defense +25 Magic Defense +25 Max HP +48",
         "etypeId": 4,
         "traits": [
             {
@@ -2791,7 +2791,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ドレイクバングル",
+        "name": "Drake Bangle",
         "note": "<requiredLevel:21>",
         "params": [
             48,
@@ -2835,7 +2835,7 @@
     {
         "id": 111,
         "atypeId": 4,
-        "description": "装備LV.24 防御力+45 魔力防御+45 最大HP+95",
+        "description": "Equipment LV.24 Defense +45 Magic Defense +45 Maximum HP +95",
         "etypeId": 4,
         "traits": [
             {
@@ -2845,7 +2845,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ダマスカスハンド",
+        "name": "Damascus Hand",
         "note": "<requiredLevel:24>",
         "params": [
             95,
@@ -2862,7 +2862,7 @@
     {
         "id": 112,
         "atypeId": 2,
-        "description": "装備LV.26  防御力+60 魔力防御+60 最大HP+125",
+        "description": "Equipment LV.26 Defense +60 Magic Defense +60 Max HP +125",
         "etypeId": 4,
         "traits": [
             {
@@ -2872,7 +2872,7 @@
             }
         ],
         "iconIndex": 143,
-        "name": "ダマスカスアーム",
+        "name": "Damascus Arm",
         "note": "<requiredLevel:26>",
         "params": [
             125,
@@ -2889,7 +2889,7 @@
     {
         "id": 113,
         "atypeId": 1,
-        "description": "装備LV.26  攻撃力+46 防御力+30 魔力防御+30 最大HP+63",
+        "description": "Equipment LV.26 Attack +46 Defense +30 Magic Defense +30 Max HP +63",
         "etypeId": 4,
         "traits": [
             {
@@ -2899,7 +2899,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ダマスカスバングル",
+        "name": "Damascus Bangle",
         "note": "<requiredLevel:26>",
         "params": [
             63,
@@ -2916,7 +2916,7 @@
     {
         "id": 114,
         "atypeId": 1,
-        "description": "装備LV.26  防御力+30 魔力防御+30 最大HP+63 命中率+32",
+        "description": "Equipment LV.26 Defense +30 Magic Defense +30 Max HP +63 Accuracy +32",
         "etypeId": 4,
         "traits": [
             {
@@ -2926,7 +2926,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "カーボングローブ",
+        "name": "Carbon Gloves",
         "note": "<requiredLevel:26>",
         "params": [
             63,
@@ -2943,7 +2943,7 @@
     {
         "id": 115,
         "atypeId": 1,
-        "description": "装備LV.26  攻撃力+54 防御力+36 魔力防御+36 最大HP+76",
+        "description": "Equipment LV.26 Attack +54 Defense +36 Magic Defense +36 Max HP +76",
         "etypeId": 4,
         "traits": [
             {
@@ -2953,7 +2953,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ガイアバングル",
+        "name": "Gaia Bangle",
         "note": "<requiredLevel:26>",
         "params": [
             76,
@@ -2970,7 +2970,7 @@
     {
         "id": 116,
         "atypeId": 1,
-        "description": "装備LV.26  防御力+36 魔力防御+36 最大HP+76 命中率+37",
+        "description": "Equipment LV.26 Defense +36 Magic Defense +36 Max HP +76 Accuracy +37",
         "etypeId": 4,
         "traits": [
             {
@@ -2980,7 +2980,7 @@
             }
         ],
         "iconIndex": 142,
-        "name": "ガイアグローブ",
+        "name": "Gaia Glove",
         "note": "<requiredLevel:26>",
         "params": [
             76,
@@ -5319,7 +5319,7 @@
     {
         "id": 203,
         "atypeId": 6,
-        "description": "ヒールが使えるようになる\n効果：味方単体のHP回復",
+        "description": "You will be able to use Heal. Effect: Restores the HP of a single ally.",
         "etypeId": 5,
         "traits": [
             {
@@ -5329,7 +5329,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ヒール",
+        "name": "Heal",
         "note": "",
         "params": [
             0,
@@ -5346,7 +5346,7 @@
     {
         "id": 204,
         "atypeId": 6,
-        "description": "ヒールⅡが使えるようになる\n効果：味方単体のHP回復",
+        "description": "The skill Heal II becomes usable. Effect: Restores the HP of a single ally.",
         "etypeId": 5,
         "traits": [
             {
@@ -5356,7 +5356,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ヒールⅡ",
+        "name": "Heal II",
         "note": "",
         "params": [
             0,
@@ -5373,7 +5373,7 @@
     {
         "id": 205,
         "atypeId": 6,
-        "description": "ヒールⅢが使えるようになる\n効果：味方単体のHP回復",
+        "description": "You will be able to use Heal III. Effect: Restores the HP of a single ally.",
         "etypeId": 5,
         "traits": [
             {
@@ -5383,7 +5383,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ヒールⅢ",
+        "name": "Heal III",
         "note": "",
         "params": [
             0,
@@ -5400,7 +5400,7 @@
     {
         "id": 206,
         "atypeId": 6,
-        "description": "ヒールレインが使えるようになる\n効果：味方全体のHP回復",
+        "description": "Heel Rain becomes usable. Effect: Restores the HP of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5410,7 +5410,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ヒールレイン",
+        "name": "Heal Rain",
         "note": "",
         "params": [
             0,
@@ -5427,7 +5427,7 @@
     {
         "id": 207,
         "atypeId": 6,
-        "description": "ヒールレインⅡが使えるようになる\n効果：味方全体のHP回復",
+        "description": "Heal Rain II becomes usable. Effect: Restores the HP of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5437,7 +5437,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ヒールレインⅡ",
+        "name": "Heal Rain II",
         "note": "",
         "params": [
             0,
@@ -5454,7 +5454,7 @@
     {
         "id": 208,
         "atypeId": 6,
-        "description": "キュアが使えるようになる\n効果：味方単体の一部の状態異常を回復",
+        "description": "Cure becomes usable. Effect: Recovers some status abnormalities of a single ally.",
         "etypeId": 5,
         "traits": [
             {
@@ -5464,7 +5464,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "キュア",
+        "name": "Cure",
         "note": "",
         "params": [
             0,
@@ -5481,7 +5481,7 @@
     {
         "id": 209,
         "atypeId": 6,
-        "description": "キュアレインが使えるようになる\n効果：味方全体の一部の状態異常を回復",
+        "description": "Cure Rain becomes usable. Effect: Recovers some status abnormalities of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5491,7 +5491,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "キュアレイン",
+        "name": "Cure Rain",
         "note": "",
         "params": [
             0,
@@ -5508,7 +5508,7 @@
     {
         "id": 210,
         "atypeId": 6,
-        "description": "レイズが使えるようになる\n効果：味方単体の戦闘不能を回復",
+        "description": "Rayz becomes usable. Effect: Recovers a single ally from incapacitation.",
         "etypeId": 5,
         "traits": [
             {
@@ -5518,7 +5518,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "レイズ",
+        "name": "Raise",
         "note": "",
         "params": [
             0,
@@ -5535,7 +5535,7 @@
     {
         "id": 211,
         "atypeId": 6,
-        "description": "レイズⅡが使えるようになる\n効果：味方単体の戦闘不能を回復",
+        "description": "Ray's II becomes usable. Effect: Recovers a single ally from incapacitation.",
         "etypeId": 5,
         "traits": [
             {
@@ -5545,7 +5545,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "レイズⅡ",
+        "name": "Raise II",
         "note": "",
         "params": [
             0,
@@ -5562,7 +5562,7 @@
     {
         "id": 212,
         "atypeId": 6,
-        "description": "ヒールオールが使えるようになる\n効果：味方全体の戦闘不能を解除し、HPを全快する。",
+        "description": "You will be able to use Heal All. Effect: Removes all allies' incapacitation and fully\nrestores their HP.",
         "etypeId": 5,
         "traits": [
             {
@@ -5572,7 +5572,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ヒールオール",
+        "name": "Heal All",
         "note": "",
         "params": [
             0,
@@ -5589,7 +5589,7 @@
     {
         "id": 213,
         "atypeId": 6,
-        "description": "リジェネが使えるようになる\n効果：味方単体にHP再生の効果",
+        "description": "Regene becomes usable. Effect: Restores HP to a single ally.",
         "etypeId": 5,
         "traits": [
             {
@@ -5599,7 +5599,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "リジェネ",
+        "name": "Regen",
         "note": "",
         "params": [
             0,
@@ -5616,7 +5616,7 @@
     {
         "id": 214,
         "atypeId": 6,
-        "description": "リジェネⅡが使えるようになる\n効果：味方単体にHP再生の効果",
+        "description": "Regene II becomes usable. Effect: Grants HP regeneration effect to a single ally.",
         "etypeId": 5,
         "traits": [
             {
@@ -5626,7 +5626,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "リジェネⅡ",
+        "name": "Regen II",
         "note": "",
         "params": [
             0,
@@ -5643,7 +5643,7 @@
     {
         "id": 215,
         "atypeId": 6,
-        "description": "リジェネレインが使えるようになる\n効果：味方全体にHP再生の効果",
+        "description": "Regenerate Rain becomes usable. Effect: Applies HP regeneration to all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5653,7 +5653,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "リジェネレイン",
+        "name": "Regen Rain",
         "note": "",
         "params": [
             0,
@@ -5805,7 +5805,7 @@
     {
         "id": 221,
         "atypeId": 6,
-        "description": "パワーブーストが使えるようになる\n効果：味方全体の攻撃力を上げる",
+        "description": "You will be able to use Power Boost. Effect: Increases the attack power of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5815,7 +5815,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "パワーブースト",
+        "name": "Power Boost",
         "note": "",
         "params": [
             0,
@@ -5832,7 +5832,7 @@
     {
         "id": 222,
         "atypeId": 6,
-        "description": "ガードブーストが使えるようになる\n効果：味方全体の防御力を上げる",
+        "description": "Guard Boost is now available. Effect: Increases the defense of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5842,7 +5842,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ガードブースト",
+        "name": "Guard Boost",
         "note": "",
         "params": [
             0,
@@ -5859,7 +5859,7 @@
     {
         "id": 223,
         "atypeId": 6,
-        "description": "マジックブーストが使えるようになる\n効果：味方全体の魔力攻撃を上げる",
+        "description": "You will be able to use Magic Boost. Effect: Increases the magic attack of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5869,7 +5869,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "マジックブースト",
+        "name": "Magic Boost",
         "note": "",
         "params": [
             0,
@@ -5886,7 +5886,7 @@
     {
         "id": 224,
         "atypeId": 6,
-        "description": "バリアブーストが使えるようになる\n効果：味方全体の魔力防御を上げる",
+        "description": "You will be able to use Barrier Boost. Effect: Increases the magic defense of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5896,7 +5896,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "バリアブースト",
+        "name": "Barrier Boost",
         "note": "",
         "params": [
             0,
@@ -5913,7 +5913,7 @@
     {
         "id": 225,
         "atypeId": 6,
-        "description": "スピードブーストが使えるようになる\n効果：味方全体の敏捷性と回避を上げる",
+        "description": "You will be able to use Speed Boost. Effect: Increases the agility and evasion of all\nallies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5923,7 +5923,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "スピードブースト",
+        "name": "Speed Boost",
         "note": "",
         "params": [
             0,
@@ -5940,7 +5940,7 @@
     {
         "id": 226,
         "atypeId": 6,
-        "description": "ヒットブーストが使えるようになる\n効果：味方全体の命中を上げる",
+        "description": "You will be able to use Hit Boost. Effect: Increases the accuracy of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5950,7 +5950,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ヒットブースト",
+        "name": "Hit Boost",
         "note": "",
         "params": [
             0,
@@ -5967,7 +5967,7 @@
     {
         "id": 227,
         "atypeId": 6,
-        "description": "ライフブーストが使えるようになる\n効果：味方全体の最大HPを上げる",
+        "description": "You will be able to use Life Boost. Effect: Increases the maximum HP of all allies.",
         "etypeId": 5,
         "traits": [
             {
@@ -5977,7 +5977,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ライフブースト",
+        "name": "Life Boost",
         "note": "",
         "params": [
             0,
@@ -5994,7 +5994,7 @@
     {
         "id": 228,
         "atypeId": 6,
-        "description": "レジストファイアが使えるようになる\n効果：味方全体の火耐性を上げ、麻痺に耐性をつける",
+        "description": "Regist Fire becomes usable. Effect: Raises the fire resistance of all allies and grants\nparalysis resistance.",
         "etypeId": 5,
         "traits": [
             {
@@ -6004,7 +6004,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "レジストファイア",
+        "name": "Resist Fire",
         "note": "",
         "params": [
             0,
@@ -6021,7 +6021,7 @@
     {
         "id": 229,
         "atypeId": 6,
-        "description": "レジストウォータが使えるようになる\n効果：味方全体の水耐性を上げ、毒に耐性をつける",
+        "description": "Regist Water becomes usable. Effect: Raises water resistance for all allies and grants\nresistance to poison.",
         "etypeId": 5,
         "traits": [
             {
@@ -6031,7 +6031,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "レジストウォータ",
+        "name": "Resist Water",
         "note": "",
         "params": [
             0,
@@ -6048,7 +6048,7 @@
     {
         "id": 230,
         "atypeId": 6,
-        "description": "レジストアースが使えるようになる\n効果：味方全体の土耐性を上げ、スタンに耐性をつける",
+        "description": "The ability to use Resist Earth is acquired. Effect: Increases the earth resistance of\nall allies and grants resistance to stun.",
         "etypeId": 5,
         "traits": [
             {
@@ -6058,7 +6058,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "レジストアース",
+        "name": "Resist Earth",
         "note": "",
         "params": [
             0,
@@ -6075,7 +6075,7 @@
     {
         "id": 231,
         "atypeId": 6,
-        "description": "レジストウィンドが使えるようになる\n効果：味方全体の風耐性を上げ、封印に耐性をつける",
+        "description": "Regist Wind becomes usable. Effect: Increases wind resistance for all allies and grants\nresistance against sealing.",
         "etypeId": 5,
         "traits": [
             {
@@ -6085,7 +6085,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "レジストウィンド",
+        "name": "Resist Wind",
         "note": "",
         "params": [
             0,
@@ -6102,7 +6102,7 @@
     {
         "id": 232,
         "atypeId": 6,
-        "description": "レジストライトが使えるようになる\n効果：味方全体の光耐性を上げ、暗闇、睡眠に耐性をつける",
+        "description": "The ability to use Registraight is acquired. Effect: Raises the light resistance of all\nallies and grants resistance to darkness and sleep.",
         "etypeId": 5,
         "traits": [
             {
@@ -6112,7 +6112,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "レジストライト",
+        "name": "Registrite",
         "note": "",
         "params": [
             0,
@@ -6129,7 +6129,7 @@
     {
         "id": 233,
         "atypeId": 6,
-        "description": "レジストダークが使えるようになる\n効果：味方全体の闇耐性を上げ、混乱、魅了、激昂に耐性をつける",
+        "description": "Regist Dark becomes usable. Effect: Raises the darkness resistance of all allies and\ngrants resistance to confusion, charm, and frenzy.",
         "etypeId": 5,
         "traits": [
             {
@@ -6139,7 +6139,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "レジストダーク",
+        "name": "Resist Dark",
         "note": "",
         "params": [
             0,
@@ -6156,7 +6156,7 @@
     {
         "id": 234,
         "atypeId": 6,
-        "description": "ためるが使えるようになる\n効果：自身の攻撃力と魔力攻撃を上げる。",
+        "description": "You will become able to use Tameru. Effect: Increases your own attack power and magic\nattack.",
         "etypeId": 5,
         "traits": [
             {
@@ -6166,7 +6166,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ためる",
+        "name": "Store",
         "note": "",
         "params": [
             0,
@@ -6183,7 +6183,7 @@
     {
         "id": 235,
         "atypeId": 6,
-        "description": "挑発が使えるようになる\n効果：自身が狙われやすくなる注目状態になる。",
+        "description": "You become able to use Provocation. Effect: You become more likely to be targeted and\nenter a state of attention.",
         "etypeId": 5,
         "traits": [
             {
@@ -6193,7 +6193,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "挑発",
+        "name": "Taunt",
         "note": "",
         "params": [
             0,
@@ -6210,7 +6210,7 @@
     {
         "id": 236,
         "atypeId": 6,
-        "description": "かくれるが使えるようになる\n効果：自身が狙われにくくなる隠微状態になる。",
+        "description": "You will become able to use Kakureru. Effect: You will enter a hidden state where you\nare less likely to be targeted.",
         "etypeId": 5,
         "traits": [
             {
@@ -6220,7 +6220,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "かくれる",
+        "name": "Hide",
         "note": "",
         "params": [
             0,
@@ -6345,7 +6345,7 @@
     {
         "id": 241,
         "atypeId": 6,
-        "description": "シールが使えるようになる\n効果：敵全体を封印状態にする。",
+        "description": "Seals become usable. Effect: Seals all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6355,7 +6355,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "シール",
+        "name": "Seal",
         "note": "",
         "params": [
             0,
@@ -6372,7 +6372,7 @@
     {
         "id": 242,
         "atypeId": 6,
-        "description": "ブラインドが使えるようになる\n効果：敵全体を暗闇状態にする。",
+        "description": "The ability to use Blind is acquired. Effect: Inflicts darkness status on all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6382,7 +6382,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ブラインド",
+        "name": "Blind",
         "note": "",
         "params": [
             0,
@@ -6399,7 +6399,7 @@
     {
         "id": 243,
         "atypeId": 6,
-        "description": "スリープが使えるようになる\n効果：敵全体を睡眠状態にする。",
+        "description": "You will be able to use Sleep. Effect: Puts all enemies to sleep.",
         "etypeId": 5,
         "traits": [
             {
@@ -6409,7 +6409,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "スリープ",
+        "name": "Sleep",
         "note": "",
         "params": [
             0,
@@ -6426,7 +6426,7 @@
     {
         "id": 244,
         "atypeId": 6,
-        "description": "ポイズンが使えるようになる\n効果：敵全体を毒状態にする。",
+        "description": "Poison becomes usable. Effect: Inflicts poison status on all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6436,7 +6436,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ポイズン",
+        "name": "Poison",
         "note": "",
         "params": [
             0,
@@ -6453,7 +6453,7 @@
     {
         "id": 245,
         "atypeId": 6,
-        "description": "グラビディが使えるようになる\n効果：敵全体の回避を下げる。",
+        "description": "Gravidi becomes usable. Effect: Decreases the evasion of all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6463,7 +6463,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "グラビディ",
+        "name": "Gravidi",
         "note": "",
         "params": [
             0,
@@ -6480,7 +6480,7 @@
     {
         "id": 246,
         "atypeId": 6,
-        "description": "イラエールが使えるようになる\n効果：敵全体を激昂状態にする。",
+        "description": "Irayle becomes usable. Effect: Enrages all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6490,7 +6490,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "イラエール",
+        "name": "Illusionary Ale",
         "note": "",
         "params": [
             0,
@@ -6507,7 +6507,7 @@
     {
         "id": 247,
         "atypeId": 6,
-        "description": "テンプテーションが使えるようになる\n効果：敵全体を魅了状態にする。",
+        "description": "You will be able to use Temptation. Effect: Charms all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6517,7 +6517,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "テンプテーション",
+        "name": "Temptation",
         "note": "",
         "params": [
             0,
@@ -6534,7 +6534,7 @@
     {
         "id": 248,
         "atypeId": 6,
-        "description": "ファシオンが使えるようになる\n効果：敵全体を混乱状態にする。",
+        "description": "You will be able to use Fashion. Effect: Confuses all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6544,7 +6544,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ファシオン",
+        "name": "Fashion",
         "note": "",
         "params": [
             0,
@@ -6561,7 +6561,7 @@
     {
         "id": 249,
         "atypeId": 6,
-        "description": "ブレイクファイアが使えるようになる\n効果：敵全体の火耐性を下げる。",
+        "description": "Break Fire becomes usable. Effect: Decreases the fire resistance of all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6571,7 +6571,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ブレイクファイア",
+        "name": "Breakfire",
         "note": "",
         "params": [
             0,
@@ -6588,7 +6588,7 @@
     {
         "id": 250,
         "atypeId": 6,
-        "description": "ブレイクウォータが使えるようになる\n効果：敵全体の水耐性を下げる。",
+        "description": "Breakwater becomes usable. Effect: Decreases the water resistance of all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6598,7 +6598,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ブレイクウォータ",
+        "name": "Breakwater",
         "note": "",
         "params": [
             0,
@@ -6615,7 +6615,7 @@
     {
         "id": 251,
         "atypeId": 6,
-        "description": "ブレイクアースが使えるようになる\n効果：敵全体の土耐性を下げる。",
+        "description": "Break Earth becomes usable. Effect: Decreases the earth resistance of all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6625,7 +6625,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ブレイクアース",
+        "name": "Break Earth",
         "note": "",
         "params": [
             0,
@@ -6642,7 +6642,7 @@
     {
         "id": 252,
         "atypeId": 6,
-        "description": "ブレイクウィンドが使えるようになる\n効果：敵全体の風耐性を下げる。",
+        "description": "You will be able to use Breakwind. Effect: Decreases the wind resistance of all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6652,7 +6652,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ブレイクウィンド",
+        "name": "Breakwind",
         "note": "",
         "params": [
             0,
@@ -6669,7 +6669,7 @@
     {
         "id": 253,
         "atypeId": 6,
-        "description": "ブレイクライトが使えるようになる\n効果：敵全体の光耐性を下げる。",
+        "description": "Break Light becomes usable. Effect: Decreases the light resistance of all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6679,7 +6679,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ブレイクライト",
+        "name": "Breaklight",
         "note": "",
         "params": [
             0,
@@ -6696,7 +6696,7 @@
     {
         "id": 254,
         "atypeId": 6,
-        "description": "ブレイクダークが使えるようになる\n効果：敵全体の闇耐性を下げる。",
+        "description": "Break Dark becomes usable. Effect: Decreases the darkness resistance of all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6706,7 +6706,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ブレイクダーク",
+        "name": "Break Dark",
         "note": "",
         "params": [
             0,
@@ -6885,7 +6885,7 @@
     {
         "id": 261,
         "atypeId": 6,
-        "description": "ファイアが使えるようになる\n効果：敵単体に火属性の魔力ダメージを与える",
+        "description": "Fire becomes usable. Effect: Deals magical fire damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -6895,7 +6895,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ファイア",
+        "name": "Fire",
         "note": "",
         "params": [
             0,
@@ -6912,7 +6912,7 @@
     {
         "id": 262,
         "atypeId": 6,
-        "description": "ファイアⅡが使えるようになる\n効果：敵単体に火属性の魔力ダメージを与える",
+        "description": "Fire II becomes usable. Effect: Deals magical fire damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -6922,7 +6922,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ファイアⅡ",
+        "name": "Fire II",
         "note": "",
         "params": [
             0,
@@ -6939,7 +6939,7 @@
     {
         "id": 263,
         "atypeId": 6,
-        "description": "ファイアクラスターが使えるようになる\n効果：ランダムで３回敵単体に火属性の魔力ダメージを与える。",
+        "description": "The Fire Cluster becomes usable. Effect: Randomly deals fire attribute magical damage to a\nsingle enemy 3 times.",
         "etypeId": 5,
         "traits": [
             {
@@ -6949,7 +6949,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ファイアクラスター",
+        "name": "Fire Cluster",
         "note": "",
         "params": [
             0,
@@ -6966,7 +6966,7 @@
     {
         "id": 264,
         "atypeId": 6,
-        "description": "フレイムが使えるようになる\n効果：敵全体に火属性の魔力ダメージを与える",
+        "description": "Flame becomes usable. Effect: Deals magical fire damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -6976,7 +6976,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "フレイム",
+        "name": "Flame",
         "note": "",
         "params": [
             0,
@@ -6993,7 +6993,7 @@
     {
         "id": 265,
         "atypeId": 6,
-        "description": "イグニスが使えるようになる\n効果：敵全体に火属性の魔力ダメージを与える",
+        "description": "Ignis becomes usable. Effect: Deals magical fire damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7003,7 +7003,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "イグニス",
+        "name": "Ignis",
         "note": "",
         "params": [
             0,
@@ -7020,7 +7020,7 @@
     {
         "id": 266,
         "atypeId": 6,
-        "description": "アイスが使えるようになる\n効果：敵単体に水属性の魔力ダメージを与える",
+        "description": "Ice becomes usable. Effect: Deals water attribute magical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7030,7 +7030,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "アイス",
+        "name": "Ice",
         "note": "",
         "params": [
             0,
@@ -7047,7 +7047,7 @@
     {
         "id": 267,
         "atypeId": 6,
-        "description": "アイスⅡが使えるようになる\n効果：敵単体に水属性の魔力ダメージを与える",
+        "description": "Ice II becomes usable. Effect: Deals water attribute magical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7057,7 +7057,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "アイスⅡ",
+        "name": "Ice II",
         "note": "",
         "params": [
             0,
@@ -7074,7 +7074,7 @@
     {
         "id": 268,
         "atypeId": 6,
-        "description": "アイスクラスターが使えるようになる\n効果：ランダムで３回敵単体に水属性の魔力ダメージを与える。",
+        "description": "Ice Cluster becomes usable. Effect: Randomly deals water attribute magical damage to a\nsingle enemy 3 times.",
         "etypeId": 5,
         "traits": [
             {
@@ -7084,7 +7084,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "アイスクラスター",
+        "name": "Ice Cluster",
         "note": "",
         "params": [
             0,
@@ -7101,7 +7101,7 @@
     {
         "id": 269,
         "atypeId": 6,
-        "description": "ブリザードが使えるようになる\n効果：敵全体に水属性の魔力ダメージを与える",
+        "description": "You will be able to use Blizzard. Effect: Deals magical water damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7111,7 +7111,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ブリザード",
+        "name": "Blizzard",
         "note": "",
         "params": [
             0,
@@ -7128,7 +7128,7 @@
     {
         "id": 270,
         "atypeId": 6,
-        "description": "アックアが使えるようになる\n効果：敵全体に水属性の魔力ダメージを与える",
+        "description": "Akua becomes able to use it. Effect: Deals magical water damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7138,7 +7138,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "アックア",
+        "name": "Aqua",
         "note": "",
         "params": [
             0,
@@ -7155,7 +7155,7 @@
     {
         "id": 271,
         "atypeId": 6,
-        "description": "ストーンが使えるようになる\n効果：敵単体に土属性の魔力ダメージを与える",
+        "description": " The effect: Deals magical damage of the earth attribute to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7165,7 +7165,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ストーン",
+        "name": "Stone",
         "note": "",
         "params": [
             0,
@@ -7182,7 +7182,7 @@
     {
         "id": 272,
         "atypeId": 6,
-        "description": "ストーンⅡが使えるようになる\n効果：敵単体に土属性の魔力ダメージを与える",
+        "description": "Stone II becomes usable. Effect: Deals earth attribute magical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7192,7 +7192,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ストーンⅡ",
+        "name": "Stone II",
         "note": "",
         "params": [
             0,
@@ -7209,7 +7209,7 @@
     {
         "id": 273,
         "atypeId": 6,
-        "description": "ストーンクラスターが使えるようになる\n効果：ランダムで３回敵単体に土属性の魔力ダメージを与える。",
+        "description": "You will be able to use Stone Cluster. Effect: Randomly deals 3 times Earth attribute\nmagic damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7219,7 +7219,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ストーンクラスター",
+        "name": "Stone Cluster",
         "note": "",
         "params": [
             0,
@@ -7236,7 +7236,7 @@
     {
         "id": 274,
         "atypeId": 6,
-        "description": "クエイクが使えるようになる\n効果：敵全体に土属性の魔力ダメージを与える",
+        "description": "Quake becomes usable. Effect: Deals earth attribute magical damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7246,7 +7246,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "クエイク",
+        "name": "Quake",
         "note": "",
         "params": [
             0,
@@ -7263,7 +7263,7 @@
     {
         "id": 275,
         "atypeId": 6,
-        "description": "テッラが使えるようになる\n効果：敵全体に土属性の魔力ダメージを与える",
+        "description": "Tera becomes usable. Effect: Deals magical damage of the earth attribute to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7273,7 +7273,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "テッラ",
+        "name": "Terra",
         "note": "",
         "params": [
             0,
@@ -7290,7 +7290,7 @@
     {
         "id": 276,
         "atypeId": 6,
-        "description": "ウィンドが使えるようになる\n効果：敵単体に風属性の魔力ダメージを与える",
+        "description": "You will be able to use Wind. Effect: Deals wind attribute magical damage to a single\nenemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7300,7 +7300,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウィンド",
+        "name": "Wind",
         "note": "",
         "params": [
             0,
@@ -7317,7 +7317,7 @@
     {
         "id": 277,
         "atypeId": 6,
-        "description": "ウィンドⅡが使えるようになる\n効果：敵単体に風属性の魔力ダメージを与える",
+        "description": "Wind II becomes usable. Effect: Deals wind attribute magical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7327,7 +7327,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウィンドⅡ",
+        "name": "Wind II",
         "note": "",
         "params": [
             0,
@@ -7344,7 +7344,7 @@
     {
         "id": 278,
         "atypeId": 6,
-        "description": "ウィンドクラスターが使えるようになる\n効果：ランダムで３回敵単体に風属性の魔力ダメージを与える。",
+        "description": "The Wind Cluster becomes usable. Effect: Randomly deals wind attribute magical damage to a\nsingle enemy 3 times.",
         "etypeId": 5,
         "traits": [
             {
@@ -7354,7 +7354,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウィンドクラスター",
+        "name": "Wind Cluster",
         "note": "",
         "params": [
             0,
@@ -7371,7 +7371,7 @@
     {
         "id": 279,
         "atypeId": 6,
-        "description": "ストームが使えるようになる\n効果：敵全体に風属性の魔力ダメージを与える",
+        "description": "Storm becomes usable. Effect: Deals wind attribute magical damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7381,7 +7381,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ストーム",
+        "name": "Storm",
         "note": "",
         "params": [
             0,
@@ -7398,7 +7398,7 @@
     {
         "id": 280,
         "atypeId": 6,
-        "description": "ヴェントスが使えるようになる\n効果：敵全体に風属性の魔力ダメージを与える",
+        "description": "Vento becomes usable. Effect: Deals wind attribute magical damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7408,7 +7408,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ヴェントス",
+        "name": "Ventos",
         "note": "",
         "params": [
             0,
@@ -7425,7 +7425,7 @@
     {
         "id": 281,
         "atypeId": 6,
-        "description": "シャインが使えるようになる\n効果：敵単体に光属性の魔力ダメージを与える",
+        "description": "Shine becomes usable. Effect: Deals light attribute magical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7435,7 +7435,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "シャイン",
+        "name": "Shine",
         "note": "",
         "params": [
             0,
@@ -7452,7 +7452,7 @@
     {
         "id": 282,
         "atypeId": 6,
-        "description": "シャインⅡが使えるようになる\n効果：敵単体に光属性の魔力ダメージを与える",
+        "description": "Shine II becomes usable. Effect: Deals light attribute magical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7462,7 +7462,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "シャインⅡ",
+        "name": "Shine II",
         "note": "",
         "params": [
             0,
@@ -7479,7 +7479,7 @@
     {
         "id": 283,
         "atypeId": 6,
-        "description": "シャインクラスターが使えるようになる\n効果：ランダムで３回敵単体に光属性の魔力ダメージを与える。",
+        "description": "The Shine Cluster becomes usable. Effect: Randomly deals light attribute magical damage to\na single enemy 3 times.",
         "etypeId": 5,
         "traits": [
             {
@@ -7489,7 +7489,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "シャインクラスター",
+        "name": "Shine Cluster",
         "note": "",
         "params": [
             0,
@@ -7506,7 +7506,7 @@
     {
         "id": 284,
         "atypeId": 6,
-        "description": "セイントが使えるようになる\n効果：敵全体に光属性の魔力ダメージを与える",
+        "description": "The Saint becomes able to use it. Effect: Deals magical light damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7516,7 +7516,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "セイント",
+        "name": "Saint",
         "note": "",
         "params": [
             0,
@@ -7533,7 +7533,7 @@
     {
         "id": 285,
         "atypeId": 6,
-        "description": "ルクスが使えるようになる\n効果：敵全体に光属性の魔力ダメージを与える",
+        "description": "Lux becomes usable. Effect: Deals magical light damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7543,7 +7543,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ルクス",
+        "name": "Lux",
         "note": "",
         "params": [
             0,
@@ -7560,7 +7560,7 @@
     {
         "id": 286,
         "atypeId": 6,
-        "description": "ダークが使えるようになる\n効果：敵単体に闇属性の魔力ダメージを与える",
+        "description": "Dark becomes usable. Effect: Deals dark attribute magical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7570,7 +7570,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ダーク",
+        "name": "Dark",
         "note": "",
         "params": [
             0,
@@ -7587,7 +7587,7 @@
     {
         "id": 287,
         "atypeId": 6,
-        "description": "ダークⅡが使えるようになる\n効果：敵単体に闇属性の魔力ダメージを与える",
+        "description": "Dark II becomes usable. Effect: Deals dark attribute magical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7597,7 +7597,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ダークⅡ",
+        "name": "Dark II",
         "note": "",
         "params": [
             0,
@@ -7614,7 +7614,7 @@
     {
         "id": 288,
         "atypeId": 6,
-        "description": "ダーククラスターが使えるようになる\n効果：ランダムで３回敵単体に闇属性の魔力ダメージを与える。",
+        "description": "The Dark Cluster becomes usable. Effect: Randomly deals dark attribute magical damage to a\nsingle enemy 3 times.",
         "etypeId": 5,
         "traits": [
             {
@@ -7624,7 +7624,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ダーククラスター",
+        "name": "Dark Cluster",
         "note": "",
         "params": [
             0,
@@ -7641,7 +7641,7 @@
     {
         "id": 289,
         "atypeId": 6,
-        "description": "ケイオスが使えるようになる\n効果：敵全体に闇属性の魔力ダメージを与える",
+        "description": "Chaos becomes usable. Effect: Deals dark attribute magical damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7651,7 +7651,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ケイオス",
+        "name": "Chaos",
         "note": "",
         "params": [
             0,
@@ -7668,7 +7668,7 @@
     {
         "id": 290,
         "atypeId": 6,
-        "description": "テネブラエが使えるようになる\n効果：敵全体に闇属性の魔力ダメージを与える",
+        "description": "Tenebrae becomes usable. Effect: Deals dark attribute magical damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -7678,7 +7678,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "テネブラエ",
+        "name": "Tenebrae",
         "note": "",
         "params": [
             0,
@@ -7965,7 +7965,7 @@
     {
         "id": 301,
         "atypeId": 6,
-        "description": "ハードアタックが使えるようになる\n効果：敵単体に物理ダメージを与える。",
+        "description": "You will be able to use Hard Attack. Effect: Deals physical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -7975,7 +7975,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ハードアタック",
+        "name": "Hard Attack",
         "note": "",
         "params": [
             0,
@@ -7992,7 +7992,7 @@
     {
         "id": 302,
         "atypeId": 6,
-        "description": "ヘルクレインが使えるようになる\n効果：敵単体に物理ダメージを与える。",
+        "description": "Hellcrane becomes usable. Effect: Deals physical damage to a single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -8002,7 +8002,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ヘルクレイン",
+        "name": "Hellcrane",
         "note": "",
         "params": [
             0,
@@ -8019,7 +8019,7 @@
     {
         "id": 303,
         "atypeId": 6,
-        "description": "ワイドアタックが使えるようになる\n効果：敵全体に物理ダメージを与える。",
+        "description": "You will be able to use Wide Attack. Effect: Deals physical damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -8029,7 +8029,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ワイドアタック",
+        "name": "Wide Attack",
         "note": "",
         "params": [
             0,
@@ -8046,7 +8046,7 @@
     {
         "id": 304,
         "atypeId": 6,
-        "description": "グロリアスが使えるようになる\n効果：敵全体に物理ダメージを与える。",
+        "description": "Gloria will become usable. Effect: Deals physical damage to all enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -8056,7 +8056,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "グロリアス",
+        "name": "Glorious",
         "note": "",
         "params": [
             0,
@@ -8073,7 +8073,7 @@
     {
         "id": 305,
         "atypeId": 6,
-        "description": "デュアルアタックが使えるようになる\n効果：敵単体に２回物理ダメージを与える。",
+        "description": "You will be able to use Dual Attack. Effect: Deals physical damage twice to a single\nenemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -8083,7 +8083,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "デュアルアタック",
+        "name": "Dual Attack",
         "note": "",
         "params": [
             0,
@@ -8100,7 +8100,7 @@
     {
         "id": 306,
         "atypeId": 6,
-        "description": "ラークラッシュが使えるようになる\n効果：敵ランダムに４回物理ダメージを与える。",
+        "description": "Lark Crush becomes usable. Effect: Deals random physical damage 4 times to enemies.",
         "etypeId": 5,
         "traits": [
             {
@@ -8110,7 +8110,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ラークラッシュ",
+        "name": "Lark Crash",
         "note": "",
         "params": [
             0,
@@ -8127,7 +8127,7 @@
     {
         "id": 307,
         "atypeId": 6,
-        "description": "ファイアアタックが使えるようになる\n効果：敵単体に火属性の物理ダメージを与える。",
+        "description": "You will be able to use Fire Attack. Effect: Deals physical damage of fire attribute to a\nsingle enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -8137,7 +8137,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ファイアアタック",
+        "name": "Fire Attack",
         "note": "",
         "params": [
             0,
@@ -8154,7 +8154,7 @@
     {
         "id": 308,
         "atypeId": 6,
-        "description": "ウォータアタックが使えるようになる\n効果：敵単体に水属性の物理ダメージを与える。",
+        "description": "You will be able to use Water Attack. Effect: Deals physical water damage to a single\nenemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -8164,7 +8164,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウォータアタック",
+        "name": "Water Attack",
         "note": "",
         "params": [
             0,
@@ -8181,7 +8181,7 @@
     {
         "id": 309,
         "atypeId": 6,
-        "description": "アースアタックが使えるようになる\n効果：敵単体に土属性の物理ダメージを与える。",
+        "description": "You will be able to use Earth Attack. Effect: Deals single-target physical damage of the\nEarth attribute to the enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -8191,7 +8191,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "アースアタック",
+        "name": "Earth Attack",
         "note": "",
         "params": [
             0,
@@ -8208,7 +8208,7 @@
     {
         "id": 310,
         "atypeId": 6,
-        "description": "ウィンドアタックが使えるようになる\n効果：敵単体に風属性の物理ダメージを与える。",
+        "description": "You will be able to use Wind Attack. Effect: Deals wind attribute physical damage to a\nsingle enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -8218,7 +8218,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウィンドアタック",
+        "name": "Wind Attack",
         "note": "",
         "params": [
             0,
@@ -8235,7 +8235,7 @@
     {
         "id": 311,
         "atypeId": 6,
-        "description": "ライトアタックが使えるようになる\n効果：敵単体に光属性の物理ダメージを与える。",
+        "description": "You will be able to use Light Attack. Effect: Deals physical damage of light attribute to\na single enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -8245,7 +8245,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ライトアタック",
+        "name": "Light Attack",
         "note": "",
         "params": [
             0,
@@ -8262,7 +8262,7 @@
     {
         "id": 312,
         "atypeId": 6,
-        "description": "ダークアタックが使えるようになる\n効果：敵単体に闇属性の物理ダメージを与える。",
+        "description": "You will be able to use Dark Attack. Effect: Deals dark attribute physical damage to a\nsingle enemy.",
         "etypeId": 5,
         "traits": [
             {
@@ -8272,7 +8272,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ダークアタック",
+        "name": "Dark Attack",
         "note": "",
         "params": [
             0,
@@ -8289,7 +8289,7 @@
     {
         "id": 313,
         "atypeId": 6,
-        "description": "ドレインアタックが使えるようになる\n敵単体に物理ダメージを与え、一部ダメージを吸収する。",
+        "description": "You will be able to use Drain Attack. It deals physical damage to a single enemy and\nabsorbs some of the damage.",
         "etypeId": 5,
         "traits": [
             {
@@ -8299,7 +8299,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ドレインアタック",
+        "name": "Drain Attack",
         "note": "",
         "params": [
             0,
