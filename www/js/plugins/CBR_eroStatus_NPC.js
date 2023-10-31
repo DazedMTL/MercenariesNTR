@@ -493,7 +493,7 @@ Window_EroStaNPC.prototype.update = function () {//毎回image描写してもい
 							}
 						}
 					}
-					this.contents.fontSize = 20;
+					this.contents.fontSize = 18;
 					this.contents.context.font = this.contents._makeFontNameText();
 					dataWAry[k] = this.contents.context.measureText(strAry[k]).width;//何の為に+4するのか忘れた
 					allW += dataWAry[k];
@@ -545,7 +545,7 @@ Window_EroStaNPC.prototype.update = function () {//毎回image描写してもい
 
 				//各文字のサイズの描写
 				for (var k = 0, len2 = strAry.length; k < len2; k++) {
-					this.contents.fontSize = 20;
+					this.contents.fontSize = 18;
 					this.contents.context.font = this.contents._makeFontNameText();
 					//bottom→下揃え原点の上　top→上揃え原点の下　center→原点
 					var trueY = y;
