@@ -1332,7 +1332,7 @@ var KMS = KMS || {};
                 var window = new Window_MapActiveMessage();
                 window.setBalloonSprite(balloon);
                 window.display(
-                    message.text,
+                    message.text.replace(/_/g, ' '),
                     message.event,
                     character,
                     message.isForced);
