@@ -1019,7 +1019,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Gender information of the characters is displayed.",
+        "description": "Sexual information of the characters is displayed.",
         "effects": [
             {
                 "code": 44,
@@ -1031,7 +1031,7 @@
         "hitType": 0,
         "iconIndex": 229,
         "itypeId": 2,
-        "name": "Book of Lustful Demons",
+        "name": "Book of Succubus",
         "note": "",
         "occasion": 2,
         "price": 0,
