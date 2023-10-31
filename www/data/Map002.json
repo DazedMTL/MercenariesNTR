@@ -3492,7 +3492,7 @@
                             "indent": 1,
                             "parameters": [
                                 12,
-                                "$gameVariables.value(3)[83] == '仕事仲間'"
+                                "$gameVariables.value(3)[83] == 'Coworker')"
                             ]
                         },
                         {
@@ -7781,7 +7781,7 @@
                             "indent": 2,
                             "parameters": [
                                 12,
-                                "$gameVariables.value(5)[82] == '仕事仲間'"
+                                "$gameVariables.value(5)[82] == 'Coworker')"
                             ]
                         },
                         {
@@ -8301,7 +8301,7 @@
                             "indent": 2,
                             "parameters": [
                                 12,
-                                "$gameVariables.value(6)[83] == '仕事仲間'"
+                                "$gameVariables.value(6)[83] == 'Coworker')"
                             ]
                         },
                         {
