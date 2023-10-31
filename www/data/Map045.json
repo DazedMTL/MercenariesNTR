@@ -11607,7 +11607,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "$gameVariables._data[1][114] = '教会'//現在地"
+                                "$gameVariables._data[1][114] = 'Church'//現在地"
                             ]
                         },
                         {
@@ -13025,7 +13025,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "$gameVariables._data[1][114] = '教会'//現在地"
+                                "$gameVariables._data[1][114] = 'Church'//現在地"
                             ]
                         },
                         {
@@ -21773,14 +21773,14 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "$gameVariables._data[5][114] = '教会'//現在地"
+                                "$gameVariables._data[5][114] = 'Church'//現在地"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "$gameVariables._data[5][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[5][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {

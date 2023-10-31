@@ -9186,7 +9186,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[3][3] = '積極的'//性癖 普通or積極的or淫乱"
+                                "$gameVariables._data[3][3] = 'Active'//性癖 普通orActiveor淫乱"
                             ]
                         },
                         {
@@ -14315,7 +14315,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][82] = 'ご主人様？'//関係性２"
+                                "$gameVariables._data[$gameVariables.value(111)][82] = 'Master?'//関係性２"
                             ]
                         },
                         {
@@ -19664,7 +19664,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][84] = 'セフレ'//関係性４"
+                                "$gameVariables._data[$gameVariables.value(111)][84] = 'Friends with Benefits'//関係性４"
                             ]
                         },
                         {
@@ -20372,7 +20372,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][81] = '恋人'//関係性４"
+                                "$gameVariables._data[$gameVariables.value(111)][81] = 'Lover'//関係性４"
                             ]
                         },
                         {
@@ -21180,7 +21180,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[6][3] = '積極的'//性癖 普通or積極的or淫乱"
+                                "$gameVariables._data[6][3] = 'Active'//性癖 普通orActiveor淫乱"
                             ]
                         },
                         {
@@ -21901,7 +21901,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][83] = '友人'//関係性１"
+                                "$gameVariables._data[$gameVariables.value(111)][83] = 'Friend'//関係性１"
                             ]
                         },
                         {
@@ -23429,7 +23429,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[6][3] = '淫乱'//性癖 普通or積極的or淫乱"
+                                "$gameVariables._data[6][3] = 'Lewdness'//性癖 普通or積極的orLewdness"
                             ]
                         },
                         {
@@ -28140,7 +28140,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][84] = '疑似夫'//関係性１"
+                                "$gameVariables._data[$gameVariables.value(111)][84] = 'Pseudo Husband'//関係性１"
                             ]
                         },
                         {
@@ -38428,7 +38428,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {
@@ -46061,7 +46061,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][82] = '悪い子'//関係性４"
+                                "$gameVariables._data[$gameVariables.value(111)][82] = 'Bad child'//関係性４"
                             ]
                         },
                         {
@@ -47696,7 +47696,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][84] = 'セフレ'//関係性１"
+                                "$gameVariables._data[$gameVariables.value(111)][84] = 'Friends with Benefits'//関係性１"
                             ]
                         },
                         {

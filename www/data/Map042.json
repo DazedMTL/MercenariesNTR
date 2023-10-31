@@ -3429,14 +3429,14 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[3][114] = '兵舎地下'//現在地"
+                                "$gameVariables._data[3][114] = 'Barracks Basement'//現在地"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[3][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[3][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -3761,14 +3761,14 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "$gameVariables._data[3][114] = '兵舎地下'//現在地"
+                                "$gameVariables._data[3][114] = 'Barracks Basement'//現在地"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "$gameVariables._data[3][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[3][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {

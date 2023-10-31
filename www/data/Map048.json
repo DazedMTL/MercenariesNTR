@@ -4874,14 +4874,14 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][114] = 'アパート'//現在地"
+                                "$gameVariables._data[1][114] = 'Apartment'//現在地"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -7399,14 +7399,14 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][114] = 'アパート'//現在地"
+                                "$gameVariables._data[1][114] = 'Apartment'//現在地"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {

@@ -3142,7 +3142,7 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][114] = '連れ込み宿'//現在地"
+                                "$gameVariables._data[1][114] = 'Private Lodging'//現在地"
                             ]
                         },
                         {
@@ -3951,7 +3951,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "$gameVariables._data[3][114] = '連れ込み宿'//現在地"
+                                "$gameVariables._data[3][114] = 'Private Lodging'//現在地"
                             ]
                         },
                         {
@@ -4237,7 +4237,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "$gameVariables._data[5][114] = '連れ込み宿'//現在地"
+                                "$gameVariables._data[5][114] = 'Private Lodging'//現在地"
                             ]
                         },
                         {
@@ -4523,7 +4523,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "$gameVariables._data[6][114] = '連れ込み宿'//現在地"
+                                "$gameVariables._data[6][114] = 'Private Lodging'//現在地"
                             ]
                         },
                         {

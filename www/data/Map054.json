@@ -6450,7 +6450,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[2][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[2][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -9321,7 +9321,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[2][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[2][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {
@@ -16551,7 +16551,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -22514,7 +22514,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -56912,7 +56912,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -66383,7 +66383,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameVariables._data[6][114] = '同行中'//現在地"
+                                "$gameVariables._data[6][114] = 'Traveling Together'//現在地"
                             ]
                         },
                         {
@@ -69732,7 +69732,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameVariables._data[5][114] = '詰所地下'//現在地"
+                                "$gameVariables._data[5][114] = 'Underground Storage Room'//現在地"
                             ]
                         },
                         {

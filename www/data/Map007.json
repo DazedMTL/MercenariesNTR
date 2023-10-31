@@ -25622,7 +25622,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {
@@ -25648,7 +25648,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameVariables._data[3][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[3][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {
@@ -26106,7 +26106,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {
@@ -26132,7 +26132,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameVariables._data[3][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[3][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {
@@ -53716,7 +53716,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "$gameVariables._data[3][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[3][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -54567,7 +54567,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -56222,14 +56222,14 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][114] = '屋外'//現在地"
+                                "$gameVariables._data[1][114] = 'Outdoors'//現在地"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
@@ -57925,14 +57925,14 @@
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][114] = '屋外'//現在地"
+                                "$gameVariables._data[1][114] = 'Outdoors'//現在地"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 3,
                             "parameters": [
-                                "$gameVariables._data[1][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[1][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {

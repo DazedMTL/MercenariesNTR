@@ -10952,7 +10952,7 @@
                             "code": 355,
                             "indent": 4,
                             "parameters": [
-                                "$gameVariables._data[1][114] = '教会'//現在地"
+                                "$gameVariables._data[1][114] = 'Church'//現在地"
                             ]
                         },
                         {
@@ -12370,7 +12370,7 @@
                             "code": 355,
                             "indent": 5,
                             "parameters": [
-                                "$gameVariables._data[1][114] = '教会'//現在地"
+                                "$gameVariables._data[1][114] = 'Church'//現在地"
                             ]
                         },
                         {

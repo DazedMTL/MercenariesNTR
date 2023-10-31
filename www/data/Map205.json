@@ -10714,7 +10714,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(506)][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[$gameVariables.value(506)][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {

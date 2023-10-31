@@ -2566,7 +2566,7 @@
                             "code": 355,
                             "indent": 2,
                             "parameters": [
-                                "$gameVariables._data[6][114] = '盛り場'//現在地"
+                                "$gameVariables._data[6][114] = 'Entertainment District'//現在地"
                             ]
                         },
                         {

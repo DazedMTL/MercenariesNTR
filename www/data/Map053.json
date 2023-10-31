@@ -4165,7 +4165,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][83] = '超ファン'//関係性４"
+                                "$gameVariables._data[$gameVariables.value(111)][83] = 'Super Fan'//関係性４"
                             ]
                         },
                         {

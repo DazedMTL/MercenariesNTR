@@ -2388,7 +2388,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameVariables._data[3][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[3][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {
@@ -3446,7 +3446,7 @@
                             "code": 355,
                             "indent": 1,
                             "parameters": [
-                                "$gameVariables._data[3][76] = '服'//服装(服or裸)"
+                                "$gameVariables._data[3][76] = 'Clothes'//Clothes装(Clothesor裸)"
                             ]
                         },
                         {

@@ -26416,7 +26416,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[$gameVariables.value(111)][81] = 'セフレ'//関係性１"
+                                "$gameVariables._data[$gameVariables.value(111)][81] = 'Friends with Benefits'//関係性１"
                             ]
                         },
                         {
@@ -35063,7 +35063,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameVariables._data[3][76] = '裸'//服装(服or裸)"
+                                "$gameVariables._data[3][76] = 'Naked'//服装(服orNaked)"
                             ]
                         },
                         {
